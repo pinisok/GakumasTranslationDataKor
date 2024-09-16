@@ -31,6 +31,6 @@ jobs:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
           automatic_release_tag: ${{ steps.vars.outputs.version }}
           prerelease: false
-          title: "Update translation"
+          title: ${{ github.event.workflow_run.head_commit.message }}
           files: |
             ${{ github.event.repository.name }}-*
