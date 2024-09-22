@@ -2797,7 +2797,7 @@
     "produce.tower.clear": "{0}위 이상에서 합격",
     "produce.upgrade.confirm": "<color=#u:Positive>{0}</color>장의 스킬 카드를 강화하시겠습니까?",
     "produce.upgrade.description": "이 스킬 카드를 강화하시겠습니까?",
-    "produce.upgrade.message.result": "{0}를 강화했습니다.",
+    "produce.upgrade.message.result": "{0}을(를) 강화했습니다",
     "produce.upgrade.result": "{0}장의 스킬 카드를 강화했습니다",
     "produce.upgrade.select": "강화할 스킬 카드를",
     "produce.upgrade.select.title": "강화",
