@@ -2306,7 +2306,7 @@
     "produce.deck.select": "덱에 추가할 스킬 카드를",
     "produce.deck_first.select": "덱의 가장 위에 놓을 스킬 카드를",
     "produce.deck_last.select": "덱의 가장 아래에 놓을 스킬 카드를",
-    "produce.delete.message.result": "을 삭제했습니다",
+    "produce.delete.message.result": "을(를) 삭제했습니다",
     "produce.drink": "P 드링크",
     "produce.drink.cannot_use.alreadyconcentration": "지표는 이미 집중 상태입니다",
     "produce.drink.cannot_use.alreadyfullpower": "지표는 이미 전력 상태입니다",
