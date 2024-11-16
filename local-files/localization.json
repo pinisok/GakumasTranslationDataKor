@@ -4610,5 +4610,9 @@
     "produce.card.phase_type.produce_start": "시작시 획득",
     "memory.inherit.select_memory.support_disable.toast": "지원 이벤트에서 획득한 카드는 합성할 수 없습니다.",
     "memory.inherit.select_memory.warning": "※합성에 사용한 메모리는 없어집니다",
-    "common.or": "OR"
+    "common.or": "OR",
+    "produce.lesson.grow_effect_short": "성장",
+    "produce.lesson.grow_effect.description_swap": "시험 및 스테이지가 끝날 때까지 스킬 카드의 성능을 변화시킨다",
+    "produce.lesson.log.detail.card_grow": "「{0}」을 성장",
+    "produce.lesson.grow_effect.description": "레슨이 끝날 때까지 스킬 카드의 성능을 변화시킨다"
 }
