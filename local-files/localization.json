@@ -2717,7 +2717,7 @@
     "produce_prepare.support_card_deck_edit.change_execute": "교체하기",
     "produce_prepare.support_card_deck_edit.empty_reset": "편성된 서포트 카드가 없습니다.",
     "produce_prepare.support_card_deck_edit.title": "서포트 편성",
-    "produce_prepare.support_card_deck_name": "서포트 카드 편성 {0}",
+    "produce_prepare.support_card_deck_name": "Memory {0}",
     "produce_prepare.support_card_deck_name_edit_sheet.description": "서포트 카드 배치의 이름을 입력해주세요.",
     "produce_prepare.support_card_deck_name_edit_sheet.title": "서포트 카드 배치",
     "produce_prepare.support_select_overlay.effect_tab.button.produce_effect": "스킬/이벤트",
