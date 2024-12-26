@@ -3190,7 +3190,7 @@
     "produce.reference_detail.title": "{0}상세",
     "produce.refresh": "휴식",
     "produce.refresh.button": "휴식",
-    "produce.refresh.confirm": "휴식으로 체력을 회복하시겠습니까?\n(체력이 <color=#u:Positive>{0}</color> 회복되고, <color=#u:Negative>1주가 경과합니다))",
+    "produce.refresh.confirm": "휴식으로 체력을 회복하시겠습니까?\n(체력이 <color=#u:Positive>{0}</color> 회복되고, <color=#u:Negative>1주가 경과</color>합니다)",
     "produce.refresh.stamina.max": "체력은 최대입니다",
     "produce.refresh.title": "휴식 확인",
     "produce.remove.result": "{0}개의 스킬 카드를 삭제했습니다.",
