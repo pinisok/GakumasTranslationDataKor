@@ -4727,7 +4727,7 @@
     "meishi.timeline_reset_sheet.title": "움직임 초기화 확인",
     "produce.schedule.step_exam_mid1_audition2": "1차 오디션",
     "produce.skip_refresh.title": "스케줄 선택 불가",
-    "produce.schedule.step_self_visual.short": "Vi. 자율 수업",
+    "produce.schedule.step_self_visual.short": "Vi. 자율 레슨",
     "produce.customize.upgrade.return": "목록으로 돌아가기",
     "produce.customize.upgrade.target_count": "커스터마이즈 가능 스킬 카드 다음 {0} 장",
     "produce.audition.result.continue_confirm_sheet.nia.description": "재도전 티켓을 소비하고 오디션에 재도전하시겠습니까? 스킬 카드를 뽑는 순서와 라이벌의 행동이 재추첨됩니다.\n 다시 도전할 오디션을 선택하세요.",
@@ -4829,7 +4829,7 @@
     "produce.nia.audition_name.mid2normal": "POP 페어",
     "produce.schedule.category.school_activities": "학원 활동 : ",
     "produce.business.folder.reward_icon.hover.produce_card": "스킬 카드를 선택하여 획득",
-    "produce.common.lesson_bonus": "수업 보너스",
+    "produce.common.lesson_bonus": "레슨 보너스",
     "common.network.error.purchase_limit.description": "구매 한도에 도달했기 때문에 구매를 완료할 수 없습니다.",
     "produce.log.detail.title.vote_count_bonus_trigger": "팬 투표 수 보너스 발동"
 }
