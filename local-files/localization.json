@@ -878,7 +878,7 @@
     "exchange.setting.daily_exchange_default_max.cancel": "변경하지 않음",
     "exchange.setting.daily_exchange_default_max.description": "일일 교환소의 기본 교환 횟수를 교환할 수 있는\n 최대값으로 설정할 수 있습니다.\n 기본 교환 횟수를 최대값으로 설정하시겠습니까?",
     "exchange.setting.daily_exchange_default_max.execute": "최대로 설정",
-    "exchange.setting.daily_exchange_default_max.title": "",
+    "exchange.setting.daily_exchange_default_max.title": "기본 교환 횟수 변경",
     "exchange.sold.out": "교환 완료",
     "exchange.ticket_confirm.attention.idol_card_to_piece": "획득한 프로듀스 아이돌입니다.\n조각으로 변환하여 획득합니다.",
     "exchange.ticket_confirm.description": "{0}을 소비하여,\n다음 {1}로 교체하시겠습니까?",
