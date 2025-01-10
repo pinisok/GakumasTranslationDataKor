@@ -1,0 +1,199 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "type"
+    ]
+  },
+  "data": [
+    {
+      "type": "ProduceCardGrowEffectType_LessonAdd",
+      "name": "",
+      "produceCardCustomizeTemplate": "파라미터 +"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_LessonReduce",
+      "name": "",
+      "produceCardCustomizeTemplate": "파라미터 -"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_LessonCountAdd",
+      "name": "",
+      "produceCardCustomizeTemplate": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_LessonCountReduce",
+      "name": "",
+      "produceCardCustomizeTemplate": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_BlockAdd",
+      "name": "",
+      "produceCardCustomizeTemplate": "원기+"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_BlockReduce",
+      "name": "",
+      "produceCardCustomizeTemplate": "원기-"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_FullPowerPointAdd",
+      "name": "",
+      "produceCardCustomizeTemplate": "전력치+"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_FullPowerPointReduce",
+      "name": "",
+      "produceCardCustomizeTemplate": "전력치-"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostBuffReduce",
+      "name": "",
+      "produceCardCustomizeTemplate": "강화 상태 비용 값-"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostBuffAdd",
+      "name": "",
+      "produceCardCustomizeTemplate": "강화 상태 비용 값+"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostReduce",
+      "name": "",
+      "produceCardCustomizeTemplate": "비용 값-"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostAdd",
+      "name": "",
+      "produceCardCustomizeTemplate": "비용 값+"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostPenetrateReduce",
+      "name": "",
+      "produceCardCustomizeTemplate": "체력 소비 비용 값-"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostPenetrateAdd",
+      "name": "",
+      "produceCardCustomizeTemplate": "체력 소비 비용 값+"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_ParameterBuffTurnAdd",
+      "name": "",
+      "produceCardCustomizeTemplate": "호조 +"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_ParameterBuffTurnReduce",
+      "name": "",
+      "produceCardCustomizeTemplate": "호조 -"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_LessonBuffAdd",
+      "name": "",
+      "produceCardCustomizeTemplate": "집중+"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_LessonBuffReduce",
+      "name": "",
+      "produceCardCustomizeTemplate": "집중-"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_ReviewAdd",
+      "name": "",
+      "produceCardCustomizeTemplate": "호인상+"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_ReviewReduce",
+      "name": "",
+      "produceCardCustomizeTemplate": "호인상-"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_AggressiveAdd",
+      "name": "",
+      "produceCardCustomizeTemplate": "의욕+"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_AggressiveReduce",
+      "name": "",
+      "produceCardCustomizeTemplate": "의욕-"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CardDrawAdd",
+      "name": "",
+      "produceCardCustomizeTemplate": "카드 빼기+"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CardDrawReduce",
+      "name": "",
+      "produceCardCustomizeTemplate": "카드 빼기-"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_ParameterBuffMultiplePerTurnAdd",
+      "name": "",
+      "produceCardCustomizeTemplate": "절호조+"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_ParameterBuffMultiplePerTurnReduce",
+      "name": "",
+      "produceCardCustomizeTemplate": "절호조-"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_StaminaConsumptionDownTurnAdd",
+      "name": "",
+      "produceCardCustomizeTemplate": "소비 체력 경감 +"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_StaminaConsumptionDownTurnReduce",
+      "name": "",
+      "produceCardCustomizeTemplate": "소비 체력 경감 -"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_StaminaConsumptionAddTurnAdd",
+      "name": "",
+      "produceCardCustomizeTemplate": "소비 체력 증가 +"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_StaminaConsumptionAddTurnReduce",
+      "name": "",
+      "produceCardCustomizeTemplate": "소비 체력 증가 -"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_EffectAdd",
+      "name": "",
+      "produceCardCustomizeTemplate": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_EffectDelete",
+      "name": "",
+      "produceCardCustomizeTemplate": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_EffectChange",
+      "name": "",
+      "produceCardCustomizeTemplate": "효과 변경"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CardStatusEnchantChange",
+      "name": "",
+      "produceCardCustomizeTemplate": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_PlayTriggerChange",
+      "name": "",
+      "produceCardCustomizeTemplate": "조건 변경"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_PlayEffectTriggerChange",
+      "name": "",
+      "produceCardCustomizeTemplate": "조건 변경"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_PlayMovePositionTypeChange",
+      "name": "",
+      "produceCardCustomizeTemplate": "목적지 변경"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_InitialAdd",
+      "name": "",
+      "produceCardCustomizeTemplate": "시작시 패에 들어간다"
+    }
+  ]
+}

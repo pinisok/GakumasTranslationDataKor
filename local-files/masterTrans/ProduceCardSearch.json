@@ -1,0 +1,2244 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id",
+      "descriptions.type",
+      "descriptions.targetId",
+      "descriptions.examEffectType",
+      "descriptions.produceCardCategory",
+      "produceDescriptions.produceDescriptionType",
+      "produceDescriptions.examDescriptionType",
+      "produceDescriptions.examEffectType",
+      "produceDescriptions.produceCardCategory",
+      "produceDescriptions.produceCardMovePositionType",
+      "produceDescriptions.produceStepType",
+      "produceDescriptions.targetId"
+    ]
+  },
+  "data": [
+    {
+      "id": "p_card_search-active_skill-deck_all",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceCardCategory",
+          "targetId": "Label_ActiveSkillCard",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_ActiveSkill",
+          "text": "액티브 스킬 카드"
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_ActiveSkill",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ActiveSkillCard",
+          "text": "액티브 스킬 카드"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-active_skill-first-deck-3",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "덱 위에서 3장의 액티브 스킬 카드 "
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "덱 위에서 3장의 액티브 스킬 카드 "
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-active_skill-hand",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": ""
+        },
+        {
+          "type": "ProduceDescriptionType_ProduceCardCategory",
+          "targetId": "Label_ActiveSkillCard",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_ActiveSkill",
+          "text": "액티브 스킬 카드"
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_ActiveSkill",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ActiveSkillCard",
+          "text": "액티브 스킬 카드"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-active_skill-lost",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": ""
+        },
+        {
+          "type": "ProduceDescriptionType_ProduceCardCategory",
+          "targetId": "Label_ActiveSkillCard",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_ActiveSkill",
+          "text": "액티브 스킬 카드"
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_ActiveSkill",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ActiveSkillCard",
+          "text": "액티브 스킬 카드"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-active_skill-playing",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceCardCategory",
+          "targetId": "Label_ActiveSkillCard",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_ActiveSkill",
+          "text": "액티브 스킬 카드"
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_ActiveSkill",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ActiveSkillCard",
+          "text": "액티브 스킬 카드"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-deck",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "덱에 있는 스킬 카드"
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "덱에 있는 스킬 카드"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-deck_all",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "스킬 카드"
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "스킬 카드"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-deck_all-1-p_card-00-act-0_001",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceCard",
+          "targetId": "p_card-00-act-0_001",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "어필의 기본"
+        },
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "1장 "
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-00-act-0_001",
+          "text": "어필의 기본"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "1장 "
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-deck_all-1-p_card-00-men-0_003",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceCard",
+          "targetId": "p_card-00-men-0_003",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "표현의 기본"
+        },
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "1장 "
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-00-men-0_003",
+          "text": "표현의 기본"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "1장 "
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-deck_all-effect_group-visible-exam_block-000",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceExamEffectType",
+          "targetId": "Label_ExamBlock",
+          "examEffectType": "ProduceExamEffectType_ExamBlock",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "원기"
+        },
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": ""
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamBlock",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamBlock",
+          "text": "원기"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-deck_all-effect_group-visible-exam_card_play_aggressive-000",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceExamEffectType",
+          "targetId": "Label_ExamCardPlayAggressive_Produce",
+          "examEffectType": "ProduceExamEffectType_ExamCardPlayAggressive",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "의욕"
+        },
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": ""
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamCardPlayAggressive",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamCardPlayAggressive_Produce",
+          "text": "의욕"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-deck_all-effect_group-visible-exam_concentration-000",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceExamEffectType",
+          "targetId": "Label_ExamConcentration_Produce",
+          "examEffectType": "ProduceExamEffectType_ExamConcentration",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": ""
+        },
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": ""
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamConcentration",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamConcentration_Produce",
+          "text": ""
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-deck_all-effect_group-visible-exam_concentration-000-effect_group-visible-exam_preservation-000",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceExamEffectType",
+          "targetId": "Label_ExamConcentration_Produce",
+          "examEffectType": "ProduceExamEffectType_ExamConcentration",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": ""
+        },
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": ""
+        },
+        {
+          "type": "ProduceDescriptionType_ProduceExamEffectType",
+          "targetId": "Label_ExamPreservation_Produce",
+          "examEffectType": "ProduceExamEffectType_ExamPreservation",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": ""
+        },
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": ""
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamConcentration",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamConcentration_Produce",
+          "text": ""
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamPreservation",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamPreservation_Produce",
+          "text": ""
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-deck_all-effect_group-visible-exam_full_power-000",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceExamEffectType",
+          "targetId": "Label_ExamFullPower",
+          "examEffectType": "ProduceExamEffectType_ExamFullPower",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "전력"
+        },
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": ""
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamFullPower",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamFullPower",
+          "text": "전력"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-deck_all-effect_group-visible-exam_full_power-000-effect_group-visible-exam_preservation-000",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceExamEffectType",
+          "targetId": "Label_ExamFullPower",
+          "examEffectType": "ProduceExamEffectType_ExamFullPower",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "전력"
+        },
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": ""
+        },
+        {
+          "type": "ProduceDescriptionType_ProduceExamEffectType",
+          "targetId": "Label_ExamPreservation_Produce",
+          "examEffectType": "ProduceExamEffectType_ExamPreservation",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": ""
+        },
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": ""
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamFullPower",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamFullPower",
+          "text": "전력"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamPreservation",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamPreservation_Produce",
+          "text": ""
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-deck_all-effect_group-visible-exam_lesson_buff-000",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceExamEffectType",
+          "targetId": "Label_ExamLessonBuff_Produce",
+          "examEffectType": "ProduceExamEffectType_ExamLessonBuff",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "집중"
+        },
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": ""
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamLessonBuff",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamLessonBuff_Produce",
+          "text": "집중"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-deck_all-effect_group-visible-exam_parameter_buff-000",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceExamEffectType",
+          "targetId": "Label_ExamParameterBuff",
+          "examEffectType": "ProduceExamEffectType_ExamParameterBuff",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "호조"
+        },
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": ""
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamParameterBuff",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamParameterBuff",
+          "text": "호조"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-deck_all-effect_group-visible-exam_preservation-000",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceExamEffectType",
+          "targetId": "Label_ExamPreservation_Produce",
+          "examEffectType": "ProduceExamEffectType_ExamPreservation",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": ""
+        },
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": ""
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamPreservation",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamPreservation_Produce",
+          "text": ""
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-deck_all-effect_group-visible-exam_review-000",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceExamEffectType",
+          "targetId": "Label_ExamReview_Produce",
+          "examEffectType": "ProduceExamEffectType_ExamReview",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "호인상"
+        },
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": ""
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamReview",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamReview_Produce",
+          "text": "호인상"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-deck_all-p_card-03-act-1_040",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceCard",
+          "targetId": "p_card-03-act-1_040",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "스타라이트"
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-03-act-1_040",
+          "text": "스타라이트"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-deck_all-p_card-03-ido-3_084",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceCard",
+          "targetId": "p_card-03-ido-3_084",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "건널목 너머로"
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-03-ido-3_084",
+          "text": "건널목 너머로"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-deck_all-starter",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "이름에 「기본」이 포함된 스킬 카드"
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "이름에 「기본」이 포함된 스킬 카드"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-deck_grave",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "덱이나 버림패에 있는 스킬 카드"
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "덱이나 버림패에 있는 스킬 카드"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-deck_grave-1-p_card-03-act-1_040_upgrade1",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": ""
+        },
+        {
+          "type": "ProduceDescriptionType_ProduceCard",
+          "targetId": "p_card-03-act-1_040",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "스타라이트+"
+        },
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "1장 "
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-03-act-1_040",
+          "text": "스타라이트+"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "1장 "
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-deck_grave-idol-unique-1",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "덱이나 버림패에 있는 아이돌 고유 스킬 카드1장 "
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "덱이나 버림패에 있는 아이돌 고유 스킬 카드1장 "
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-deck-1",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "산패의 스킬 카드1장 "
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "산패의 스킬 카드1장 "
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-first-deck-1",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "손패의 스킬 카드"
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "손패의 스킬 카드"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-first-deck-5",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "손패의 맨 위부터 5장의 스킬 카드"
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "손패의 맨 위부터 5장의 스킬 카드"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-hand",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "손패"
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "손패"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-hand-1",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "손패의 스킬 카드1장 "
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "손패의 스킬 카드1장 "
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-hand-2",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "손패의 스킬 카드2장 "
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "손패의 스킬 카드2장 "
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-hand-3",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "손패의 스킬 카드3장 "
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "손패의 스킬 카드3장 "
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-hold",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceDescription",
+          "targetId": "Label_ProduceCardPositionType_Hold",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": ""
+        },
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": ""
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ProduceCardPositionType_Hold",
+          "text": ""
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-lost",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "제외된 스킬 카드"
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "제외된 스킬 카드"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-mental_skill-deck_all",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceCardCategory",
+          "targetId": "Label_MentalSkillCard",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_MentalSkill",
+          "text": "멘탈 스킬 카드"
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_MentalSkill",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_MentalSkillCard",
+          "text": "멘탈 스킬 카드"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-mental_skill-hand",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": ""
+        },
+        {
+          "type": "ProduceDescriptionType_ProduceCardCategory",
+          "targetId": "Label_MentalSkillCard",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_MentalSkill",
+          "text": "멘탈 스킬 카드"
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_MentalSkill",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_MentalSkillCard",
+          "text": "멘탈 스킬 카드"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-mental_skill-playing",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceCardCategory",
+          "targetId": "Label_MentalSkillCard",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_MentalSkill",
+          "text": "멘탈 스킬 카드"
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_MentalSkill",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_MentalSkillCard",
+          "text": "멘탈 스킬 카드"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-mental_skill-target",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceCardCategory",
+          "targetId": "Label_MentalSkillCard",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_MentalSkill",
+          "text": "멘탈 스킬 카드"
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_MentalSkill",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_MentalSkillCard",
+          "text": "멘탈 스킬 카드"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "스킬 카드"
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "스킬 카드"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-1-min_max-6_99",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "소비 체력이 6이상의 스킬 카드"
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "소비 체력이 6이상의 스킬 카드"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-1-p_card-01-act-1_001",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceCard",
+          "targetId": "p_card-01-act-1_001",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "팬 사인"
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-01-act-1_001",
+          "text": "팬 사인"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-1-p_card-01-act-1_002",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceCard",
+          "targetId": "p_card-01-act-1_002",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "가벼운 발걸음"
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-01-act-1_002",
+          "text": "가벼운 발걸음"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-1-p_card-01-act-1_023",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceCard",
+          "targetId": "p_card-01-act-1_023",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "기세에 맡겨"
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-01-act-1_023",
+          "text": "기세에 맡겨"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-1-p_card-01-men-3_006",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceCard",
+          "targetId": "p_card-01-men-3_006",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "국민적 아이돌"
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-01-men-3_006",
+          "text": "국민적 아이돌"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-1-p_card-02-men-1_031",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceCard",
+          "targetId": "p_card-02-men-1_031",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "에이에이오!"
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-02-men-1_031",
+          "text": "에이에이오!"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-1-p_card-02-men-1_032",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceCard",
+          "targetId": "p_card-02-men-1_032",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "추엇의 웃음"
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-02-men-1_032",
+          "text": "추엇의 웃음"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-1-p_card-02-men-3_002",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceCard",
+          "targetId": "p_card-02-men-3_002",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "내가 스타"
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-02-men-3_002",
+          "text": "내가 스타"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-1-p_card-03-act-1_038",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceCard",
+          "targetId": "p_card-03-act-1_038",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "저스트 어필"
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-03-act-1_038",
+          "text": "저스트 어필"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-1-p_card-03-act-1_040",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceCard",
+          "targetId": "p_card-03-act-1_040",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "스타라이트"
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-03-act-1_040",
+          "text": "스타라이트"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-effect_group-visible-exam_block-000",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceExamEffectType",
+          "targetId": "Label_ExamBlock",
+          "examEffectType": "ProduceExamEffectType_ExamBlock",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "원기"
+        },
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": ""
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamBlock",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamBlock",
+          "text": "원기"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-effect_group-visible-exam_card_play_aggressive-000",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceExamEffectType",
+          "targetId": "Label_ExamCardPlayAggressive_Produce",
+          "examEffectType": "ProduceExamEffectType_ExamCardPlayAggressive",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "의욕"
+        },
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": ""
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamCardPlayAggressive",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamCardPlayAggressive_Produce",
+          "text": "의욕"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-effect_group-visible-exam_concentration-000",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceExamEffectType",
+          "targetId": "Label_ExamConcentration_Produce",
+          "examEffectType": "ProduceExamEffectType_ExamConcentration",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": ""
+        },
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": ""
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamConcentration",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamConcentration_Produce",
+          "text": ""
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-effect_group-visible-exam_parameter_buff_multiple_per_turn-000",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceExamEffectType",
+          "targetId": "Label_ExamParameterBuffMultiplePerTurn",
+          "examEffectType": "ProduceExamEffectType_ExamParameterBuffMultiplePerTurn",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "절호조"
+        },
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": ""
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamParameterBuffMultiplePerTurn",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamParameterBuffMultiplePerTurn",
+          "text": "절호조"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-effect_group-visible-exam_preservation-000",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceExamEffectType",
+          "targetId": "Label_ExamPreservation_Produce",
+          "examEffectType": "ProduceExamEffectType_ExamPreservation",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": ""
+        },
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": ""
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamPreservation",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamPreservation_Produce",
+          "text": ""
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-effect_group-visible-exam_review-000",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceExamEffectType",
+          "targetId": "Label_ExamReview_Produce",
+          "examEffectType": "ProduceExamEffectType_ExamReview",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "호인상"
+        },
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": ""
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamReview",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamReview_Produce",
+          "text": "호인상"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-effect_group-visible-exam_stamina_consumption_down-000",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceExamEffectType",
+          "targetId": "Label_ExamStaminaConsumptionDown",
+          "examEffectType": "ProduceExamEffectType_ExamStaminaConsumptionDown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "소비 체력 경감 "
+        },
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": ""
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamStaminaConsumptionDown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamStaminaConsumptionDown",
+          "text": "소비 체력 경감 "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-effect_group-visible-stamina_recover_fix-000",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceExamEffectType",
+          "targetId": "Label_ExamStaminaRecoverFix",
+          "examEffectType": "ProduceExamEffectType_ExamStaminaRecoverFix",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "체력 회복"
+        },
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": ""
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamStaminaRecoverFix",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamStaminaRecoverFix",
+          "text": "체력 회복"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-is_self",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "자신"
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "자신"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-p_card-01-ido-1_058",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceCard",
+          "targetId": "p_card-01-ido-1_058",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "첫 번째 보상"
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-01-ido-1_058",
+          "text": "첫 번째 보상"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-p_card-01-ido-3_066",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceCard",
+          "targetId": "p_card-01-ido-3_066",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "아드레날린 전개"
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-01-ido-3_066",
+          "text": "아드레날린 전개"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-p_card-02-act-1_028",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceCard",
+          "targetId": "p_card-02-act-1_028",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "느긋하게 수다"
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-02-act-1_028",
+          "text": "느긋하게 수다"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-p_card-03-men-1_049",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceCard",
+          "targetId": "p_card-03-men-1_049",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "기쁜 오산"
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-03-men-1_049",
+          "text": "기쁜 오산"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-random-random_pool-p_random_pool-all-upgrade_1-1",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "강화된 스킬 카드"
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "강화된 스킬 카드"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-random-random_pool-p_random_pool-ssr-upgrade_1-1",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "강화된 스킬 카드(SSR)"
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "강화된 스킬 카드(SSR)"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-target",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "스킬 카드"
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "스킬 카드"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-target_is_self",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "자신"
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "자신"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-trouble-deck_all",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceCardCategory",
+          "targetId": "Label_TroubleSkillCard",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Trouble",
+          "text": "트러블 카드"
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Trouble",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_TroubleSkillCard",
+          "text": "트러블 카드"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-trouble-deck-2",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": ""
+        },
+        {
+          "type": "ProduceDescriptionType_ProduceCardCategory",
+          "targetId": "Label_TroubleSkillCard",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Trouble",
+          "text": "트러블 카드"
+        },
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "2장 "
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Trouble",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_TroubleSkillCard",
+          "text": "트러블 카드"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "2장 "
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-trouble-hand",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "트러블 카드"
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "트러블 카드"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-trouble-target",
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "트러블 카드"
+        }
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "트러블 카드"
+        }
+      ]
+    }
+  ]
+}

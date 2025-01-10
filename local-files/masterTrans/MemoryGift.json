@@ -1,0 +1,21 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "memory_gift-fktn",
+      "name": ""
+    },
+    {
+      "id": "memory_gift-hski",
+      "name": ""
+    },
+    {
+      "id": "memory_gift-ttmr",
+      "name": ""
+    }
+  ]
+}

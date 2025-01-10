@@ -1,0 +1,213 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "type"
+    ]
+  },
+  "data": [
+    {
+      "type": "ProduceCardGrowEffectType_LessonAdd",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_LessonReduce",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_LessonCountAdd",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_LessonCountReduce",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_BlockAdd",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_BlockReduce",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_FullPowerPointAdd",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_FullPowerPointReduce",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostBuffReduce",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostBuffAdd",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostReduce",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostAdd",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostPenetrateReduce",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostPenetrateAdd",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_ParameterBuffTurnAdd",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_ParameterBuffTurnReduce",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_LessonBuffAdd",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_LessonBuffReduce",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_ReviewAdd",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_ReviewReduce",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_AggressiveAdd",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_AggressiveReduce",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CardDrawAdd",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CardDrawReduce",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_ParameterBuffMultiplePerTurnAdd",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_ParameterBuffMultiplePerTurnReduce",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_StaminaConsumptionDownTurnAdd",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_StaminaConsumptionDownTurnReduce",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_StaminaConsumptionAddTurnAdd",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_StaminaConsumptionAddTurnReduce",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_EffectAdd",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_EffectDelete",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_EffectChange",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CardStatusEnchantChange",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_PlayTriggerChange",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_PlayEffectTriggerChange",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_PlayMovePositionTypeChange",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_InitialAdd",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostLessonBuffReduce",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostLessonBuffAdd",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostReviewReduce",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostReviewAdd",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostAggressiveReduce",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostAggressiveAdd",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostParameterBuffReduce",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostParameterBuffAdd",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostFullPowerPointReduce",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostFullPowerPointAdd",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_LessonDependBlockAdd",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_LessonDependExamCardPlayAggressiveAdd",
+      "name": ""
+    },
+    {
+      "type": "ProduceCardGrowEffectType_LessonDependExamReviewAdd",
+      "name": ""
+    }
+  ]
+}

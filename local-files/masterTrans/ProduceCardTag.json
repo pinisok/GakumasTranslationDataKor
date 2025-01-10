@@ -1,0 +1,21 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "idol-unique",
+      "name": ""
+    },
+    {
+      "id": "starter",
+      "name": ""
+    },
+    {
+      "id": "strike",
+      "name": ""
+    }
+  ]
+}

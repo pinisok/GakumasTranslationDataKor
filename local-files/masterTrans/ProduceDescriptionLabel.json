@@ -1,0 +1,737 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "Convert_001",
+      "name": "레슨"
+    },
+    {
+      "id": "Convert_002",
+      "name": "레슨"
+    },
+    {
+      "id": "Convert_ConditionThreshold",
+      "name": ""
+    },
+    {
+      "id": "Convert_ConditionThreshold_NotClear",
+      "name": ""
+    },
+    {
+      "id": "Convert_ConditionThreshold_Value_100",
+      "name": "10%"
+    },
+    {
+      "id": "Convert_ConditionThreshold_Value_1000",
+      "name": "100%"
+    },
+    {
+      "id": "Convert_ConditionThreshold_Value_300",
+      "name": "30%"
+    },
+    {
+      "id": "Convert_ConditionThreshold_Value_500",
+      "name": "50%"
+    },
+    {
+      "id": "Convert_StepLessonType_DanceLesson",
+      "name": "【댄스 레슨・댄스 턴인 경우 】"
+    },
+    {
+      "id": "Convert_StepLessonType_SpLesson",
+      "name": "【SP 수업만 】"
+    },
+    {
+      "id": "Convert_StepLessonType_VisualLesson",
+      "name": "【비주얼 레슨-비주얼 턴일 경우 】"
+    },
+    {
+      "id": "Convert_StepLessonType_VocalLesson",
+      "name": "【보컬 레슨, 보컬 턴일 경우 】"
+    },
+    {
+      "id": "Description_LessonCountAdd_CountSection",
+      "name": ""
+    },
+    {
+      "id": "Description_ProduceCardIsInitial",
+      "name": ""
+    },
+    {
+      "id": "Label_ActiveSkillCard",
+      "name": "액티브 스킬 카드"
+    },
+    {
+      "id": "Label_AggressiveAdd",
+      "name": ""
+    },
+    {
+      "id": "Label_AggressiveReduce",
+      "name": ""
+    },
+    {
+      "id": "Label_AuditionNpcEnhance",
+      "name": "라이벌 점수 증가"
+    },
+    {
+      "id": "Label_BlockAdd",
+      "name": ""
+    },
+    {
+      "id": "Label_BlockReduce",
+      "name": ""
+    },
+    {
+      "id": "Label_CardDrawAdd",
+      "name": ""
+    },
+    {
+      "id": "Label_CardDrawReduce",
+      "name": ""
+    },
+    {
+      "id": "Label_CardStatusEnchantChange",
+      "name": ""
+    },
+    {
+      "id": "Label_CostAdd",
+      "name": ""
+    },
+    {
+      "id": "Label_CostAggressiveAdd",
+      "name": ""
+    },
+    {
+      "id": "Label_CostAggressiveReduce",
+      "name": ""
+    },
+    {
+      "id": "Label_CostBuffAdd",
+      "name": ""
+    },
+    {
+      "id": "Label_CostBuffReduce",
+      "name": ""
+    },
+    {
+      "id": "Label_CostFullPowerPointAdd",
+      "name": ""
+    },
+    {
+      "id": "Label_CostFullPowerPointReduce",
+      "name": ""
+    },
+    {
+      "id": "Label_CostLessonBuffAdd",
+      "name": ""
+    },
+    {
+      "id": "Label_CostLessonBuffReduce",
+      "name": ""
+    },
+    {
+      "id": "Label_CostParameterBuffAdd",
+      "name": ""
+    },
+    {
+      "id": "Label_CostParameterBuffReduce",
+      "name": ""
+    },
+    {
+      "id": "Label_CostPenetrateAdd",
+      "name": ""
+    },
+    {
+      "id": "Label_CostPenetrateReduce",
+      "name": ""
+    },
+    {
+      "id": "Label_CostReduce",
+      "name": ""
+    },
+    {
+      "id": "Label_CostReviewAdd",
+      "name": ""
+    },
+    {
+      "id": "Label_CostReviewReduce",
+      "name": ""
+    },
+    {
+      "id": "Label_EffectAdd",
+      "name": ""
+    },
+    {
+      "id": "Label_EffectChange",
+      "name": ""
+    },
+    {
+      "id": "Label_EffectDelete",
+      "name": ""
+    },
+    {
+      "id": "Label_ExamAddGrowEffect",
+      "name": ""
+    },
+    {
+      "id": "Label_ExamAggressiveReduce",
+      "name": ""
+    },
+    {
+      "id": "Label_ExamAntiDebuff",
+      "name": "저하 상태 비활성화 "
+    },
+    {
+      "id": "Label_ExamBlock",
+      "name": "원기"
+    },
+    {
+      "id": "Label_ExamBlockAddDown",
+      "name": "불안 "
+    },
+    {
+      "id": "Label_ExamBlockAddDownRestriction",
+      "name": ""
+    },
+    {
+      "id": "Label_ExamBlockFix",
+      "name": "고정 원기"
+    },
+    {
+      "id": "Label_ExamBlockRestriction",
+      "name": "원기 증가 무효 "
+    },
+    {
+      "id": "Label_ExamCardCreateId",
+      "name": "생성"
+    },
+    {
+      "id": "Label_ExamCardDraw",
+      "name": "스킬 카드를 드로우"
+    },
+    {
+      "id": "Label_ExamCardDuplicate",
+      "name": ""
+    },
+    {
+      "id": "Label_ExamCardPlayAggressive_Exam",
+      "name": "의욕"
+    },
+    {
+      "id": "Label_ExamCardPlayAggressive_Produce",
+      "name": "의욕"
+    },
+    {
+      "id": "Label_ExamCardSearchEffectPlayCountBuff",
+      "name": "스킬 카드 추가 발동"
+    },
+    {
+      "id": "Label_ExamCardSearchEffectPlayCountBuff_Produce",
+      "name": "스킬 카드 추가 발동"
+    },
+    {
+      "id": "Label_ExamCardStaminaConsumptionChange",
+      "name": ""
+    },
+    {
+      "id": "Label_ExamCardStaminaConsumptionDownSpecify",
+      "name": ""
+    },
+    {
+      "id": "Label_ExamCardUpgrade",
+      "name": "레슨 중 강화"
+    },
+    {
+      "id": "Label_ExamConcentration_Exam",
+      "name": ""
+    },
+    {
+      "id": "Label_ExamConcentration_Produce",
+      "name": ""
+    },
+    {
+      "id": "Label_ExamDebuffRecover",
+      "name": ""
+    },
+    {
+      "id": "Label_ExamEffectTimer",
+      "name": "발동 예약"
+    },
+    {
+      "id": "Label_ExamExtraTurn",
+      "name": "턴 추가 "
+    },
+    {
+      "id": "Label_ExamFullPower",
+      "name": "전력"
+    },
+    {
+      "id": "Label_ExamFullPowerPoint",
+      "name": ""
+    },
+    {
+      "id": "Label_ExamFullPowerPointReduce",
+      "name": ""
+    },
+    {
+      "id": "Label_ExamGetCardUpgrade",
+      "name": ""
+    },
+    {
+      "id": "Label_ExamGimmickEnthusiastic_Exam",
+      "name": ""
+    },
+    {
+      "id": "Label_ExamGimmickEnthusiastic_Produce",
+      "name": ""
+    },
+    {
+      "id": "Label_ExamGimmickLessonDebuff_Exam",
+      "name": ""
+    },
+    {
+      "id": "Label_ExamGimmickLessonDebuff_Produce",
+      "name": ""
+    },
+    {
+      "id": "Label_ExamGimmickParameterDebuff",
+      "name": "부조화 "
+    },
+    {
+      "id": "Label_ExamGimmickPlayCardLimit",
+      "name": ""
+    },
+    {
+      "id": "Label_ExamGimmickSleepy_Exam",
+      "name": "약세 "
+    },
+    {
+      "id": "Label_ExamGimmickSleepy_Produce",
+      "name": "약세 "
+    },
+    {
+      "id": "Label_ExamGimmickSlump",
+      "name": "슬럼프"
+    },
+    {
+      "id": "Label_ExamGimmickStartTurnCardDrawDown_Exam",
+      "name": "패 감소"
+    },
+    {
+      "id": "Label_ExamGimmickStartTurnCardDrawDown_Produce",
+      "name": "패 감소"
+    },
+    {
+      "id": "Label_ExamGimmickTiredFix_Exam",
+      "name": ""
+    },
+    {
+      "id": "Label_ExamGimmickTiredFix_Produce",
+      "name": ""
+    },
+    {
+      "id": "Label_ExamHandGraveCountCardDraw",
+      "name": "손패를 새로 생성"
+    },
+    {
+      "id": "Label_ExamHandHold",
+      "name": ""
+    },
+    {
+      "id": "Label_ExamLesson",
+      "name": ""
+    },
+    {
+      "id": "Label_ExamLessonBuffMultiple",
+      "name": ""
+    },
+    {
+      "id": "Label_ExamLessonBuffReduce",
+      "name": ""
+    },
+    {
+      "id": "Label_ExamLessonBuff_Exam",
+      "name": "집중"
+    },
+    {
+      "id": "Label_ExamLessonBuff_Produce",
+      "name": "집중"
+    },
+    {
+      "id": "Label_ExamLessonChangeSpecifyLessThan",
+      "name": ""
+    },
+    {
+      "id": "Label_ExamLessonChangeSpecifyMoreThan",
+      "name": ""
+    },
+    {
+      "id": "Label_ExamLessonFix",
+      "name": ""
+    },
+    {
+      "id": "Label_ExamLessonValueMultiple",
+      "name": "파라미터 상승량 증가"
+    },
+    {
+      "id": "Label_ExamLessonValueMultipleDown",
+      "name": "파라미터 상승량 감소"
+    },
+    {
+      "id": "Label_ExamPanic",
+      "name": "변덕"
+    },
+    {
+      "id": "Label_ExamParameterBuff",
+      "name": "호조"
+    },
+    {
+      "id": "Label_ExamParameterBuffMultiplePerTurn",
+      "name": "절호조"
+    },
+    {
+      "id": "Label_ExamParameterBuffReduce",
+      "name": ""
+    },
+    {
+      "id": "Label_ExamPlayableValueAdd_Exam",
+      "name": "스킬 카드 사용 횟수 추가"
+    },
+    {
+      "id": "Label_ExamPlayableValueAdd_Produce",
+      "name": "스킬 카드 사용 횟수 추가"
+    },
+    {
+      "id": "Label_ExamPlayableValueHold",
+      "name": ""
+    },
+    {
+      "id": "Label_ExamPreservation_Exam",
+      "name": ""
+    },
+    {
+      "id": "Label_ExamPreservation_Produce",
+      "name": ""
+    },
+    {
+      "id": "Label_ExamReviewReduce",
+      "name": ""
+    },
+    {
+      "id": "Label_ExamReview_Exam",
+      "name": "호인상"
+    },
+    {
+      "id": "Label_ExamReview_Produce",
+      "name": "호인상"
+    },
+    {
+      "id": "Label_ExamSearchPlayCardStaminaConsumptionChange",
+      "name": ""
+    },
+    {
+      "id": "Label_ExamSearchPlayCardValueBuff",
+      "name": ""
+    },
+    {
+      "id": "Label_ExamStaminaConsumptionAdd",
+      "name": "소비 체력 증가 "
+    },
+    {
+      "id": "Label_ExamStaminaConsumptionAddDown",
+      "name": ""
+    },
+    {
+      "id": "Label_ExamStaminaConsumptionAddFix",
+      "name": "소비 체력 추가"
+    },
+    {
+      "id": "Label_ExamStaminaConsumptionDown",
+      "name": "소비 체력 경감 "
+    },
+    {
+      "id": "Label_ExamStaminaConsumptionDownAdd",
+      "name": ""
+    },
+    {
+      "id": "Label_ExamStaminaConsumptionDownFix",
+      "name": "소비 체력 감소 "
+    },
+    {
+      "id": "Label_ExamStaminaDamage",
+      "name": "체력 감소"
+    },
+    {
+      "id": "Label_ExamStaminaRecoverAdd",
+      "name": ""
+    },
+    {
+      "id": "Label_ExamStaminaRecoverFix",
+      "name": "체력 회복"
+    },
+    {
+      "id": "Label_ExamStaminaRecoverRestriction",
+      "name": ""
+    },
+    {
+      "id": "Label_ExamStaminaReduceChange",
+      "name": ""
+    },
+    {
+      "id": "Label_ExamStaminaReduceFix",
+      "name": "체력소비"
+    },
+    {
+      "id": "Label_ExamStaminaThresholdAddRestriction",
+      "name": ""
+    },
+    {
+      "id": "Label_ExamStanceReset",
+      "name": ""
+    },
+    {
+      "id": "Label_ExamStatusEnchant",
+      "name": "지속 효과"
+    },
+    {
+      "id": "Label_ExamUplifting_Exam",
+      "name": ""
+    },
+    {
+      "id": "Label_ExamUplifting_Produce",
+      "name": ""
+    },
+    {
+      "id": "Label_FullPowerPointAdd",
+      "name": ""
+    },
+    {
+      "id": "Label_FullPowerPointReduce",
+      "name": ""
+    },
+    {
+      "id": "Label_InitialAdd",
+      "name": ""
+    },
+    {
+      "id": "Label_LessonAdd",
+      "name": ""
+    },
+    {
+      "id": "Label_LessonBonus",
+      "name": ""
+    },
+    {
+      "id": "Label_LessonBuffAdd",
+      "name": ""
+    },
+    {
+      "id": "Label_LessonBuffReduce",
+      "name": ""
+    },
+    {
+      "id": "Label_LessonCountAdd",
+      "name": ""
+    },
+    {
+      "id": "Label_LessonCountReduce",
+      "name": ""
+    },
+    {
+      "id": "Label_LessonDependBlockAdd",
+      "name": ""
+    },
+    {
+      "id": "Label_LessonDependExamCardPlayAggressiveAdd",
+      "name": ""
+    },
+    {
+      "id": "Label_LessonDependExamReviewAdd",
+      "name": ""
+    },
+    {
+      "id": "Label_LessonReduce",
+      "name": ""
+    },
+    {
+      "id": "Label_LessonSupport",
+      "name": ""
+    },
+    {
+      "id": "Label_MentalSkillCard",
+      "name": "멘탈 스킬 카드"
+    },
+    {
+      "id": "Label_MoveEffectTrigger",
+      "name": ""
+    },
+    {
+      "id": "Label_NoDeckDuplication",
+      "name": "중복 불가"
+    },
+    {
+      "id": "Label_ParameterBuffMultiplePerTurnAdd",
+      "name": ""
+    },
+    {
+      "id": "Label_ParameterBuffMultiplePerTurnReduce",
+      "name": ""
+    },
+    {
+      "id": "Label_ParameterBuffTurnAdd",
+      "name": ""
+    },
+    {
+      "id": "Label_ParameterBuffTurnReduce",
+      "name": ""
+    },
+    {
+      "id": "Label_PlayEffectTriggerChange",
+      "name": ""
+    },
+    {
+      "id": "Label_PlayMovePositionTypeChange",
+      "name": ""
+    },
+    {
+      "id": "Label_PlayTriggerChange",
+      "name": ""
+    },
+    {
+      "id": "Label_ProduceCardChange",
+      "name": "체인지"
+    },
+    {
+      "id": "Label_ProduceCardDelete",
+      "name": "삭제"
+    },
+    {
+      "id": "Label_ProduceCardDuplicate",
+      "name": ""
+    },
+    {
+      "id": "Label_ProduceCardExclude",
+      "name": ""
+    },
+    {
+      "id": "Label_ProduceCardGrowEffect",
+      "name": ""
+    },
+    {
+      "id": "Label_ProduceCardMovePositionType_Lost",
+      "name": "레슨 중 1회"
+    },
+    {
+      "id": "Label_ProduceCardPositionType_DeckFirst",
+      "name": ""
+    },
+    {
+      "id": "Label_ProduceCardPositionType_DeckLast",
+      "name": ""
+    },
+    {
+      "id": "Label_ProduceCardPositionType_DeckRandom",
+      "name": ""
+    },
+    {
+      "id": "Label_ProduceCardPositionType_Grave",
+      "name": ""
+    },
+    {
+      "id": "Label_ProduceCardPositionType_Hand",
+      "name": "손패"
+    },
+    {
+      "id": "Label_ProduceCardPositionType_Hold",
+      "name": ""
+    },
+    {
+      "id": "Label_ProduceCardPositionType_Lost",
+      "name": ""
+    },
+    {
+      "id": "Label_ProduceCardUpgrade",
+      "name": "강화"
+    },
+    {
+      "id": "Label_ProducePlanType0",
+      "name": "공통"
+    },
+    {
+      "id": "Label_ProducePlanType1",
+      "name": "센스"
+    },
+    {
+      "id": "Label_ProducePlanType2",
+      "name": "로직"
+    },
+    {
+      "id": "Label_ProducePlanType3",
+      "name": ""
+    },
+    {
+      "id": "Label_ProduceSkillPlanType1",
+      "name": "【센스 전용】"
+    },
+    {
+      "id": "Label_ProduceSkillPlanType2",
+      "name": "논리 전용】입니다."
+    },
+    {
+      "id": "Label_ProduceSkillPlanType3",
+      "name": ""
+    },
+    {
+      "id": "Label_ProduceStepType_EventSchool",
+      "name": ""
+    },
+    {
+      "id": "Label_ProduceStepType_Present",
+      "name": "선물함"
+    },
+    {
+      "id": "Label_ReviewAdd",
+      "name": ""
+    },
+    {
+      "id": "Label_ReviewReduce",
+      "name": ""
+    },
+    {
+      "id": "Label_ShopProduceCardPriceDiscountMultiple",
+      "name": ""
+    },
+    {
+      "id": "Label_StaminaConsumptionAddTurnAdd",
+      "name": ""
+    },
+    {
+      "id": "Label_StaminaConsumptionAddTurnReduce",
+      "name": ""
+    },
+    {
+      "id": "Label_StaminaConsumptionDownTurnAdd",
+      "name": ""
+    },
+    {
+      "id": "Label_StaminaConsumptionDownTurnReduce",
+      "name": ""
+    },
+    {
+      "id": "Label_Stance",
+      "name": ""
+    },
+    {
+      "id": "Label_StanceLock",
+      "name": ""
+    },
+    {
+      "id": "Label_TroubleSkillCard",
+      "name": "트러블 카드"
+    }
+  ]
+}

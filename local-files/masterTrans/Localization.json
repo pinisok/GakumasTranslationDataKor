@@ -1,0 +1,541 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "achievement.cell.true_end.nia_condition",
+      "description": ""
+    },
+    {
+      "id": "achievement.cell.true_end.nia_toast_produce_condition",
+      "description": "P과제35を達成し\\n親愛度Lv10でプロデュース「N.I.A」解放"
+    },
+    {
+      "id": "achievement.true_end_condition.description",
+      "description": ""
+    },
+    {
+      "id": "achievement.true_end.condition",
+      "description": "3つのTrue End条件アチーブメントを獲得しプロデュース：定期公演『初』の最終試験で1위가 된다"
+    },
+    {
+      "id": "achievement.true_end.lesson_bonus",
+      "description": ""
+    },
+    {
+      "id": "achievement.true_end.nia_condition",
+      "description": ""
+    },
+    {
+      "id": "angya.top.user_status.exchange",
+      "description": ""
+    },
+    {
+      "id": "card.detail.enhance.invalid.point.exp.short",
+      "description": "トレーニングPtが足りません"
+    },
+    {
+      "id": "card.idol_card.high_score",
+      "description": ""
+    },
+    {
+      "id": "card.idol_card.preview.attention",
+      "description": ""
+    },
+    {
+      "id": "card.idol_card.release.confirm.sheet.message",
+      "description": ""
+    },
+    {
+      "id": "card.idol_card.skin_change_sheet.title",
+      "description": ""
+    },
+    {
+      "id": "card.idol_card.skin_new_confirm_warning",
+      "description": ""
+    },
+    {
+      "id": "card.sort.produce_dance_growth_rate_permil",
+      "description": ""
+    },
+    {
+      "id": "card.sort.produce_visual_growth_rate_permil",
+      "description": ""
+    },
+    {
+      "id": "card.sort.produce_vocal_growth_rate_permil",
+      "description": ""
+    },
+    {
+      "id": "card.sort.story_event_point_bonus",
+      "description": "이벤트 보너스"
+    },
+    {
+      "id": "card.upgrade_status_list.parameter",
+      "description": ""
+    },
+    {
+      "id": "card.upgrade_status_list.produce_card",
+      "description": ""
+    },
+    {
+      "id": "common.live_battle_stage.mid.name",
+      "description": ""
+    },
+    {
+      "id": "common.user_exp.description",
+      "description": ""
+    },
+    {
+      "id": "exchange.confirm.consumption_shortage",
+      "description": ""
+    },
+    {
+      "id": "faq_confirm_sheet.description",
+      "description": ""
+    },
+    {
+      "id": "home.gasha.detail.idol.extra_text.costume_body",
+      "description": ""
+    },
+    {
+      "id": "home.gasha.detail.idol.extra_text.costume_head",
+      "description": ""
+    },
+    {
+      "id": "home.gasha.detail.idol.extra_text.music",
+      "description": ""
+    },
+    {
+      "id": "home.gasha.detail.idol.extra_text.separator",
+      "description": ""
+    },
+    {
+      "id": "home.gasha.detail.idol.extra_text.suffix",
+      "description": ""
+    },
+    {
+      "id": "home.gasha.draw_jewel_confirm_sheet.description.multiple_button",
+      "description": "{0}を<color=#u:Negative>{1:N0}</color>個消費して\\n{2}を引きますか？"
+    },
+    {
+      "id": "home.gasha.draw_jewel_confirm_sheet.select_pickup.description",
+      "description": ""
+    },
+    {
+      "id": "home.gasha.point_detail_overlay.description",
+      "description": ""
+    },
+    {
+      "id": "home.gasha.result.duplicate_info",
+      "description": ""
+    },
+    {
+      "id": "invite.progress.friend_empty",
+      "description": ""
+    },
+    {
+      "id": "invite.progress.invited_friend.label",
+      "description": "PLv5달성"
+    },
+    {
+      "id": "invite.publication.share.text",
+      "description": ""
+    },
+    {
+      "id": "limit.unti",
+      "description": ""
+    },
+    {
+      "id": "meishi.create_confirm_sheet.toast.custom_disable",
+      "description": "2024/9/1 メンテナンス終了後に解放"
+    },
+    {
+      "id": "meishi.edit_custom.sub_menu.character.card.description",
+      "description": ""
+    },
+    {
+      "id": "meishi.edit_custom.sub_menu.character.sd",
+      "description": ""
+    },
+    {
+      "id": "memory.detail.produce.card.phase.audition_mid",
+      "description": ""
+    },
+    {
+      "id": "memory.detail.tab.contest",
+      "description": "스테이지"
+    },
+    {
+      "id": "memory.detail.tab.exam_battle",
+      "description": "스테이지"
+    },
+    {
+      "id": "memory.filter.exam_battle_card_effect",
+      "description": ""
+    },
+    {
+      "id": "memory.filter.exam_battle_item_effect",
+      "description": ""
+    },
+    {
+      "id": "memory.sort.score",
+      "description": ""
+    },
+    {
+      "id": "mission.mission_list.max_point_text.daily",
+      "description": ""
+    },
+    {
+      "id": "mission.mission_list.max_point_text.weekly",
+      "description": ""
+    },
+    {
+      "id": "music.external_url_sheet.description",
+      "description": ""
+    },
+    {
+      "id": "octo_file_download_confirm_sheet.alert.all",
+      "description": ""
+    },
+    {
+      "id": "photography.save.album.over_limit_confirm.description",
+      "description": ""
+    },
+    {
+      "id": "picturebook.live.costume.select.description",
+      "description": ""
+    },
+    {
+      "id": "picturebook.live.costume.select.disabled",
+      "description": ""
+    },
+    {
+      "id": "picturebook.live.costume.select.subtitle.head",
+      "description": ""
+    },
+    {
+      "id": "produce.card.move_position.deck",
+      "description": ""
+    },
+    {
+      "id": "produce.card.move_position.hold.description",
+      "description": ""
+    },
+    {
+      "id": "produce.change_upgrade.message.result",
+      "description": ""
+    },
+    {
+      "id": "produce.change.message.result",
+      "description": ""
+    },
+    {
+      "id": "produce.common.lesson_bonus",
+      "description": ""
+    },
+    {
+      "id": "produce.confirm_reroll_sheet.description",
+      "description": ""
+    },
+    {
+      "id": "produce.drink.cannot_use.noneproduceeffect",
+      "description": ""
+    },
+    {
+      "id": "produce.item.card.empty",
+      "description": "스킬 카드가 선택되어 있지 않습니다"
+    },
+    {
+      "id": "produce.item.item.empty",
+      "description": ""
+    },
+    {
+      "id": "produce.lesson.no_effect.block_restriction",
+      "description": ""
+    },
+    {
+      "id": "produce.lesson.no_effect.stamina_recover_restriction",
+      "description": ""
+    },
+    {
+      "id": "produce.lesson.no_effect.stance_same",
+      "description": ""
+    },
+    {
+      "id": "produce.lesson.no_effect.stance_step_max",
+      "description": ""
+    },
+    {
+      "id": "produce.log.detail.title.audition_npc_enhance",
+      "description": "라이벌 점수 증가"
+    },
+    {
+      "id": "produce.memory_limit.warning",
+      "description": ""
+    },
+    {
+      "id": "produce.multi_device.confirm.description",
+      "description": ""
+    },
+    {
+      "id": "produce.nia.audition_name.finalhard",
+      "description": "QUARTET"
+    },
+    {
+      "id": "produce.nia.audition.finale_condition",
+      "description": ""
+    },
+    {
+      "id": "produce.result.photo.delete_save.toast",
+      "description": ""
+    },
+    {
+      "id": "produce.result.photo.re_create.button",
+      "description": "재생성"
+    },
+    {
+      "id": "produce.result.photo.re_create.button.decide",
+      "description": "결정"
+    },
+    {
+      "id": "produce.result.photo.re_create.button.disable.shortage_count",
+      "description": ""
+    },
+    {
+      "id": "produce.result.photo.re_create.confirm.button",
+      "description": ""
+    },
+    {
+      "id": "produce.result.photo.re_create.confirm.description",
+      "description": ""
+    },
+    {
+      "id": "produce.result.photo.re_create.confirm.remain_count",
+      "description": ""
+    },
+    {
+      "id": "produce.result.photo.re_create.confirm.title",
+      "description": ""
+    },
+    {
+      "id": "produce.result.photo.re_create.decide_confirm_sheet.button",
+      "description": ""
+    },
+    {
+      "id": "produce.result.photo.re_create.description",
+      "description": "획득할 메모리를 선택하세요"
+    },
+    {
+      "id": "produce.result.photo.re_create.select_status_origin",
+      "description": ""
+    },
+    {
+      "id": "produce.result.photo.re_create.select_status_reroll",
+      "description": ""
+    },
+    {
+      "id": "produce.schedule.step_business_description",
+      "description": ""
+    },
+    {
+      "id": "produce.schedule.step_customize_description",
+      "description": ""
+    },
+    {
+      "id": "produce.schedule.step_fan_present_description",
+      "description": ""
+    },
+    {
+      "id": "produce.schedule.step_self_dance_description",
+      "description": ""
+    },
+    {
+      "id": "produce.schedule.step_self_dance_sp_description",
+      "description": ""
+    },
+    {
+      "id": "produce.schedule.step_self_visual_description",
+      "description": ""
+    },
+    {
+      "id": "produce.schedule.step_self_visual_sp_description",
+      "description": ""
+    },
+    {
+      "id": "produce.schedule.step_self_vocal_description",
+      "description": ""
+    },
+    {
+      "id": "produce.schedule.step_self_vocal_sp_description",
+      "description": ""
+    },
+    {
+      "id": "produce.shop.end_warning.description",
+      "description": ""
+    },
+    {
+      "id": "produce.support_event_effect",
+      "description": "효과"
+    },
+    {
+      "id": "producer.level.additional_reward",
+      "description": ""
+    },
+    {
+      "id": "profile.activity.evaluate",
+      "description": ""
+    },
+    {
+      "id": "profile.activity.produce",
+      "description": "정기공연 『하지메』"
+    },
+    {
+      "id": "pvp.rate.reward.rate.description",
+      "description": ""
+    },
+    {
+      "id": "pvp.rate.same_character_confirm_sheet.description",
+      "description": ""
+    },
+    {
+      "id": "pvp.rate.same_character_confirm_sheet.description_sub",
+      "description": ""
+    },
+    {
+      "id": "setting.live_quality_sheet.description",
+      "description": ""
+    },
+    {
+      "id": "setting.produce.exam_effect_warning",
+      "description": ""
+    },
+    {
+      "id": "setting.produce.exam_effect_warning.description",
+      "description": ""
+    },
+    {
+      "id": "shop.label.term_suffix",
+      "description": "기간"
+    },
+    {
+      "id": "story_event.box_gasha.draw.sheet.description",
+      "description": ""
+    },
+    {
+      "id": "story_event.box_gasha.draw.sheet.title",
+      "description": ""
+    },
+    {
+      "id": "story_event.box_gasha.item_name",
+      "description": ""
+    },
+    {
+      "id": "story_event.box_gasha.reset_description.EmptyAll",
+      "description": ""
+    },
+    {
+      "id": "story_event.box_gasha.reset_description.EmptyFeature",
+      "description": ""
+    },
+    {
+      "id": "story_event.box_gasha.reset_description.Optional",
+      "description": ""
+    },
+    {
+      "id": "story_event.box_gasha.reset_result.sheet.description",
+      "description": ""
+    },
+    {
+      "id": "story_event.box_gasha.reset_result.sheet.title",
+      "description": ""
+    },
+    {
+      "id": "story_event.box_gasha.reset.sheet.title",
+      "description": ""
+    },
+    {
+      "id": "story_event.box_gasha.story_reward_gasha_count_sheet.condition",
+      "description": ""
+    },
+    {
+      "id": "story_event.event_coin_bonus",
+      "description": ""
+    },
+    {
+      "id": "story_event.exchange",
+      "description": "이벤트 교환소"
+    },
+    {
+      "id": "story_event.exchange_item",
+      "description": ""
+    },
+    {
+      "id": "story_event.guild_mission.join_sheet.confirm",
+      "description": "연계 미션"
+    },
+    {
+      "id": "story_event.guild_mission.join_sheet.guild_description",
+      "description": ""
+    },
+    {
+      "id": "story_event.guild_mission.join_sheet.main_task_description",
+      "description": ""
+    },
+    {
+      "id": "story_event.period.end",
+      "description": ""
+    },
+    {
+      "id": "story.idol.produce.activity",
+      "description": ""
+    },
+    {
+      "id": "story.lock.unread_previous.description",
+      "description": "직전의 커뮤를 보고 해금"
+    },
+    {
+      "id": "story.play_confirm_sheet.unread_previous_chapter.description",
+      "description": ""
+    },
+    {
+      "id": "story.story_event.main_story.move_to_story_list",
+      "description": ""
+    },
+    {
+      "id": "story.story_event.section.box_gasha_condition_lock_text",
+      "description": ""
+    },
+    {
+      "id": "story.story_event.section.normal_condition_lock_text",
+      "description": ""
+    },
+    {
+      "id": "story.story_event.section.unlockable_condition_lock_text",
+      "description": ""
+    },
+    {
+      "id": "tutorial.idol_receive.attention_1",
+      "description": ""
+    },
+    {
+      "id": "tutorial.idol_receive.attention_3",
+      "description": ""
+    },
+    {
+      "id": "tutorial.idol_receive.attention_4",
+      "description": ""
+    },
+    {
+      "id": "tutorial.idol_receive.description_4",
+      "description": ""
+    },
+    {
+      "id": "twitter_confirm_sheet.description",
+      "description": ""
+    }
+  ]
+}

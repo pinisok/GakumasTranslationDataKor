@@ -1,0 +1,112 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id",
+      "order"
+    ]
+  },
+  "data": [
+    {
+      "id": "gasha_button-001-01",
+      "order": 2,
+      "name": "1회 가챠",
+      "description": "1회 가챠"
+    },
+    {
+      "id": "gasha_button-001-01-discount",
+      "order": 1,
+      "name": "1일1회 가챠",
+      "description": "1일1회 가챠"
+    },
+    {
+      "id": "gasha_button-001-10",
+      "order": 3,
+      "name": "10회 가챠",
+      "description": "10회 가챠"
+    },
+    {
+      "id": "gasha_button-001-10-ssr",
+      "order": 1,
+      "name": "10회 가챠",
+      "description": "10회 가챠"
+    },
+    {
+      "id": "gasha_button-001-ticket",
+      "order": 2,
+      "name": "티켓으로 뽑는다",
+      "description": "티켓으로 뽑는다"
+    },
+    {
+      "id": "gasha_button-010-item_01",
+      "order": 3,
+      "name": "10회 아이템 가챠",
+      "description": "10회 아이템 가챠"
+    },
+    {
+      "id": "gasha_button-010-ticket",
+      "order": 3,
+      "name": "10회 티켓 가챠",
+      "description": "10회 티켓 가챠"
+    },
+    {
+      "id": "gasha_button-free-10-01",
+      "order": 1,
+      "name": "10회 가챠",
+      "description": "10회 가챠"
+    },
+    {
+      "id": "gasha_button-pickup-001-01",
+      "order": 2,
+      "name": "1회 가챠",
+      "description": "1회 가챠"
+    },
+    {
+      "id": "gasha_button-pickup-001-01-discount",
+      "order": 1,
+      "name": "1일1회 가챠",
+      "description": "1일1회 가챠"
+    },
+    {
+      "id": "gasha_button-pickup-001-10",
+      "order": 3,
+      "name": "10회 가챠",
+      "description": "10회 가챠"
+    },
+    {
+      "id": "gasha_button-select-pickup-01",
+      "order": 1,
+      "name": "10회 가챠",
+      "description": "10회 가챠"
+    },
+    {
+      "id": "gasha_button-select-pickup-01-discount",
+      "order": 1,
+      "name": "10회 가챠",
+      "description": "10회 가챠"
+    },
+    {
+      "id": "gasha_ticket_ssr_10_button-001",
+      "order": 1,
+      "name": "SSR확정 티켓으로 뽑는다",
+      "description": "SSR확정10연"
+    },
+    {
+      "id": "gasha_ticket_ssr_button",
+      "order": 1,
+      "name": "SSR확정 티켓으로 뽑는다",
+      "description": "SSR확정1연"
+    },
+    {
+      "id": "gasha_ticket_ssr_button_idol",
+      "order": 1,
+      "name": "SSR확정 티켓으로 뽑는다",
+      "description": "SSR아이돌 확정1연"
+    },
+    {
+      "id": "gasha_ticket_ssr_button_support",
+      "order": 1,
+      "name": "SSR확정 티켓으로 뽑는다",
+      "description": "SSR서포트 확정1연"
+    }
+  ]
+}

@@ -1,0 +1,935 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "characterId",
+      "type",
+      "number"
+    ]
+  },
+  "data": [
+    {
+      "characterId": "amao",
+      "type": "PushType_ApFull",
+      "number": 1,
+      "title": "아리무라 마오",
+      "message": ""
+    },
+    {
+      "characterId": "amao",
+      "type": "PushType_ApFull",
+      "number": 2,
+      "title": "아리무라 마오",
+      "message": ""
+    },
+    {
+      "characterId": "amao",
+      "type": "PushType_MoneyFull",
+      "number": 1,
+      "title": "아리무라 마오",
+      "message": ""
+    },
+    {
+      "characterId": "amao",
+      "type": "PushType_MoneyFull",
+      "number": 2,
+      "title": "아리무라 마오",
+      "message": ""
+    },
+    {
+      "characterId": "amao",
+      "type": "PushType_DailyMission",
+      "number": 1,
+      "title": "아리무라 마오",
+      "message": ""
+    },
+    {
+      "characterId": "amao",
+      "type": "PushType_Login",
+      "number": 1,
+      "title": "아리무라 마오",
+      "message": ""
+    },
+    {
+      "characterId": "amao",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 1,
+      "title": "아리무라 마오",
+      "message": ""
+    },
+    {
+      "characterId": "amao",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 2,
+      "title": "아리무라 마오",
+      "message": ""
+    },
+    {
+      "characterId": "amao",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 3,
+      "title": "아리무라 마오",
+      "message": ""
+    },
+    {
+      "characterId": "amao",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 1,
+      "title": "아리무라 마오",
+      "message": ""
+    },
+    {
+      "characterId": "amao",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 2,
+      "title": "아리무라 마오",
+      "message": ""
+    },
+    {
+      "characterId": "amao",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 3,
+      "title": "아리무라 마오",
+      "message": ""
+    },
+    {
+      "characterId": "fktn",
+      "type": "PushType_ApFull",
+      "number": 1,
+      "title": "후지타 코토네",
+      "message": ""
+    },
+    {
+      "characterId": "fktn",
+      "type": "PushType_ApFull",
+      "number": 2,
+      "title": "후지타 코토네",
+      "message": ""
+    },
+    {
+      "characterId": "fktn",
+      "type": "PushType_MoneyFull",
+      "number": 1,
+      "title": "후지타 코토네",
+      "message": ""
+    },
+    {
+      "characterId": "fktn",
+      "type": "PushType_MoneyFull",
+      "number": 2,
+      "title": "후지타 코토네",
+      "message": ""
+    },
+    {
+      "characterId": "fktn",
+      "type": "PushType_DailyMission",
+      "number": 1,
+      "title": "후지타 코토네",
+      "message": ""
+    },
+    {
+      "characterId": "fktn",
+      "type": "PushType_Login",
+      "number": 1,
+      "title": "후지타 코토네",
+      "message": ""
+    },
+    {
+      "characterId": "fktn",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 1,
+      "title": "후지타 코토네",
+      "message": ""
+    },
+    {
+      "characterId": "fktn",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 2,
+      "title": "후지타 코토네",
+      "message": ""
+    },
+    {
+      "characterId": "fktn",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 3,
+      "title": "후지타 코토네",
+      "message": ""
+    },
+    {
+      "characterId": "fktn",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 1,
+      "title": "후지타 코토네",
+      "message": ""
+    },
+    {
+      "characterId": "fktn",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 2,
+      "title": "후지타 코토네",
+      "message": ""
+    },
+    {
+      "characterId": "fktn",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 3,
+      "title": "후지타 코토네",
+      "message": ""
+    },
+    {
+      "characterId": "hrnm",
+      "type": "PushType_ApFull",
+      "number": 1,
+      "title": "히메사키 리나미",
+      "message": ""
+    },
+    {
+      "characterId": "hrnm",
+      "type": "PushType_ApFull",
+      "number": 2,
+      "title": "히메사키 리나미",
+      "message": ""
+    },
+    {
+      "characterId": "hrnm",
+      "type": "PushType_MoneyFull",
+      "number": 1,
+      "title": "히메사키 리나미",
+      "message": ""
+    },
+    {
+      "characterId": "hrnm",
+      "type": "PushType_MoneyFull",
+      "number": 2,
+      "title": "히메사키 리나미",
+      "message": ""
+    },
+    {
+      "characterId": "hrnm",
+      "type": "PushType_DailyMission",
+      "number": 1,
+      "title": "히메사키 리나미",
+      "message": ""
+    },
+    {
+      "characterId": "hrnm",
+      "type": "PushType_Login",
+      "number": 1,
+      "title": "히메사키 리나미",
+      "message": ""
+    },
+    {
+      "characterId": "hrnm",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 1,
+      "title": "히메사키 리나미",
+      "message": ""
+    },
+    {
+      "characterId": "hrnm",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 2,
+      "title": "히메사키 리나미",
+      "message": ""
+    },
+    {
+      "characterId": "hrnm",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 3,
+      "title": "히메사키 리나미",
+      "message": ""
+    },
+    {
+      "characterId": "hrnm",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 1,
+      "title": "히메사키 리나미",
+      "message": ""
+    },
+    {
+      "characterId": "hrnm",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 2,
+      "title": "히메사키 리나미",
+      "message": ""
+    },
+    {
+      "characterId": "hrnm",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 3,
+      "title": "히메사키 리나미",
+      "message": ""
+    },
+    {
+      "characterId": "hski",
+      "type": "PushType_ApFull",
+      "number": 1,
+      "title": "하나미 사키",
+      "message": ""
+    },
+    {
+      "characterId": "hski",
+      "type": "PushType_ApFull",
+      "number": 2,
+      "title": "하나미 사키",
+      "message": ""
+    },
+    {
+      "characterId": "hski",
+      "type": "PushType_MoneyFull",
+      "number": 1,
+      "title": "하나미 사키",
+      "message": ""
+    },
+    {
+      "characterId": "hski",
+      "type": "PushType_MoneyFull",
+      "number": 2,
+      "title": "하나미 사키",
+      "message": ""
+    },
+    {
+      "characterId": "hski",
+      "type": "PushType_DailyMission",
+      "number": 1,
+      "title": "하나미 사키",
+      "message": ""
+    },
+    {
+      "characterId": "hski",
+      "type": "PushType_Login",
+      "number": 1,
+      "title": "하나미 사키",
+      "message": ""
+    },
+    {
+      "characterId": "hski",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 1,
+      "title": "하나미 사키",
+      "message": ""
+    },
+    {
+      "characterId": "hski",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 2,
+      "title": "하나미 사키",
+      "message": ""
+    },
+    {
+      "characterId": "hski",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 3,
+      "title": "하나미 사키",
+      "message": ""
+    },
+    {
+      "characterId": "hski",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 1,
+      "title": "하나미 사키",
+      "message": ""
+    },
+    {
+      "characterId": "hski",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 2,
+      "title": "하나미 사키",
+      "message": ""
+    },
+    {
+      "characterId": "hski",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 3,
+      "title": "하나미 사키",
+      "message": ""
+    },
+    {
+      "characterId": "hume",
+      "type": "PushType_ApFull",
+      "number": 1,
+      "title": "하나미 우메",
+      "message": ""
+    },
+    {
+      "characterId": "hume",
+      "type": "PushType_ApFull",
+      "number": 2,
+      "title": "하나미 우메",
+      "message": ""
+    },
+    {
+      "characterId": "hume",
+      "type": "PushType_MoneyFull",
+      "number": 1,
+      "title": "하나미 우메",
+      "message": ""
+    },
+    {
+      "characterId": "hume",
+      "type": "PushType_MoneyFull",
+      "number": 2,
+      "title": "하나미 우메",
+      "message": ""
+    },
+    {
+      "characterId": "hume",
+      "type": "PushType_DailyMission",
+      "number": 1,
+      "title": "하나미 우메",
+      "message": ""
+    },
+    {
+      "characterId": "hume",
+      "type": "PushType_Login",
+      "number": 1,
+      "title": "하나미 우메",
+      "message": ""
+    },
+    {
+      "characterId": "hume",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 1,
+      "title": "하나미 우메",
+      "message": ""
+    },
+    {
+      "characterId": "hume",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 2,
+      "title": "하나미 우메",
+      "message": ""
+    },
+    {
+      "characterId": "hume",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 3,
+      "title": "하나미 우메",
+      "message": ""
+    },
+    {
+      "characterId": "hume",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 1,
+      "title": "하나미 우메",
+      "message": ""
+    },
+    {
+      "characterId": "hume",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 2,
+      "title": "하나미 우메",
+      "message": ""
+    },
+    {
+      "characterId": "hume",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 3,
+      "title": "하나미 우메",
+      "message": ""
+    },
+    {
+      "characterId": "jsna",
+      "type": "PushType_ApFull",
+      "number": 1,
+      "title": "주오 세나",
+      "message": ""
+    },
+    {
+      "characterId": "jsna",
+      "type": "PushType_ApFull",
+      "number": 2,
+      "title": "주오 세나",
+      "message": ""
+    },
+    {
+      "characterId": "jsna",
+      "type": "PushType_MoneyFull",
+      "number": 1,
+      "title": "주오 세나",
+      "message": ""
+    },
+    {
+      "characterId": "jsna",
+      "type": "PushType_MoneyFull",
+      "number": 2,
+      "title": "주오 세나",
+      "message": ""
+    },
+    {
+      "characterId": "jsna",
+      "type": "PushType_DailyMission",
+      "number": 1,
+      "title": "주오 세나",
+      "message": ""
+    },
+    {
+      "characterId": "jsna",
+      "type": "PushType_Login",
+      "number": 1,
+      "title": "주오 세나",
+      "message": ""
+    },
+    {
+      "characterId": "jsna",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 1,
+      "title": "주오 세나",
+      "message": ""
+    },
+    {
+      "characterId": "jsna",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 2,
+      "title": "주오 세나",
+      "message": ""
+    },
+    {
+      "characterId": "jsna",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 3,
+      "title": "주오 세나",
+      "message": ""
+    },
+    {
+      "characterId": "jsna",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 1,
+      "title": "주오 세나",
+      "message": ""
+    },
+    {
+      "characterId": "jsna",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 2,
+      "title": "주오 세나",
+      "message": ""
+    },
+    {
+      "characterId": "jsna",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 3,
+      "title": "주오 세나",
+      "message": ""
+    },
+    {
+      "characterId": "kcna",
+      "type": "PushType_ApFull",
+      "number": 1,
+      "title": "쿠라모토 치나",
+      "message": ""
+    },
+    {
+      "characterId": "kcna",
+      "type": "PushType_ApFull",
+      "number": 2,
+      "title": "쿠라모토 치나",
+      "message": ""
+    },
+    {
+      "characterId": "kcna",
+      "type": "PushType_MoneyFull",
+      "number": 1,
+      "title": "쿠라모토 치나",
+      "message": ""
+    },
+    {
+      "characterId": "kcna",
+      "type": "PushType_MoneyFull",
+      "number": 2,
+      "title": "쿠라모토 치나",
+      "message": ""
+    },
+    {
+      "characterId": "kcna",
+      "type": "PushType_DailyMission",
+      "number": 1,
+      "title": "쿠라모토 치나",
+      "message": ""
+    },
+    {
+      "characterId": "kcna",
+      "type": "PushType_Login",
+      "number": 1,
+      "title": "쿠라모토 치나",
+      "message": ""
+    },
+    {
+      "characterId": "kcna",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 1,
+      "title": "쿠라모토 치나",
+      "message": ""
+    },
+    {
+      "characterId": "kcna",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 2,
+      "title": "쿠라모토 치나",
+      "message": ""
+    },
+    {
+      "characterId": "kcna",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 3,
+      "title": "쿠라모토 치나",
+      "message": ""
+    },
+    {
+      "characterId": "kcna",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 1,
+      "title": "쿠라모토 치나",
+      "message": ""
+    },
+    {
+      "characterId": "kcna",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 2,
+      "title": "쿠라모토 치나",
+      "message": ""
+    },
+    {
+      "characterId": "kcna",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 3,
+      "title": "쿠라모토 치나",
+      "message": ""
+    },
+    {
+      "characterId": "kllj",
+      "type": "PushType_ApFull",
+      "number": 1,
+      "title": "카츠라기 릴리야",
+      "message": ""
+    },
+    {
+      "characterId": "kllj",
+      "type": "PushType_ApFull",
+      "number": 2,
+      "title": "카츠라기 릴리야",
+      "message": ""
+    },
+    {
+      "characterId": "kllj",
+      "type": "PushType_MoneyFull",
+      "number": 1,
+      "title": "카츠라기 릴리야",
+      "message": ""
+    },
+    {
+      "characterId": "kllj",
+      "type": "PushType_MoneyFull",
+      "number": 2,
+      "title": "카츠라기 릴리야",
+      "message": ""
+    },
+    {
+      "characterId": "kllj",
+      "type": "PushType_DailyMission",
+      "number": 1,
+      "title": "카츠라기 릴리야",
+      "message": ""
+    },
+    {
+      "characterId": "kllj",
+      "type": "PushType_Login",
+      "number": 1,
+      "title": "카츠라기 릴리야",
+      "message": ""
+    },
+    {
+      "characterId": "kllj",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 1,
+      "title": "카츠라기 릴리야",
+      "message": ""
+    },
+    {
+      "characterId": "kllj",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 2,
+      "title": "카츠라기 릴리야",
+      "message": ""
+    },
+    {
+      "characterId": "kllj",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 3,
+      "title": "카츠라기 릴리야",
+      "message": ""
+    },
+    {
+      "characterId": "kllj",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 1,
+      "title": "카츠라기 릴리야",
+      "message": ""
+    },
+    {
+      "characterId": "kllj",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 2,
+      "title": "카츠라기 릴리야",
+      "message": ""
+    },
+    {
+      "characterId": "kllj",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 3,
+      "title": "카츠라기 릴리야",
+      "message": ""
+    },
+    {
+      "characterId": "shro",
+      "type": "PushType_ApFull",
+      "number": 1,
+      "title": "시로사와 히로",
+      "message": ""
+    },
+    {
+      "characterId": "shro",
+      "type": "PushType_ApFull",
+      "number": 2,
+      "title": "시로사와 히로",
+      "message": ""
+    },
+    {
+      "characterId": "shro",
+      "type": "PushType_MoneyFull",
+      "number": 1,
+      "title": "시로사와 히로",
+      "message": ""
+    },
+    {
+      "characterId": "shro",
+      "type": "PushType_MoneyFull",
+      "number": 2,
+      "title": "시로사와 히로",
+      "message": ""
+    },
+    {
+      "characterId": "shro",
+      "type": "PushType_DailyMission",
+      "number": 1,
+      "title": "시로사와 히로",
+      "message": ""
+    },
+    {
+      "characterId": "shro",
+      "type": "PushType_Login",
+      "number": 1,
+      "title": "시로사와 히로",
+      "message": ""
+    },
+    {
+      "characterId": "shro",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 1,
+      "title": "시로사와 히로",
+      "message": ""
+    },
+    {
+      "characterId": "shro",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 2,
+      "title": "시로사와 히로",
+      "message": ""
+    },
+    {
+      "characterId": "shro",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 3,
+      "title": "시로사와 히로",
+      "message": ""
+    },
+    {
+      "characterId": "shro",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 1,
+      "title": "시로사와 히로",
+      "message": ""
+    },
+    {
+      "characterId": "shro",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 2,
+      "title": "시로사와 히로",
+      "message": ""
+    },
+    {
+      "characterId": "shro",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 3,
+      "title": "시로사와 히로",
+      "message": ""
+    },
+    {
+      "characterId": "ssmk",
+      "type": "PushType_ApFull",
+      "number": 1,
+      "title": "시운 스미카",
+      "message": ""
+    },
+    {
+      "characterId": "ssmk",
+      "type": "PushType_ApFull",
+      "number": 2,
+      "title": "시운 스미카",
+      "message": ""
+    },
+    {
+      "characterId": "ssmk",
+      "type": "PushType_MoneyFull",
+      "number": 1,
+      "title": "시운 스미카",
+      "message": ""
+    },
+    {
+      "characterId": "ssmk",
+      "type": "PushType_MoneyFull",
+      "number": 2,
+      "title": "시운 스미카",
+      "message": ""
+    },
+    {
+      "characterId": "ssmk",
+      "type": "PushType_DailyMission",
+      "number": 1,
+      "title": "시운 스미카",
+      "message": ""
+    },
+    {
+      "characterId": "ssmk",
+      "type": "PushType_Login",
+      "number": 1,
+      "title": "시운 스미카",
+      "message": ""
+    },
+    {
+      "characterId": "ssmk",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 1,
+      "title": "시운 스미카",
+      "message": ""
+    },
+    {
+      "characterId": "ssmk",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 2,
+      "title": "시운 스미카",
+      "message": ""
+    },
+    {
+      "characterId": "ssmk",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 3,
+      "title": "시운 스미카",
+      "message": ""
+    },
+    {
+      "characterId": "ssmk",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 1,
+      "title": "시운 스미카",
+      "message": ""
+    },
+    {
+      "characterId": "ssmk",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 2,
+      "title": "시운 스미카",
+      "message": ""
+    },
+    {
+      "characterId": "ssmk",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 3,
+      "title": "시운 스미카",
+      "message": ""
+    },
+    {
+      "characterId": "ttmr",
+      "type": "PushType_ApFull",
+      "number": 1,
+      "title": "츠키무라 테마리",
+      "message": ""
+    },
+    {
+      "characterId": "ttmr",
+      "type": "PushType_ApFull",
+      "number": 2,
+      "title": "츠키무라 테마리",
+      "message": ""
+    },
+    {
+      "characterId": "ttmr",
+      "type": "PushType_MoneyFull",
+      "number": 1,
+      "title": "츠키무라 테마리",
+      "message": ""
+    },
+    {
+      "characterId": "ttmr",
+      "type": "PushType_MoneyFull",
+      "number": 2,
+      "title": "츠키무라 테마리",
+      "message": ""
+    },
+    {
+      "characterId": "ttmr",
+      "type": "PushType_DailyMission",
+      "number": 1,
+      "title": "츠키무라 테마리",
+      "message": ""
+    },
+    {
+      "characterId": "ttmr",
+      "type": "PushType_Login",
+      "number": 1,
+      "title": "츠키무라 테마리",
+      "message": ""
+    },
+    {
+      "characterId": "ttmr",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 1,
+      "title": "츠키무라 테마리",
+      "message": ""
+    },
+    {
+      "characterId": "ttmr",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 2,
+      "title": "츠키무라 테마리",
+      "message": ""
+    },
+    {
+      "characterId": "ttmr",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 3,
+      "title": "츠키무라 테마리",
+      "message": ""
+    },
+    {
+      "characterId": "ttmr",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 1,
+      "title": "츠키무라 테마리",
+      "message": ""
+    },
+    {
+      "characterId": "ttmr",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 2,
+      "title": "츠키무라 테마리",
+      "message": ""
+    },
+    {
+      "characterId": "ttmr",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 3,
+      "title": "츠키무라 테마리",
+      "message": ""
+    }
+  ]
+}
