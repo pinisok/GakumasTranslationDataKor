@@ -722,7 +722,7 @@
     },
     {
       "id": "Label_ProducePlanType3",
-      "name": "",
+      "name": "어노말리",
       "swapName": ""
     },
     {
@@ -737,18 +737,18 @@
     },
     {
       "id": "Label_ProduceSkillPlanType3",
-      "name": "",
+      "name": "【어노말리 전용】",
       "swapName": ""
     },
     {
       "id": "Label_ReviewAdd",
-      "name": "",
-      "swapName": ""
+      "name": "호인상 증가",
+      "swapName": "호인상 증가"
     },
     {
       "id": "Label_ReviewReduce",
-      "name": "",
-      "swapName": ""
+      "name": "호인상 감소",
+      "swapName": "호인상 감소"
     },
     {
       "id": "Label_ShopProduceCardPriceDiscountMultiple",
@@ -777,12 +777,12 @@
     },
     {
       "id": "Label_Stance",
-      "name": "",
+      "name": "지침",
       "swapName": ""
     },
     {
       "id": "Label_StanceLock",
-      "name": "",
+      "name": "지침 고정",
       "swapName": ""
     },
     {

@@ -72,7 +72,7 @@
           "targetId": "",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": ""
+          "text": "손패의"
         },
         {
           "type": "ProduceDescriptionType_ProduceCardCategory",
@@ -91,7 +91,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ""
+          "text": "손패의"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -113,7 +113,7 @@
           "targetId": "",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": ""
+          "text": "제외한다"
         },
         {
           "type": "ProduceDescriptionType_ProduceCardCategory",
@@ -132,7 +132,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ""
+          "text": "제외한다"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -315,7 +315,7 @@
           "targetId": "",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": ""
+          "text": "효과의 스킬 카드"
         }
       ],
       "produceDescriptions": [
@@ -337,7 +337,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ""
+          "text": "효과의 스킬 카드"
         }
       ]
     },
@@ -356,7 +356,7 @@
           "targetId": "",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": ""
+          "text": "효과의 스킬 카드"
         }
       ],
       "produceDescriptions": [
@@ -378,7 +378,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ""
+          "text": "효과의 스킬 카드"
         }
       ]
     },
@@ -390,14 +390,14 @@
           "targetId": "Label_ExamConcentration_Produce",
           "examEffectType": "ProduceExamEffectType_ExamConcentration",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": ""
+          "text": "강기"
         },
         {
           "type": "ProduceDescriptionType_PlainText",
           "targetId": "",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": ""
+          "text": "효과의 스킬 카드"
         }
       ],
       "produceDescriptions": [
@@ -409,7 +409,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": ""
+          "text": "강기"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -419,7 +419,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ""
+          "text": "효과의 스킬 카드"
         }
       ]
     },
@@ -431,7 +431,7 @@
           "targetId": "Label_ExamConcentration_Produce",
           "examEffectType": "ProduceExamEffectType_ExamConcentration",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": ""
+          "text": "강기"
         },
         {
           "type": "ProduceDescriptionType_PlainText",
@@ -445,14 +445,14 @@
           "targetId": "Label_ExamPreservation_Produce",
           "examEffectType": "ProduceExamEffectType_ExamPreservation",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": ""
+          "text": "온존"
         },
         {
           "type": "ProduceDescriptionType_PlainText",
           "targetId": "",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": ""
+          "text": "효과의 스킬 카드"
         }
       ],
       "produceDescriptions": [
@@ -464,7 +464,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": ""
+          "text": "강기"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -484,7 +484,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPreservation_Produce",
-          "text": ""
+          "text": "온존"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -494,7 +494,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ""
+          "text": "효과의 스킬 카드"
         }
       ]
     },
@@ -513,7 +513,7 @@
           "targetId": "",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": ""
+          "text": "효과의 스킬 카드"
         }
       ],
       "produceDescriptions": [
@@ -535,7 +535,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ""
+          "text": "효과의 스킬 카드"
         }
       ]
     },
@@ -561,14 +561,14 @@
           "targetId": "Label_ExamPreservation_Produce",
           "examEffectType": "ProduceExamEffectType_ExamPreservation",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": ""
+          "text": "온존"
         },
         {
           "type": "ProduceDescriptionType_PlainText",
           "targetId": "",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": ""
+          "text": "효과의 스킬 카드"
         }
       ],
       "produceDescriptions": [
@@ -600,7 +600,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPreservation_Produce",
-          "text": ""
+          "text": "온존"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -610,7 +610,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ""
+          "text": "효과의 스킬 카드"
         }
       ]
     },
@@ -629,7 +629,7 @@
           "targetId": "",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": ""
+          "text": "효과의 스킬 카드"
         }
       ],
       "produceDescriptions": [
@@ -651,7 +651,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ""
+          "text": "효과의 스킬 카드"
         }
       ]
     },
@@ -670,7 +670,7 @@
           "targetId": "",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": ""
+          "text": "효과의 스킬 카드"
         }
       ],
       "produceDescriptions": [
@@ -692,7 +692,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ""
+          "text": "효과의 스킬 카드"
         }
       ]
     },
@@ -704,14 +704,14 @@
           "targetId": "Label_ExamPreservation_Produce",
           "examEffectType": "ProduceExamEffectType_ExamPreservation",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": ""
+          "text": "온존"
         },
         {
           "type": "ProduceDescriptionType_PlainText",
           "targetId": "",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": ""
+          "text": "효과의 스킬 카드"
         }
       ],
       "produceDescriptions": [
@@ -723,7 +723,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPreservation_Produce",
-          "text": ""
+          "text": "온존"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -733,7 +733,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ""
+          "text": "효과의 스킬 카드"
         }
       ]
     },
@@ -752,7 +752,7 @@
           "targetId": "",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": ""
+          "text": "효과의 스킬 카드"
         }
       ],
       "produceDescriptions": [
@@ -774,7 +774,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ""
+          "text": "효과의 스킬 카드"
         }
       ]
     },
@@ -882,7 +882,7 @@
           "targetId": "",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": ""
+          "text": "덱이나 버림패에 있는"
         },
         {
           "type": "ProduceDescriptionType_ProduceCard",
@@ -908,7 +908,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ""
+          "text": "덱이나 버림패에 있는"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1132,14 +1132,14 @@
           "targetId": "Label_ProduceCardPositionType_Hold",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": ""
+          "text": "보류"
         },
         {
           "type": "ProduceDescriptionType_PlainText",
           "targetId": "",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": ""
+          "text": "에 있는 스킬 카드"
         }
       ],
       "produceDescriptions": [
@@ -1151,7 +1151,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardPositionType_Hold",
-          "text": ""
+          "text": "보류"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1161,7 +1161,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ""
+          "text": "에 있는 스킬 카드"
         }
       ]
     },
@@ -1221,7 +1221,7 @@
           "targetId": "",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": ""
+          "text": "손패의"
         },
         {
           "type": "ProduceDescriptionType_ProduceCardCategory",
@@ -1240,7 +1240,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ""
+          "text": "손패의"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -1581,7 +1581,7 @@
           "targetId": "",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": ""
+          "text": "효과의 스킬 카드"
         }
       ],
       "produceDescriptions": [
@@ -1603,7 +1603,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ""
+          "text": "효과의 스킬 카드"
         }
       ]
     },
@@ -1622,7 +1622,7 @@
           "targetId": "",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": ""
+          "text": "효과의 스킬 카드"
         }
       ],
       "produceDescriptions": [
@@ -1644,7 +1644,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ""
+          "text": "효과의 스킬 카드"
         }
       ]
     },
@@ -1656,14 +1656,14 @@
           "targetId": "Label_ExamConcentration_Produce",
           "examEffectType": "ProduceExamEffectType_ExamConcentration",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": ""
+          "text": "강기"
         },
         {
           "type": "ProduceDescriptionType_PlainText",
           "targetId": "",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": ""
+          "text": "효과의 스킬 카드"
         }
       ],
       "produceDescriptions": [
@@ -1675,7 +1675,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": ""
+          "text": "강기"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1685,7 +1685,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ""
+          "text": "효과의 스킬 카드"
         }
       ]
     },
@@ -1704,7 +1704,7 @@
           "targetId": "",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": ""
+          "text": "효과의 스킬 카드"
         }
       ],
       "produceDescriptions": [
@@ -1726,7 +1726,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ""
+          "text": "효과의 스킬 카드"
         }
       ]
     },
@@ -1738,14 +1738,14 @@
           "targetId": "Label_ExamPreservation_Produce",
           "examEffectType": "ProduceExamEffectType_ExamPreservation",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": ""
+          "text": "온존"
         },
         {
           "type": "ProduceDescriptionType_PlainText",
           "targetId": "",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": ""
+          "text": "효과의 스킬 카드"
         }
       ],
       "produceDescriptions": [
@@ -1757,7 +1757,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPreservation_Produce",
-          "text": ""
+          "text": "온존"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1767,7 +1767,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ""
+          "text": "효과의 스킬 카드"
         }
       ]
     },
@@ -1786,7 +1786,7 @@
           "targetId": "",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": ""
+          "text": "효과의 스킬 카드"
         }
       ],
       "produceDescriptions": [
@@ -1808,7 +1808,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ""
+          "text": "효과의 스킬 카드"
         }
       ]
     },
@@ -1827,7 +1827,7 @@
           "targetId": "",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": ""
+          "text": "효과의 스킬 카드"
         }
       ],
       "produceDescriptions": [
@@ -1849,7 +1849,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ""
+          "text": "효과의 스킬 카드"
         }
       ]
     },
@@ -1868,7 +1868,7 @@
           "targetId": "",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": ""
+          "text": "효과의 스킬 카드"
         }
       ],
       "produceDescriptions": [
@@ -1890,7 +1890,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ""
+          "text": "효과의 스킬 카드"
         }
       ]
     },
@@ -2142,7 +2142,7 @@
           "targetId": "",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": ""
+          "text": "덱의"
         },
         {
           "type": "ProduceDescriptionType_ProduceCardCategory",
@@ -2168,7 +2168,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ""
+          "text": "덱의"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
