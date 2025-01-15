@@ -83,7 +83,7 @@
     },
     {
       "id": "memory_tag_20",
-      "defaultName": ""
+      "defaultName": "어노말리"
     },
     {
       "id": "memory_tag_21",
@@ -91,15 +91,15 @@
     },
     {
       "id": "memory_tag_22",
-      "defaultName": ""
+      "defaultName": "강기"
     },
     {
       "id": "memory_tag_23",
-      "defaultName": ""
+      "defaultName": "온존"
     },
     {
       "id": "memory_tag_24",
-      "defaultName": ""
+      "defaultName": "성장효과"
     }
   ]
 }
