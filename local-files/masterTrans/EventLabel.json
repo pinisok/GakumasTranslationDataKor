@@ -19,7 +19,7 @@
     },
     {
       "eventType": "EventType_StoryCampaign",
-      "name": ""
+      "name": "커뮤니티 무료 개방 중"
     },
     {
       "eventType": "EventType_StoryEvent",
@@ -39,7 +39,7 @@
     },
     {
       "eventType": "EventType_GvgRaid",
-      "name": ""
+      "name": "지방행각"
     }
   ]
 }
