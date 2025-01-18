@@ -195,7 +195,7 @@
     },
     {
       "id": "music.external_url_sheet.description",
-      "description": "음악 전송 정보 사이트로 이동하시겠습니까? \\n※웹 브라우저가 시작됩니다"
+      "description": "음악 스트리밍 정보 사이트로 이동하시겠습니까? \\n※웹 브라우저가 시작됩니다"
     },
     {
       "id": "octo_file_download_confirm_sheet.alert.all",
@@ -383,7 +383,7 @@
     },
     {
       "id": "producer.level.additional_reward",
-      "description": "새롭게 추가된 PLv업 보상 중\\n이미 달성된 것을 정리해 획득했습니다."
+      "description": "새롭게 추가된 PLv업 보상 중\\n이미 달성한 것들을 획득했습니다."
     },
     {
       "id": "profile.activity.evaluate",
@@ -395,15 +395,15 @@
     },
     {
       "id": "pvp.rate.reward.rate.description",
-      "description": "레이트 Pt를 일정수만큼 돌릴 때마다 보상을 획득할 수 있습니다."
+      "description": "레이트 Pt를 일정 수 모을 때마다 보상을 획득할 수 있습니다."
     },
     {
       "id": "pvp.rate.same_character_confirm_sheet.description",
-      "description": "다른 유닛 프레임으로 편성 중인 아이돌의 메모리를 선택하고 있습니다. 이대로 편성하면 아래의 스테이지에 설정되어 있는 선택된 메모리가 유닛에서 벗어나지 않겠습니까?"
+      "description": "다른 유닛 슬롯에 편성 중인 아이돌의 메모리를 선택하고 있습니다. 이대로 편성하면 아래의 스테이지에 설정된 선택 중인 메모리가 유닛에서 제거됩니다. 제거하시겠습니까?"
     },
     {
       "id": "pvp.rate.same_character_confirm_sheet.description_sub",
-      "description": "다른 유닛 프레임으로 편성 중인 아이돌의 메모리를 선택하고 있습니다. 이대로 편성하면 아래의 스테이지에 설정되어 있는 선택된 메모리가 유닛에서 벗어나지 않겠습니까?"
+      "description": "다른 유닛 슬롯에 편성 중인 아이돌의 메모리를 선택하고 있습니다. 이대로 편성하면 아래의 스테이지에 설정된 선택 중인 메모리가 유닛에서 제거됩니다. 제거하시겠습니까?"
     },
     {
       "id": "setting.live_quality_sheet.description",
@@ -415,7 +415,7 @@
     },
     {
       "id": "setting.produce.exam_effect_warning.description",
-      "description": "스킬 카드/P 음료의 효과가 발동하지 않을 때 \\n확인 메시지를 표시합니다."
+      "description": "스킬 카드/P음료의 효과가 발동하지 않을 때 \\n확인 메시지를 표시합니다."
     },
     {
       "id": "shop.label.term_suffix",
@@ -427,39 +427,39 @@
     },
     {
       "id": "story_event.box_gasha.draw.sheet.title",
-      "description": "이벤트 가샤 확인"
+      "description": "이벤트 가챠 확인"
     },
     {
       "id": "story_event.box_gasha.item_name",
-      "description": "이벤트용 아이템"
+      "description": "이벤트 용 아이템"
     },
     {
       "id": "story_event.box_gasha.reset_description.EmptyAll",
-      "description": "보상을 모두 획득하면 자동으로 이벤트 가샤의 라인업이\n업데이트됩니다."
+      "description": "보상을 모두 획득하면 자동으로 이벤트 가챠의 라인업이\n업데이트됩니다."
     },
     {
       "id": "story_event.box_gasha.reset_description.EmptyFeature",
-      "description": "픽업 보상을 모두 획득하면 자동으로 이벤트 가샤의\n라인업이 업데이트됩니다."
+      "description": "픽업 보상을 모두 획득하면 자동으로 이벤트 가챠의\n라인업이 업데이트됩니다."
     },
     {
       "id": "story_event.box_gasha.reset_description.Optional",
-      "description": "보상 리셋을 실행하여 언제든지 이벤트 Gasha 라인업\n업데이트가 가능합니다. ※실행하면 즉시 갱신됩니다"
+      "description": "보상 리셋을 실행하여 언제든지 이벤트 가챠 라인업\n업데이트가 가능합니다. ※실행하면 즉시 갱신됩니다"
     },
     {
       "id": "story_event.box_gasha.reset_result.sheet.description",
-      "description": "{0}상자의 모든 보상을 획득했습니다.\\n이벤트 가샤 업데이트"
+      "description": "{0}상자의 모든 보상을 획득했습니다\\n이벤트 가챠 업데이트"
     },
     {
       "id": "story_event.box_gasha.reset_result.sheet.title",
-      "description": "이벤트 가샤 확인"
+      "description": "이벤트 가챠 확인"
     },
     {
       "id": "story_event.box_gasha.reset.sheet.title",
-      "description": "이벤트 가샤 확인"
+      "description": "이벤트 가챠 확인"
     },
     {
       "id": "story_event.box_gasha.story_reward_gasha_count_sheet.condition",
-      "description": "이벤트 가샤를 {0}번 당기면 해제"
+      "description": "이벤트 가챠를 {0}번 뽑으면 해제"
     },
     {
       "id": "story_event.event_coin_bonus",
@@ -499,19 +499,19 @@
     },
     {
       "id": "story.play_confirm_sheet.unread_previous_chapter.description",
-      "description": "읽지 않은 커뮤니티가 있습니다. \\ n 커뮤니티를 모두 읽으면 초성 커뮤니티 최신 이야기를 읽을 수 있습니다."
+      "description": "읽지 않은 커뮤니티가 있습니다\\n커뮤니티를 모두 읽으면 하츠보시 커뮤니티 최신화를 읽을 수 있습니다."
     },
     {
       "id": "story.story_event.main_story.move_to_story_list",
-      "description": "커뮤니티\n보자"
+      "description": "커뮤니티를\n보자"
     },
     {
       "id": "story.story_event.section.box_gasha_condition_lock_text",
-      "description": "특정 횟수 이벤트 가샤를 당기고 직전의 커뮤니티를 보면 해방"
+      "description": "특정 횟수 이벤트 가챠를 뽑고 직전의 커뮤니티를 보면 해방"
     },
     {
       "id": "story.story_event.section.normal_condition_lock_text",
-      "description": "이벤트 Pt 획득하고 이전 커뮤니티를 읽음으로써 해방"
+      "description": "이벤트 Pt 획득하고 이전 커뮤니티를 읽어 해방"
     },
     {
       "id": "story.story_event.section.unlockable_condition_lock_text",
@@ -519,7 +519,7 @@
     },
     {
       "id": "tutorial.idol_receive.attention_1",
-      "description": "초기 상태의 프로듀스 아이돌을 획득합니다\\n1번 획득하면 나중에 변경할 수 없습니다\\n어나더 ver."
+      "description": "초기 상태의 프로듀스 아이돌을 획득합니다\\n1번 획득하면 나중에 변경할 수 없습니다\\n어나더 ver. 를 획득한 경우 오리지널 ver.의 프로듀스 아이돌 조각도 획득할 수 있습니다."
     },
     {
       "id": "tutorial.idol_receive.attention_3",
@@ -527,15 +527,15 @@
     },
     {
       "id": "tutorial.idol_receive.attention_4",
-      "description": "생산 아이돌 조각은 자동으로 받습니다"
+      "description": "프로듀스 아이돌 조각은 자동으로 수령됩니다"
     },
     {
       "id": "tutorial.idol_receive.description_4",
-      "description": "'{0}'을 \\n '{1}'로 변환하여 획득했습니다."
+      "description": "「{0}」을\\n「{1}」으로 변환하여 획득했습니다."
     },
     {
       "id": "twitter_confirm_sheet.description",
-      "description": "공식 X(구 Twitter)의 페이지를 열겠습니까?\\n※웹 브라우저가 일어납니다"
+      "description": "공식 X(구 Twitter)의 페이지를 열겠습니까?\\n※웹 브라우저가 실행됩니다"
     }
   ]
 }

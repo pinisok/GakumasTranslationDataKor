@@ -13,16 +13,16 @@
     {
       "id": "Convert_002",
       "name": "레슨",
-      "swapName": ""
+      "swapName": "시험・스테이지"
     },
     {
       "id": "Convert_ConditionThreshold",
-      "name": "",
-      "swapName": ""
+      "name": "수업 CLEAR의 ",
+      "swapName": "점수가 "
     },
     {
       "id": "Convert_ConditionThreshold_NotClear",
-      "name": "",
+      "name": "수업 미 CLEAR",
       "swapName": "스코어가  999以下"
     },
     {
@@ -48,7 +48,7 @@
     {
       "id": "Convert_StepLessonType_DanceLesson",
       "name": "【댄스 레슨・댄스 턴인 경우 】",
-      "swapName": ""
+      "swapName": "댄스 턴이라면 "
     },
     {
       "id": "Convert_StepLessonType_SpLesson",
@@ -58,12 +58,12 @@
     {
       "id": "Convert_StepLessonType_VisualLesson",
       "name": "【비주얼 레슨-비주얼 턴일 경우 】",
-      "swapName": ""
+      "swapName": "비주얼 턴이라면 "
     },
     {
       "id": "Convert_StepLessonType_VocalLesson",
       "name": "【보컬 레슨, 보컬 턴일 경우 】",
-      "swapName": ""
+      "swapName": "보컬 턴이라면 "
     },
     {
       "id": "Label_ActiveSkillCard",
@@ -72,13 +72,13 @@
     },
     {
       "id": "Label_AggressiveAdd",
-      "name": "",
-      "swapName": ""
+      "name": "의욕 값 증가",
+      "swapName": "의욕 값 증가"
     },
     {
       "id": "Label_AggressiveReduce",
-      "name": "",
-      "swapName": ""
+      "name": "의욕 값 감소",
+      "swapName": "의욕 값 감소"
     },
     {
       "id": "Label_AuditionNpcEnhance",
@@ -87,82 +87,82 @@
     },
     {
       "id": "Label_BlockAdd",
-      "name": "",
-      "swapName": ""
+      "name": "원기 값 증가",
+      "swapName": "원기 값 증가"
     },
     {
       "id": "Label_BlockReduce",
-      "name": "",
-      "swapName": ""
+      "name": "원기 값 감소",
+      "swapName": "원기 값 감소"
     },
     {
       "id": "Label_CardDrawAdd",
-      "name": "",
-      "swapName": ""
+      "name": "드로우 매수 증가",
+      "swapName": "드로우 매수 증가"
     },
     {
       "id": "Label_CardDrawReduce",
-      "name": "",
-      "swapName": ""
+      "name": "드로우 매수 감소",
+      "swapName": "드로우 매수 감소"
     },
     {
       "id": "Label_CardStatusEnchantChange",
-      "name": "",
-      "swapName": ""
+      "name": "성장 효과 대체",
+      "swapName": "성장 효과 대체"
     },
     {
       "id": "Label_CostAdd",
-      "name": "",
-      "swapName": ""
+      "name": "비용 증가",
+      "swapName": "비용 증가"
     },
     {
       "id": "Label_CostBuffAdd",
-      "name": "",
-      "swapName": ""
+      "name": "강화 상태 비용 증가",
+      "swapName": "강화 상태 비용 증가"
     },
     {
       "id": "Label_CostBuffReduce",
-      "name": "",
-      "swapName": ""
+      "name": "강화 상태 비용 감소",
+      "swapName": "강화 상태 비용 감소"
     },
     {
       "id": "Label_CostPenetrateAdd",
-      "name": "",
-      "swapName": ""
+      "name": "체력 소비 비용 증가",
+      "swapName": "체력 소비 비용 증가"
     },
     {
       "id": "Label_CostPenetrateReduce",
-      "name": "",
-      "swapName": ""
+      "name": "체력 소비 비용 값 감소",
+      "swapName": "체력 소비 비용 값 감소"
     },
     {
       "id": "Label_CostReduce",
-      "name": "",
-      "swapName": ""
+      "name": "비용 값 감소",
+      "swapName": "비용 값 감소"
     },
     {
       "id": "Label_EffectAdd",
-      "name": "",
-      "swapName": ""
+      "name": "효과 추가",
+      "swapName": "효과 추가"
     },
     {
       "id": "Label_EffectChange",
-      "name": "",
-      "swapName": ""
+      "name": "효과 대체",
+      "swapName": "효과 대체"
     },
     {
       "id": "Label_EffectDelete",
-      "name": "",
-      "swapName": ""
+      "name": "효과 삭제",
+      "swapName": "효과 삭제"
     },
     {
       "id": "Label_ExamAddGrowEffect",
-      "name": "",
+      "name": "성장 효과",
       "swapName": ""
     },
     {
       "id": "Label_ExamAggressiveReduce",
-      "name": "",
+      "name": "의욕 감소",
       "swapName": ""
     },
     {
@@ -182,7 +182,7 @@
     },
     {
       "id": "Label_ExamBlockAddDownRestriction",
-      "name": "",
+      "name": "불안 무효",
       "swapName": ""
     },
     {
@@ -207,7 +207,7 @@
     },
     {
       "id": "Label_ExamCardDuplicate",
-      "name": "",
+      "name": "복제",
       "swapName": ""
     },
     {
@@ -232,32 +232,32 @@
     },
     {
       "id": "Label_ExamCardStaminaConsumptionChange",
-      "name": "",
+      "name": "소비 체력 변화",
       "swapName": ""
     },
     {
       "id": "Label_ExamCardStaminaConsumptionDownSpecify",
-      "name": "",
+      "name": "소비 체력 저하",
       "swapName": ""
     },
     {
       "id": "Label_ExamCardUpgrade",
       "name": "레슨 중 강화",
-      "swapName": ""
+      "swapName": "시험·스테이지중 강화"
     },
     {
       "id": "Label_ExamConcentration_Exam",
-      "name": "",
+      "name": "강세",
       "swapName": ""
     },
     {
       "id": "Label_ExamConcentration_Produce",
-      "name": "",
+      "name": "강세",
       "swapName": ""
     },
     {
       "id": "Label_ExamDebuffRecover",
-      "name": "",
+      "name": "저하 상태 회복",
       "swapName": ""
     },
     {
@@ -277,37 +277,37 @@
     },
     {
       "id": "Label_ExamFullPowerPoint",
-      "name": "",
+      "name": "전력치",
       "swapName": ""
     },
     {
       "id": "Label_ExamFullPowerPointReduce",
-      "name": "",
+      "name": "전력치 감소",
       "swapName": ""
     },
     {
       "id": "Label_ExamGetCardUpgrade",
-      "name": "",
+      "name": "생성 강화",
       "swapName": ""
     },
     {
       "id": "Label_ExamGimmickEnthusiastic_Exam",
-      "name": "",
+      "name": "열의",
       "swapName": ""
     },
     {
       "id": "Label_ExamGimmickEnthusiastic_Produce",
-      "name": "",
+      "name": "열의",
       "swapName": ""
     },
     {
       "id": "Label_ExamGimmickLessonDebuff_Exam",
-      "name": "",
+      "name": "긴장",
       "swapName": ""
     },
     {
       "id": "Label_ExamGimmickLessonDebuff_Produce",
-      "name": "",
+      "name": "긴장",
       "swapName": ""
     },
     {
@@ -317,7 +317,7 @@
     },
     {
       "id": "Label_ExamGimmickPlayCardLimit",
-      "name": "",
+      "name": "사용 불가",
       "swapName": ""
     },
     {
@@ -347,12 +347,12 @@
     },
     {
       "id": "Label_ExamGimmickTiredFix_Exam",
-      "name": "",
+      "name": "피로",
       "swapName": ""
     },
     {
       "id": "Label_ExamGimmickTiredFix_Produce",
-      "name": "",
+      "name": "피로",
       "swapName": ""
     },
     {
@@ -362,22 +362,22 @@
     },
     {
       "id": "Label_ExamHandHold",
-      "name": "",
+      "name": "손패 지갑",
       "swapName": ""
     },
     {
       "id": "Label_ExamLesson",
-      "name": "",
+      "name": "파라미터",
       "swapName": "스코어"
     },
     {
       "id": "Label_ExamLessonBuffMultiple",
-      "name": "",
+      "name": "집중 효과 일시 증가",
       "swapName": ""
     },
     {
       "id": "Label_ExamLessonBuffReduce",
-      "name": "",
+      "name": "집중 감소",
       "swapName": ""
     },
     {
@@ -392,18 +392,18 @@
     },
     {
       "id": "Label_ExamLessonChangeSpecifyLessThan",
-      "name": "",
-      "swapName": ""
+      "name": "파라미터 상승 값 변경",
+      "swapName": "점수 상승 값 변경"
     },
     {
       "id": "Label_ExamLessonChangeSpecifyMoreThan",
-      "name": "",
+      "name": "멍함",
       "swapName": ""
     },
     {
       "id": "Label_ExamLessonFix",
-      "name": "",
-      "swapName": ""
+      "name": "고정 파라미터",
+      "swapName": "고정 점수"
     },
     {
       "id": "Label_ExamLessonValueMultiple",
@@ -413,7 +413,7 @@
     {
       "id": "Label_ExamLessonValueMultipleDown",
       "name": "파라미터 상승량 감소",
-      "swapName": ""
+      "swapName": "점수 상승량 감소"
     },
     {
       "id": "Label_ExamPanic",
@@ -432,7 +432,7 @@
     },
     {
       "id": "Label_ExamParameterBuffReduce",
-      "name": "",
+      "name": "호조 감소",
       "swapName": ""
     },
     {
@@ -447,22 +447,22 @@
     },
     {
       "id": "Label_ExamPlayableValueHold",
-      "name": "",
+      "name": "사용 횟수 이월",
       "swapName": ""
     },
     {
       "id": "Label_ExamPreservation_Exam",
-      "name": "",
+      "name": "온존",
       "swapName": ""
     },
     {
       "id": "Label_ExamPreservation_Produce",
-      "name": "",
+      "name": "온존",
       "swapName": ""
     },
     {
       "id": "Label_ExamReviewReduce",
-      "name": "",
+      "name": "호인상 감소",
       "swapName": ""
     },
     {
@@ -477,12 +477,12 @@
     },
     {
       "id": "Label_ExamSearchPlayCardStaminaConsumptionChange",
-      "name": "",
+      "name": "소비 체력 변화",
       "swapName": ""
     },
     {
       "id": "Label_ExamSearchPlayCardValueBuff",
-      "name": "",
+      "name": "카드 효과 증가",
       "swapName": ""
     },
     {
@@ -492,7 +492,7 @@
     },
     {
       "id": "Label_ExamStaminaConsumptionAddDown",
-      "name": "",
+      "name": "소비체력 증가 효과 감소",
       "swapName": ""
     },
     {
@@ -507,7 +507,7 @@
     },
     {
       "id": "Label_ExamStaminaConsumptionDownAdd",
-      "name": "",
+      "name": "소비체력 감소 효과 증가",
       "swapName": ""
     },
     {
@@ -522,7 +522,7 @@
     },
     {
       "id": "Label_ExamStaminaRecoverAdd",
-      "name": "",
+      "name": "체력 회복 효과 증가",
       "swapName": ""
     },
     {
@@ -532,12 +532,12 @@
     },
     {
       "id": "Label_ExamStaminaRecoverRestriction",
-      "name": "",
+      "name": "체력 회복 무효",
       "swapName": ""
     },
     {
       "id": "Label_ExamStaminaReduceChange",
-      "name": "",
+      "name": "체력 소비 경감",
       "swapName": ""
     },
     {
@@ -547,12 +547,12 @@
     },
     {
       "id": "Label_ExamStaminaThresholdAddRestriction",
-      "name": "",
+      "name": "체력 소비 증가 무효",
       "swapName": ""
     },
     {
       "id": "Label_ExamStanceReset",
-      "name": "",
+      "name": "지침 해제",
       "swapName": ""
     },
     {
@@ -562,62 +562,62 @@
     },
     {
       "id": "Label_ExamUplifting_Exam",
-      "name": "",
+      "name": "고양",
       "swapName": ""
     },
     {
       "id": "Label_ExamUplifting_Produce",
-      "name": "",
+      "name": "고양",
       "swapName": ""
     },
     {
       "id": "Label_FullPowerPointAdd",
-      "name": "",
-      "swapName": ""
+      "name": "전력치값 증가",
+      "swapName": "전력치값 증가"
     },
     {
       "id": "Label_FullPowerPointReduce",
-      "name": "",
-      "swapName": ""
+      "name": "전력치값 감소",
+      "swapName": "전력치값 감소"
     },
     {
       "id": "Label_InitialAdd",
-      "name": "",
-      "swapName": ""
+      "name": "개시시 손 패 효과 부여",
+      "swapName": "개시시 손 패 효과 부여"
     },
     {
       "id": "Label_LessonAdd",
-      "name": "",
-      "swapName": ""
+      "name": "파라미터 값 증가",
+      "swapName": "점수 값 증가"
     },
     {
       "id": "Label_LessonBuffAdd",
-      "name": "",
-      "swapName": ""
+      "name": "집중값 증가",
+      "swapName": "집중값 증가"
     },
     {
       "id": "Label_LessonBuffReduce",
-      "name": "",
-      "swapName": ""
+      "name": "집중값 감소",
+      "swapName": "집중값 감소"
     },
     {
       "id": "Label_LessonCountAdd",
-      "name": "",
-      "swapName": ""
+      "name": "파라미터 상승 횟수 증가",
+      "swapName": "점수 상승 횟수 증가"
     },
     {
       "id": "Label_LessonCountReduce",
-      "name": "",
-      "swapName": ""
+      "name": "파라미터 상승 횟수 감소",
+      "swapName": "점수 상승 횟수 감소"
     },
     {
       "id": "Label_LessonReduce",
-      "name": "",
-      "swapName": ""
+      "name": "파라미터 값 감소",
+      "swapName": "점수 값 감소"
     },
     {
       "id": "Label_LessonSupport",
-      "name": "",
+      "name": "임시 강화",
       "swapName": ""
     },
     {
@@ -627,7 +627,7 @@
     },
     {
       "id": "Label_MoveEffectTrigger",
-      "name": "",
+      "name": "[이동 효과]",
       "swapName": ""
     },
     {
@@ -637,38 +637,38 @@
     },
     {
       "id": "Label_ParameterBuffMultiplePerTurnAdd",
-      "name": "",
-      "swapName": ""
+      "name": "절호조 값 증가",
+      "swapName": "절호조 값 증가"
     },
     {
       "id": "Label_ParameterBuffMultiplePerTurnReduce",
-      "name": "",
-      "swapName": ""
+      "name": "절호조 값 감소",
+      "swapName": "절호조 값 감소"
     },
     {
       "id": "Label_ParameterBuffTurnAdd",
-      "name": "",
-      "swapName": ""
+      "name": "호조 값 증가",
+      "swapName": "호조 값 증가"
     },
     {
       "id": "Label_ParameterBuffTurnReduce",
-      "name": "",
-      "swapName": ""
+      "name": "호조 값 감소",
+      "swapName": "호조 값 감소"
     },
     {
       "id": "Label_PlayEffectTriggerChange",
-      "name": "",
-      "swapName": ""
+      "name": "효과 발동 조건 대체",
+      "swapName": "효과 발동 조건 대체"
     },
     {
       "id": "Label_PlayMovePositionTypeChange",
-      "name": "",
-      "swapName": ""
+      "name": "사용 후 이동처 변경",
+      "swapName": "사용 후 이동처 변경"
     },
     {
       "id": "Label_PlayTriggerChange",
-      "name": "",
-      "swapName": ""
+      "name": "사용 가능한 조건 대체",
+      "swapName": "사용 가능한 조건 대체"
     },
     {
       "id": "Label_ProduceCardChange",
@@ -682,7 +682,7 @@
     },
     {
       "id": "Label_ProduceCardDuplicate",
-      "name": "",
+      "name": "복사",
       "swapName": ""
     },
     {
@@ -692,12 +692,12 @@
     },
     {
       "id": "Label_ProduceCardPositionType_Hold",
-      "name": "",
+      "name": "보류",
       "swapName": ""
     },
     {
       "id": "Label_ProduceCardStatusEnchant",
-      "name": "",
+      "name": "[성장]",
       "swapName": ""
     },
     {
@@ -752,28 +752,28 @@
     },
     {
       "id": "Label_ShopProduceCardPriceDiscountMultiple",
-      "name": "",
+      "name": "상담 스킬 카드 할인",
       "swapName": ""
     },
     {
       "id": "Label_StaminaConsumptionAddTurnAdd",
-      "name": "",
-      "swapName": ""
+      "name": "소비체력 증가치 감소",
+      "swapName": "소비체력 증가치 감소"
     },
     {
       "id": "Label_StaminaConsumptionAddTurnReduce",
-      "name": "",
-      "swapName": ""
+      "name": "소비체력 증가치 증가",
+      "swapName": "소비체력 증가치 증가"
     },
     {
       "id": "Label_StaminaConsumptionDownTurnAdd",
-      "name": "",
-      "swapName": ""
+      "name": "소비체력 감소치 증가",
+      "swapName": "소비체력 감소치 증가"
     },
     {
       "id": "Label_StaminaConsumptionDownTurnReduce",
-      "name": "",
-      "swapName": ""
+      "name": "소비체력 감소치 감소",
+      "swapName": "소비체력 감소치 감소"
     },
     {
       "id": "Label_Stance",

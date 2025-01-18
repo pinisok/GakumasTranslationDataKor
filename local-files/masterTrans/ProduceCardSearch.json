@@ -438,7 +438,7 @@
           "targetId": "",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": ""
+          "text": "・"
         },
         {
           "type": "ProduceDescriptionType_ProduceExamEffectType",
@@ -474,7 +474,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ""
+          "text": "・"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -554,7 +554,7 @@
           "targetId": "",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": ""
+          "text": "・"
         },
         {
           "type": "ProduceDescriptionType_ProduceExamEffectType",
@@ -590,7 +590,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ""
+          "text": "・"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -882,7 +882,7 @@
           "targetId": "",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": "덱이나 버림패에 있는"
+          "text": "덱이나 버림 패에 있는"
         },
         {
           "type": "ProduceDescriptionType_ProduceCard",
@@ -908,7 +908,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "덱이나 버림패에 있는"
+          "text": "덱이나 버림 패에 있는"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -2142,7 +2142,7 @@
           "targetId": "",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": "덱의"
+          "text": "덱의 "
         },
         {
           "type": "ProduceDescriptionType_ProduceCardCategory",
@@ -2168,7 +2168,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "덱의"
+          "text": "덱의 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",

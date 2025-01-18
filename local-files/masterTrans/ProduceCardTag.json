@@ -7,15 +7,15 @@
   "data": [
     {
       "id": "idol-unique",
-      "name": ""
+      "name": "아이돌 고유 스킬 카드"
     },
     {
       "id": "starter",
-      "name": ""
+      "name": "시작 스킬 카드"
     },
     {
       "id": "strike",
-      "name": ""
+      "name": "레슨 메뉴"
     }
   ]
 }
