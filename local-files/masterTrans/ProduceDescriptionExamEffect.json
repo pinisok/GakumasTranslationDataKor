@@ -7,7 +7,7 @@
   "data": [
     {
       "type": "ProduceExamEffectType_ExamLesson",
-      "name": ""
+      "name": "파라미터"
     },
     {
       "type": "ProduceExamEffectType_ExamParameterBuff",
@@ -19,7 +19,7 @@
     },
     {
       "type": "ProduceExamEffectType_ExamCardDraw",
-      "name": "스킬 카드를 드로우"
+      "name": "스킬 카드 뽑기"
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaConsumptionDown",
@@ -47,11 +47,11 @@
     },
     {
       "type": "ProduceExamEffectType_ExamLessonBuffMultiple",
-      "name": ""
+      "name": "집중 효과 일시 증가"
     },
     {
       "type": "ProduceExamEffectType_ExamCardStaminaConsumptionChange",
-      "name": ""
+      "name": "소비 체력 변화"
     },
     {
       "type": "ProduceExamEffectType_ExamBlockRestriction",
@@ -63,7 +63,7 @@
     },
     {
       "type": "ProduceExamEffectType_ExamCardStaminaConsumptionDownSpecify",
-      "name": ""
+      "name": "소비 체력 저하"
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaDamage",
@@ -75,11 +75,11 @@
     },
     {
       "type": "ProduceExamEffectType_ExamLessonFix",
-      "name": ""
+      "name": "고정 파라미터"
     },
     {
       "type": "ProduceExamEffectType_ExamCardDuplicate",
-      "name": ""
+      "name": "복제"
     },
     {
       "type": "ProduceExamEffectType_ExamReview",
@@ -99,11 +99,11 @@
     },
     {
       "type": "ProduceExamEffectType_ExamConcentration",
-      "name": ""
+      "name": "강세"
     },
     {
       "type": "ProduceExamEffectType_ExamPreservation",
-      "name": ""
+      "name": "온존"
     },
     {
       "type": "ProduceExamEffectType_ExamFullPower",
@@ -111,23 +111,23 @@
     },
     {
       "type": "ProduceExamEffectType_ExamStanceReset",
-      "name": ""
+      "name": "지침 해제"
     },
     {
       "type": "ProduceExamEffectType_ExamFullPowerPoint",
-      "name": ""
+      "name": "전력치"
     },
     {
       "type": "ProduceExamEffectType_ExamFullPowerPointReduce",
-      "name": ""
+      "name": "전력치 감소"
     },
     {
       "type": "ProduceExamEffectType_ExamSearchPlayCardStaminaConsumptionChange",
-      "name": ""
+      "name": "소비 체력 변화"
     },
     {
       "type": "ProduceExamEffectType_ExamUplifting",
-      "name": ""
+      "name": "고양"
     },
     {
       "type": "ProduceExamEffectType_ExamExtraTurn",
@@ -147,15 +147,15 @@
     },
     {
       "type": "ProduceExamEffectType_ExamBlockAddDownRestriction",
-      "name": ""
+      "name": "불안 무효"
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaRecoverAdd",
-      "name": ""
+      "name": "체력 회복 효과 증가"
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaReduceChange",
-      "name": ""
+      "name": "체력 소비 경감"
     },
     {
       "type": "ProduceExamEffectType_ExamPanic",
@@ -163,11 +163,11 @@
     },
     {
       "type": "ProduceExamEffectType_ExamLessonChangeSpecifyLessThan",
-      "name": ""
+      "name": "파라미터 상승값 변경"
     },
     {
       "type": "ProduceExamEffectType_ExamHandHold",
-      "name": ""
+      "name": "패 넘기기"
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaConsumptionAddFix",
@@ -175,19 +175,19 @@
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaConsumptionAddDown",
-      "name": ""
+      "name": "소비 체력 증가 효과 감소"
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaRecoverRestriction",
-      "name": ""
+      "name": "체력 회복 무효"
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaConsumptionDownAdd",
-      "name": ""
+      "name": "소비 체력 감소 효과 증가"
     },
     {
       "type": "ProduceExamEffectType_ExamGetCardUpgrade",
-      "name": ""
+      "name": "생성 강화"
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaConsumptionDownFix",
@@ -203,7 +203,7 @@
     },
     {
       "type": "ProduceExamEffectType_ExamGimmickLessonDebuff",
-      "name": ""
+      "name": "긴장"
     },
     {
       "type": "ProduceExamEffectType_ExamGimmickParameterDebuff",
@@ -215,11 +215,11 @@
     },
     {
       "type": "ProduceExamEffectType_ExamGimmickEnthusiastic",
-      "name": ""
+      "name": "열의"
     },
     {
       "type": "ProduceExamEffectType_ExamGimmickPlayCardLimit",
-      "name": ""
+      "name": "사용 불가"
     },
     {
       "type": "ProduceExamEffectType_ExamGimmickSlump",
@@ -235,7 +235,7 @@
     },
     {
       "type": "ProduceExamEffectType_ExamLessonChangeSpecifyMoreThan",
-      "name": ""
+      "name": "멍 때리기"
     },
     {
       "type": "ProduceExamEffectType_ExamParameterBuffMultiplePerTurn",
@@ -243,27 +243,27 @@
     },
     {
       "type": "ProduceExamEffectType_StanceLock",
-      "name": ""
+      "name": "지침 고정"
     },
     {
       "type": "ProduceExamEffectType_ExamDebuffRecover",
-      "name": ""
+      "name": "저하 상태 회복"
     },
     {
       "type": "ProduceExamEffectType_ExamReviewReduce",
-      "name": ""
+      "name": "호인상 감소"
     },
     {
       "type": "ProduceExamEffectType_ExamAggressiveReduce",
-      "name": ""
+      "name": "동기감소"
     },
     {
       "type": "ProduceExamEffectType_ExamLessonBuffReduce",
-      "name": ""
+      "name": "집중 감소"
     },
     {
       "type": "ProduceExamEffectType_ExamParameterBuffReduce",
-      "name": ""
+      "name": "호조 감소"
     },
     {
       "type": "ProduceExamEffectType_ExamLessonValueMultipleDown",
@@ -271,7 +271,7 @@
     },
     {
       "type": "ProduceExamEffectType_ExamAddGrowEffect",
-      "name": ""
+      "name": "성장"
     }
   ]
 }

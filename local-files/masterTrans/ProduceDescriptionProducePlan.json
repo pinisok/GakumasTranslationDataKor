@@ -15,11 +15,11 @@
     },
     {
       "type": "ProducePlanType_Plan2",
-      "name": "논리 전용】입니다."
+      "name": "【로직 전용】"
     },
     {
       "type": "ProducePlanType_Plan3",
-      "name": ""
+      "name": "【어노말리 전용】"
     }
   ]
 }

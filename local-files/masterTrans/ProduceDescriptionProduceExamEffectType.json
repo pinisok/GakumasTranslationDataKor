@@ -7,7 +7,7 @@
   "data": [
     {
       "type": "ProduceExamEffectType_ExamLesson",
-      "name": "",
+      "name": "파라미터",
       "swapName": "스코어"
     },
     {
@@ -48,7 +48,7 @@
     {
       "type": "ProduceExamEffectType_ExamCardUpgrade",
       "name": "레슨 중 강화",
-      "swapName": ""
+      "swapName": "시험・스테이지 중 강화"
     },
     {
       "type": "ProduceExamEffectType_ExamPlayableValueAdd",
@@ -57,13 +57,13 @@
     },
     {
       "type": "ProduceExamEffectType_ExamLessonBuffMultiple",
-      "name": "",
-      "swapName": ""
+      "name": "집중 효과 일시 증가",
+      "swapName": "집중 효과 일시 증가"
     },
     {
       "type": "ProduceExamEffectType_ExamCardStaminaConsumptionChange",
-      "name": "",
-      "swapName": ""
+      "name": "소비 체력 변화",
+      "swapName": "소비 체력 변화"
     },
     {
       "type": "ProduceExamEffectType_ExamBlockRestriction",
@@ -77,8 +77,8 @@
     },
     {
       "type": "ProduceExamEffectType_ExamCardStaminaConsumptionDownSpecify",
-      "name": "",
-      "swapName": ""
+      "name": "소비 체력 저하",
+      "swapName": "소비 체력 저하"
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaDamage",
@@ -92,13 +92,13 @@
     },
     {
       "type": "ProduceExamEffectType_ExamLessonFix",
-      "name": "",
-      "swapName": ""
+      "name": "고정 파라미터",
+      "swapName": "고정 점수"
     },
     {
       "type": "ProduceExamEffectType_ExamCardDuplicate",
-      "name": "",
-      "swapName": ""
+      "name": "복제",
+      "swapName": "복제"
     },
     {
       "type": "ProduceExamEffectType_ExamReview",
@@ -122,13 +122,13 @@
     },
     {
       "type": "ProduceExamEffectType_ExamConcentration",
-      "name": "",
-      "swapName": ""
+      "name": "강세",
+      "swapName": "강세"
     },
     {
       "type": "ProduceExamEffectType_ExamPreservation",
-      "name": "",
-      "swapName": ""
+      "name": "온존",
+      "swapName": "온존"
     },
     {
       "type": "ProduceExamEffectType_ExamFullPower",
@@ -137,28 +137,28 @@
     },
     {
       "type": "ProduceExamEffectType_ExamStanceReset",
-      "name": "",
-      "swapName": ""
+      "name": "지침 해제",
+      "swapName": "지침 해제"
     },
     {
       "type": "ProduceExamEffectType_ExamFullPowerPoint",
-      "name": "",
-      "swapName": ""
+      "name": "전력치",
+      "swapName": "전력치"
     },
     {
       "type": "ProduceExamEffectType_ExamFullPowerPointReduce",
-      "name": "",
-      "swapName": ""
+      "name": "전력치 감소",
+      "swapName": "전력치 감소"
     },
     {
       "type": "ProduceExamEffectType_ExamSearchPlayCardStaminaConsumptionChange",
-      "name": "",
-      "swapName": ""
+      "name": "소비 체력 변화",
+      "swapName": "소비 체력 변화"
     },
     {
       "type": "ProduceExamEffectType_ExamUplifting",
-      "name": "",
-      "swapName": ""
+      "name": "고양",
+      "swapName": "고양"
     },
     {
       "type": "ProduceExamEffectType_ExamExtraTurn",
@@ -182,18 +182,18 @@
     },
     {
       "type": "ProduceExamEffectType_ExamBlockAddDownRestriction",
-      "name": "",
-      "swapName": ""
+      "name": "불안 무효",
+      "swapName": "불안 무효"
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaRecoverAdd",
-      "name": "",
-      "swapName": ""
+      "name": "체력 회복 효과 증가",
+      "swapName": "체력 회복 효과 증가"
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaReduceChange",
-      "name": "",
-      "swapName": ""
+      "name": "체력 소비 경감",
+      "swapName": "체력 소비 경감"
     },
     {
       "type": "ProduceExamEffectType_ExamPanic",
@@ -202,13 +202,13 @@
     },
     {
       "type": "ProduceExamEffectType_ExamLessonChangeSpecifyLessThan",
-      "name": "",
-      "swapName": ""
+      "name": "파라미터 상승 변경",
+      "swapName": "점수 상승 변경"
     },
     {
       "type": "ProduceExamEffectType_ExamHandHold",
-      "name": "",
-      "swapName": ""
+      "name": "패 넘기기",
+      "swapName": "패 넘기기"
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaConsumptionAddFix",
@@ -217,23 +217,23 @@
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaConsumptionAddDown",
-      "name": "",
-      "swapName": ""
+      "name": "소비 체력 증가 효과 감소",
+      "swapName": "소비 체력 증가 효과 감소"
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaRecoverRestriction",
-      "name": "",
-      "swapName": ""
+      "name": "체력 회복 무효",
+      "swapName": "체력 회복 무효"
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaConsumptionDownAdd",
-      "name": "",
-      "swapName": ""
+      "name": "소비 체력 감소 효과 증가",
+      "swapName": "소비 체력 감소 효과 증가"
     },
     {
       "type": "ProduceExamEffectType_ExamGetCardUpgrade",
-      "name": "",
-      "swapName": ""
+      "name": "생성 강화",
+      "swapName": "생성 강화"
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaConsumptionDownFix",
@@ -252,8 +252,8 @@
     },
     {
       "type": "ProduceExamEffectType_ExamGimmickLessonDebuff",
-      "name": "",
-      "swapName": ""
+      "name": "긴장",
+      "swapName": "긴장"
     },
     {
       "type": "ProduceExamEffectType_ExamGimmickParameterDebuff",
@@ -267,13 +267,13 @@
     },
     {
       "type": "ProduceExamEffectType_ExamGimmickEnthusiastic",
-      "name": "",
-      "swapName": ""
+      "name": "열의",
+      "swapName": "열의"
     },
     {
       "type": "ProduceExamEffectType_ExamGimmickPlayCardLimit",
-      "name": "",
-      "swapName": ""
+      "name": "사용 불가",
+      "swapName": "사용 불가"
     },
     {
       "type": "ProduceExamEffectType_ExamGimmickSlump",
@@ -292,8 +292,8 @@
     },
     {
       "type": "ProduceExamEffectType_ExamLessonChangeSpecifyMoreThan",
-      "name": "",
-      "swapName": ""
+      "name": "멍 때리기",
+      "swapName": "멍 때리기"
     },
     {
       "type": "ProduceExamEffectType_ExamParameterBuffMultiplePerTurn",
@@ -302,43 +302,43 @@
     },
     {
       "type": "ProduceExamEffectType_StanceLock",
-      "name": "",
-      "swapName": ""
+      "name": "지침 고정",
+      "swapName": "지침 고정"
     },
     {
       "type": "ProduceExamEffectType_ExamDebuffRecover",
-      "name": "",
-      "swapName": ""
+      "name": "저하 상태 회복",
+      "swapName": "저하 상태 회복"
     },
     {
       "type": "ProduceExamEffectType_ExamReviewReduce",
-      "name": "",
-      "swapName": ""
+      "name": "호인상 감소",
+      "swapName": "호인상 감소"
     },
     {
       "type": "ProduceExamEffectType_ExamAggressiveReduce",
-      "name": "",
-      "swapName": ""
+      "name": "의욕 감소",
+      "swapName": "의욕 감소"
     },
     {
       "type": "ProduceExamEffectType_ExamLessonBuffReduce",
-      "name": "",
-      "swapName": ""
+      "name": "집중 감소",
+      "swapName": "집중 감소"
     },
     {
       "type": "ProduceExamEffectType_ExamParameterBuffReduce",
-      "name": "",
-      "swapName": ""
+      "name": "호조 감소",
+      "swapName": "호조 감소"
     },
     {
       "type": "ProduceExamEffectType_ExamLessonValueMultipleDown",
       "name": "파라미터 상승량 감소",
-      "swapName": ""
+      "swapName": "점수 상승량 감소"
     },
     {
       "type": "ProduceExamEffectType_ExamAddGrowEffect",
-      "name": "",
-      "swapName": ""
+      "name": "성장 효과",
+      "swapName": "성장 효과"
     }
   ]
 }

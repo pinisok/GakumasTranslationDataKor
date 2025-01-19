@@ -91,7 +91,7 @@
     },
     {
       "type": "ProduceEffectType_StaminaRecoverDisable",
-      "name": ""
+      "name": "체력 회복 무효"
     },
     {
       "type": "ProduceEffectType_MaxStaminaAddition",
@@ -139,7 +139,7 @@
     },
     {
       "type": "ProduceEffectType_ProduceCardDuplicate",
-      "name": ""
+      "name": "복사"
     },
     {
       "type": "ProduceEffectType_ProduceCardDuplicateUpgrade",
@@ -223,7 +223,7 @@
     },
     {
       "type": "ProduceEffectType_ShopProduceCardPriceDiscountMultiple",
-      "name": ""
+      "name": "상담에서 스킬 카드 할인"
     },
     {
       "type": "ProduceEffectType_ShopProduceDrinkPriceDiscountMultiple",
@@ -255,19 +255,19 @@
     },
     {
       "type": "ProduceEffectType_SupportCardEventStaminaRecoverUp",
-      "name": "지원 이벤트의 체력 회복량 증가"
+      "name": "서포트 이벤트의 체력 회복량 증가"
     },
     {
       "type": "ProduceEffectType_SupportCardEventProducePointAdditionValueUp",
-      "name": "지원 이벤트의 P포인트 획득량 증가"
+      "name": "서포트 이벤트의 P포인트 획득량 증가"
     },
     {
       "type": "ProduceEffectType_SupportCardEventParameterAdditionValueUp",
-      "name": "지원 이벤트의 파라미터 상승량 증가"
+      "name": "서포트 이벤트의 파라미터 상승량 증가"
     },
     {
       "type": "ProduceEffectType_SupportCardEventProbabilityUp",
-      "name": "지원 이벤트 확률 증가"
+      "name": "서포트 이벤트 확률 증가"
     },
     {
       "type": "ProduceEffectType_LessonPresentProducePointUp",

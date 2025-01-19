@@ -34,7 +34,7 @@
     {
       "characterId": "amao",
       "dearnessLevel": 6,
-      "produceConditionDescription": "프로듀스 중 보컬을 450이상으로 만든다"
+      "produceConditionDescription": "프로듀스 중 보컬을 450 이상으로 만든다"
     },
     {
       "characterId": "amao",
@@ -44,12 +44,12 @@
     {
       "characterId": "amao",
       "dearnessLevel": 8,
-      "produceConditionDescription": "프로듀스 중 보컬을 1000개 이상으로 만들기"
+      "produceConditionDescription": "프로듀스 중 보컬을 1000 이상으로 만든다"
     },
     {
       "characterId": "amao",
       "dearnessLevel": 9,
-      "produceConditionDescription": "난이도 「프로」 프로듀스 최종 시험에서 1등을 한다"
+      "produceConditionDescription": "난이도 「프로」 프로듀스 최종시험에서 1등을 한다"
     },
     {
       "characterId": "amao",
@@ -134,7 +134,7 @@
     {
       "characterId": "fktn",
       "dearnessLevel": 6,
-      "produceConditionDescription": "프로듀스 중 비주얼을 450개 이상으로 만들기"
+      "produceConditionDescription": "프로듀스 중 비주얼을 450 이상으로 만든다"
     },
     {
       "characterId": "fktn",
@@ -144,12 +144,12 @@
     {
       "characterId": "fktn",
       "dearnessLevel": 8,
-      "produceConditionDescription": "프로듀스 중 댄스을 800개 이상으로 만들기"
+      "produceConditionDescription": "프로듀스 중 댄스를 800 이상으로 만든다"
     },
     {
       "characterId": "fktn",
       "dearnessLevel": 9,
-      "produceConditionDescription": "난이도 「프로」 프로듀스 최종 시험에서 1등을 한다"
+      "produceConditionDescription": "난이도 「프로」 프로듀스 최종시험에서 1등을 한다"
     },
     {
       "characterId": "fktn",
@@ -234,22 +234,22 @@
     {
       "characterId": "hrnm",
       "dearnessLevel": 6,
-      "produceConditionDescription": "프로듀스 중 댄스을 450개 이상으로 만들기"
+      "produceConditionDescription": "프로듀스 중 댄스를 450 이상으로 만든다"
     },
     {
       "characterId": "hrnm",
       "dearnessLevel": 7,
-      "produceConditionDescription": "업적「흘러넘치는 마음」을 획득한 상태로 프로듀스의 중간 시험을 합격한다"
+      "produceConditionDescription": "업적「흘러넘치는 마음」을 획득한 상태에서 프로듀스의 중간시험을 통과한다"
     },
     {
       "characterId": "hrnm",
       "dearnessLevel": 8,
-      "produceConditionDescription": "프로듀스 중 비주얼을 800 이상으로 만들기"
+      "produceConditionDescription": "프로듀스 중 비주얼을 800 이상으로 만든다"
     },
     {
       "characterId": "hrnm",
       "dearnessLevel": 9,
-      "produceConditionDescription": "난이도 「프로」 프로듀스 최종 시험에서 1등을 한다"
+      "produceConditionDescription": "난이도 「프로」 프로듀스 최종시험에서 1등을 한다"
     },
     {
       "characterId": "hrnm",
@@ -334,7 +334,7 @@
     {
       "characterId": "hski",
       "dearnessLevel": 6,
-      "produceConditionDescription": "프로듀스 중 보컬을 450이상으로 만든다"
+      "produceConditionDescription": "프로듀스 중 보컬을 450 이상으로 만든다"
     },
     {
       "characterId": "hski",
@@ -344,12 +344,12 @@
     {
       "characterId": "hski",
       "dearnessLevel": 8,
-      "produceConditionDescription": "프로듀스 중 비주얼을 1000개 이상으로 만들기"
+      "produceConditionDescription": "프로듀스 중 비주얼을 1000 이상으로 만든다"
     },
     {
       "characterId": "hski",
       "dearnessLevel": 9,
-      "produceConditionDescription": "난이도 「프로」 프로듀스 최종 시험에서 1등을 한다"
+      "produceConditionDescription": "난이도 「프로」 프로듀스 최종시험에서 1등을 한다"
     },
     {
       "characterId": "hski",
@@ -434,7 +434,7 @@
     {
       "characterId": "hume",
       "dearnessLevel": 6,
-      "produceConditionDescription": "프로듀스 중 댄스을 450개 이상으로 만들기"
+      "produceConditionDescription": "프로듀스 중 댄스를 450 이상으로 만든다"
     },
     {
       "characterId": "hume",
@@ -444,12 +444,12 @@
     {
       "characterId": "hume",
       "dearnessLevel": 8,
-      "produceConditionDescription": "프로듀스 중 보컬을 1000개 이상으로 만들기"
+      "produceConditionDescription": "프로듀스 중 보컬을 1000 이상으로 만든다"
     },
     {
       "characterId": "hume",
       "dearnessLevel": 9,
-      "produceConditionDescription": "난이도 「프로」 프로듀스 최종 시험에서 1등을 한다"
+      "produceConditionDescription": "난이도 「프로」 프로듀스 최종시험에서 1등을 한다"
     },
     {
       "characterId": "hume",
@@ -534,22 +534,22 @@
     {
       "characterId": "jsna",
       "dearnessLevel": 6,
-      "produceConditionDescription": "프로듀스 중 보컬을 450이상으로 만든다"
+      "produceConditionDescription": "프로듀스 중 보컬을 450 이상으로 만든다"
     },
     {
       "characterId": "jsna",
       "dearnessLevel": 7,
-      "produceConditionDescription": "업적 「쌓아 온 것들」을 획득한 상태에서 프로듀스의 중간 시험을 합격한다"
+      "produceConditionDescription": "업적 「쌓아 온 것들」을 획득한 상태에서 프로듀스의 중간시험을 통과한다"
     },
     {
       "characterId": "jsna",
       "dearnessLevel": 8,
-      "produceConditionDescription": "프로듀스 중에 비주얼을900이상으로 만든다"
+      "produceConditionDescription": "프로듀스 중 비주얼을 900 이상으로 만든다"
     },
     {
       "characterId": "jsna",
       "dearnessLevel": 9,
-      "produceConditionDescription": "난이도 「프로」 프로듀스 최종 시험에서 1등을 한다"
+      "produceConditionDescription": "난이도 「프로」 프로듀스 최종시험에서 1등을 한다"
     },
     {
       "characterId": "jsna",
@@ -634,7 +634,7 @@
     {
       "characterId": "kcna",
       "dearnessLevel": 6,
-      "produceConditionDescription": "프로듀스 중 비주얼을 450개 이상으로 만들기"
+      "produceConditionDescription": "프로듀스 중 비주얼을 450 이상으로 만든다"
     },
     {
       "characterId": "kcna",
@@ -644,12 +644,12 @@
     {
       "characterId": "kcna",
       "dearnessLevel": 8,
-      "produceConditionDescription": "프로듀스 중 댄스을 1000개 이상으로 만들기"
+      "produceConditionDescription": "프로듀스 중 댄스를 1000 이상으로 만든다"
     },
     {
       "characterId": "kcna",
       "dearnessLevel": 9,
-      "produceConditionDescription": "난이도 「프로」 프로듀스 최종 시험에서 1등을 한다"
+      "produceConditionDescription": "난이도 「프로」 프로듀스 최종시험에서 1등을 한다"
     },
     {
       "characterId": "kcna",
@@ -734,7 +734,7 @@
     {
       "characterId": "kllj",
       "dearnessLevel": 6,
-      "produceConditionDescription": "프로듀스 중 보컬을 450이상으로 만든다"
+      "produceConditionDescription": "프로듀스 중 보컬을 450 이상으로 만든다"
     },
     {
       "characterId": "kllj",
@@ -744,12 +744,12 @@
     {
       "characterId": "kllj",
       "dearnessLevel": 8,
-      "produceConditionDescription": "프로듀스 중 비주얼을 1000개 이상으로 만들기"
+      "produceConditionDescription": "프로듀스 중 비주얼을 1000 이상으로 만든다"
     },
     {
       "characterId": "kllj",
       "dearnessLevel": 9,
-      "produceConditionDescription": "난이도 「프로」 프로듀스 최종 시험에서 1등을 한다"
+      "produceConditionDescription": "난이도 「프로」 프로듀스 최종시험에서 1등을 한다"
     },
     {
       "characterId": "kllj",
@@ -834,22 +834,22 @@
     {
       "characterId": "shro",
       "dearnessLevel": 6,
-      "produceConditionDescription": "프로듀스 중 댄스을 450개 이상으로 만들기"
+      "produceConditionDescription": "프로듀스 중 댄스를 450 이상으로 만든다"
     },
     {
       "characterId": "shro",
       "dearnessLevel": 7,
-      "produceConditionDescription": "업적 「재능 없이도 할 수 있는 것」을 획득한 상태에서 프로듀스 중간 시험을 통과한다"
+      "produceConditionDescription": "업적 「재능 없이도 할 수 있는 것」을 획득한 상태에서 프로듀스 중간시험을 통과한다"
     },
     {
       "characterId": "shro",
       "dearnessLevel": 8,
-      "produceConditionDescription": "프로듀스 중 보컬을 1000개 이상으로 만들기"
+      "produceConditionDescription": "프로듀스 중 보컬을 1000 이상으로 만든다"
     },
     {
       "characterId": "shro",
       "dearnessLevel": 9,
-      "produceConditionDescription": "난이도 「프로」 프로듀스 최종 시험에서 1등을 한다"
+      "produceConditionDescription": "난이도 「프로」 프로듀스 최종시험에서 1등을 한다"
     },
     {
       "characterId": "shro",
@@ -934,7 +934,7 @@
     {
       "characterId": "ssmk",
       "dearnessLevel": 6,
-      "produceConditionDescription": "프로듀스 중 비주얼을 450개 이상으로 만들기"
+      "produceConditionDescription": "프로듀스 중 비주얼을 450 이상으로 만든다"
     },
     {
       "characterId": "ssmk",
@@ -944,12 +944,12 @@
     {
       "characterId": "ssmk",
       "dearnessLevel": 8,
-      "produceConditionDescription": "프로듀스 중 댄스을 1000개 이상으로 만들기"
+      "produceConditionDescription": "프로듀스 중 댄스를 1000 이상으로 만든다"
     },
     {
       "characterId": "ssmk",
       "dearnessLevel": 9,
-      "produceConditionDescription": "난이도 「프로」 프로듀스 최종 시험에서 1등을 한다"
+      "produceConditionDescription": "난이도 「프로」 프로듀스 최종시험에서 1등을 한다"
     },
     {
       "characterId": "ssmk",
@@ -1034,7 +1034,7 @@
     {
       "characterId": "ttmr",
       "dearnessLevel": 6,
-      "produceConditionDescription": "프로듀스 중 댄스을 450개 이상으로 만들기"
+      "produceConditionDescription": "프로듀스 중 댄스를 450 이상으로 만든다"
     },
     {
       "characterId": "ttmr",
@@ -1044,12 +1044,12 @@
     {
       "characterId": "ttmr",
       "dearnessLevel": 8,
-      "produceConditionDescription": "프로듀스 중 보컬을 1000개 이상으로 만들기"
+      "produceConditionDescription": "프로듀스 중 보컬을 1000 이상으로 만든다"
     },
     {
       "characterId": "ttmr",
       "dearnessLevel": 9,
-      "produceConditionDescription": "난이도 「프로」 프로듀스 최종 시험에서 1등을 한다"
+      "produceConditionDescription": "난이도 「프로」 프로듀스 최종시험에서 1등을 한다"
     },
     {
       "characterId": "ttmr",

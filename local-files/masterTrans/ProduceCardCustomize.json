@@ -519,7 +519,7 @@
     {
       "id": "p_card_custom-040-g_effect-play_move_position_type_change-grave",
       "customizeCount": 1,
-      "description": "레슨 중 1회\\n제한 삭제"
+      "description": "레슨 중 1회\\n의 제한 제거"
     },
     {
       "id": "p_card_custom-070-g_effect-aggressive_add-3",
@@ -569,12 +569,12 @@
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_block-0004",
       "customizeCount": 1,
-      "description": "건강 추가"
+      "description": "원기 추가"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_block-0009",
       "customizeCount": 1,
-      "description": "건강 추가"
+      "description": "원기 추가"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_card_move-p_card_search-deck-hold-select-1_1",
@@ -624,7 +624,7 @@
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_lesson_depend_exam_review-0600-01",
       "customizeCount": 1,
-      "description": "호인상분 파라미터 추가"
+      "description": "호인상당 파라미터 추가"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_lesson-0006-01",
@@ -739,7 +739,7 @@
     {
       "id": "p_card_custom-100-g_effect-effect_add-e_effect-exam_playable_value_add-01",
       "customizeCount": 1,
-      "description": "스킬 카드 사용 횟수 +"
+      "description": "스킬 카드 사용 횟수+"
     },
     {
       "id": "p_card_custom-100-g_effect-lesson_count_add-1",

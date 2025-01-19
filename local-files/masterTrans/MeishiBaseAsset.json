@@ -7,7 +7,7 @@
   "data": [
     {
       "id": "amao-001",
-      "name": "마스터 어치브먼트 마오"
+      "name": "마스터 업적 마오"
     },
     {
       "id": "common-frame-001",
@@ -67,11 +67,11 @@
     },
     {
       "id": "first-live-01",
-      "name": "첫 목소리 공연"
+      "name": "초성 공연"
     },
     {
       "id": "first-live-02",
-      "name": "첫 마음 공연"
+      "name": "초심 공연"
     },
     {
       "id": "first-live-03",
@@ -447,7 +447,7 @@
     },
     {
       "id": "ttmr-birthday-01",
-      "name": "이루고 싶은 것들만"
+      "name": "이루고 싶은, 것들뿐"
     }
   ]
 }

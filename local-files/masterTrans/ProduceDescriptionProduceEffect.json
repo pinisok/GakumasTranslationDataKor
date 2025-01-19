@@ -91,7 +91,7 @@
     },
     {
       "type": "ProduceEffectType_StaminaRecoverDisable",
-      "name": ""
+      "name": "체력 회복 무효"
     },
     {
       "type": "ProduceEffectType_MaxStaminaAddition",
@@ -107,7 +107,7 @@
     },
     {
       "type": "ProduceEffectType_ProducePointReduceFix",
-      "name": "P 포인트 감소"
+      "name": "P포인트 감소"
     },
     {
       "type": "ProduceEffectType_ProducePointReduceMultiple",
@@ -139,7 +139,7 @@
     },
     {
       "type": "ProduceEffectType_ProduceCardDuplicate",
-      "name": ""
+      "name": "복사"
     },
     {
       "type": "ProduceEffectType_ProduceCardDuplicateUpgrade",
@@ -159,7 +159,7 @@
     },
     {
       "type": "ProduceEffectType_ProducePointAddition",
-      "name": "P 포인트 획득"
+      "name": "P포인트 획득"
     },
     {
       "type": "ProduceEffectType_ProducePointGetDisable",
@@ -223,7 +223,7 @@
     },
     {
       "type": "ProduceEffectType_ShopProduceCardPriceDiscountMultiple",
-      "name": ""
+      "name": "상담에서 스킬 카드 할인"
     },
     {
       "type": "ProduceEffectType_ShopProduceDrinkPriceDiscountMultiple",
@@ -327,7 +327,7 @@
     },
     {
       "type": "ProduceEffectType_EventActivityProducePointUp",
-      "name": "외출 소비 P 포인트 증가"
+      "name": "외출 소비 P포인트 증가"
     },
     {
       "type": "ProduceEffectType_EventActivityProducePointDown",
@@ -343,7 +343,7 @@
     },
     {
       "type": "ProduceEffectType_ProduceCardExcludeCountUp",
-      "name": ""
+      "name": "스킬 카드 제거"
     }
   ]
 }

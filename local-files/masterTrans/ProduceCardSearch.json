@@ -858,7 +858,7 @@
           "targetId": "",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": "덱이나 버림패에 있는 스킬 카드"
+          "text": "덱이나 버림 패에 있는 스킬 카드"
         }
       ],
       "produceDescriptions": [
@@ -870,7 +870,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "덱이나 버림패에 있는 스킬 카드"
+          "text": "덱이나 버림 패에 있는 스킬 카드"
         }
       ]
     },
@@ -940,7 +940,7 @@
           "targetId": "",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": "덱이나 버림패에 있는 아이돌 고유 스킬 카드1장 "
+          "text": "덱이나 버림 패에 있는 아이돌 고유 스킬 카드1장 "
         }
       ],
       "produceDescriptions": [
@@ -952,7 +952,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "덱이나 버림패에 있는 아이돌 고유 스킬 카드1장 "
+          "text": "덱이나 버림 패에 있는 아이돌 고유 스킬 카드1장 "
         }
       ]
     },
@@ -964,7 +964,7 @@
           "targetId": "",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": "산패의 스킬 카드1장 "
+          "text": "덱의 스킬 카드1장 "
         }
       ],
       "produceDescriptions": [
@@ -976,7 +976,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "산패의 스킬 카드1장 "
+          "text": "덱의 스킬 카드1장 "
         }
       ]
     },
@@ -988,7 +988,7 @@
           "targetId": "",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": "손패의 스킬 카드"
+          "text": "덱의 스킬 카드"
         }
       ],
       "produceDescriptions": [
@@ -1000,7 +1000,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "손패의 스킬 카드"
+          "text": "덱의 스킬 카드"
         }
       ]
     },
@@ -1012,7 +1012,7 @@
           "targetId": "",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": "손패의 맨 위부터 5장의 스킬 카드"
+          "text": "덱의 맨 위부터 5장의 스킬 카드"
         }
       ],
       "produceDescriptions": [
@@ -1024,7 +1024,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "손패의 맨 위부터 5장의 스킬 카드"
+          "text": "덱의 맨 위부터 5장의 스킬 카드"
         }
       ]
     },
@@ -1060,7 +1060,7 @@
           "targetId": "",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": "손패의 스킬 카드1장 "
+          "text": "손패의 스킬 카드 1장 "
         }
       ],
       "produceDescriptions": [
@@ -1072,7 +1072,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "손패의 스킬 카드1장 "
+          "text": "손패의 스킬 카드 1장 "
         }
       ]
     },
@@ -1084,7 +1084,7 @@
           "targetId": "",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": "손패의 스킬 카드2장 "
+          "text": "손패의 스킬 카드 2장 "
         }
       ],
       "produceDescriptions": [
@@ -1096,7 +1096,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "손패의 스킬 카드2장 "
+          "text": "손패의 스킬 카드 2장 "
         }
       ]
     },
@@ -1108,7 +1108,7 @@
           "targetId": "",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": "손패의 스킬 카드3장 "
+          "text": "손패의 스킬 카드 3장 "
         }
       ],
       "produceDescriptions": [
@@ -1120,7 +1120,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "손패의 스킬 카드3장 "
+          "text": "손패의 스킬 카드 3장 "
         }
       ]
     },
@@ -1334,7 +1334,7 @@
           "targetId": "",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": "소비 체력이 6이상의 스킬 카드"
+          "text": "소비 체력이 6 이상인 스킬 카드"
         }
       ],
       "produceDescriptions": [
@@ -1346,7 +1346,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "소비 체력이 6이상의 스킬 카드"
+          "text": "소비 체력이 6 이상인 스킬 카드"
         }
       ]
     },
@@ -1478,7 +1478,7 @@
           "targetId": "p_card-02-men-1_032",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": "추엇의 웃음"
+          "text": "추억의 웃음"
         }
       ],
       "produceDescriptions": [
@@ -1490,7 +1490,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-1_032",
-          "text": "추엇의 웃음"
+          "text": "추억의 웃음"
         }
       ]
     },
@@ -1974,7 +1974,7 @@
           "targetId": "p_card-02-act-1_028",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": "느긋하게 수다"
+          "text": "느긋한 수다"
         }
       ],
       "produceDescriptions": [
@@ -1986,7 +1986,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-act-1_028",
-          "text": "느긋하게 수다"
+          "text": "느긋한 수다"
         }
       ]
     },

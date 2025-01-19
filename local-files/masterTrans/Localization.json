@@ -11,7 +11,7 @@
     },
     {
       "id": "achievement.cell.true_end.nia_toast_produce_condition",
-      "description": "P과제35を達成し\\n親愛度Lv10でプロデュース「N.I.A」解放"
+      "description": "P과제 35를 달성해\\n친애도Lv10에서 프로듀스 「N.I.A」 해방"
     },
     {
       "id": "achievement.true_end_condition.description",
@@ -19,7 +19,7 @@
     },
     {
       "id": "achievement.true_end.condition",
-      "description": "3つのTrue End条件アチーブメントを獲得しプロデュース：定期公演『初』の最終試験で1위가 된다"
+      "description": "3개의 True End 조건 업적을 달성해 프로듀스：정기공연『하지메』의 최종시험에서 1위가 된다"
     },
     {
       "id": "achievement.true_end.lesson_bonus",
@@ -139,7 +139,7 @@
     },
     {
       "id": "invite.progress.invited_friend.label",
-      "description": "PLv5달성"
+      "description": "PLv5 달성"
     },
     {
       "id": "invite.publication.share.text",

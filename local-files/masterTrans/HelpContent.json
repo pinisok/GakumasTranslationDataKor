@@ -371,19 +371,19 @@
       "helpCategoryId": "help-idol",
       "id": "idol-plan1",
       "order": 20,
-      "name": "플랜：점수 상승량이 "
+      "name": "플랜：센스"
     },
     {
       "helpCategoryId": "help-idol",
       "id": "idol-plan2",
       "order": 30,
-      "name": "플랜：ロジック"
+      "name": "플랜：로직"
     },
     {
       "helpCategoryId": "help-idol",
       "id": "idol-plan3",
       "order": 40,
-      "name": "플랜：アノマリー"
+      "name": "플랜：어노말리"
     },
     {
       "helpCategoryId": "help-idol",
@@ -713,7 +713,7 @@
       "helpCategoryId": "help-mission",
       "id": "mission-weekly",
       "order": 3,
-      "name": "위클리 미션"
+      "name": "주간 미션"
     },
     {
       "helpCategoryId": "help-panel-mission",
@@ -725,7 +725,7 @@
       "helpCategoryId": "help-produce",
       "id": "produce-003-add",
       "order": 37,
-      "name": "난이도：マスター"
+      "name": "난이도：마스터"
     },
     {
       "helpCategoryId": "help-produce",
@@ -917,7 +917,7 @@
       "helpCategoryId": "help-produce",
       "id": "produce-refresh",
       "order": 15,
-      "name": "쉰다"
+      "name": "휴식"
     },
     {
       "helpCategoryId": "help-produce",

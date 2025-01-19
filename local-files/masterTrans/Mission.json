@@ -355,7 +355,7 @@
     },
     {
       "id": "hidden_mission-view-ending-true-produce_group-002",
-      "name": "N.I.A로 TrueEnd "
+      "name": "N.I.A로 TrueEnd"
     },
     {
       "id": "hidden_mission-view-ending-true-produce_group-002-amao",
@@ -427,7 +427,7 @@
     },
     {
       "id": "mission-box-gasha-event-001-mission_4",
-      "name": "프로듀스 등급을 총 {threshold}개 획득하자!"
+      "name": "프로듀스 등급을 총 {threshold}개 획득하자"
     },
     {
       "id": "mission-box-gasha-event-001-mission_5",
@@ -447,7 +447,7 @@
     },
     {
       "id": "mission-box-gasha-event-002-mission_4",
-      "name": "프로듀스 등급을 총 {threshold}개 획득하자!"
+      "name": "프로듀스 등급을 총 {threshold}개 획득하자"
     },
     {
       "id": "mission-box-gasha-event-002-mission_5",
@@ -467,7 +467,7 @@
     },
     {
       "id": "mission-box-gasha-event-003-mission_4",
-      "name": "프로듀스 등급을 총 {threshold}개 획득하자!"
+      "name": "프로듀스 등급을 총 {threshold}개 획득하자"
     },
     {
       "id": "mission-box-gasha-event-003-mission_5",
@@ -487,7 +487,7 @@
     },
     {
       "id": "mission-box-gasha-event-004-mission_4",
-      "name": "프로듀스 등급을 총 {threshold}개 획득하자!"
+      "name": "프로듀스 등급을 총 {threshold}개 획득하자"
     },
     {
       "id": "mission-box-gasha-event-004-mission_5",
@@ -531,11 +531,11 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_15",
-      "name": "코인 가챠를 {threshold}회 뽑자!"
+      "name": "코인 가챠를 {threshold}번 뽑자!"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_16",
-      "name": "1일의 모든 임무를 완료"
+      "name": "1일차의 모든 미션을 클리어"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_21",
@@ -543,7 +543,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_22",
-      "name": "프로듀싱으로 스킬 카드를 {threshold}회 강화하자!"
+      "name": "프로듀스에서 스킬 카드를 {threshold}번 강화하자!"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_23",
@@ -555,11 +555,11 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_25",
-      "name": "코인 가챠를 {threshold}회 뽑자!"
+      "name": "코인 가챠를 {threshold}번 뽑자!"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_26",
-      "name": "2일의 모든 임무를 완료"
+      "name": "2일차의 모든 미션을 클리어"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_31",
@@ -579,11 +579,11 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_35",
-      "name": "프로듀스 등급을 총 {threshold}개 획득하자!"
+      "name": "프로듀스 등급을 총 {threshold}개 획득하자"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_36",
-      "name": "3일의 모든 임무를 완료"
+      "name": "3일차의 모든 미션을 클리어"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_41",
@@ -595,7 +595,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_43",
-      "name": "프로듀싱으로 스킬 카드를 {threshold}회 강화하자!"
+      "name": "프로듀스에서 스킬 카드를 {threshold}번 강화하자!"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_44",
@@ -603,11 +603,11 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_45",
-      "name": "프로듀스 등급을 총 {threshold}개 획득하자!"
+      "name": "프로듀스 등급을 총 {threshold}개 획득하자"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_46",
-      "name": "4일의 모든 임무를 완료"
+      "name": "4일차의 모든 미션을 클리어"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_51",
@@ -627,11 +627,11 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_55",
-      "name": "프로듀스 등급을 총 {threshold}개 획득하자!"
+      "name": "프로듀스 등급을 총 {threshold}개 획득하자"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_56",
-      "name": "5일의 모든 임무를 완료"
+      "name": "5일차의 모든 미션을 클리어"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_61",
@@ -643,7 +643,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_63",
-      "name": "프로듀싱으로 스킬 카드를 {threshold}회 강화하자!"
+      "name": "프로듀스에서 스킬 카드를 {threshold}번 강화하자!"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_64",
@@ -651,11 +651,11 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_65",
-      "name": "프로듀스 등급을 총 {threshold}개 획득하자!"
+      "name": "프로듀스 등급을 총 {threshold}개 획득하자"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_66",
-      "name": "6일의 모든 임무를 완료"
+      "name": "6일차의 모든 미션을 클리어"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_71",
@@ -675,7 +675,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_75",
-      "name": "프로듀스 등급을 총 {threshold}개 획득하자!"
+      "name": "프로듀스 등급을 총 {threshold}개 획득하자"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_76",
@@ -683,11 +683,11 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_77",
-      "name": "7일의 모든 임무를 완료"
+      "name": "7일차의 모든 미션을 클리어"
     },
     {
       "id": "mission-daily-incrementgashadrawcount-1",
-      "name": "코인 가챠를 {threshold}회 뽑자!"
+      "name": "코인 가챠를 {threshold}번 뽑자!"
     },
     {
       "id": "mission-daily-incrementmoneyexchangecount-1",
@@ -723,27 +723,27 @@
     },
     {
       "id": "mission-highscore-event-001-mission_12",
-      "name": "츠키무라 테마리의 보컬을 1000 이상으로 육성하여 프로듀싱을 완료했습니다."
+      "name": "츠키무라 테마리의 보컬을 1000 이상으로 육성하고 프로듀스를 완료하자"
     },
     {
       "id": "mission-highscore-event-001-mission_12_1",
-      "name": "츠키무라 테마리의 보컬을 1000이상으로 육성하고 프로듀스 종료하자（8/1 4:59:59까지）"
+      "name": "츠키무라 테마리의 보컬을 1000이상으로 육성하고 프로듀스를 완료하자（8/1 4:59:59까지）"
     },
     {
       "id": "mission-highscore-event-001-mission_13",
-      "name": "카츠라기 릴리야의 비주얼을 1000 이상으로 육성하여 프로듀싱을 완료했습니다."
+      "name": "카츠라기 릴리야의 비주얼을 1000 이상으로 육성하여 프로듀스를 완료하자"
     },
     {
       "id": "mission-highscore-event-001-mission_13_1",
-      "name": "카츠라기 릴리야의 비주얼을 1000이상으로 육성하고 프로듀스 종료하자（8/1 4:59:59까지）"
+      "name": "카츠라기 릴리야의 비주얼을 1000이상으로 육성하고 프로듀스를 완료하자（8/1 4:59:59까지）"
     },
     {
       "id": "mission-highscore-event-001-mission_14",
-      "name": "시노자와 히로의 보컬을 1000 이상으로 육성하여 프로듀싱을 완료했습니다."
+      "name": "시노사와 히로의 보컬을 1000 이상으로 육성하여 프로듀스를 완료하자"
     },
     {
       "id": "mission-highscore-event-001-mission_14_1",
-      "name": "시노사와 히로의 보컬을 1000이상으로 육성하고 프로듀스 종료하자（8/1 4:59:59까지）"
+      "name": "시노사와 히로의 보컬을 1000이상으로 육성하고 프로듀스를 완료하자（8/1 4:59:59까지）"
     },
     {
       "id": "mission-highscore-event-001-mission_15",
@@ -779,31 +779,31 @@
     },
     {
       "id": "mission-highscore-event-002-mission_12",
-      "name": "쿠라모토 치나의 춤을 1000 이상으로 육성하여 프로듀싱을 완료했습니다."
+      "name": "쿠라모토 치나의 춤을 1000 이상으로 육성하여 프로듀스를 완료하자"
     },
     {
       "id": "mission-highscore-event-002-mission_12_1",
-      "name": "쿠라모토 치나의 춤을 1000 이상으로 육성하여 프로듀싱을 완료하자 (9/1 4:59:59까지)"
+      "name": "쿠라모토 치나의 춤을 1000 이상으로 육성하여 프로듀스를 완료하자 (9/1 4:59:59까지)"
     },
     {
       "id": "mission-highscore-event-002-mission_13",
-      "name": "하나미 사키의 비주얼을 1000 이상으로 육성하여 프로듀싱을 완료했습니다."
+      "name": "하나미 사키의 비주얼을 1000 이상으로 육성하여 프로듀스를 완료하자"
     },
     {
       "id": "mission-highscore-event-002-mission_13_1",
-      "name": "하나미 사키의 비주얼을 1000 이상으로 육성하여 프로듀싱을 완료하자 (9/1 4:59:59까지)"
+      "name": "하나미 사키의 비주얼을 1000 이상으로 육성하여 프로듀스를 완료하자 (9/1 4:59:59까지)"
     },
     {
       "id": "mission-highscore-event-002-mission_14",
-      "name": "하나미 우메의 댄스를 1000 이상으로 육성하여 프로듀싱을 완료했습니다."
+      "name": "하나미 우메의 댄스를 1000 이상으로 육성하여 프로듀스를 완료하자"
     },
     {
       "id": "mission-highscore-event-002-mission_14_1",
-      "name": "하나미 우메의 댄스를 1000 이상으로 육성하여 프로듀싱을 완료하자 (9/1 4:59:59까지)"
+      "name": "하나미 우메의 댄스를 1000 이상으로 육성하여 프로듀스를 완료하자 (9/1 4:59:59까지)"
     },
     {
       "id": "mission-highscore-event-002-mission_15",
-      "name": "쿠라모토 치나로 프로듀싱 평가를 총 {threshold} 획득하자!"
+      "name": "쿠라모토 치나로 프로듀싱 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscore-event-002-mission_15_1",
@@ -811,7 +811,7 @@
     },
     {
       "id": "mission-highscore-event-002-mission_16",
-      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자!"
+      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscore-event-002-mission_16_1",
@@ -819,7 +819,7 @@
     },
     {
       "id": "mission-highscore-event-002-mission_17",
-      "name": "하나미 우메의 프로듀스 평가를 총 {threshold} 획득하자!"
+      "name": "하나미 우메의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscore-event-002-mission_17_1",
@@ -831,7 +831,7 @@
     },
     {
       "id": "mission-highscore-event-003-mission_12",
-      "name": "히메사키 리나미의 비주얼을 1000 이상으로 육성하여 프로듀싱을 완료했습니다."
+      "name": "히메사키 리나미의 비주얼을 1000 이상으로 육성하여 프로듀스를 완료하자"
     },
     {
       "id": "mission-highscore-event-003-mission_13",
@@ -855,7 +855,7 @@
     },
     {
       "id": "mission-highscore-event-003-mission_22",
-      "name": "후지타 코토네의 춤을 1000 이상으로 육성하여 프로듀싱을 완료했습니다."
+      "name": "후지타 코토네의 춤을 1000 이상으로 육성하여 프로듀스를 완료하자"
     },
     {
       "id": "mission-highscore-event-003-mission_23",
@@ -903,7 +903,7 @@
     },
     {
       "id": "mission-highscore-event-003-mission_42",
-      "name": "히메사키 리나미 또는 후지타 코토네 또는 시운 스미카의 프로듀스로 최종 시험에 {threshold}회 합격하자"
+      "name": "히메사키 리나미 또는 후지타 코토네 또는 시운 스미카의 프로듀스로 최종 시험에 {threshold}번 합격하자"
     },
     {
       "id": "mission-highscore-event-003-mission_43",
@@ -927,7 +927,7 @@
     },
     {
       "id": "mission-highscore-event-003-mission_52",
-      "name": "히메사키 리나미 또는 후지타 코토네 또는 시운 스미카의 프로듀스로 최종 시험에 {threshold}회 합격하자"
+      "name": "히메사키 리나미 또는 후지타 코토네 또는 시운 스미카의 프로듀스로 최종 시험에 {threshold}번 합격하자"
     },
     {
       "id": "mission-highscore-event-003-mission_53",
@@ -951,7 +951,7 @@
     },
     {
       "id": "mission-main-story-event-001-mission_12",
-      "name": "후지타 코토네의 팬을 {threshold}명 확보하기"
+      "name": "후지타 코토네의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-001-mission_13",
@@ -959,7 +959,7 @@
     },
     {
       "id": "mission-main-story-event-001-mission_14",
-      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자!"
+      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-001-mission_15",
@@ -975,7 +975,7 @@
     },
     {
       "id": "mission-main-story-event-001-mission_22",
-      "name": "하나미 사키의 팬을 {threshold}명 확보하기"
+      "name": "하나미 사키의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-001-mission_23",
@@ -983,7 +983,7 @@
     },
     {
       "id": "mission-main-story-event-001-mission_24",
-      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자!"
+      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-001-mission_25",
@@ -999,7 +999,7 @@
     },
     {
       "id": "mission-main-story-event-001-mission_32",
-      "name": "츠키무라 테마리의 팬을 {threshold}명 확보하기"
+      "name": "츠키무라 테마리의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-001-mission_33",
@@ -1007,7 +1007,7 @@
     },
     {
       "id": "mission-main-story-event-001-mission_34",
-      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자!"
+      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-001-mission_35",
@@ -1023,7 +1023,7 @@
     },
     {
       "id": "mission-main-story-event-001-mission_42",
-      "name": "후지타 코토네 또는 하나미 사키 또는 츠키무라 테마리의 팬을 {threshold}명 확보하기"
+      "name": "후지타 코토네 또는 하나미 사키 또는 츠키무라 테마리의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-001-mission_43",
@@ -1031,7 +1031,7 @@
     },
     {
       "id": "mission-main-story-event-001-mission_44",
-      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자!"
+      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-001-mission_45",
@@ -1047,7 +1047,7 @@
     },
     {
       "id": "mission-main-story-event-001-mission_52",
-      "name": "후지타 코토네 또는 하나미 사키 또는 츠키무라 테마리의 팬을 {threshold}명 확보하기"
+      "name": "후지타 코토네 또는 하나미 사키 또는 츠키무라 테마리의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-001-mission_53",
@@ -1055,7 +1055,7 @@
     },
     {
       "id": "mission-main-story-event-001-mission_54",
-      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자!"
+      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-001-mission_55",
@@ -1071,7 +1071,7 @@
     },
     {
       "id": "mission-main-story-event-002-mission_12",
-      "name": "시운 스미카의 팬을 {threshold}명 확보하기"
+      "name": "시운 스미카의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-002-mission_13",
@@ -1083,7 +1083,7 @@
     },
     {
       "id": "mission-main-story-event-002-mission_15",
-      "name": "하나미 우메의 프로듀스 평가를 총 {threshold} 획득하자!"
+      "name": "하나미 우메의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-002-mission_16",
@@ -1095,7 +1095,7 @@
     },
     {
       "id": "mission-main-story-event-002-mission_22",
-      "name": "카츠라기 릴리야의 팬을 {threshold}명 확보하기"
+      "name": "카츠라기 릴리야의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-002-mission_23",
@@ -1107,7 +1107,7 @@
     },
     {
       "id": "mission-main-story-event-002-mission_25",
-      "name": "하나미 우메의 프로듀스 평가를 총 {threshold} 획득하자!"
+      "name": "하나미 우메의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-002-mission_26",
@@ -1119,7 +1119,7 @@
     },
     {
       "id": "mission-main-story-event-002-mission_32",
-      "name": "花海 佑芽의 팬 {threshold}명을 획득하자!"
+      "name": "花海 佑芽의 팬 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-002-mission_33",
@@ -1131,7 +1131,7 @@
     },
     {
       "id": "mission-main-story-event-002-mission_35",
-      "name": "하나미 우메의 프로듀스 평가를 총 {threshold} 획득하자!"
+      "name": "하나미 우메의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-002-mission_36",
@@ -1143,7 +1143,7 @@
     },
     {
       "id": "mission-main-story-event-002-mission_42",
-      "name": "시운 스미카 또는 카츠라기 릴리야 또는 하나미 우메의 팬을 {threshold}명 확보하기"
+      "name": "시운 스미카 또는 카츠라기 릴리야 또는 하나미 우메의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-002-mission_43",
@@ -1155,7 +1155,7 @@
     },
     {
       "id": "mission-main-story-event-002-mission_45",
-      "name": "하나미 우메의 프로듀스 평가를 총 {threshold} 획득하자!"
+      "name": "하나미 우메의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-002-mission_46",
@@ -1167,7 +1167,7 @@
     },
     {
       "id": "mission-main-story-event-002-mission_52",
-      "name": "시운 스미카 또는 카츠라기 릴리야 또는 하나미 우메의 팬을 {threshold}명 확보하기"
+      "name": "시운 스미카 또는 카츠라기 릴리야 또는 하나미 우메의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-002-mission_53",
@@ -1179,7 +1179,7 @@
     },
     {
       "id": "mission-main-story-event-002-mission_55",
-      "name": "하나미 우메의 프로듀스 평가를 총 {threshold} 획득하자!"
+      "name": "하나미 우메의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-002-mission_56",
@@ -1191,19 +1191,19 @@
     },
     {
       "id": "mission-main-story-event-003-mission_12",
-      "name": "쿠라모토 치나 팬 {threshold}명을 획득하자!"
+      "name": "쿠라모토 치나 팬 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-003-mission_13",
-      "name": "쿠라모토 치나로 프로듀싱 평가를 총 {threshold} 획득하자!"
+      "name": "쿠라모토 치나로 프로듀싱 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-003-mission_14",
-      "name": "하나미 우메의 프로듀스 평가를 총 {threshold} 획득하자!"
+      "name": "하나미 우메의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-003-mission_15",
-      "name": "아리무라 마오로 프로듀싱 평가를 총 {threshold} 획득하자!"
+      "name": "아리무라 마오로 프로듀싱 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-003-mission_16",
@@ -1215,19 +1215,19 @@
     },
     {
       "id": "mission-main-story-event-003-mission_22",
-      "name": "花海 佑芽의 팬 {threshold}명을 획득하자!"
+      "name": "花海 佑芽의 팬 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-003-mission_23",
-      "name": "쿠라모토 치나로 프로듀싱 평가를 총 {threshold} 획득하자!"
+      "name": "쿠라모토 치나로 프로듀싱 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-003-mission_24",
-      "name": "하나미 우메의 프로듀스 평가를 총 {threshold} 획득하자!"
+      "name": "하나미 우메의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-003-mission_25",
-      "name": "아리무라 마오로 프로듀싱 평가를 총 {threshold} 획득하자!"
+      "name": "아리무라 마오로 프로듀싱 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-003-mission_26",
@@ -1239,19 +1239,19 @@
     },
     {
       "id": "mission-main-story-event-003-mission_32",
-      "name": "아리무라 마오의 팬 {threshold}명을 획득하자!"
+      "name": "아리무라 마오의 팬 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-003-mission_33",
-      "name": "쿠라모토 치나로 프로듀싱 평가를 총 {threshold} 획득하자!"
+      "name": "쿠라모토 치나로 프로듀싱 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-003-mission_34",
-      "name": "하나미 우메의 프로듀스 평가를 총 {threshold} 획득하자!"
+      "name": "하나미 우메의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-003-mission_35",
-      "name": "아리무라 마오로 프로듀싱 평가를 총 {threshold} 획득하자!"
+      "name": "아리무라 마오로 프로듀싱 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-003-mission_36",
@@ -1263,19 +1263,19 @@
     },
     {
       "id": "mission-main-story-event-003-mission_42",
-      "name": "쿠라모토 치나 또는 하나미 우메 또는 아리무라 마오의 팬 {threshold}명을 획득하자!"
+      "name": "쿠라모토 치나 또는 하나미 우메 또는 아리무라 마오의 팬 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-003-mission_43",
-      "name": "쿠라모토 치나로 프로듀싱 평가를 총 {threshold} 획득하자!"
+      "name": "쿠라모토 치나로 프로듀싱 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-003-mission_44",
-      "name": "하나미 우메의 프로듀스 평가를 총 {threshold} 획득하자!"
+      "name": "하나미 우메의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-003-mission_45",
-      "name": "아리무라 마오로 프로듀싱 평가를 총 {threshold} 획득하자!"
+      "name": "아리무라 마오로 프로듀싱 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-003-mission_46",
@@ -1287,19 +1287,19 @@
     },
     {
       "id": "mission-main-story-event-003-mission_52",
-      "name": "쿠라모토 치나 또는 하나미 우메 또는 아리무라 마오의 팬 {threshold}명을 획득하자!"
+      "name": "쿠라모토 치나 또는 하나미 우메 또는 아리무라 마오의 팬 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-003-mission_53",
-      "name": "쿠라모토 치나로 프로듀싱 평가를 총 {threshold} 획득하자!"
+      "name": "쿠라모토 치나로 프로듀싱 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-003-mission_54",
-      "name": "하나미 우메의 프로듀스 평가를 총 {threshold} 획득하자!"
+      "name": "하나미 우메의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-003-mission_55",
-      "name": "아리무라 마오로 프로듀싱 평가를 총 {threshold} 획득하자!"
+      "name": "아리무라 마오로 프로듀싱 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-003-mission_56",
@@ -1311,11 +1311,11 @@
     },
     {
       "id": "mission-main-story-event-004-mission_12",
-      "name": "하나미 사키의 팬을 {threshold}명 확보하기"
+      "name": "하나미 사키의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-004-mission_13",
-      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자!"
+      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-004-mission_14",
@@ -1335,11 +1335,11 @@
     },
     {
       "id": "mission-main-story-event-004-mission_22",
-      "name": "후지타 코토네의 팬을 {threshold}명 확보하기"
+      "name": "후지타 코토네의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-004-mission_23",
-      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자!"
+      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-004-mission_24",
@@ -1359,11 +1359,11 @@
     },
     {
       "id": "mission-main-story-event-004-mission_32",
-      "name": "히메사키 리나미의 팬을 {threshold}명 확보하기"
+      "name": "히메사키 리나미의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-004-mission_33",
-      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자!"
+      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-004-mission_34",
@@ -1383,11 +1383,11 @@
     },
     {
       "id": "mission-main-story-event-004-mission_42",
-      "name": "하나미 사키 또는 후지타 코토네 또는 히메사키 리나미의 팬을 {threshold}명 확보하기"
+      "name": "하나미 사키 또는 후지타 코토네 또는 히메사키 리나미의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-004-mission_43",
-      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자!"
+      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-004-mission_44",
@@ -1407,11 +1407,11 @@
     },
     {
       "id": "mission-main-story-event-004-mission_52",
-      "name": "하나미 사키 또는 후지타 코토네 또는 히메사키 리나미의 팬을 {threshold}명 확보하기"
+      "name": "하나미 사키 또는 후지타 코토네 또는 히메사키 리나미의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-004-mission_53",
-      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자!"
+      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-004-mission_54",
@@ -1431,7 +1431,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_12",
-      "name": "츠키무라 테마리의 팬을 {threshold}명 확보하기"
+      "name": "츠키무라 테마리의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-005-mission_13",
@@ -1439,7 +1439,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_14",
-      "name": "하나미 우메의 프로듀스 평가를 총 {threshold} 획득하자!"
+      "name": "하나미 우메의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-005-mission_15",
@@ -1455,7 +1455,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_22",
-      "name": "花海 佑芽의 팬 {threshold}명을 획득하자!"
+      "name": "花海 佑芽의 팬 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-005-mission_23",
@@ -1463,7 +1463,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_24",
-      "name": "하나미 우메의 프로듀스 평가를 총 {threshold} 획득하자!"
+      "name": "하나미 우메의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-005-mission_25",
@@ -1479,7 +1479,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_32",
-      "name": "주오 세나의 팬 {threshold}명 확보하기"
+      "name": "주오 세나의 팬 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-005-mission_33",
@@ -1487,7 +1487,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_34",
-      "name": "하나미 우메의 프로듀스 평가를 총 {threshold} 획득하자!"
+      "name": "하나미 우메의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-005-mission_35",
@@ -1503,7 +1503,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_42",
-      "name": "츠키무라 테마리 또는 하나미 우메 또는 주오 세나 팬을 {threshold}명 확보하기"
+      "name": "츠키무라 테마리 또는 하나미 우메 또는 주오 세나 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-005-mission_43",
@@ -1511,7 +1511,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_44",
-      "name": "하나미 우메의 프로듀스 평가를 총 {threshold} 획득하자!"
+      "name": "하나미 우메의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-005-mission_45",
@@ -1527,7 +1527,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_52",
-      "name": "츠키무라 테마리 또는 하나미 우메 또는 주오 세나 팬을 {threshold}명 확보하기"
+      "name": "츠키무라 테마리 또는 하나미 우메 또는 주오 세나 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-005-mission_53",
@@ -1535,7 +1535,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_54",
-      "name": "하나미 우메의 프로듀스 평가를 총 {threshold} 획득하자!"
+      "name": "하나미 우메의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-005-mission_55",
@@ -1551,11 +1551,11 @@
     },
     {
       "id": "mission-main-story-event-006-mission_12",
-      "name": "하나미 사키의 팬을 {threshold}명 확보하기"
+      "name": "하나미 사키의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-006-mission_13",
-      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자!"
+      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-006-mission_14",
@@ -1575,11 +1575,11 @@
     },
     {
       "id": "mission-main-story-event-006-mission_22",
-      "name": "츠키무라 테마리의 팬을 {threshold}명 확보하기"
+      "name": "츠키무라 테마리의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-006-mission_23",
-      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자!"
+      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-006-mission_24",
@@ -1599,11 +1599,11 @@
     },
     {
       "id": "mission-main-story-event-006-mission_32",
-      "name": "후지타 코토네의 팬을 {threshold}명 확보하기"
+      "name": "후지타 코토네의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-006-mission_33",
-      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자!"
+      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-006-mission_34",
@@ -1623,11 +1623,11 @@
     },
     {
       "id": "mission-main-story-event-006-mission_42",
-      "name": "花海 咲季または月村 手毬または藤田 ことねのファンを{threshold}명 확보하기"
+      "name": "하나미 사키 또는 츠키무라 테마리 또는 후지타 코토네의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-006-mission_43",
-      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자!"
+      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-006-mission_44",
@@ -1647,11 +1647,11 @@
     },
     {
       "id": "mission-main-story-event-006-mission_52",
-      "name": "花海 咲季または月村 手毬または藤田 ことねのファンを{threshold}명 확보하기"
+      "name": "하나미 사키 또는 츠키무라 테마리 또는 후지타 코토네의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-006-mission_53",
-      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자!"
+      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-006-mission_54",
@@ -1679,55 +1679,55 @@
     },
     {
       "id": "mission-normal-absoluteidolcardpotentialrankcount-1",
-      "name": "프로듀스 아이돌 {threshold}명의 재능 개화 단계를 1로 만들자!"
+      "name": "프로듀스 아이돌 {threshold}명의 재능 개화 단계를 1 로 만들자"
     },
     {
       "id": "mission-normal-absoluteidolcardpotentialrankcount-2",
-      "name": "프로듀스 아이돌 {threshold}명의 재능 개화 단계를 2로 만들자!"
+      "name": "프로듀스 아이돌 {threshold}명의 재능 개화 단계를 2 로 만들자"
     },
     {
       "id": "mission-normal-absoluteidolcardpotentialrankcount-3",
-      "name": "프로듀스 아이돌 {threshold}명의 재능 개화 단계를 3로 만들자!"
+      "name": "프로듀스 아이돌 {threshold}명의 재능 개화 단계를 3 로 만들자"
     },
     {
       "id": "mission-normal-absoluteidolcardpotentialrankcount-4",
-      "name": "프로듀스 아이돌 {threshold}명의 재능 개화 단계를 4로 만들자!"
+      "name": "프로듀스 아이돌 {threshold}명의 재능 개화 단계를 4 로 만들자"
     },
     {
       "id": "mission-normal-absolutepvprategrade-2",
-      "name": "콘테스트에서 2등급에 도달하세요!"
+      "name": "콘테스트에서 2등급에 도달하자"
     },
     {
       "id": "mission-normal-absolutepvprategrade-3",
-      "name": "콘테스트에서 3등급에 도달하세요!"
+      "name": "콘테스트에서 3등급에 도달하자"
     },
     {
       "id": "mission-normal-absolutepvprategrade-4",
-      "name": "콘테스트에서 4등급에 도달하세요!"
+      "name": "콘테스트에서 4등급에 도달하자"
     },
     {
       "id": "mission-normal-absolutepvprategrade-5",
-      "name": "콘테스트에서 5등급에 도달하세요!"
+      "name": "콘테스트에서 5등급에 도달하자"
     },
     {
       "id": "mission-normal-absolutepvprategrade-6",
-      "name": "콘테스트에서 6등급에 도달하세요!"
+      "name": "콘테스트에서 6등급에 도달하자"
     },
     {
       "id": "mission-normal-absolutepvprategrade-7",
-      "name": "콘테스트에서 7등급에 도달하세요!"
+      "name": "콘테스트에서 7등급에 도달하자"
     },
     {
       "id": "mission-normal-absolutepvprateunitoverallpower-1",
-      "name": "콘테스트에서 유닛 종합력을 {threshold} 이상으로 만들자!"
+      "name": "콘테스트에서 유닛 종합력을 {threshold} 이상으로 만들자"
     },
     {
       "id": "mission-normal-absolutesupportcardcount-1",
-      "name": "서포트 카드를 {threshold} 종류 획득하자!"
+      "name": "서포트 카드를 {threshold} 종류 획득하자"
     },
     {
       "id": "mission-normal-absolutesupportcardlevel-1",
-      "name": "서포트 카드의 레벨을 {threshold}으로 만들자!"
+      "name": "서포트 카드의 레벨을 {threshold}으로 만들자"
     },
     {
       "id": "mission-normal-discord-join-1",
@@ -1735,7 +1735,7 @@
     },
     {
       "id": "mission-normal-incrementgashadrawcount-1",
-      "name": "코인 가챠를 {threshold}회 뽑자!"
+      "name": "코인 가챠를 {threshold}번 뽑자!"
     },
     {
       "id": "mission-normal-incrementguilddonationcount-1",
@@ -1743,31 +1743,31 @@
     },
     {
       "id": "mission-normal-incrementidolcardlevellimitrankupdatecount-1",
-      "name": "프로듀스 아이돌을 {threshold}번 특훈하자!"
+      "name": "프로듀스 아이돌을 {threshold}번 특훈하자"
     },
     {
       "id": "mission-normal-incrementIdolcardpotentialrankupdatecount-1",
-      "name": "프로듀스 아이돌을 {threshold}번 재능을 꽃피우자!"
+      "name": "프로듀스 아이돌을 {threshold}번 재능개화 하자"
     },
     {
       "id": "mission-normal-incrementmeishiexchangecount-1",
-      "name": "다른 프로듀서로부터 명함을 {threshold}번 받자!"
+      "name": "다른 프로듀서로부터 명함을 {threshold}번 받자"
     },
     {
       "id": "mission-normal-incrementmemorygradecount-a-1",
-      "name": "A 등급 이상의 메모리를 {threshold}회 획득하자!"
+      "name": "A 등급 이상의 메모리를 {threshold}회 획득하자"
     },
     {
       "id": "mission-normal-incrementmemorygradecount-a-2",
-      "name": "평가 A+ 이상의 메모리를 {threshold}회 획득하자!"
+      "name": "평가 A+ 이상의 메모리를 {threshold}회 획득하자"
     },
     {
       "id": "mission-normal-incrementmemorygradecount-b-1",
-      "name": "평가 B+ 이상의 메모리를 {threshold}회 획득하자!"
+      "name": "평가 B+ 이상의 메모리를 {threshold}회 획득하자"
     },
     {
       "id": "mission-normal-incrementmemorygradecount-s-1",
-      "name": "평가 S 이상의 메모리를 {threshold} 번 획득하자"
+      "name": "평가 S 이상의 메모리를 {threshold}번 획득하자"
     },
     {
       "id": "mission-normal-incrementmemorygradecount-s-2",
@@ -1795,7 +1795,7 @@
     },
     {
       "id": "mission-normal-incrementpvpratelivebattlescorecount-01",
-      "name": "콘테스트에서 {threshold} 이상의 점수를 획득하세요!"
+      "name": "콘테스트에서 {threshold} 이상의 점수를 획득하자"
     },
     {
       "id": "mission-normal-incrementpvpratewincount-1",
@@ -1803,7 +1803,7 @@
     },
     {
       "id": "mission-normal-incrementreceivemoney-1",
-      "name": "활동비로 총 {threshold} 마니를 받자!"
+      "name": "활동비로 총 {threshold} 머니를 받자"
     },
     {
       "id": "mission-normal-incrementsupportcardenhancecount-1",
@@ -1811,87 +1811,87 @@
     },
     {
       "id": "mission-normal-incrementsupportcardlevellimitrankupdatecount-1",
-      "name": "서포트 카드를 {threshold}회까지만 상한 강화하자!"
+      "name": "서포트 카드를 {threshold}회까지만 상한 강화하자"
     },
     {
       "id": "mission-normal-incrementworktimecount-1",
-      "name": "총 {threshold} 시간 동안 일하자"
+      "name": "업무를 총 {threshold} 시간 하자"
     },
     {
       "id": "mission-normal-linkBandaiNamco-1",
-      "name": "데이터 연동하기\n※메뉴 > データ連携から可能です"
+      "name": "데이터 연동하기\n※메뉴 > 데이터 연동 에서 가능합니다"
     },
     {
       "id": "mission-normal-pcondtionclear-p-cd-amao-1st",
-      "name": "마오 시험1위를 차지한 적이 있다"
+      "name": "마오 시험에서 1위를 한 적이 있다"
     },
     {
       "id": "mission-normal-pcondtionclear-p-cd-amao-3rd",
-      "name": "마오 시험3위를 차지한 적이 있다"
+      "name": "마오 시험에서 3위를 한 적이 있다"
     },
     {
       "id": "mission-normal-pcondtionclear-p-cd-fktn-1st",
-      "name": "코토네 시험1위를 차지한 적이 있다"
+      "name": "코토네 시험에서 1위를 한 적이 있다"
     },
     {
       "id": "mission-normal-pcondtionclear-p-cd-fktn-3rd",
-      "name": "코토네 시험3위를 차지한 적이 있다"
+      "name": "코토네 시험에서 3위를 한 적이 있다"
     },
     {
       "id": "mission-normal-pcondtionclear-p-cd-hrnm-1st",
-      "name": "리나미 시험1위를 차지한 적이 있다"
+      "name": "리나미 시험에서 1위를 한 적이 있다"
     },
     {
       "id": "mission-normal-pcondtionclear-p-cd-hrnm-3rd",
-      "name": "리나미 시험3위를 차지한 적이 있다"
+      "name": "리나미 시험에서 3위를 한 적이 있다"
     },
     {
       "id": "mission-normal-pcondtionclear-p-cd-hski-1st",
-      "name": "사키 시험1위를 차지한 적이 있다"
+      "name": "사키 시험에서 1위를 한 적이 있다"
     },
     {
       "id": "mission-normal-pcondtionclear-p-cd-hski-3rd",
-      "name": "사키 시험3위를 차지한 적이 있다"
+      "name": "사키 시험에서 3위를 한 적이 있다"
     },
     {
       "id": "mission-normal-pcondtionclear-p-cd-kcna-1st",
-      "name": "치나 시험1위를 차지한 적이 있다"
+      "name": "치나 시험에서 1위를 한 적이 있다"
     },
     {
       "id": "mission-normal-pcondtionclear-p-cd-kcna-3rd",
-      "name": "치나 시험3위를 차지한 적이 있다"
+      "name": "치나 시험에서 3위를 한 적이 있다"
     },
     {
       "id": "mission-normal-pcondtionclear-p-cd-kllj-1st",
-      "name": "릴리야 시험1위를 차지한 적이 있다"
+      "name": "릴리야 시험에서 1위를 한 적이 있다"
     },
     {
       "id": "mission-normal-pcondtionclear-p-cd-kllj-3rd",
-      "name": "릴리야 시험3위를 차지한 적이 있다"
+      "name": "릴리야 시험에서 3위를 한 적이 있다"
     },
     {
       "id": "mission-normal-pcondtionclear-p-cd-shro-1st",
-      "name": "히로 시험1위를 차지한 적이 있다"
+      "name": "히로 시험에서 1위를 한 적이 있다"
     },
     {
       "id": "mission-normal-pcondtionclear-p-cd-shro-3rd",
-      "name": "히로 시험3위를 차지한 적이 있다"
+      "name": "히로 시험에서 3위를 한 적이 있다"
     },
     {
       "id": "mission-normal-pcondtionclear-p-cd-ssmk-1st",
-      "name": "스미카 시험1위를 차지한 적이 있다"
+      "name": "스미카 시험에서 1위를 한 적이 있다"
     },
     {
       "id": "mission-normal-pcondtionclear-p-cd-ssmk-3rd",
-      "name": "스미카 시험3위를 차지한 적이 있다"
+      "name": "스미카 시험에서 3위를 한 적이 있다"
     },
     {
       "id": "mission-normal-pcondtionclear-p-cd-ttmr-1st",
-      "name": "테마리 시험1위를 차지한 적이 있다"
+      "name": "테마리 시험에서 1위를 한 적이 있다"
     },
     {
       "id": "mission-normal-pcondtionclear-p-cd-ttmr-3rd",
-      "name": "테마리 시험3위를 차지한 적이 있다"
+      "name": "테마리 시험에서 3위를 한 적이 있다"
     },
     {
       "id": "mission-normal-produce-clear-amao-c",
@@ -1939,7 +1939,7 @@
     },
     {
       "id": "mission-normal-profileupdate-1",
-      "name": "프로필 설정하기"
+      "name": "프로필을 설정하기"
     },
     {
       "id": "mission-normal-view-shop_pack_hume-0001",
@@ -2003,7 +2003,7 @@
     },
     {
       "id": "mission-panel-mission-1-4",
-      "name": "비주얼 레슨을 {threshold}회 클리어하자!"
+      "name": "비주얼 레슨을 {threshold}회 클리어하자"
     },
     {
       "id": "mission-panel-mission-1-5",
@@ -2027,7 +2027,7 @@
     },
     {
       "id": "mission-panel-mission-2-1",
-      "name": "플랜: 센스 프로듀싱을 {threshold}회 완료하자"
+      "name": "플랜: 센스 프로듀스를 {threshold}회 완료하자"
     },
     {
       "id": "mission-panel-mission-2-2",
@@ -2039,15 +2039,15 @@
     },
     {
       "id": "mission-panel-mission-2-4",
-      "name": "프로듀싱으로 스킬 카드를 {threshold}회 강화하자!"
+      "name": "프로듀스에서 스킬 카드를 {threshold}번 강화하자!"
     },
     {
       "id": "mission-panel-mission-2-5",
-      "name": "프로듀싱을 {threshold}회 완료하자"
+      "name": "프로듀스를 {threshold}회 완료하자"
     },
     {
       "id": "mission-panel-mission-2-6",
-      "name": "P 드링크를 총 {threshold}개를 획득하자"
+      "name": "P드링크를 총 {threshold}개를 획득하자"
     },
     {
       "id": "mission-panel-mission-2-7",
@@ -2055,11 +2055,11 @@
     },
     {
       "id": "mission-panel-mission-2-8",
-      "name": "스킬 카드를 총 {threshold}개 획득하자!"
+      "name": "스킬 카드를 총 {threshold}개 획득하자"
     },
     {
       "id": "mission-panel-mission-2-9",
-      "name": "총 {threshold} P 포인트 획득하기"
+      "name": "총 {threshold} P포인트 획득하기"
     },
     {
       "id": "mission-release_mission-1-1",
@@ -2075,15 +2075,15 @@
     },
     {
       "id": "mission-release_mission-1-4",
-      "name": "연수 1개를 클리어하자!"
+      "name": "연수 1개를 클리어하자"
     },
     {
       "id": "mission-release_mission-1-5",
-      "name": "스킬 카드 {threshold}종류를 획득하자!"
+      "name": "스킬 카드 {threshold}종류를 획득하자"
     },
     {
       "id": "mission-release_mission-1-6",
-      "name": "1둘째 날의 모든 미션을 클리어하자"
+      "name": "1일차의 모든 미션을 클리어하자"
     },
     {
       "id": "mission-release_mission-2-1",
@@ -2091,7 +2091,7 @@
     },
     {
       "id": "mission-release_mission-2-2",
-      "name": "프로듀스 등급을 총 {threshold}개 획득하자!"
+      "name": "프로듀스 등급을 총 {threshold}개 획득하자"
     },
     {
       "id": "mission-release_mission-2-3",
@@ -2103,11 +2103,11 @@
     },
     {
       "id": "mission-release_mission-2-5",
-      "name": "스킬 카드 {threshold}종류를 획득하자!"
+      "name": "스킬 카드 {threshold}종류를 획득하자"
     },
     {
       "id": "mission-release_mission-2-6",
-      "name": "2둘째 날의 모든 미션을 클리어하자"
+      "name": "2일차의 모든 미션을 클리어하자"
     },
     {
       "id": "mission-release_mission-3-1",
@@ -2115,7 +2115,7 @@
     },
     {
       "id": "mission-release_mission-3-2",
-      "name": "프로듀스 등급을 총 {threshold}개 획득하자!"
+      "name": "프로듀스 등급을 총 {threshold}개 획득하자"
     },
     {
       "id": "mission-release_mission-3-3",
@@ -2135,11 +2135,11 @@
     },
     {
       "id": "mission-release_mission-3-7",
-      "name": "스킬 카드 {threshold}종류를 획득하자!"
+      "name": "스킬 카드 {threshold}종류를 획득하자"
     },
     {
       "id": "mission-release_mission-3-8",
-      "name": "3둘째 날의 모든 미션을 클리어하자"
+      "name": "3일차의 모든 미션을 클리어하자"
     },
     {
       "id": "mission-release_mission-4-1",
@@ -2147,11 +2147,11 @@
     },
     {
       "id": "mission-release_mission-4-2",
-      "name": "프로듀스 등급을 총 {threshold}개 획득하자!"
+      "name": "프로듀스 등급을 총 {threshold}개 획득하자"
     },
     {
       "id": "mission-release_mission-4-3",
-      "name": "프로듀싱으로 스킬 카드를 {threshold}회 강화하자!"
+      "name": "프로듀스에서 스킬 카드를 {threshold}번 강화하자!"
     },
     {
       "id": "mission-release_mission-4-4",
@@ -2159,11 +2159,11 @@
     },
     {
       "id": "mission-release_mission-4-5",
-      "name": "스킬 카드 {threshold}종류를 획득하자!"
+      "name": "스킬 카드 {threshold}종류를 획득하자"
     },
     {
       "id": "mission-release_mission-4-6",
-      "name": "4둘째 날의 모든 미션을 클리어하자"
+      "name": "4일차의 모든 미션을 클리어하자"
     },
     {
       "id": "mission-release_mission-5-1",
@@ -2171,7 +2171,7 @@
     },
     {
       "id": "mission-release_mission-5-2",
-      "name": "프로듀스 등급을 총 {threshold}개 획득하자!"
+      "name": "프로듀스 등급을 총 {threshold}개 획득하자"
     },
     {
       "id": "mission-release_mission-5-3",
@@ -2179,11 +2179,11 @@
     },
     {
       "id": "mission-release_mission-5-4",
-      "name": "스킬 카드 {threshold}종류를 획득하자!"
+      "name": "스킬 카드 {threshold}종류를 획득하자"
     },
     {
       "id": "mission-release_mission-5-5",
-      "name": "5둘째 날의 모든 미션을 클리어하자"
+      "name": "5일차의 모든 미션을 클리어하자"
     },
     {
       "id": "mission-release_mission-6-1",
@@ -2191,11 +2191,11 @@
     },
     {
       "id": "mission-release_mission-6-2",
-      "name": "프로듀스 등급을 총 {threshold}개 획득하자!"
+      "name": "프로듀스 등급을 총 {threshold}개 획득하자"
     },
     {
       "id": "mission-release_mission-6-3",
-      "name": "프로 프로듀스로 평가 B 이상 달성하자\n【조건】플랜：감각의 프로듀스 아이돌"
+      "name": "프로 프로듀스로 평가 B 이상 달성하자\n【조건】플랜：센스의 프로듀스 아이돌"
     },
     {
       "id": "mission-release_mission-6-4",
@@ -2207,11 +2207,11 @@
     },
     {
       "id": "mission-release_mission-6-6",
-      "name": "스킬 카드 {threshold}종류를 획득하자!"
+      "name": "스킬 카드 {threshold}종류를 획득하자"
     },
     {
       "id": "mission-release_mission-6-7",
-      "name": "6둘째 날의 모든 미션을 클리어하자"
+      "name": "6일차의 모든 미션을 클리어하자"
     },
     {
       "id": "mission-release_mission-7-1",
@@ -2219,7 +2219,7 @@
     },
     {
       "id": "mission-release_mission-7-2",
-      "name": "프로듀스 등급을 총 {threshold}개 획득하자!"
+      "name": "프로듀스 등급을 총 {threshold}개 획득하자"
     },
     {
       "id": "mission-release_mission-7-3",
@@ -2227,11 +2227,11 @@
     },
     {
       "id": "mission-release_mission-7-4",
-      "name": "스킬 카드 {threshold}종류를 획득하자!"
+      "name": "스킬 카드 {threshold}종류를 획득하자"
     },
     {
       "id": "mission-release_mission-7-5",
-      "name": "7둘째 날의 모든 미션을 클리어하자"
+      "name": "7일차의 모든 미션을 클리어하자"
     },
     {
       "id": "mission-story-event-001-mission_1",
@@ -2243,7 +2243,7 @@
     },
     {
       "id": "mission-story-event-001-mission_3",
-      "name": "프로듀스 등급을 총 {threshold}개 획득하자!"
+      "name": "프로듀스 등급을 총 {threshold}개 획득하자"
     },
     {
       "id": "mission-story-event-001-mission_4",
@@ -2267,7 +2267,7 @@
     },
     {
       "id": "mission-story-event-002-mission_3",
-      "name": "프로듀스 등급을 총 {threshold}개 획득하자!"
+      "name": "프로듀스 등급을 총 {threshold}개 획득하자"
     },
     {
       "id": "mission-story-event-002-mission_4",
@@ -2291,7 +2291,7 @@
     },
     {
       "id": "mission-story-event-003-mission_3",
-      "name": "프로듀스 등급을 총 {threshold}개 획득하자!"
+      "name": "프로듀스 등급을 총 {threshold}개 획득하자"
     },
     {
       "id": "mission-story-event-003-mission_4",
@@ -2315,7 +2315,7 @@
     },
     {
       "id": "mission-story-event-004-mission_3",
-      "name": "프로듀스 등급을 총 {threshold}개 획득하자!"
+      "name": "프로듀스 등급을 총 {threshold}개 획득하자"
     },
     {
       "id": "mission-story-event-004-mission_4",
@@ -2331,7 +2331,7 @@
     },
     {
       "id": "mission-weekly-incrementgashadrawcount-1",
-      "name": "코인 가챠를 {threshold}회 뽑자!"
+      "name": "코인 가챠를 {threshold}번 뽑자!"
     },
     {
       "id": "mission-weekly-incrementlogincount-1",
@@ -2355,7 +2355,7 @@
     },
     {
       "id": "mission-weekly-incrementworktimecount-1",
-      "name": "총 {threshold} 시간 동안 일하자"
+      "name": "업무를 총 {threshold} 시간 하자"
     },
     {
       "id": "panel_mission-event-002-mission_1",
@@ -2363,7 +2363,7 @@
     },
     {
       "id": "panel_mission-event-002-mission_11",
-      "name": "플랜: 센스 프로듀싱을 {threshold}회 완료하자"
+      "name": "플랜: 센스 프로듀스를 {threshold}회 완료하자"
     },
     {
       "id": "panel_mission-event-002-mission_12",
@@ -2375,15 +2375,15 @@
     },
     {
       "id": "panel_mission-event-002-mission_14",
-      "name": "프로듀싱으로 스킬 카드를 {threshold}회 강화하자!"
+      "name": "프로듀스에서 스킬 카드를 {threshold}번 강화하자!"
     },
     {
       "id": "panel_mission-event-002-mission_15",
-      "name": "프로듀스 등급을 총 {threshold}개 획득하자!"
+      "name": "프로듀스 등급을 총 {threshold}개 획득하자"
     },
     {
       "id": "panel_mission-event-002-mission_16",
-      "name": "P 드링크를 총 {threshold}개를 획득하자"
+      "name": "P드링크를 총 {threshold}개를 획득하자"
     },
     {
       "id": "panel_mission-event-002-mission_17",
@@ -2391,11 +2391,11 @@
     },
     {
       "id": "panel_mission-event-002-mission_18",
-      "name": "스킬 카드를 총 {threshold}개 획득하자!"
+      "name": "스킬 카드를 총 {threshold}개 획득하자"
     },
     {
       "id": "panel_mission-event-002-mission_19",
-      "name": "총 {threshold} P 포인트 획득하기"
+      "name": "총 {threshold} P포인트 획득하기"
     },
     {
       "id": "panel_mission-event-002-mission_2",
@@ -2443,7 +2443,7 @@
     },
     {
       "id": "panel_mission-event-003-mission_4",
-      "name": "비주얼 레슨을 {threshold}회 클리어하자!"
+      "name": "비주얼 레슨을 {threshold}회 클리어하자"
     },
     {
       "id": "panel_mission-event-003-mission_5",
@@ -2451,15 +2451,15 @@
     },
     {
       "id": "panel_mission-event-003-mission_6",
-      "name": "총 {threshold} P 포인트 획득하기"
+      "name": "총 {threshold} P포인트 획득하기"
     },
     {
       "id": "panel_mission-event-003-mission_7",
-      "name": "스킬 카드를 총 {threshold}개 획득하자!"
+      "name": "스킬 카드를 총 {threshold}개 획득하자"
     },
     {
       "id": "panel_mission-event-003-mission_8",
-      "name": "프로듀싱으로 스킬 카드를 {threshold}회 강화하자!"
+      "name": "프로듀스에서 스킬 카드를 {threshold}번 강화하자!"
     },
     {
       "id": "panel_mission-event-003-mission_9",
@@ -2471,7 +2471,7 @@
     },
     {
       "id": "panel_mission-event-004-mission_11",
-      "name": "플랜: 센스 프로듀싱을 {threshold}회 완료하자"
+      "name": "플랜: 센스 프로듀스를 {threshold}회 완료하자"
     },
     {
       "id": "panel_mission-event-004-mission_12",
@@ -2483,15 +2483,15 @@
     },
     {
       "id": "panel_mission-event-004-mission_14",
-      "name": "프로듀싱으로 스킬 카드를 {threshold}회 강화하자!"
+      "name": "프로듀스에서 스킬 카드를 {threshold}번 강화하자!"
     },
     {
       "id": "panel_mission-event-004-mission_15",
-      "name": "프로듀싱을 {threshold}회 완료하자"
+      "name": "프로듀스를 {threshold}회 완료하자"
     },
     {
       "id": "panel_mission-event-004-mission_16",
-      "name": "P 드링크를 총 {threshold}개를 획득하자"
+      "name": "P드링크를 총 {threshold}개를 획득하자"
     },
     {
       "id": "panel_mission-event-004-mission_17",
@@ -2499,11 +2499,11 @@
     },
     {
       "id": "panel_mission-event-004-mission_18",
-      "name": "스킬 카드를 총 {threshold}개 획득하자!"
+      "name": "스킬 카드를 총 {threshold}개 획득하자"
     },
     {
       "id": "panel_mission-event-004-mission_19",
-      "name": "총 {threshold} P 포인트 획득하기"
+      "name": "총 {threshold} P포인트 획득하기"
     },
     {
       "id": "panel_mission-event-004-mission_2",
@@ -2515,7 +2515,7 @@
     },
     {
       "id": "panel_mission-event-004-mission_4",
-      "name": "비주얼 레슨을 {threshold}회 클리어하자!"
+      "name": "비주얼 레슨을 {threshold}회 클리어하자"
     },
     {
       "id": "panel_mission-event-004-mission_5",
@@ -2543,7 +2543,7 @@
     },
     {
       "id": "panel_mission-event-006-mission_11",
-      "name": "플랜: 센스 프로듀싱을 {threshold}회 완료하자"
+      "name": "플랜: 센스 프로듀스를 {threshold}회 완료하자"
     },
     {
       "id": "panel_mission-event-006-mission_12",
@@ -2555,15 +2555,15 @@
     },
     {
       "id": "panel_mission-event-006-mission_14",
-      "name": "프로듀싱으로 스킬 카드를 {threshold}회 강화하자!"
+      "name": "프로듀스에서 스킬 카드를 {threshold}번 강화하자!"
     },
     {
       "id": "panel_mission-event-006-mission_15",
-      "name": "프로듀싱을 {threshold}회 완료하자"
+      "name": "프로듀스를 {threshold}회 완료하자"
     },
     {
       "id": "panel_mission-event-006-mission_16",
-      "name": "P 드링크를 총 {threshold}개를 획득하자"
+      "name": "P드링크를 총 {threshold}개를 획득하자"
     },
     {
       "id": "panel_mission-event-006-mission_17",
@@ -2571,11 +2571,11 @@
     },
     {
       "id": "panel_mission-event-006-mission_18",
-      "name": "스킬 카드를 총 {threshold}개 획득하자!"
+      "name": "스킬 카드를 총 {threshold}개 획득하자"
     },
     {
       "id": "panel_mission-event-006-mission_19",
-      "name": "총 {threshold} P 포인트 획득하기"
+      "name": "총 {threshold} P포인트 획득하기"
     },
     {
       "id": "panel_mission-event-006-mission_2",
@@ -2587,7 +2587,7 @@
     },
     {
       "id": "panel_mission-event-006-mission_4",
-      "name": "비주얼 레슨을 {threshold}회 클리어하자!"
+      "name": "비주얼 레슨을 {threshold}회 클리어하자"
     },
     {
       "id": "panel_mission-event-006-mission_5",
@@ -2623,7 +2623,7 @@
     },
     {
       "id": "panel_mission-event-niv-mission_4",
-      "name": "콘테스트에서 유닛 종합력을 {threshold} 이상으로 만들자!"
+      "name": "콘테스트에서 유닛 종합력을 {threshold} 이상으로 만들자"
     },
     {
       "id": "panel_mission-event-niv-mission_5",
@@ -2651,11 +2651,11 @@
     },
     {
       "id": "achieve-i_card-amao-3-001-02",
-      "name": "【너와 세미블루】 아리무라 마오의 특훈 단계를 {threshold}으로 설정하기"
+      "name": "【너와 세미블루】 아리무라 마오의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-amao-3-001-03",
-      "name": "【너와 세미블루】 아리무라 마오의 프로듀싱으로 평가 A+ 이상을 {threshold}회 획득"
+      "name": "【너와 세미블루】 아리무라 마오의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-amao-3-002-01",
@@ -2663,11 +2663,11 @@
     },
     {
       "id": "achieve-i_card-amao-3-002-02",
-      "name": "【Feel Jewel Dream】 아리무라 마오의 특훈 단계를 {threshold}으로 한다"
+      "name": "【Feel Jewel Dream】 아리무라 마오의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-amao-3-002-03",
-      "name": "【Feel Jewel Dream】 아리무라 마오의 프로듀스로 평가 A+ 이상을 {threshold}회 달성"
+      "name": "【Feel Jewel Dream】 아리무라 마오의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-amao-3-007-01",
@@ -2675,11 +2675,11 @@
     },
     {
       "id": "achieve-i_card-amao-3-007-02",
-      "name": "【Campus mode!!】아리무라 마오의 특훈 단계를 {threshold}로 설정"
+      "name": "【Campus mode!!】아리무라 마오의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-amao-3-007-03",
-      "name": "【Campus mode!!】아리무라 마오의 프로듀스에서 평가 A+이상을 {threshold}회 획득 "
+      "name": "【Campus mode!!】아리무라 마오의 프로듀스에서 평가 A+이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-fktn-3-001-01",
@@ -2687,11 +2687,11 @@
     },
     {
       "id": "achieve-i_card-fktn-3-001-02",
-      "name": "【Yellow Big Bang！】후지타 코토네의 특훈 단계를 {threshold}으로 한다."
+      "name": "【Yellow Big Bang！】후지타 코토네의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-fktn-3-001-03",
-      "name": "【Yellow Big Bang！】후지타 코토네의 프로듀싱으로 평가 A+ 이상을 {threshold}회 획득!"
+      "name": "【Yellow Big Bang！】후지타 코토네의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-fktn-3-002-01",
@@ -2699,11 +2699,11 @@
     },
     {
       "id": "achieve-i_card-fktn-3-002-02",
-      "name": "【관국】후지타 코토네의 특훈 단계를 {threshold}로 설정"
+      "name": "【관국】후지타 코토네의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-fktn-3-002-03",
-      "name": "【관국】후지타 코토네의 프로듀스에서 평가 A+이상을 {threshold}회 획득 "
+      "name": "【관국】후지타 코토네의 프로듀스에서 평가 A+이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-fktn-3-006-01",
@@ -2711,11 +2711,11 @@
     },
     {
       "id": "achieve-i_card-fktn-3-006-02",
-      "name": "【White Night! White Wish!】후지타 코토네의 특훈 단계를 {threshold}로 설정"
+      "name": "【White Night! White Wish!】후지타 코토네의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-fktn-3-006-03",
-      "name": "【White Night! White Wish!】후지타 코토네의 프로듀스에서 평가 A+이상을 {threshold}회 획득 "
+      "name": "【White Night! White Wish!】후지타 코토네의 프로듀스에서 평가 A+이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-fktn-3-007-01",
@@ -2723,27 +2723,27 @@
     },
     {
       "id": "achieve-i_card-fktn-3-007-02",
-      "name": "【Campus mode!!】후지타 코토네의 특훈 단계를 {threshold}로 설정"
+      "name": "【Campus mode!!】후지타 코토네의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-fktn-3-007-03",
-      "name": "【Campus mode!!】후지타 코토네의 프로듀스에서 평가 A+이상을 {threshold}회 획득 "
+      "name": "【Campus mode!!】후지타 코토네의 프로듀스에서 평가 A+이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-hrnm-3-001-01",
-      "name": "【너와 세미블루】히메사키 리나미의 프로듀싱으로 최종 시험에 합격!"
+      "name": "【너와 세미블루】히메사키 리나미의 프로듀스로 최종 시험에 합격"
     },
     {
       "id": "achieve-i_card-hrnm-3-001-02",
-      "name": "【너와 세미블루】히메사키 리나미의 특훈 단계를 {threshold}으로 한다."
+      "name": "【너와 세미블루】히메사키 리나미의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hrnm-3-001-03",
-      "name": "【너와 세미블루】 히메사키 리나미의 프로듀싱으로 평가 A+ 이상을 {threshold}회 획득"
+      "name": "【너와 세미블루】 히메사키 리나미의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-hrnm-3-002-01",
-      "name": "【L.U.V】히메사키 리나미의 프로듀싱으로 최종 시험에 합격!"
+      "name": "【L.U.V】히메사키 리나미의 프로듀스로 최종 시험에 합격"
     },
     {
       "id": "achieve-i_card-hrnm-3-002-02",
@@ -2751,11 +2751,11 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-002-03",
-      "name": "【L.U.V】히메사키 리나미의 프로듀싱으로 평가 A+이상을 {threshold}회 획득 "
+      "name": "【L.U.V】히메사키 리나미의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-hrnm-3-004-01",
-      "name": "【어서 오세요 하츠보시온천!】히메사키 리나미의 프로듀싱으로 최종 시험에 합격!"
+      "name": "【어서 오세요 하츠보시온천!】히메사키 리나미의 프로듀스로 최종 시험에 합격"
     },
     {
       "id": "achieve-i_card-hrnm-3-004-02",
@@ -2763,11 +2763,11 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-004-03",
-      "name": "【어서 오세요 하츠보시온천!】히메사키 리나미의 프로듀싱으로 평가 A+이상을 {threshold}회 획득 "
+      "name": "【어서 오세요 하츠보시온천!】히메사키 리나미의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-hrnm-3-007-01",
-      "name": "【Campus mode!!】히메사키 리나미의 프로듀싱으로 최종 시험에 합격!"
+      "name": "【Campus mode!!】히메사키 리나미의 프로듀스로 최종 시험에 합격"
     },
     {
       "id": "achieve-i_card-hrnm-3-007-02",
@@ -2775,7 +2775,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-007-03",
-      "name": "【Campus mode!!】히메사키 리나미의 프로듀싱으로 평가 A+이상을 {threshold}회 획득 "
+      "name": "【Campus mode!!】히메사키 리나미의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-hski-3-001-01",
@@ -2787,7 +2787,7 @@
     },
     {
       "id": "achieve-i_card-hski-3-001-03",
-      "name": "【Boom Boom Pow】 하나미 사키의 프로듀싱으로 평가 A+ 이상을 {threshold}회 달성"
+      "name": "【Boom Boom Pow】 하나미 사키의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-hski-3-002-01",
@@ -2795,11 +2795,11 @@
     },
     {
       "id": "achieve-i_card-hski-3-002-02",
-      "name": "【관국】하나미 사키의 사계절 특훈 단계를 {threshold}으로 만들기"
+      "name": "【관국】하나미 사키의 사계절 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hski-3-002-03",
-      "name": "【관국】하나미 사키의 프로듀싱으로 평가 A+ 이상을 {threshold}회 획득"
+      "name": "【관국】하나미 사키의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-hski-3-006-01",
@@ -2807,11 +2807,11 @@
     },
     {
       "id": "achieve-i_card-hski-3-006-02",
-      "name": "【고금동서 식은 죽 먹기】하나미 사키의 특훈 단계를 {threshold}로 설정"
+      "name": "【고금동서 식은 죽 먹기】하나미 사키의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hski-3-006-03",
-      "name": "【고금동서 식은 죽 먹기】하나미 사키의 프로듀싱으로 평가 A+이상을 {threshold}회 획득 "
+      "name": "【고금동서 식은 죽 먹기】하나미 사키의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-hski-3-008-01",
@@ -2819,11 +2819,11 @@
     },
     {
       "id": "achieve-i_card-hski-3-008-02",
-      "name": "【Campus mode!!】하나미 사키의 특훈 단계를 {threshold}로 설정"
+      "name": "【Campus mode!!】하나미 사키의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hski-3-008-03",
-      "name": "【Campus mode!!】하나미 사키의 프로듀싱으로 평가 A+이상을 {threshold}회 획득 "
+      "name": "【Campus mode!!】하나미 사키의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-hume-2-000-01",
@@ -2831,11 +2831,11 @@
     },
     {
       "id": "achieve-i_card-hume-2-000-02",
-      "name": "【아이돌, 시작!】 하나미 우메의 특훈 단계를 {threshold}으로 한다."
+      "name": "【아이돌, 시작!】 하나미 우메의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hume-2-000-03",
-      "name": "【아이돌, 시작!】 하나미 우메의 프로듀싱으로 평가 A+ 이상을 {threshold}회 획득"
+      "name": "【아이돌, 시작!】 하나미 우메의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-hume-3-000-01",
@@ -2843,11 +2843,11 @@
     },
     {
       "id": "achieve-i_card-hume-3-000-02",
-      "name": "【The Rolling Riceball】하나미 우메의 특훈 단계를 {threshold}으로 만들기"
+      "name": "【The Rolling Riceball】하나미 우메의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hume-3-000-03",
-      "name": "【The Rolling Riceball】 하나미 우메의 프로듀싱으로 평가 A+ 이상을 {threshold}회 획득"
+      "name": "【The Rolling Riceball】 하나미 우메의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-hume-3-005-01",
@@ -2855,11 +2855,11 @@
     },
     {
       "id": "achieve-i_card-hume-3-005-02",
-      "name": "【White Night! White Wish!】하나미 우메의 특훈 단계를 {threshold}로 설정"
+      "name": "【White Night! White Wish!】하나미 우메의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hume-3-005-03",
-      "name": "【White Night! White Wish!】하나미 우메의 프로듀스에서 평가 A+이상을 {threshold}회 획득 "
+      "name": "【White Night! White Wish!】하나미 우메의 프로듀스에서 평가 A+이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-hume-3-006-01",
@@ -2867,51 +2867,51 @@
     },
     {
       "id": "achieve-i_card-hume-3-006-02",
-      "name": "【Campus mode!!】하나미 우메의 특훈 단계를 {threshold}로 설정"
+      "name": "【Campus mode!!】하나미 우메의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hume-3-006-03",
-      "name": "【Campus mode!!】하나미 우메의 프로듀스에서 평가 A+이상을 {threshold}회 획득 "
+      "name": "【Campus mode!!】하나미 우메의 프로듀스에서 평가 A+이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-jsna-2-000-01",
-      "name": "【샛별】주오 세나의 프로듀싱으로 최종 시험 합격"
+      "name": "【샛별】주오 세나의 프로듀스로 최종 시험 합격"
     },
     {
       "id": "achieve-i_card-jsna-2-000-02",
-      "name": "【샛별】주오 세나의 특훈 단계를 {threshold}로 설정"
+      "name": "【샛별】주오 세나의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-jsna-2-000-03",
-      "name": "【샛별】주오 세나의 프로듀싱으로 평가 A+이상을 {threshold}회 획득 "
+      "name": "【샛별】주오 세나의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-jsna-3-000-01",
-      "name": "【작은 야망】주오 세나의 프로듀싱으로 최종 시험 합격"
+      "name": "【작은 야망】주오 세나의 프로듀스로 최종 시험 합격"
     },
     {
       "id": "achieve-i_card-jsna-3-000-02",
-      "name": "【작은 야망】주오 세나의 특훈 단계를 {threshold}로 설정"
+      "name": "【작은 야망】주오 세나의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-jsna-3-000-03",
-      "name": "【작은 야망】주오 세나의 프로듀싱으로 평가 A+이상을 {threshold}회 획득 "
+      "name": "【작은 야망】주오 세나의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-jsna-3-002-01",
-      "name": "【Campus mode!!】주오 세나의 프로듀싱으로 최종 시험 합격"
+      "name": "【Campus mode!!】주오 세나의 프로듀스로 최종 시험 합격"
     },
     {
       "id": "achieve-i_card-jsna-3-002-02",
-      "name": "【Campus mode!!】주오 세나의 특훈 단계를 {threshold}로 설정"
+      "name": "【Campus mode!!】주오 세나의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-jsna-3-002-03",
-      "name": "【Campus mode!!】주오 세나의 프로듀싱으로 평가 A+이상을 {threshold}회 획득 "
+      "name": "【Campus mode!!】주오 세나의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-kcna-3-001-01",
-      "name": "【매일매일, 발견적 단계!】쿠라모토 치나의 프로듀싱으로 최종 시험에 합격!"
+      "name": "【매일매일, 발견적 단계!】쿠라모토 치나의 프로듀스로 최종 시험에 합격"
     },
     {
       "id": "achieve-i_card-kcna-3-001-02",
@@ -2919,11 +2919,11 @@
     },
     {
       "id": "achieve-i_card-kcna-3-001-03",
-      "name": "【매일매일, 발견적 단계!】쿠라모토 치나의 프로듀싱으로 평가 A+이상을 {threshold}회 획득 "
+      "name": "【매일매일, 발견적 단계!】쿠라모토 치나의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-kcna-3-002-01",
-      "name": "【가장광소곡】쿠라모토 치나의 프로듀싱으로 최종 시험에 합격!"
+      "name": "【가장광소곡】쿠라모토 치나의 프로듀스로 최종 시험에 합격"
     },
     {
       "id": "achieve-i_card-kcna-3-002-02",
@@ -2931,11 +2931,11 @@
     },
     {
       "id": "achieve-i_card-kcna-3-002-03",
-      "name": "【가장광소곡】쿠라모토 치나의 프로듀싱으로 평가 A+이상을 {threshold}회 획득 "
+      "name": "【가장광소곡】쿠라모토 치나의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-kcna-3-005-01",
-      "name": "【어서 오세요 하츠보시온천!】쿠라모토 치나의 프로듀싱으로 최종 시험에 합격!"
+      "name": "【어서 오세요 하츠보시온천!】쿠라모토 치나의 프로듀스로 최종 시험에 합격"
     },
     {
       "id": "achieve-i_card-kcna-3-005-02",
@@ -2943,11 +2943,11 @@
     },
     {
       "id": "achieve-i_card-kcna-3-005-03",
-      "name": "【어서 오세요 하츠보시온천!】쿠라모토 치나의 프로듀싱으로 평가 A+이상을 {threshold}회 획득 "
+      "name": "【어서 오세요 하츠보시온천!】쿠라모토 치나의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-kcna-3-007-01",
-      "name": "【Campus mode!!】쿠라모토 치나의 프로듀싱으로 최종 시험에 합격!"
+      "name": "【Campus mode!!】쿠라모토 치나의 프로듀스로 최종 시험에 합격"
     },
     {
       "id": "achieve-i_card-kcna-3-007-02",
@@ -2955,7 +2955,7 @@
     },
     {
       "id": "achieve-i_card-kcna-3-007-03",
-      "name": "【Campus mode!!】쿠라모토 치나의 프로듀싱으로 평가 A+이상을 {threshold}회 획득 "
+      "name": "【Campus mode!!】쿠라모토 치나의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-kllj-3-001-01",
@@ -2963,11 +2963,11 @@
     },
     {
       "id": "achieve-i_card-kllj-3-001-02",
-      "name": "【관국】카츠라기 릴리야의 특훈 단계를 {threshold}으로 만들기"
+      "name": "【관국】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-kllj-3-001-03",
-      "name": "【관국】카츠라기 릴리야의 프로듀싱으로 평가 A+ 이상을 {threshold}회 획득"
+      "name": "【관국】카츠라기 릴리야의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-kllj-3-005-01",
@@ -2975,47 +2975,47 @@
     },
     {
       "id": "achieve-i_card-kllj-3-005-02",
-      "name": "【White Night! White Wish!】카츠라기 릴리야의 특훈 단계를 {threshold}로 설정"
+      "name": "【White Night! White Wish!】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-kllj-3-005-03",
-      "name": "【White Night! White Wish!】카츠라기 릴리야의 프로듀스로 평가 A+이상을 {threshold}회 획득 "
+      "name": "【White Night! White Wish!】카츠라기 릴리야의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-shro-3-001-01",
-      "name": "【콘트라스트】시노자와 히로의 프로듀스로 최종 시험에 합격"
+      "name": "【콘트라스트】시노사와 히로의 프로듀스로 최종 시험에 합격"
     },
     {
       "id": "achieve-i_card-shro-3-001-02",
-      "name": "【콘트라스트】시노자와 히로의 특훈 단계를 {threshold}으로 만들기"
+      "name": "【콘트라스트】시노사와 히로의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-shro-3-001-03",
-      "name": "【콘트라스트】시노자와 히로의 프로듀싱으로 평가 A+ 이상을 {threshold}회 획득"
+      "name": "【콘트라스트】시노사와 히로의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-shro-3-002-01",
-      "name": "【가장광소곡】시노자와 히로의 프로듀스로 최종 시험에 합격"
+      "name": "【가장광소곡】시노사와 히로의 프로듀스로 최종 시험에 합격"
     },
     {
       "id": "achieve-i_card-shro-3-002-02",
-      "name": "【가장광소곡】시노사와 히로의 특훈 단계를 {threshold}로 설정"
+      "name": "【가장광소곡】시노사와 히로의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-shro-3-002-03",
-      "name": "【가장광소곡】시노사와 히로의 프로듀스에서 평가 A+이상을 {threshold}회 획득 "
+      "name": "【가장광소곡】시노사와 히로의 프로듀스에서 평가 A+이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-shro-3-007-01",
-      "name": "【Campus mode!!】시노자와 히로의 프로듀스로 최종 시험에 합격"
+      "name": "【Campus mode!!】시노사와 히로의 프로듀스로 최종 시험에 합격"
     },
     {
       "id": "achieve-i_card-shro-3-007-02",
-      "name": "【Campus mode!!】시노사와 히로의 특훈 단계를 {threshold}로 설정"
+      "name": "【Campus mode!!】시노사와 히로의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-shro-3-007-03",
-      "name": "【Campus mode!!】시노사와 히로의 프로듀스에서 평가 A+이상을 {threshold}회 획득 "
+      "name": "【Campus mode!!】시노사와 히로의 프로듀스에서 평가 A+이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-ssmk-3-001-01",
@@ -3023,11 +3023,11 @@
     },
     {
       "id": "achieve-i_card-ssmk-3-001-02",
-      "name": "【너와 세미블루】시운 스미카의 특훈 단계를 {threshold}으로 한다."
+      "name": "【너와 세미블루】시운 스미카의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-ssmk-3-001-03",
-      "name": "【너와 세미블루】 시운 스미카의 프로듀싱으로 평가 A+ 이상 획득 {threshold}회 달성"
+      "name": "【너와 세미블루】 시운 스미카의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-ssmk-3-002-01",
@@ -3035,11 +3035,11 @@
     },
     {
       "id": "achieve-i_card-ssmk-3-002-02",
-      "name": "【숨겨진 나】시운 스미카의 특훈 단계를 {threshold}로 설정"
+      "name": "【숨겨진 나】시운 스미카의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-ssmk-3-002-03",
-      "name": "【숨겨진 나】시운 스미카의 프로듀스에서 평가 A+이상을 {threshold}회 획득 "
+      "name": "【숨겨진 나】시운 스미카의 프로듀스에서 평가 A+이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-ttmr-3-001-01",
@@ -3047,11 +3047,11 @@
     },
     {
       "id": "achieve-i_card-ttmr-3-001-02",
-      "name": "【아이비】츠키무라 테마리의 특훈 단계를 {threshold}으로 만들기"
+      "name": "【아이비】츠키무라 테마리의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-ttmr-3-001-03",
-      "name": "【아이비】츠키무라 테마리의 프로듀싱으로 평가 A+ 이상 획득 {threshold}회"
+      "name": "【아이비】츠키무라 테마리의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-ttmr-3-002-01",
@@ -3063,7 +3063,7 @@
     },
     {
       "id": "achieve-i_card-ttmr-3-002-03",
-      "name": "【가장광소곡】츠키무라 테마리의 프로듀스로 평가 A+이상을 {threshold}회 획득 "
+      "name": "【가장광소곡】츠키무라 테마리의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-ttmr-3-007-01",
@@ -3075,7 +3075,7 @@
     },
     {
       "id": "achieve-i_card-ttmr-3-007-03",
-      "name": "【Campus mode!!】츠키무라 테마리의 프로듀스로 평가 A+이상을 {threshold}회 획득 "
+      "name": "【Campus mode!!】츠키무라 테마리의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-m_amao-001",
@@ -3127,7 +3127,7 @@
     },
     {
       "id": "achieve-o_002",
-      "name": "일한 총 {threshold}시간"
+      "name": "업무를 총 {threshold}시간"
     },
     {
       "id": "achieve-o_003",
@@ -3215,15 +3215,15 @@
     },
     {
       "id": "achieve-o_026",
-      "name": "콘테스트 등급7에서 1위가 된다"
+      "name": "콘테스트 7등급에서 1위 달성"
     },
     {
       "id": "achieve-o_027",
-      "name": "콘테스트 등급7에서 100위 안에 들기"
+      "name": "콘테스트 7등급에서 100위 안에 들자"
     },
     {
       "id": "achieve-p_common-001",
-      "name": "총 {threshold} P 포인트 획득"
+      "name": "총 {threshold} P포인트 획득"
     },
     {
       "id": "achieve-p_common-002",
@@ -3235,7 +3235,7 @@
     },
     {
       "id": "achieve-p_common-004",
-      "name": "P 아이템을 총 {threshold}개 획득"
+      "name": "P아이템을 총 {threshold}개 획득"
     },
     {
       "id": "achieve-p_common-005",
@@ -3247,19 +3247,19 @@
     },
     {
       "id": "achieve-p_common-007",
-      "name": "P 아이템을 {threshold}종류 획득"
+      "name": "P아이템을 {threshold}종류 획득"
     },
     {
       "id": "achieve-p_common-008",
-      "name": "P음료 {threshold}종류 획득"
+      "name": "P드링크 {threshold}종류 획득"
     },
     {
       "id": "achieve-p_common-009",
-      "name": "프로듀싱에서 보컬 레슨을 {threshold}회 선택"
+      "name": "프로듀스에서 Vo 레슨을 {threshold}회 선택"
     },
     {
       "id": "achieve-p_common-010",
-      "name": "프로듀싱에서 Da 레슨을 {threshold}회 선택"
+      "name": "프로듀스에서 Da 레슨을 {threshold}회 선택"
     },
     {
       "id": "achieve-p_common-011",
@@ -3267,7 +3267,7 @@
     },
     {
       "id": "achieve-p_common-012",
-      "name": "프로듀싱에서 활동 지급을 {threshold}회 선택"
+      "name": "프로듀스에서 활동 지급을 {threshold}회 선택"
     },
     {
       "id": "achieve-p_common-013",
@@ -3275,7 +3275,7 @@
     },
     {
       "id": "achieve-p_common-014",
-      "name": "프로듀싱으로 스킬 카드를 {threshold}회 강화"
+      "name": "프로듀스로 스킬 카드를 {threshold}회 강화"
     },
     {
       "id": "achieve-p_common-015",
@@ -3295,19 +3295,19 @@
     },
     {
       "id": "achieve-p_common-019",
-      "name": "최종 시험에서 B점 이상으로 {threshold}회 합격"
+      "name": "최종 시험을 스코어 B 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_common-020",
-      "name": "최종 시험에서 A점 이상으로 {threshold}회 합격"
+      "name": "최종 시험을 스코어 A 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_common-021",
-      "name": "최종 시험에서 A+점 이상으로 {threshold}회 합격"
+      "name": "최종 시험을 스코어 A+ 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_common-022",
-      "name": "최종 시험에서 S점수 이상으로 {threshold}회 합격"
+      "name": "최종 시험을 스코어 S 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_common-023",
@@ -3327,7 +3327,7 @@
     },
     {
       "id": "achieve-p_idol-amao-000",
-      "name": "아리무라 마오의 True End를 본다"
+      "name": "아리무라 마오로 True End를 보기"
     },
     {
       "id": "achieve-p_idol-amao-000-1",
@@ -3335,39 +3335,39 @@
     },
     {
       "id": "achieve-p_idol-amao-001",
-      "name": "아리무라 마오의 프로듀싱으로 스킬 카드를 {threshold}회 사용"
+      "name": "아리무라 마오의 프로듀스로 스킬 카드를 {threshold}회 사용"
     },
     {
       "id": "achieve-p_idol-amao-002",
-      "name": "아리무라 마오로 레슨을 {threshold}회 클리어했다."
+      "name": "아리무라 마오로 레슨을 {threshold}회 클리어"
     },
     {
       "id": "achieve-p_idol-amao-003",
-      "name": "아리무라 마오로 SP 레슨을 {threshold}회 클리어했다."
+      "name": "아리무라 마오로 SP 레슨을 {threshold}회 클리어"
     },
     {
       "id": "achieve-p_idol-amao-004",
-      "name": "아리무라 마오로 최종 시험에 합격하여 B등급 이상을 {threshold}회 획득했다."
+      "name": "아리무라 마오로 최종 시험에 합격하여 평가 B 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-amao-005",
-      "name": "아리무라 마오로 최종 시험에 합격하여 A등급 이상을 {threshold}회 획득했다."
+      "name": "아리무라 마오로 최종 시험에 합격하여 평가 A 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-amao-006",
-      "name": "아리무라 마오로 최종 시험에 합격하여 평가 S 이상을 {threshold}회 획득했다."
+      "name": "아리무라 마오로 최종 시험에 합격하여 평가 S 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-amao-007",
-      "name": "아리무라 마오의 프로듀싱을 {threshold}회 완료했다."
+      "name": "아리무라 마오의 프로듀스를 {threshold}회 완료"
     },
     {
       "id": "achieve-p_idol-amao-008",
-      "name": "아리무라 마오의 특훈 단계를 {threshold}으로 만들기"
+      "name": "아리무라 마오의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-p_idol-amao-009",
-      "name": "아리무라 마오의 프로듀싱으로 최종 시험에 {threshold}회 합격"
+      "name": "아리무라 마오의 프로듀스로 최종 시험에 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-amao-010",
@@ -3375,19 +3375,19 @@
     },
     {
       "id": "achieve-p_idol-amao-011",
-      "name": "아리무라 마오의 친애도 레벨을 {threshold}으로 만들기"
+      "name": "아리무라 마오의 친애도 Lv을 {threshold} 달성하기"
     },
     {
       "id": "achieve-p_idol-amao-012",
-      "name": "아리무라 마오에서 P 드링크 를 {threshold}회 사용했다."
+      "name": "아리무라 마오로 P드링크를 {threshold}회 사용"
     },
     {
       "id": "achieve-p_idol-amao-013",
-      "name": "아리무라 마오의 프로듀싱으로 체력 총 {threshold} 소비"
+      "name": "아리무라 마오의 프로듀스로 체력 총 {threshold} 소비"
     },
     {
       "id": "achieve-p_idol-amao-014",
-      "name": "아리무라 마오의 비주얼을 1000 이상으로 육성하여 프로듀싱을 완료했습니다."
+      "name": "아리무라 마오의 비주얼을 1000 이상으로 육성하여 프로듀스를 완료하자"
     },
     {
       "id": "achieve-p_idol-amao-015",
@@ -3395,11 +3395,11 @@
     },
     {
       "id": "achieve-p_idol-amao-016",
-      "name": "아리무라 마오로 최종 시험에 합격하여 평가 S + 이상을 {threshold} 회 획득"
+      "name": "아리무라 마오로 최종 시험에 합격하여 평가 S+ 이상을 {threshold} 회 획득"
     },
     {
       "id": "achieve-p_idol-amao-017",
-      "name": "아리무라 마오로 난이도 「마스터」에서 최종 시험 1 위를 획득"
+      "name": "아리무라 마오로 난이도 「마스터」에서 최종 시험 1위를 획득"
     },
     {
       "id": "achieve-p_idol-amao-018",
@@ -3411,15 +3411,15 @@
     },
     {
       "id": "achieve-p_idol-card-amao-002-1",
-      "name": "【시작은 멋있게】아리무라 마오의 프로듀스로 최종 시험에 합격"
+      "name": "【시작은 멋지게】아리무라 마오의 프로듀스로 최종 시험에 합격"
     },
     {
       "id": "achieve-p_idol-card-amao-002-2",
-      "name": "【시작은 멋지게】 아리무라 마오의 특훈 단계를 {threshold}으로 설정하기"
+      "name": "【시작은 멋지게】 아리무라 마오의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-p_idol-card-amao-002-3",
-      "name": "【시작은 멋지게】 아리무라 마오의 프로듀싱으로 평가 A+ 이상을 {threshold}번 이상 획득"
+      "name": "【시작은 멋지게】 아리무라 마오의 프로듀스로 평가 A+ 이상을 {threshold}번 이상 획득"
     },
     {
       "id": "achieve-p_idol-card-amao-003-1",
@@ -3427,11 +3427,11 @@
     },
     {
       "id": "achieve-p_idol-card-amao-003-2",
-      "name": "【Fluorite】아리무라 마오의 특훈 단계를 {threshold}으로 만들기"
+      "name": "【Fluorite】아리무라 마오의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-p_idol-card-amao-003-3",
-      "name": "【Fluorite】아리무라 마오의 프로듀싱으로 평가 A+ 이상을 {threshold}회 획득"
+      "name": "【Fluorite】아리무라 마오의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-card-fktn-002-1",
@@ -3439,11 +3439,11 @@
     },
     {
       "id": "achieve-p_idol-card-fktn-002-2",
-      "name": "【카와이♡ 시작했어요】후지타 코토네의 특훈 단계를 {threshold}으로 설정하기"
+      "name": "【귀엽게♡ 시작했답니다】후지타 코토네의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-p_idol-card-fktn-002-3",
-      "name": "【카와이♡ 시작했습니다】후지타 코토네의 프로듀싱으로 평가 A+ 이상을 {threshold}회 획득!"
+      "name": "【귀엽게♡ 시작했답니다】후지타 코토네의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-card-fktn-003-1",
@@ -3451,35 +3451,35 @@
     },
     {
       "id": "achieve-p_idol-card-fktn-003-2",
-      "name": "【세상에서 가장 귀여운 나】후지타 코토네의 특훈 단계를 {threshold}으로 만들기"
+      "name": "【세계 제일 귀여운 나】후지타 코토네의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-p_idol-card-fktn-003-3",
-      "name": "【세상에서 가장 귀여운 나】후지타 코토네의 프로듀싱으로 평가 A+ 이상을 {threshold}회 획득!"
+      "name": "【세계 제일 귀여운 나】후지타 코토네의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-card-hrnm-002-1",
-      "name": "【『나 다움』의 시작】히메사키 리나미의 프로듀싱으로 최종 시험에 합격!"
+      "name": "【『나 다움』의 시작】히메사키 리나미의 프로듀스로 최종 시험에 합격"
     },
     {
       "id": "achieve-p_idol-card-hrnm-002-2",
-      "name": "【『나다움』의 시작】히메사키 리나미의 특훈 단계를 {threshold}으로 설정하기"
+      "name": "【『나 다움』의 시작】히메사키 리나미의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-p_idol-card-hrnm-002-3",
-      "name": "【『나다움』의 시작】히메사키 리나미의 프로듀싱으로 평가 A+ 이상을 {threshold}회 획득"
+      "name": "【『나 다움』의 시작】히메사키 리나미의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-card-hrnm-003-1",
-      "name": "【clumsy trick】히메사키 리나미의 프로듀싱으로 최종 시험에 합격!"
+      "name": "【clumsy trick】히메사키 리나미의 프로듀스로 최종 시험에 합격"
     },
     {
       "id": "achieve-p_idol-card-hrnm-003-2",
-      "name": "【clumsy trick】 히메사키 리나미의 특훈 단계를 {threshold}으로 만든다."
+      "name": "【clumsy trick】 히메사키 리나미의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-p_idol-card-hrnm-003-3",
-      "name": "【clumsy trick】 히메사키 리나미의 프로듀싱으로 평가 A+ 이상을 {threshold}번 이상 획득했다."
+      "name": "【clumsy trick】 히메사키 리나미의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-card-hski-002-1",
@@ -3487,11 +3487,11 @@
     },
     {
       "id": "achieve-p_idol-card-hski-002-2",
-      "name": "【내가 최고!】 하나미 사키의 특훈 단계를 {threshold}으로 한다."
+      "name": "【내가 최고!】 하나미 사키의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-p_idol-card-hski-002-3",
-      "name": "【내가 최고!】 하나미 사키의 프로듀싱으로 평가 A+ 이상을 {threshold}회 획득"
+      "name": "【내가 최고!】 하나미 사키의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-card-hski-003-1",
@@ -3499,35 +3499,35 @@
     },
     {
       "id": "achieve-p_idol-card-hski-003-2",
-      "name": "【Fighting My Way】 하나미 사키의 특훈 단계를 {threshold}으로 설정하기"
+      "name": "【Fighting My Way】 하나미 사키의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-p_idol-card-hski-003-3",
-      "name": "【Fighting My Way】 하나미 사키의 프로듀싱으로 평가 A+ 이상을 {threshold}회 달성"
+      "name": "【Fighting My Way】 하나미 사키의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-card-kcna-002-1",
-      "name": "【가슴을 펴고 한 발자국씩】쿠라모토 치나의 프로듀싱으로 최종 시험에 합격!"
+      "name": "【가슴을 펴고 한 발자국씩】쿠라모토 치나의 프로듀스로 최종 시험에 합격"
     },
     {
       "id": "achieve-p_idol-card-kcna-002-2",
-      "name": "【가슴을 펴고 한 걸음씩】쿠라모토 치나의 특훈 단계를 {threshold}으로 만들기"
+      "name": "【가슴을 펴고 한 걸음씩】쿠라모토 치나의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-p_idol-card-kcna-002-3",
-      "name": "【가슴을 펴고 한 걸음씩】쿠라모토 치나의 프로듀싱으로 평가 A+ 이상을 {threshold}회 획득"
+      "name": "【가슴을 펴고 한 걸음씩】쿠라모토 치나의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-card-kcna-003-1",
-      "name": "【Wonder Scale】쿠라모토 치나의 프로듀싱으로 최종 시험에 합격!"
+      "name": "【Wonder Scale】쿠라모토 치나의 프로듀스로 최종 시험에 합격"
     },
     {
       "id": "achieve-p_idol-card-kcna-003-2",
-      "name": "【Wonder Scale】쿠라모토 치나의 특훈 단계를 {threshold}으로 한다."
+      "name": "【Wonder Scale】쿠라모토 치나의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-p_idol-card-kcna-003-3",
-      "name": "【Wonder Scale】 쿠라모토 치나의 프로듀싱으로 평가 A+ 이상을 {threshold}회 획득"
+      "name": "【Wonder Scale】 쿠라모토 치나의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-card-kllj-002-1",
@@ -3535,11 +3535,11 @@
     },
     {
       "id": "achieve-p_idol-card-kllj-002-2",
-      "name": "【한 걸음 더 나아가】카츠라기 릴리야의 특훈 단계를 {threshold}으로 한다."
+      "name": "【한 걸음 더 나아가】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-p_idol-card-kllj-002-3",
-      "name": "【한 걸음 더 나아가】카츠라기 릴리야의 프로듀싱으로 평가 A+ 이상을 {threshold}회 획득"
+      "name": "【한 걸음 더 나아가】카츠라기 릴리야의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-card-kllj-003-1",
@@ -3547,35 +3547,35 @@
     },
     {
       "id": "achieve-p_idol-card-kllj-003-2",
-      "name": "【백선】카츠라기 릴리야의 특훈 단계를 {threshold}으로 만들기"
+      "name": "【백선】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-p_idol-card-kllj-003-3",
-      "name": "【백선】카츠라기 릴리야의 프로듀싱으로 평가 A+ 이상을 {threshold}회 획득"
+      "name": "【백선】카츠라기 릴리야의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-card-shro-002-1",
-      "name": "【가장 안 맞는 것】시노자와 히로의 프로듀스로 최종 시험에 합격"
+      "name": "【가장 안 맞는 것】시노사와 히로의 프로듀스로 최종 시험에 합격"
     },
     {
       "id": "achieve-p_idol-card-shro-002-2",
-      "name": "【가장 안 맞는 것】시노자와 히로의 특훈 단계를 {threshold}으로 설정하기"
+      "name": "【가장 안 맞는 것】시노사와 히로의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-p_idol-card-shro-002-3",
-      "name": "【가장 안 맞는 것】시노자와 히로의 프로듀싱으로 평가 A+ 이상을 {threshold}회 획득"
+      "name": "【가장 안 맞는 것】시노사와 히로의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-card-shro-003-1",
-      "name": "【광경】시노자와 히로의 프로듀스로 최종 시험에 합격"
+      "name": "【광경】시노사와 히로의 프로듀스로 최종 시험에 합격"
     },
     {
       "id": "achieve-p_idol-card-shro-003-2",
-      "name": "【광경】시노자와 히로의 특훈 단계를 {threshold}으로 만들기"
+      "name": "【광경】시노사와 히로의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-p_idol-card-shro-003-3",
-      "name": "【광경】시노자와 히로의 프로듀싱으로 평가 A+ 이상 획득 {threshold}회"
+      "name": "【광경】시노사와 히로의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-card-ssmk-002-1",
@@ -3583,23 +3583,23 @@
     },
     {
       "id": "achieve-p_idol-card-ssmk-002-2",
-      "name": "【꿈을 향한 리스타트】시운 스미카의 특훈 단계를 {threshold}으로 만들기"
+      "name": "【꿈으로의 리스타트】시운 스미카의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-p_idol-card-ssmk-002-3",
-      "name": "【꿈을 향한 리스타트】시운 스미카의 프로듀싱으로 평가 A+ 이상 획득 {threshold}회 달성"
+      "name": "【꿈으로의 리스타트】시운 스미카의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-card-ssmk-003-1",
-      "name": "【Tame-Lie-One-Step】 시운 스미카의 프로듀싱으로 최종 시험 합격"
+      "name": "【Tame-Lie-One-Step】 시운 스미카의 프로듀스로 최종 시험 합격"
     },
     {
       "id": "achieve-p_idol-card-ssmk-003-2",
-      "name": "【Tame-Lie-One-Step】 시운 스미카의 특훈 단계를 {threshold}으로 한다."
+      "name": "【Tame-Lie-One-Step】 시운 스미카의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-p_idol-card-ssmk-003-3",
-      "name": "【Tame-Lie-One-Step】 시구네 스미카 프로듀싱으로 평가 A+ 이상 획득 {threshold}회 달성"
+      "name": "【Tame-Lie-One-Step】 시운 스미카 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-card-ttmr-002-1",
@@ -3607,11 +3607,11 @@
     },
     {
       "id": "achieve-p_idol-card-ttmr-002-2",
-      "name": "【외톨이】 츠키무라 테마리의 특훈 단계를 {threshold}으로 만들기"
+      "name": "【고독한 늑대】 츠키무라 테마리의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-p_idol-card-ttmr-002-3",
-      "name": "【외톨이】 츠키무라 테마리 테마리의 프로듀싱으로 평가 A+ 이상을 {threshold}회 획득"
+      "name": "【고독한 늑대】 츠키무라 테마리 테마리의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-card-ttmr-003-1",
@@ -3619,15 +3619,15 @@
     },
     {
       "id": "achieve-p_idol-card-ttmr-003-2",
-      "name": "【Luna say maybe】 츠키무라 테마리의 특훈 단계를 {threshold}으로 한다."
+      "name": "【Luna say maybe】 츠키무라 테마리의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-p_idol-card-ttmr-003-3",
-      "name": "【Luna say maybe】 츠키무라 테마리 테마리의 프로듀싱으로 평가 A+ 이상을 {threshold}회 달성"
+      "name": "【Luna say maybe】 츠키무라 테마리 테마리의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-fktn-000",
-      "name": "후지타 코토네의 True End를 본다"
+      "name": "후지타 코토네로 True End를 보기"
     },
     {
       "id": "achieve-p_idol-fktn-000-1",
@@ -3639,27 +3639,27 @@
     },
     {
       "id": "achieve-p_idol-fktn-002",
-      "name": "후지타 코토네의 레슨을 {threshold}회 클리어했다."
+      "name": "후지타 코토네의 레슨을 {threshold}회 클리어"
     },
     {
       "id": "achieve-p_idol-fktn-003",
-      "name": "후지타 코토네의 SP레슨을 {threshold}회 클리어했다."
+      "name": "후지타 코토네의 SP레슨을 {threshold}회 클리어"
     },
     {
       "id": "achieve-p_idol-fktn-004",
-      "name": "후지타 코토네로 최종 시험에 합격하여 B등급 이상을 {threshold}회 획득했다."
+      "name": "후지타 코토네로 최종 시험에 합격하여 평가 B 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-fktn-005",
-      "name": "후지타 코토네로 최종 시험에 합격하고 A등급 이상을 {threshold}회 획득했다."
+      "name": "후지타 코토네로 최종 시험에 합격하고 평가 A 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-fktn-006",
-      "name": "후지타 코토네로 최종 시험에 합격하고 평가 S 이상을 {threshold}회 획득했다."
+      "name": "후지타 코토네로 최종 시험에 합격하고 평가 S 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-fktn-007",
-      "name": "후지타 코토네의 프로듀싱을 {threshold}회 완료했다."
+      "name": "후지타 코토네의 프로듀스를 {threshold}회 완료"
     },
     {
       "id": "achieve-p_idol-fktn-008",
@@ -3667,7 +3667,7 @@
     },
     {
       "id": "achieve-p_idol-fktn-009",
-      "name": "후지타 코토네의 프로듀싱으로 최종 시험에 {threshold}회 합격"
+      "name": "후지타 코토네의 프로듀스로 최종 시험에 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-fktn-010",
@@ -3687,7 +3687,7 @@
     },
     {
       "id": "achieve-p_idol-fktn-014",
-      "name": "후지타 코토네의 춤을 1000 이상으로 육성하여 프로듀싱을 완료했습니다."
+      "name": "후지타 코토네의 춤을 1000 이상으로 육성하여 프로듀스를 완료하자"
     },
     {
       "id": "achieve-p_idol-fktn-015",
@@ -3695,11 +3695,11 @@
     },
     {
       "id": "achieve-p_idol-fktn-016",
-      "name": "후지타 코토네로 최종 시험에 합격하여 평가 S + 이상을 {threshold} 회 획득"
+      "name": "후지타 코토네로 최종 시험에 합격하여 평가 S+ 이상을 {threshold} 회 획득"
     },
     {
       "id": "achieve-p_idol-fktn-017",
-      "name": "후지타 코토네로 난이도 「마스터」에서 최종 시험 1 위를 획득"
+      "name": "후지타 코토네로 난이도 「마스터」에서 최종 시험 1위를 획득"
     },
     {
       "id": "achieve-p_idol-fktn-018",
@@ -3711,7 +3711,7 @@
     },
     {
       "id": "achieve-p_idol-hrnm-000",
-      "name": "히메사키 리나미의 True End를 본다"
+      "name": "히메사키 리나미로 True End를 보기"
     },
     {
       "id": "achieve-p_idol-hrnm-000-1",
@@ -3723,35 +3723,35 @@
     },
     {
       "id": "achieve-p_idol-hrnm-002",
-      "name": "히메사키 리나미로 레슨을 {threshold}회 클리어했다."
+      "name": "히메사키 리나미로 레슨을 {threshold}회 클리어"
     },
     {
       "id": "achieve-p_idol-hrnm-003",
-      "name": "히메사키 리나미로 SP 레슨을 {threshold}회 클리어했다."
+      "name": "히메사키 리나미로 SP 레슨을 {threshold}회 클리어"
     },
     {
       "id": "achieve-p_idol-hrnm-004",
-      "name": "히메사키 리나미로 최종 시험에 합격하고 B등급 이상을 {threshold}회 획득했다."
+      "name": "히메사키 리나미로 최종 시험에 합격하고 평가 B 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-hrnm-005",
-      "name": "히메사키 리나미로 최종 시험에 합격하고 A등급 이상을 {threshold}회 획득했다."
+      "name": "히메사키 리나미로 최종 시험에 합격하고 평가 A 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-hrnm-006",
-      "name": "히메사키 리나미로 최종 시험에 합격하고 평가 S 이상을 {threshold}회 획득했다."
+      "name": "히메사키 리나미로 최종 시험에 합격하고 평가 S 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-hrnm-007",
-      "name": "히메사키 리나미의 프로듀싱을 {threshold}회 완료했다."
+      "name": "히메사키 리나미의 프로듀스를 {threshold}회 완료"
     },
     {
       "id": "achieve-p_idol-hrnm-008",
-      "name": "히메사키 리나미의 특훈 단계를 {threshold}으로 만들기"
+      "name": "히메사키 리나미의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-p_idol-hrnm-009",
-      "name": "히메사키 리나미의 프로듀싱으로 최종 시험 {threshold}회 합격"
+      "name": "히메사키 리나미의 프로듀스로 최종 시험 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-hrnm-010",
@@ -3759,19 +3759,19 @@
     },
     {
       "id": "achieve-p_idol-hrnm-011",
-      "name": "히메사키 리나미의 친애도 레벨을 {threshold}으로 만들기"
+      "name": "히메사키 리나미의 친애도 Lv을 {threshold} 달성하기"
     },
     {
       "id": "achieve-p_idol-hrnm-012",
-      "name": "히메사키 리나미로 P 드링크 {threshold}회 사용"
+      "name": "히메사키 리나미로 P드링크 {threshold}회 사용"
     },
     {
       "id": "achieve-p_idol-hrnm-013",
-      "name": "히메사키 리나미의 프로듀싱으로 체력 총 {threshold} 소모"
+      "name": "히메사키 리나미의 프로듀스로 체력 총 {threshold} 소모"
     },
     {
       "id": "achieve-p_idol-hrnm-014",
-      "name": "히메사키 리나미의 비주얼을 1000 이상으로 육성하여 프로듀싱을 완료했습니다."
+      "name": "히메사키 리나미의 비주얼을 1000 이상으로 육성하여 프로듀스를 완료하자"
     },
     {
       "id": "achieve-p_idol-hrnm-015",
@@ -3779,11 +3779,11 @@
     },
     {
       "id": "achieve-p_idol-hrnm-016",
-      "name": "히메사키 리나미로 최종 시험에 합격하여 평가 S + 이상을 {threshold} 회 획득"
+      "name": "히메사키 리나미로 최종 시험에 합격하여 평가 S+ 이상을 {threshold} 회 획득"
     },
     {
       "id": "achieve-p_idol-hrnm-017",
-      "name": "히메사키 리나미로 난이도 「마스터」에서 최종 시험 1 위를 획득"
+      "name": "히메사키 리나미로 난이도 「마스터」에서 최종 시험 1위를 획득"
     },
     {
       "id": "achieve-p_idol-hrnm-018",
@@ -3795,7 +3795,7 @@
     },
     {
       "id": "achieve-p_idol-hski-000",
-      "name": "하나미 사키의 True End를 본다"
+      "name": "하나미 사키로 True End를 보기"
     },
     {
       "id": "achieve-p_idol-hski-000-1",
@@ -3807,23 +3807,23 @@
     },
     {
       "id": "achieve-p_idol-hski-002",
-      "name": "하나미 사키로 레슨을 {threshold}회 클리어했다."
+      "name": "하나미 사키로 레슨을 {threshold}회 클리어"
     },
     {
       "id": "achieve-p_idol-hski-003",
-      "name": "하나미 사키로 SP 레슨을 {threshold}회 클리어했다."
+      "name": "하나미 사키로 SP 레슨을 {threshold}회 클리어"
     },
     {
       "id": "achieve-p_idol-hski-004",
-      "name": "하나미 사키로 최종 시험에 합격하여 B등급 이상을 {threshold}회 획득했다."
+      "name": "하나미 사키로 최종 시험에 합격하여 평가 B 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-hski-005",
-      "name": "하나미 사키로 최종 시험에 합격하여 A등급 이상을 {threshold}회 획득했다."
+      "name": "하나미 사키로 최종 시험에 합격하여 평가 A 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-hski-006",
-      "name": "하나미 사키로 최종 시험에 합격하여 평가 S 이상을 {threshold}회 획득했다."
+      "name": "하나미 사키로 최종 시험에 합격하여 평가 S 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-hski-007",
@@ -3831,11 +3831,11 @@
     },
     {
       "id": "achieve-p_idol-hski-008",
-      "name": "하나미 사키의 특훈 단계를 {threshold}으로 만들기"
+      "name": "하나미 사키의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-p_idol-hski-009",
-      "name": "하나미 사키의 프로듀싱으로 최종 시험 {threshold}회 합격"
+      "name": "하나미 사키의 프로듀스로 최종 시험 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-hski-010",
@@ -3843,7 +3843,7 @@
     },
     {
       "id": "achieve-p_idol-hski-011",
-      "name": "하나미 사키의 친애도 레벨을 {threshold}으로 만들기"
+      "name": "하나미 사키의 친애도 Lv을 {threshold} 달성하기"
     },
     {
       "id": "achieve-p_idol-hski-012",
@@ -3851,11 +3851,11 @@
     },
     {
       "id": "achieve-p_idol-hski-013",
-      "name": "하나미 사키의 프로듀싱으로 스킬 카드 {threshold}회 강화"
+      "name": "하나미 사키의 프로듀스로 스킬 카드 {threshold}회 강화"
     },
     {
       "id": "achieve-p_idol-hski-014",
-      "name": "하나미 사키의 비주얼을 900 이상으로 육성하여 프로듀싱을 완료했습니다."
+      "name": "하나미 사키의 비주얼을 900 이상으로 육성하여 프로듀스를 완료하자"
     },
     {
       "id": "achieve-p_idol-hski-015",
@@ -3863,11 +3863,11 @@
     },
     {
       "id": "achieve-p_idol-hski-016",
-      "name": "하나미 사키로 최종 시험에 합격하여 평가 S + 이상을 {threshold} 회 획득"
+      "name": "하나미 사키로 최종 시험에 합격하여 평가 S+ 이상을 {threshold} 회 획득"
     },
     {
       "id": "achieve-p_idol-hski-017",
-      "name": "하나미 사키로 난이도 「마스터」에서 최종 시험 1 위를 획득"
+      "name": "하나미 사키로 난이도 「마스터」에서 최종 시험 1위를 획득"
     },
     {
       "id": "achieve-p_idol-hski-018",
@@ -3879,7 +3879,7 @@
     },
     {
       "id": "achieve-p_idol-hume-000",
-      "name": "하나미 우메의 True End를 본다"
+      "name": "하나미 우메로 True End를 보기"
     },
     {
       "id": "achieve-p_idol-hume-000-1",
@@ -3887,59 +3887,59 @@
     },
     {
       "id": "achieve-p_idol-hume-001",
-      "name": "하나미 우메의 프로듀싱에서 스킬 카드를 {threshold}회 사용함"
+      "name": "하나미 우메의 프로듀스에서 스킬 카드를 {threshold}회 사용함"
     },
     {
       "id": "achieve-p_idol-hume-002",
-      "name": "하나미 우메로 레슨을 {threshold}회 클리어했다."
+      "name": "하나미 우메로 레슨을 {threshold}회 클리어"
     },
     {
       "id": "achieve-p_idol-hume-003",
-      "name": "하나미 우메로 SP 레슨을 {threshold}회 클리어했다."
+      "name": "하나미 우메로 SP 레슨을 {threshold}회 클리어"
     },
     {
       "id": "achieve-p_idol-hume-004",
-      "name": "하나미 우메로 최종 시험에 합격하여 B등급 이상을 {threshold}회 획득했다."
+      "name": "하나미 우메로 최종 시험에 합격하여 평가 B 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-hume-005",
-      "name": "하나미 우메로 최종 시험에 합격하여 A등급 이상을 {threshold}회 획득했다."
+      "name": "하나미 우메로 최종 시험에 합격하여 평가 A 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-hume-006",
-      "name": "하나미 우메로 최종 시험에 합격하여 평가 S 이상을 {threshold}회 획득했다."
+      "name": "하나미 우메로 최종 시험에 합격하여 평가 S 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-hume-007",
-      "name": "하나미 우메의 프로듀싱을 {threshold}회 완료했다."
+      "name": "하나미 우메의 프로듀스를 {threshold}회 완료"
     },
     {
       "id": "achieve-p_idol-hume-008",
-      "name": "하나미 우메의 특훈 단계를 {threshold}으로 만들기"
+      "name": "하나미 우메의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-p_idol-hume-009",
-      "name": "하나미 우메의 프로듀싱으로 최종 시험에 {threshold}회 합격"
+      "name": "하나미 우메의 프로듀스로 최종 시험에 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-hume-010",
-      "name": "하나미 우메 팬 {threshold}명 획득"
+      "name": "하나미 우메의 팬 {threshold}명 획득"
     },
     {
       "id": "achieve-p_idol-hume-011",
-      "name": "하나미 우메의 친애도 레벨을 {threshold}으로 만들기"
+      "name": "하나미 우메의 친애도 Lv을 {threshold} 달성하기"
     },
     {
       "id": "achieve-p_idol-hume-012",
-      "name": "하나미 우메로 P 드링크 {threshold}회 사용"
+      "name": "하나미 우메로 P드링크 {threshold}회 사용"
     },
     {
       "id": "achieve-p_idol-hume-013",
-      "name": "하나미 우메의 프로듀싱으로 총 {threshold} 활력 획득"
+      "name": "하나미 우메의 프로듀스로 총 {threshold} 활력 획득"
     },
     {
       "id": "achieve-p_idol-hume-014",
-      "name": "하나미 우메의 댄스를 1000 이상으로 육성하여 프로듀싱을 완료했습니다."
+      "name": "하나미 우메의 댄스를 1000 이상으로 육성하여 프로듀스를 완료하자"
     },
     {
       "id": "achieve-p_idol-hume-015",
@@ -3947,11 +3947,11 @@
     },
     {
       "id": "achieve-p_idol-hume-016",
-      "name": "하나미 우메로 최종 시험에 합격하여 평가 S + 이상을 {threshold} 회 획득"
+      "name": "하나미 우메로 최종 시험에 합격하여 평가 S+ 이상을 {threshold} 회 획득"
     },
     {
       "id": "achieve-p_idol-hume-017",
-      "name": "하나미 우메로 난이도 「마스터」에서 최종 시험 1 위를 획득"
+      "name": "하나미 우메로 난이도 「마스터」에서 최종 시험 1위를 획득"
     },
     {
       "id": "achieve-p_idol-hume-018",
@@ -3971,7 +3971,7 @@
     },
     {
       "id": "achieve-p_idol-jsna-001",
-      "name": "으로 스킬 카드를 {threshold}회 사용"
+      "name": "주오 세나로 스킬 카드를 {threshold}회 사용"
     },
     {
       "id": "achieve-p_idol-jsna-002",
@@ -3995,15 +3995,15 @@
     },
     {
       "id": "achieve-p_idol-jsna-007",
-      "name": "주오 세나의 프로듀싱을 {threshold}회 완료"
+      "name": "주오 세나의 프로듀스를 {threshold}회 완료"
     },
     {
       "id": "achieve-p_idol-jsna-008",
-      "name": "주오 세나의 특훈 단계를 {threshold}로 설정"
+      "name": "주오 세나의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-p_idol-jsna-009",
-      "name": "주오 세나의 프로듀싱으로 최종 시험에 {threshold}회 합격"
+      "name": "주오 세나의 프로듀스로 최종 시험에 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-jsna-010",
@@ -4019,7 +4019,7 @@
     },
     {
       "id": "achieve-p_idol-jsna-013",
-      "name": "주오 세나의 프로듀싱으로 체력을 합계 {threshold} 소비"
+      "name": "주오 세나의 프로듀스로 체력을 합계 {threshold} 소비"
     },
     {
       "id": "achieve-p_idol-jsna-014",
@@ -4031,7 +4031,7 @@
     },
     {
       "id": "achieve-p_idol-jsna-016",
-      "name": "주오 세나로 최종 시험에 합격해 평가 S +이상을 {threshold}회 획득 "
+      "name": "주오 세나로 최종 시험에 합격해 평가 S+이상을 {threshold}회 획득 "
     },
     {
       "id": "achieve-p_idol-jsna-017",
@@ -4047,7 +4047,7 @@
     },
     {
       "id": "achieve-p_idol-kcna-000",
-      "name": "쿠라모토 치나의 True End를 본다"
+      "name": "쿠라모토 치나로 True End를 보기"
     },
     {
       "id": "achieve-p_idol-kcna-000-1",
@@ -4055,51 +4055,51 @@
     },
     {
       "id": "achieve-p_idol-kcna-001",
-      "name": "쿠라모토 치나의 프로듀싱으로 스킬 카드를 {threshold}회 사용"
+      "name": "쿠라모토 치나의 프로듀스로 스킬 카드를 {threshold}회 사용"
     },
     {
       "id": "achieve-p_idol-kcna-002",
-      "name": "쿠라모토 치나로 레슨을 {threshold}회 클리어했다."
+      "name": "쿠라모토 치나로 레슨을 {threshold}회 클리어"
     },
     {
       "id": "achieve-p_idol-kcna-003",
-      "name": "쿠라모토 치나로 SP레슨을 {threshold}회 클리어했다."
+      "name": "쿠라모토 치나로 SP레슨을 {threshold}회 클리어"
     },
     {
       "id": "achieve-p_idol-kcna-004",
-      "name": "쿠라모토 치나로 최종 시험에 합격하여 B등급 이상을 {threshold}회 획득했다."
+      "name": "쿠라모토 치나로 최종 시험에 합격하여 평가 B 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-kcna-005",
-      "name": "쿠라모토 치나로 최종 시험에 합격하여 A등급 이상을 {threshold}회 획득했다."
+      "name": "쿠라모토 치나로 최종 시험에 합격하여 평가 A 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-kcna-006",
-      "name": "쿠라모토 치나로 최종 시험에 합격하여 S등급 이상을 {threshold}회 획득했다."
+      "name": "쿠라모토 치나로 최종 시험에 합격하여 S등급 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-kcna-007",
-      "name": "쿠라모토 치나 프로듀싱을 {threshold}회 완료했다."
+      "name": "쿠라모토 치나의 프로듀스를 {threshold}회 완료"
     },
     {
       "id": "achieve-p_idol-kcna-008",
-      "name": "쿠라모토 치나의 특훈 단계를 {threshold}으로 만들기"
+      "name": "쿠라모토 치나의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-p_idol-kcna-009",
-      "name": "쿠라모토 치나의 프로듀싱으로 최종 시험 {threshold}회 합격"
+      "name": "쿠라모토 치나의 프로듀스로 최종 시험 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-kcna-010",
-      "name": "쿠라모토 치나 팬 {threshold}명 획득"
+      "name": "쿠라모토 치나의 팬 {threshold}명 획득"
     },
     {
       "id": "achieve-p_idol-kcna-011",
-      "name": "쿠라모토 치나의 친애도 레벨을 {threshold}으로 만들기"
+      "name": "쿠라모토 치나의 친애도 Lv을 {threshold} 달성하기"
     },
     {
       "id": "achieve-p_idol-kcna-012",
-      "name": "쿠라모토 치나의 프로듀싱으로 총 {threshold} 활력 획득"
+      "name": "쿠라모토 치나의 프로듀스로 총 {threshold} 활력 획득"
     },
     {
       "id": "achieve-p_idol-kcna-013",
@@ -4107,7 +4107,7 @@
     },
     {
       "id": "achieve-p_idol-kcna-014",
-      "name": "쿠라모토 치나의 춤을 1000 이상으로 육성하여 프로듀싱을 완료했습니다."
+      "name": "쿠라모토 치나의 춤을 1000 이상으로 육성하여 프로듀스를 완료하자"
     },
     {
       "id": "achieve-p_idol-kcna-015",
@@ -4115,11 +4115,11 @@
     },
     {
       "id": "achieve-p_idol-kcna-016",
-      "name": "쿠라모토 치나로 최종 시험에 합격하여 평가 S + 이상을 {threshold} 회 획득"
+      "name": "쿠라모토 치나로 최종 시험에 합격하여 평가 S+ 이상을 {threshold} 회 획득"
     },
     {
       "id": "achieve-p_idol-kcna-017",
-      "name": "쿠라모토 치나로 난이도 「마스터」에서 최종 시험 1 위를 획득"
+      "name": "쿠라모토 치나로 난이도 「마스터」에서 최종 시험 1위를 획득"
     },
     {
       "id": "achieve-p_idol-kcna-018",
@@ -4131,7 +4131,7 @@
     },
     {
       "id": "achieve-p_idol-kllj-000",
-      "name": "카츠라기 릴리야의 True End를 본다"
+      "name": "카츠라기 릴리야로 True End를 보기"
     },
     {
       "id": "achieve-p_idol-kllj-000-1",
@@ -4139,43 +4139,43 @@
     },
     {
       "id": "achieve-p_idol-kllj-001",
-      "name": "카츠라기 릴리야의 프로듀싱에서 스킬 카드를 {threshold}회 사용함"
+      "name": "카츠라기 릴리야의 프로듀스에서 스킬 카드를 {threshold}회 사용함"
     },
     {
       "id": "achieve-p_idol-kllj-002",
-      "name": "카츠라기 릴리야로 레슨을 {threshold}회 클리어했다."
+      "name": "카츠라기 릴리야로 레슨을 {threshold}회 클리어"
     },
     {
       "id": "achieve-p_idol-kllj-003",
-      "name": "카츠라기 릴리야로 SP 레슨을 {threshold}회 클리어했다."
+      "name": "카츠라기 릴리야로 SP 레슨을 {threshold}회 클리어"
     },
     {
       "id": "achieve-p_idol-kllj-004",
-      "name": "카츠라기 릴리야로 최종 시험에 합격하고 B등급 이상을 {threshold}회 획득했다."
+      "name": "카츠라기 릴리야로 최종 시험에 합격하고 평가 B 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-kllj-005",
-      "name": "카츠라기 릴리야로 최종 시험에 합격하고 A등급 이상을 {threshold}회 획득했다."
+      "name": "카츠라기 릴리야로 최종 시험에 합격하고 평가 A 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-kllj-006",
-      "name": "카츠라기 릴리야로 최종 시험에 합격하고 S 등급 이상을 {threshold}회 획득했다."
+      "name": "카츠라기 릴리야로 최종 시험에 합격하고 S 등급 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-kllj-007",
-      "name": "카츠라기 릴리야의 프로듀싱을 {threshold}회 완료했다."
+      "name": "카츠라기 릴리야의 프로듀스를 {threshold}회 완료"
     },
     {
       "id": "achieve-p_idol-kllj-008",
-      "name": "카츠라기 릴리야의 특훈 단계를 {threshold}으로 만들기"
+      "name": "카츠라기 릴리야의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-p_idol-kllj-009",
-      "name": "카츠라기 릴리야의 프로듀싱으로 최종 시험에 {threshold}회 합격했다."
+      "name": "카츠라기 릴리야의 프로듀스로 최종 시험에 {threshold}회 합격했다."
     },
     {
       "id": "achieve-p_idol-kllj-010",
-      "name": "카츠라기 릴리야 팬 {threshold}명 획득"
+      "name": "카츠라기 릴리야의 팬 {threshold}명 획득"
     },
     {
       "id": "achieve-p_idol-kllj-011",
@@ -4183,15 +4183,15 @@
     },
     {
       "id": "achieve-p_idol-kllj-012",
-      "name": "카츠라기 릴리야의 프로듀싱으로 총 {threshold} 활력 획득"
+      "name": "카츠라기 릴리야의 프로듀스로 총 {threshold} 활력 획득"
     },
     {
       "id": "achieve-p_idol-kllj-013",
-      "name": "카츠라기 릴리야의 프로듀싱으로 스킬 카드 {threshold}회 강화"
+      "name": "카츠라기 릴리야의 프로듀스로 스킬 카드 {threshold}회 강화"
     },
     {
       "id": "achieve-p_idol-kllj-014",
-      "name": "카츠라기 릴리야의 비주얼을 1000 이상으로 육성하여 프로듀싱을 완료했습니다."
+      "name": "카츠라기 릴리야의 비주얼을 1000 이상으로 육성하여 프로듀스를 완료하자"
     },
     {
       "id": "achieve-p_idol-kllj-015",
@@ -4199,11 +4199,11 @@
     },
     {
       "id": "achieve-p_idol-kllj-016",
-      "name": "카츠라기 릴리야로 최종 시험에 합격하여 평가 S + 이상을 {threshold} 회 획득"
+      "name": "카츠라기 릴리야로 최종 시험에 합격하여 평가 S+ 이상을 {threshold} 회 획득"
     },
     {
       "id": "achieve-p_idol-kllj-017",
-      "name": "카츠라기 릴리야로 난이도 「마스터」에서 최종 시험 1 위를 획득"
+      "name": "카츠라기 릴리야로 난이도 「마스터」에서 최종 시험 1위를 획득"
     },
     {
       "id": "achieve-p_idol-kllj-018",
@@ -4215,7 +4215,7 @@
     },
     {
       "id": "achieve-p_idol-shro-000",
-      "name": "시노사와 히로의 True End를 본다"
+      "name": "시노사와 히로로 True End를 보기"
     },
     {
       "id": "achieve-p_idol-shro-000-1",
@@ -4223,59 +4223,59 @@
     },
     {
       "id": "achieve-p_idol-shro-001",
-      "name": "시노자와 히로의 프로듀싱으로 스킬 카드를 {threshold}회 사용"
+      "name": "시노사와 히로의 프로듀스로 스킬 카드를 {threshold}회 사용"
     },
     {
       "id": "achieve-p_idol-shro-002",
-      "name": "시노자와 히로로 레슨을 {threshold}회 클리어했다."
+      "name": "시노사와 히로로 레슨을 {threshold}회 클리어"
     },
     {
       "id": "achieve-p_idol-shro-003",
-      "name": "시노자와 히로로 SP레슨을 {threshold}회 클리어했다."
+      "name": "시노사와 히로로 SP레슨을 {threshold}회 클리어"
     },
     {
       "id": "achieve-p_idol-shro-004",
-      "name": "시노자와 히로로 최종 시험에 합격하여 B등급 이상을 {threshold}회 획득했다."
+      "name": "시노사와 히로로 최종 시험에 합격하여 평가 B 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-shro-005",
-      "name": "시노자와 히로로 최종 시험에 합격하여 A등급 이상을 {threshold}회 획득했다."
+      "name": "시노사와 히로로 최종 시험에 합격하여 평가 A 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-shro-006",
-      "name": "시노자와 히로로 최종 시험에 합격하여 평가 S 이상을 {threshold}회 획득했다."
+      "name": "시노사와 히로로 최종 시험에 합격하여 평가 S 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-shro-007",
-      "name": "시노자와 히로의 프로듀싱을 {threshold}회 완료했다."
+      "name": "시노사와 히로의 프로듀스를 {threshold}회 완료"
     },
     {
       "id": "achieve-p_idol-shro-008",
-      "name": "시노자와 히로의 특훈 단계를 {threshold}으로 설정한다."
+      "name": "시노사와 히로의 특훈 단계를 {threshold}으로 설정한다."
     },
     {
       "id": "achieve-p_idol-shro-009",
-      "name": "시노자와 히로의 프로듀싱으로 최종 시험에 {threshold}회 합격"
+      "name": "시노사와 히로의 프로듀스로 최종 시험에 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-shro-010",
-      "name": "시노자와 히로 팬 {threshold}명 획득"
+      "name": "시노사와 히로의 팬 {threshold}명 획득"
     },
     {
       "id": "achieve-p_idol-shro-011",
-      "name": "시노자와 히로의 친애도 레벨을 {threshold}으로 만들기"
+      "name": "시노사와 히로의 친애도 Lv을 {threshold} 달성하기"
     },
     {
       "id": "achieve-p_idol-shro-012",
-      "name": "시노자와 히로로 프로듀싱 평가 총 {threshold} 획득"
+      "name": "시노사와 히로로 프로듀싱 평가 총 {threshold} 획득"
     },
     {
       "id": "achieve-p_idol-shro-013",
-      "name": "시노자와 히로의 프로듀싱으로 총 {threshold} 활력 획득"
+      "name": "시노사와 히로의 프로듀스로 총 {threshold} 활력 획득"
     },
     {
       "id": "achieve-p_idol-shro-014",
-      "name": "시노자와 히로의 보컬을 1000 이상으로 육성하여 프로듀싱을 완료했습니다."
+      "name": "시노사와 히로의 보컬을 1000 이상으로 육성하여 프로듀스를 완료하자"
     },
     {
       "id": "achieve-p_idol-shro-015",
@@ -4283,11 +4283,11 @@
     },
     {
       "id": "achieve-p_idol-shro-016",
-      "name": "시노자와 히로로 최종 시험에 합격하여 평가 S + 이상을 {threshold} 회 획득"
+      "name": "시노사와 히로로 최종 시험에 합격하여 평가 S+ 이상을 {threshold} 회 획득"
     },
     {
       "id": "achieve-p_idol-shro-017",
-      "name": "시노자와 히로로 난이도 「마스터」에서 최종 시험 1 위를 획득"
+      "name": "시노사와 히로로 난이도 「마스터」에서 최종 시험 1위를 획득"
     },
     {
       "id": "achieve-p_idol-shro-018",
@@ -4299,7 +4299,7 @@
     },
     {
       "id": "achieve-p_idol-ssmk-000",
-      "name": "시운 스미카의 True End를 본다"
+      "name": "시운 스미카로 True End를 보기"
     },
     {
       "id": "achieve-p_idol-ssmk-000-1",
@@ -4307,43 +4307,43 @@
     },
     {
       "id": "achieve-p_idol-ssmk-001",
-      "name": "시운 스미카 프로듀스에서 스킬 카드를 {threshold}회 사용"
+      "name": "시운 스미카의 프로듀스에서 스킬 카드를 {threshold}회 사용"
     },
     {
       "id": "achieve-p_idol-ssmk-002",
-      "name": "시운 스미카로 레슨을 {threshold}회 클리어했다."
+      "name": "시운 스미카로 레슨을 {threshold}회 클리어"
     },
     {
       "id": "achieve-p_idol-ssmk-003",
-      "name": "시운 스미카로 SP레슨을 {threshold}회 클리어했다."
+      "name": "시운 스미카로 SP레슨을 {threshold}회 클리어"
     },
     {
       "id": "achieve-p_idol-ssmk-004",
-      "name": "시운 스미카로 최종 시험에 합격하여 B등급 이상을 {threshold}회 획득했다."
+      "name": "시운 스미카로 최종 시험에 합격하여 평가 B 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-ssmk-005",
-      "name": "시운 스미카로 최종 시험에 합격하여 A등급 이상을 {threshold}회 획득했다."
+      "name": "시운 스미카로 최종 시험에 합격하여 평가 A 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-ssmk-006",
-      "name": "시운 스미카로 최종 시험에 합격하여 평가 S 이상을 {threshold}회 획득했다."
+      "name": "시운 스미카로 최종 시험에 합격하여 평가 S 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-ssmk-007",
-      "name": "시운 스미카의 프로듀싱을 {threshold}회 완료했다."
+      "name": "시운 스미카의 프로듀스를 {threshold}회 완료"
     },
     {
       "id": "achieve-p_idol-ssmk-008",
-      "name": "시운 스미카의 특훈 단계를 {threshold}으로 만들기"
+      "name": "시운 스미카의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-p_idol-ssmk-009",
-      "name": "시운 스미카의 프로듀싱으로 최종 시험에 {threshold}회 합격"
+      "name": "시운 스미카의 프로듀스로 최종 시험에 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-ssmk-010",
-      "name": "시운 스미카 팬 {threshold}명 획득"
+      "name": "시운 스미카의 팬 {threshold}명 획득"
     },
     {
       "id": "achieve-p_idol-ssmk-011",
@@ -4351,11 +4351,11 @@
     },
     {
       "id": "achieve-p_idol-ssmk-012",
-      "name": "시운 스미카로 P 음료 사용 {threshold}회 사용"
+      "name": "시운 스미카로 P드링크를 {threshold}회 사용"
     },
     {
       "id": "achieve-p_idol-ssmk-013",
-      "name": "시운 스미카의 프로듀싱으로 체력 총 {threshold} 소모"
+      "name": "시운 스미카의 프로듀스로 체력 총 {threshold} 소모"
     },
     {
       "id": "achieve-p_idol-ssmk-014",
@@ -4367,11 +4367,11 @@
     },
     {
       "id": "achieve-p_idol-ssmk-016",
-      "name": "시운 스미카로 최종 시험에 합격하여 평가 S + 이상을 {threshold} 회 획득"
+      "name": "시운 스미카로 최종 시험에 합격하여 평가 S+ 이상을 {threshold} 회 획득"
     },
     {
       "id": "achieve-p_idol-ssmk-017",
-      "name": "시운 스미카로 난이도 「마스터」에서 최종 시험 1 위를 획득"
+      "name": "시운 스미카로 난이도 「마스터」에서 최종 시험 1위를 획득"
     },
     {
       "id": "achieve-p_idol-ssmk-018",
@@ -4383,7 +4383,7 @@
     },
     {
       "id": "achieve-p_idol-ttmr-000",
-      "name": "츠키무라 테마리의 True End를 본다"
+      "name": "츠키무라 테마리로 True End를 보기"
     },
     {
       "id": "achieve-p_idol-ttmr-000-1",
@@ -4395,35 +4395,35 @@
     },
     {
       "id": "achieve-p_idol-ttmr-002",
-      "name": "츠키무라 테마리로 레슨을 {threshold}회 클리어했다."
+      "name": "츠키무라 테마리로 레슨을 {threshold}회 클리어"
     },
     {
       "id": "achieve-p_idol-ttmr-003",
-      "name": "츠키무라 테마리 SP 레슨을 {threshold}회 클리어했다."
+      "name": "츠키무라 테마리로 SP 레슨을 {threshold}회 클리어"
     },
     {
       "id": "achieve-p_idol-ttmr-004",
-      "name": "츠키무라 테마리로 최종 시험에 합격하여 B등급 이상을 {threshold}회 획득했다."
+      "name": "츠키무라 테마리로 최종 시험에 합격하여 평가 B 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-ttmr-005",
-      "name": "츠키무라 테마리로 최종 시험에 합격하여 A등급 이상을 {threshold}회 획득했다."
+      "name": "츠키무라 테마리로 최종 시험에 합격하여 평가 A 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-ttmr-006",
-      "name": "츠키무라 테마리로 최종 시험에 합격하여 평가 S 이상을 {threshold}회 획득했다."
+      "name": "츠키무라 테마리로 최종 시험에 합격하여 평가 S 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-ttmr-007",
-      "name": "츠키무라 테마리 프로듀싱을 {threshold}회 완료했다."
+      "name": "츠키무라 테마리의 프로듀스를 {threshold}회 완료"
     },
     {
       "id": "achieve-p_idol-ttmr-008",
-      "name": "츠키무라 테마리의 특훈 단계를 {threshold}으로 만들기"
+      "name": "츠키무라 테마리의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-p_idol-ttmr-009",
-      "name": "츠키무라 테마리의 프로듀싱으로 최종 시험 {threshold}회 합격"
+      "name": "츠키무라 테마리의 프로듀스로 최종 시험 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-ttmr-010",
@@ -4431,11 +4431,11 @@
     },
     {
       "id": "achieve-p_idol-ttmr-011",
-      "name": "츠키무라 테마리의 친애도 레벨을 {threshold}으로 만들기"
+      "name": "츠키무라 테마리의 친애도 Lv을 {threshold} 달성하기"
     },
     {
       "id": "achieve-p_idol-ttmr-012",
-      "name": "츠키무라 테마리의 프로듀싱으로 스킬 카드 {threshold}회 강화"
+      "name": "츠키무라 테마리의 프로듀스로 스킬 카드 {threshold}회 강화"
     },
     {
       "id": "achieve-p_idol-ttmr-013",
@@ -4443,7 +4443,7 @@
     },
     {
       "id": "achieve-p_idol-ttmr-014",
-      "name": "츠키무라 테마리의 보컬을 1000 이상으로 육성하여 프로듀싱을 완료했습니다."
+      "name": "츠키무라 테마리의 보컬을 1000 이상으로 육성하고 프로듀스를 완료하자"
     },
     {
       "id": "achieve-p_idol-ttmr-015",
@@ -4451,11 +4451,11 @@
     },
     {
       "id": "achieve-p_idol-ttmr-016",
-      "name": "츠키무라 테마리로 최종 시험에 합격하여 평가 S + 이상을 {threshold} 회 획득"
+      "name": "츠키무라 테마리로 최종 시험에 합격하여 평가 S+ 이상을 {threshold} 회 획득"
     },
     {
       "id": "achieve-p_idol-ttmr-017",
-      "name": "츠키무라 테마리로 난이도 「마스터」에서 최종 시험 1 위를 획득"
+      "name": "츠키무라 테마리로 난이도 「마스터」에서 최종 시험 1위를 획득"
     },
     {
       "id": "achieve-p_idol-ttmr-018",
@@ -4471,7 +4471,7 @@
     },
     {
       "id": "main_task_group-01-01#2",
-      "name": "1장 1 이야기를 보자"
+      "name": "1장 1화를 보자"
     },
     {
       "id": "main_task_group-01-01#3",
@@ -4487,11 +4487,11 @@
     },
     {
       "id": "main_task_group-01-01#6",
-      "name": "연수 1개를 클리어하자!"
+      "name": "연수 1개를 클리어하자"
     },
     {
       "id": "main_task_group-01-01#7",
-      "name": "시험 훈련을 1개 클리어하자!"
+      "name": "시험 훈련을 1개 클리어하자"
     },
     {
       "id": "main_task_group-01-01#8",
@@ -4499,11 +4499,11 @@
     },
     {
       "id": "main_task_group-01-01#9",
-      "name": "1장 2 이야기를 보자"
+      "name": "1장 2화를 보자"
     },
     {
       "id": "main_task_group-01-01#10",
-      "name": "프로듀스 아이돌을 특훈하자!"
+      "name": "프로듀스 아이돌을 특훈하자"
     },
     {
       "id": "main_task_group-01-01#11",
@@ -4511,7 +4511,7 @@
     },
     {
       "id": "main_task_group-01-01#12",
-      "name": "머니 교환소에서 교환하자!"
+      "name": "머니 교환소에서 교환하자"
     },
     {
       "id": "main_task_group-01-01#13",
@@ -4519,43 +4519,43 @@
     },
     {
       "id": "main_task_group-01-01#14",
-      "name": "1장 3 이야기를 보자"
+      "name": "1장 3화를 보자"
     },
     {
       "id": "main_task_group-01-01#15",
-      "name": "일을 시작하자!"
+      "name": "업무를 시작하자"
     },
     {
       "id": "main_task_group-01-01#16",
-      "name": "프로듀싱에 도전해 보세요!\n【조건】플랜：감각의 프로듀스 아이돌"
+      "name": "프로듀스에 도전해 보자\n【조건】플랜：센스의 프로듀스 아이돌"
     },
     {
       "id": "main_task_group-01-01#17",
-      "name": "센스 가챠를 1회 뽑자!"
+      "name": "센스 가챠를 1회 뽑자"
     },
     {
       "id": "main_task_group-01-01#18",
-      "name": "1장 4 이야기를 보자"
+      "name": "1장 4화를 보자"
     },
     {
       "id": "main_task_group-01-01#19",
-      "name": "서포트 카드 {threshold}장을 Lv20로 만들자!"
+      "name": "서포트 카드 {threshold}장을 Lv20로 만들자"
     },
     {
       "id": "main_task_group-01-01#20",
-      "name": "업적을 {threshold}개 획득하세요!"
+      "name": "업적을 {threshold}개 획득하자"
     },
     {
       "id": "main_task_group-01-01#21",
-      "name": "프로듀싱에 도전해 보세요!\n【조건】플랜：로직의 프로듀스 아이돌"
+      "name": "프로듀스에 도전해 보자\n【조건】플랜：로직의 프로듀스 아이돌"
     },
     {
       "id": "main_task_group-01-01#22",
-      "name": "로직 가챠를 1회 뽑자!"
+      "name": "로직 가챠를 1회 뽑자"
     },
     {
       "id": "main_task_group-01-01#23",
-      "name": "1장 5 이야기를 보자"
+      "name": "1장 5화를 보자"
     },
     {
       "id": "main_task_group-01-01#24",
@@ -4563,11 +4563,11 @@
     },
     {
       "id": "main_task_group-01-01#25",
-      "name": "다른 아이돌 {threshold}명의 프로듀싱을 완료하자!"
+      "name": "다른 아이돌 {threshold}명의 프로듀스를 완료하자"
     },
     {
       "id": "main_task_group-01-01#26",
-      "name": "콘테스트에서 편성하자!"
+      "name": "콘테스트에서 편성하자"
     },
     {
       "id": "main_task_group-01-01#27",
@@ -4575,19 +4575,19 @@
     },
     {
       "id": "main_task_group-01-01#28",
-      "name": "1장 6 이야기를 보자"
+      "name": "1장 6화를 보자"
     },
     {
       "id": "main_task_group-01-01#29",
-      "name": "서포트 카드 {threshold}장을 Lv20로 만들자!"
+      "name": "서포트 카드 {threshold}장을 Lv20로 만들자"
     },
     {
       "id": "main_task_group-01-01#30",
-      "name": "프로듀스에 도전하여 C+ 이상의 등급을 획득하자!"
+      "name": "프로듀스에 도전하여 C+ 이상의 등급을 획득하자"
     },
     {
       "id": "main_task_group-01-01#31",
-      "name": "1장 7 이야기를 보자"
+      "name": "1장 7화를 보자"
     },
     {
       "id": "main_task_group-01-01#32",
@@ -4595,47 +4595,47 @@
     },
     {
       "id": "main_task_group-01-01#33",
-      "name": "훈련의【응용1】플랜：센스를 클리어하자!"
+      "name": "훈련의【응용1】플랜：센스를 클리어하자"
     },
     {
       "id": "main_task_group-01-01#34",
-      "name": "프로듀싱에 도전하여 평가 C+ 이상을 획득하자 【조건】플랜: 센스 있는 프로듀싱 아이돌"
+      "name": "프로듀싱에 도전하여 평가 C+ 이상을 획득하자\n【조건】플랜: 센스 있는 프로듀스 아이돌"
     },
     {
       "id": "main_task_group-01-01#35",
-      "name": "1장 8 이야기를 보자"
+      "name": "1장 8화를 보자"
     },
     {
       "id": "main_task_group-01-01#36",
-      "name": "훈련의【응용 2】플랜：로직을 클리어하자!"
+      "name": "훈련의【응용 2】플랜：로직을 클리어하자"
     },
     {
       "id": "main_task_group-01-01#37",
-      "name": "프로듀싱에 도전하여 평가 C+ 이상을 획득하자 【조건】플랜: 로직의 프로듀싱 아이돌"
+      "name": "프로듀싱에 도전하여 평가 C+ 이상을 획득하자\n【조건】플랜: 로직의 프로듀스 아이돌"
     },
     {
       "id": "main_task_group-01-01#38",
-      "name": "업적을 {threshold}개 획득하세요!"
+      "name": "업적을 {threshold}개 획득하자"
     },
     {
       "id": "main_task_group-01-01#39",
-      "name": "1장 9 이야기를 보자"
+      "name": "1장 9화를 보자"
     },
     {
       "id": "main_task_group-01-01#40",
-      "name": "프로듀스 아이돌 {threshold}명의 특훈 단계를 2로 만들자!"
+      "name": "프로듀스 아이돌 {threshold}명의 특훈 단계를 2로 만들자"
     },
     {
       "id": "main_task_group-01-01#41",
-      "name": "프로듀싱으로 난이도 프로에 도전하자!"
+      "name": "프로듀스로 난이도 프로에 도전하자!"
     },
     {
       "id": "main_task_group-01-01#42",
-      "name": "서포트 카드 {threshold}장을 Lv20로 만들자!"
+      "name": "서포트 카드 {threshold}장을 Lv20로 만들자"
     },
     {
       "id": "main_task_group-01-01#43",
-      "name": "1장 10 이야기를 보자"
+      "name": "1장 10화를 보자"
     },
     {
       "id": "main_task_group-01-01#44",
@@ -4647,31 +4647,31 @@
     },
     {
       "id": "main_task_group-01-01#46",
-      "name": "프로듀스에서 매개변수 중 하나를 600 이상으로 육성하자!"
+      "name": "프로듀스에서 파라미터 중 하나를 600 이상으로 육성하자!"
     },
     {
       "id": "main_task_group-01-01#47",
-      "name": "1장 11 이야기를 보자"
+      "name": "1장 11화를 보자"
     },
     {
       "id": "main_task_group-01-01#48",
-      "name": "콘테스트에서 유닛 종합력을 {threshold} 이상으로 만들자!"
+      "name": "콘테스트에서 유닛 종합력을 {threshold} 이상으로 만들자"
     },
     {
       "id": "main_task_group-01-01#49",
-      "name": "프로듀싱에 도전하여 평가 B 이상을 획득하자!\n【조건】플랜：감각의 프로듀스 아이돌"
+      "name": "프로듀싱에 도전하여 평가 B 이상을 획득하자\n【조건】플랜：센스의 프로듀스 아이돌"
     },
     {
       "id": "main_task_group-01-01#50",
-      "name": "프로듀싱에 도전하여 평가 B 이상을 획득하자!\n【조건】플랜：로직의 프로듀스 아이돌"
+      "name": "프로듀싱에 도전하여 평가 B 이상을 획득하자\n【조건】플랜：로직의 프로듀스 아이돌"
     },
     {
       "id": "main_task_group-01-01#51",
-      "name": "1장 12 이야기를 보자"
+      "name": "1장 12화를 보자"
     },
     {
       "id": "main_task_group-01-01#52",
-      "name": "서포트 카드의 레벨을 {threshold}으로 만들자!"
+      "name": "서포트 카드의 레벨을 {threshold}으로 만들자"
     },
     {
       "id": "main_task_group-01-01#53",
@@ -4679,7 +4679,7 @@
     },
     {
       "id": "main_task_group-01-01#54",
-      "name": "1장 13 이야기를 보자"
+      "name": "1장 13화를 보자"
     },
     {
       "id": "main_task_group-01-01#55",
@@ -4687,15 +4687,15 @@
     },
     {
       "id": "main_task_group-01-01#56",
-      "name": "프로듀스 아이돌 {threshold}명의 특훈 단계를 3로 만들자!"
+      "name": "프로듀스 아이돌 {threshold}명의 특훈 단계를 3으로 만들자"
     },
     {
       "id": "main_task_group-01-01#57",
-      "name": "프로듀스에서 매개변수 중 하나를 800 이상으로 육성하자!"
+      "name": "프로듀스에서 파라미터 중 하나를 800 이상으로 육성하자!"
     },
     {
       "id": "main_task_group-01-01#58",
-      "name": "1장 14 이야기를 보자"
+      "name": "1장 14화를 보자"
     },
     {
       "id": "main_task_group-01-01#59",
@@ -4707,19 +4707,19 @@
     },
     {
       "id": "main_task_group-02-01#1",
-      "name": "콘테스트에서 유닛 종합력을 {threshold} 이상으로 만들자!"
+      "name": "콘테스트에서 유닛 종합력을 {threshold} 이상으로 만들자"
     },
     {
       "id": "main_task_group-02-01#2",
-      "name": "업적을 {threshold}개 획득하세요!"
+      "name": "업적을 {threshold}개 획득하자"
     },
     {
       "id": "main_task_group-02-01#3",
-      "name": "프로듀스에서 매개변수 중 하나를 1000 이상으로 육성하자!"
+      "name": "프로듀스에서 파라미터 중 하나를 1000 이상으로 육성하자!"
     },
     {
       "id": "main_task_group-02-01#4",
-      "name": "콘테스트에서 {threshold} 이상의 점수를 획득하세요!"
+      "name": "콘테스트에서 {threshold} 이상의 점수를 획득하자"
     },
     {
       "id": "main_task_group-02-01#5",
@@ -4727,7 +4727,7 @@
     },
     {
       "id": "main_task_group-02-01#6",
-      "name": "프로듀스 아이돌 {threshold}명의 특훈 단계를 3로 만들자!"
+      "name": "프로듀스 아이돌 {threshold}명의 특훈 단계를 3으로 만들자"
     },
     {
       "id": "main_task_group-02-01#7",
@@ -4735,23 +4735,23 @@
     },
     {
       "id": "main_task_group-02-01#8",
-      "name": "서포트 카드 {threshold}장을 Lv30로 만들자!"
+      "name": "서포트 카드 {threshold}장을 Lv30로 만들자"
     },
     {
       "id": "main_task_group-02-01#9",
-      "name": "스킬 카드 {threshold}종류를 획득하자!"
+      "name": "스킬 카드 {threshold}종류를 획득하자"
     },
     {
       "id": "main_task_group-02-01#10",
-      "name": "프로듀스에 도전하여 B+ 이상의 등급을 획득하자!"
+      "name": "프로듀스에 도전하여 B+ 이상의 등급을 획득하자"
     },
     {
       "id": "main_task_group-02-01#11",
-      "name": "업적을 {threshold}개 획득하세요!"
+      "name": "업적을 {threshold}개 획득하자"
     },
     {
       "id": "main_task_group-02-01#12",
-      "name": "총 {threshold} 시간 동안 일하자"
+      "name": "업무를 총 {threshold} 시간 하자"
     },
     {
       "id": "main_task_group-02-01#13",
@@ -4767,7 +4767,7 @@
     },
     {
       "id": "main_task_group-02-01#16",
-      "name": "프로듀스 아이돌 {threshold}명의 특훈 단계를 3로 만들자!"
+      "name": "프로듀스 아이돌 {threshold}명의 특훈 단계를 3으로 만들자"
     },
     {
       "id": "main_task_group-02-01#17",
@@ -4775,11 +4775,11 @@
     },
     {
       "id": "main_task_group-02-01#18",
-      "name": "서포트 카드의 레벨을 {threshold}으로 만들자!"
+      "name": "서포트 카드의 레벨을 {threshold}으로 만들자"
     },
     {
       "id": "main_task_group-02-01#19",
-      "name": "업적을 {threshold}개 획득하세요!"
+      "name": "업적을 {threshold}개 획득하자"
     },
     {
       "id": "main_task_group-02-01#20",
@@ -4787,27 +4787,27 @@
     },
     {
       "id": "main_task_group-02-01#21",
-      "name": "콘테스트에서 {threshold} 이상의 점수를 획득하세요!"
+      "name": "콘테스트에서 {threshold} 이상의 점수를 획득하자"
     },
     {
       "id": "main_task_group-02-01#22",
-      "name": "콘테스트에서 유닛 종합력을 {threshold} 이상으로 만들자!"
+      "name": "콘테스트에서 유닛 종합력을 {threshold} 이상으로 만들자"
     },
     {
       "id": "main_task_group-02-01#23",
-      "name": "스킬 카드 {threshold}종류를 획득하자!"
+      "name": "스킬 카드 {threshold}종류를 획득하자"
     },
     {
       "id": "main_task_group-02-01#24",
-      "name": "서포트 카드 {threshold}장을 Lv30로 만들자!"
+      "name": "서포트 카드 {threshold}장을 Lv30로 만들자"
     },
     {
       "id": "main_task_group-02-01#25",
-      "name": "프로듀스 아이돌 {threshold}명의 특훈 단계를 4로 만들자!"
+      "name": "프로듀스 아이돌 {threshold}명의 특훈 단계를 4로 만들자"
     },
     {
       "id": "main_task_group-02-01#26",
-      "name": "업적을 {threshold}개 획득하세요!"
+      "name": "업적을 {threshold}개 획득하자"
     },
     {
       "id": "main_task_group-02-01#27",
@@ -4819,27 +4819,27 @@
     },
     {
       "id": "main_task_group-02-01#29",
-      "name": "서포트 카드 {threshold}장을 Lv30로 만들자!"
+      "name": "서포트 카드 {threshold}장을 Lv30로 만들자"
     },
     {
       "id": "main_task_group-02-01#30",
-      "name": "프로듀싱으로 최종 시험에 합격하자!\n【조건】：하나미 사키"
+      "name": "프로듀스로 최종 시험에 합격하자!\n【조건】：하나미 사키"
     },
     {
       "id": "main_task_group-02-01#31",
-      "name": "콘테스트에서 {threshold} 이상의 점수를 획득하세요!"
+      "name": "콘테스트에서 {threshold} 이상의 점수를 획득하자"
     },
     {
       "id": "main_task_group-02-01#32",
-      "name": "프로듀싱으로 최종 시험에 합격하자!\n【조건】：츠키무라 테마리"
+      "name": "프로듀스로 최종 시험에 합격하자!\n【조건】：츠키무라 테마리"
     },
     {
       "id": "main_task_group-02-01#33",
-      "name": "업적을 {threshold}개 획득하세요!"
+      "name": "업적을 {threshold}개 획득하자"
     },
     {
       "id": "main_task_group-02-01#34",
-      "name": "프로듀싱으로 최종 시험에 합격하자!\n【조건】：후지타 코토네"
+      "name": "프로듀스로 최종 시험에 합격하자!\n【조건】：후지타 코토네"
     },
     {
       "id": "main_task_group-02-01#35",
@@ -4847,27 +4847,27 @@
     },
     {
       "id": "main_task_group-02-01#36",
-      "name": "P음료 {threshold}종류를 획득하자!"
+      "name": "P드링크 {threshold}종류를 획득하자"
     },
     {
       "id": "main_task_group-02-01#37",
-      "name": "프로듀싱으로 최종 시험에 합격하자!\n【조건】：아리무라 마오"
+      "name": "프로듀스로 최종 시험에 합격하자!\n【조건】：아리무라 마오"
     },
     {
       "id": "main_task_group-02-01#38",
-      "name": "콘테스트에서 유닛 종합력을 {threshold} 이상으로 만들자!"
+      "name": "콘테스트에서 유닛 종합력을 {threshold} 이상으로 만들자"
     },
     {
       "id": "main_task_group-02-01#39",
-      "name": "프로듀싱으로 최종 시험에 합격하자!\n【조건】：히메사키 리나미"
+      "name": "프로듀스로 최종 시험에 합격하자!\n【조건】：히메사키 리나미"
     },
     {
       "id": "main_task_group-02-01#40",
-      "name": "업적을 {threshold}개 획득하세요!"
+      "name": "업적을 {threshold}개 획득하자"
     },
     {
       "id": "main_task_group-02-01#41",
-      "name": "프로듀싱으로 최종 시험에 합격하자!\n【조건】：카츠라기 릴리야"
+      "name": "프로듀스로 최종 시험에 합격하자!\n【조건】：카츠라기 릴리야"
     },
     {
       "id": "main_task_group-02-01#42",
@@ -4875,59 +4875,59 @@
     },
     {
       "id": "main_task_group-02-01#43",
-      "name": "프로듀스 아이돌 {threshold}명의 특훈 단계를 4로 만들자!"
+      "name": "프로듀스 아이돌 {threshold}명의 특훈 단계를 4로 만들자"
     },
     {
       "id": "main_task_group-02-01#44",
-      "name": "프로듀싱으로 최종 시험에 합격하자!\n【조건】：시운 스미카"
+      "name": "프로듀스로 최종 시험에 합격하자!\n【조건】：시운 스미카"
     },
     {
       "id": "main_task_group-02-01#45",
-      "name": "업적을 {threshold}개 획득하세요!"
+      "name": "업적을 {threshold}개 획득하자"
     },
     {
       "id": "main_task_group-02-01#46",
-      "name": "프로듀싱으로 최종 시험에 합격하자!\n【조건】：시노자와 히로"
+      "name": "프로듀스로 최종 시험에 합격하자!\n【조건】：시노사와 히로"
     },
     {
       "id": "main_task_group-02-01#47",
-      "name": "서포트 카드 {threshold}장을 Lv40로 만들자!"
+      "name": "서포트 카드 {threshold}장을 Lv40로 만들자"
     },
     {
       "id": "main_task_group-02-01#48",
-      "name": "프로듀싱으로 최종 시험에 합격하자!\n【조건】：쿠라모토 치나"
+      "name": "프로듀스로 최종 시험에 합격하자!\n【조건】：쿠라모토 치나"
     },
     {
       "id": "main_task_group-02-01#49",
-      "name": "콘테스트에서 {threshold} 이상의 점수를 획득하세요!"
+      "name": "콘테스트에서 {threshold} 이상의 점수를 획득하자"
     },
     {
       "id": "main_task_group-02-01#50",
-      "name": "스킬 카드 {threshold}종류를 획득하자!"
+      "name": "스킬 카드 {threshold}종류를 획득하자"
     },
     {
       "id": "main_task_group-02-01#51",
-      "name": "프로듀스에 도전하여 A등급 이상을 획득하자!"
+      "name": "프로듀스에 도전하여 평가 A 이상을 획득하자"
     },
     {
       "id": "main_task_group-02-01#52",
-      "name": "총 {threshold} 시간 동안 일하자"
+      "name": "업무를 총 {threshold} 시간 하자"
     },
     {
       "id": "main_task_group-02-01#53",
-      "name": "프로듀스 아이돌 {threshold}명의 특훈 단계를 4로 만들자!"
+      "name": "프로듀스 아이돌 {threshold}명의 특훈 단계를 4로 만들자"
     },
     {
       "id": "main_task_group-02-01#54",
-      "name": "프로듀스에 도전하여 A등급 이상을 획득하자!\n【조건】플랜：감각의 프로듀스 아이돌"
+      "name": "프로듀스에 도전하여 평가 A 이상을 획득하자\n【조건】플랜：센스의 프로듀스 아이돌"
     },
     {
       "id": "main_task_group-02-01#55",
-      "name": "프로듀스에 도전하여 A등급 이상을 획득하자!\n【조건】플랜：로직의 프로듀스 아이돌"
+      "name": "프로듀스에 도전하여 평가 A 이상을 획득하자\n【조건】플랜：로직의 프로듀스 아이돌"
     },
     {
       "id": "main_task_group-02-01#56",
-      "name": "콘테스트에서 유닛 종합력을 {threshold} 이상으로 만들자!"
+      "name": "콘테스트에서 유닛 종합력을 {threshold} 이상으로 만들자"
     },
     {
       "id": "main_task_group-02-01#57",
@@ -4935,7 +4935,7 @@
     },
     {
       "id": "main_task_group-02-01#58",
-      "name": "업적을 {threshold}개 획득하세요!"
+      "name": "업적을 {threshold}개 획득하자"
     },
     {
       "id": "main_task_group-02-01#59",
@@ -4947,19 +4947,19 @@
     },
     {
       "id": "main_task_group-02-01#61",
-      "name": "아이돌 길에서 ★를 총 {threshold}개 이상 획득하자!"
+      "name": "아이돌 길에서 ★를 총 {threshold}개 이상 획득하자"
     },
     {
       "id": "main_task_group-02-01#62",
-      "name": "프로듀스에 도전하여 A등급 이상을 획득하자!"
+      "name": "프로듀스에 도전하여 평가 A 이상을 획득하자"
     },
     {
       "id": "main_task_group-02-01#63",
-      "name": "콘테스트에서 {threshold} 이상의 점수를 획득하세요!"
+      "name": "콘테스트에서 {threshold} 이상의 점수를 획득하자"
     },
     {
       "id": "main_task_group-02-01#64",
-      "name": "서포트 카드 {threshold}장을 Lv40로 만들자!"
+      "name": "서포트 카드 {threshold}장을 Lv40로 만들자"
     },
     {
       "id": "main_task_group-02-01#65",
@@ -4967,11 +4967,11 @@
     },
     {
       "id": "main_task_group-02-01#66",
-      "name": "프로듀스에 도전하여 A등급 이상을 획득하자!\n【조건】플랜：감각의 프로듀스 아이돌"
+      "name": "프로듀스에 도전하여 평가 A 이상을 획득하자\n【조건】플랜：센스의 프로듀스 아이돌"
     },
     {
       "id": "main_task_group-02-01#67",
-      "name": "프로듀스에 도전하여 A등급 이상을 획득하자!\n【조건】플랜：로직의 프로듀스 아이돌"
+      "name": "프로듀스에 도전하여 평가 A 이상을 획득하자\n【조건】플랜：로직의 프로듀스 아이돌"
     },
     {
       "id": "main_task_group-02-01#68",
@@ -4979,19 +4979,19 @@
     },
     {
       "id": "main_task_group-02-01#69",
-      "name": "업적을 {threshold}개 획득하세요!"
+      "name": "업적을 {threshold}개 획득하자"
     },
     {
       "id": "main_task_group-02-01#70",
-      "name": "프로듀싱으로 스킬 카드를 {threshold}회 강화하자!"
+      "name": "프로듀스에서 스킬 카드를 {threshold}번 강화하자!"
     },
     {
       "id": "main_task_group-02-01#71",
-      "name": "아이돌 길에서 ★를 총 {threshold}개 이상 획득하자!"
+      "name": "아이돌 길에서 ★를 총 {threshold}개 이상 획득하자"
     },
     {
       "id": "main_task_group-02-01#72",
-      "name": "콘테스트에서 유닛 종합력을 {threshold} 이상으로 만들자!"
+      "name": "콘테스트에서 유닛 종합력을 {threshold} 이상으로 만들자"
     },
     {
       "id": "main_task_group-02-01#73",
@@ -4999,7 +4999,7 @@
     },
     {
       "id": "main_task_group-02-01#74",
-      "name": "서포트 카드 {threshold}장을 Lv40로 만들자!"
+      "name": "서포트 카드 {threshold}장을 Lv40로 만들자"
     },
     {
       "id": "main_task_group-02-01#75",
@@ -5007,39 +5007,39 @@
     },
     {
       "id": "main_task_group-02-01#76",
-      "name": "콘테스트에서 {threshold} 이상의 점수를 획득하세요!"
+      "name": "콘테스트에서 {threshold} 이상의 점수를 획득하자"
     },
     {
       "id": "main_task_group-02-01#77",
-      "name": "시노자와 히로로 최종 시험에 합격하여 A등급 이상을 {threshold}회 획득하자!"
+      "name": "시노사와 히로로 최종 시험에 합격하여 평가 A 이상을 {threshold}회 획득하자"
     },
     {
       "id": "main_task_group-02-01#78",
-      "name": "쿠라모토 치나로 최종 시험에 합격하여 A 등급 이상을 {threshold}회 획득하자!"
+      "name": "쿠라모토 치나로 최종 시험에 합격하여 A 등급 이상을 {threshold}회 획득하자"
     },
     {
       "id": "main_task_group-02-01#79",
-      "name": "업적을 {threshold}개 획득하세요!"
+      "name": "업적을 {threshold}개 획득하자"
     },
     {
       "id": "main_task_group-02-01#80",
-      "name": "콘테스트에서 유닛 종합력을 {threshold} 이상으로 만들자!"
+      "name": "콘테스트에서 유닛 종합력을 {threshold} 이상으로 만들자"
     },
     {
       "id": "main_task_group-02-01#81",
-      "name": "아이돌 길에서 ★를 총 {threshold}개 이상 획득하자!"
+      "name": "아이돌 길에서 ★를 총 {threshold}개 이상 획득하자"
     },
     {
       "id": "main_task_group-02-01#82",
-      "name": "카츠라기 릴리야로 최종 시험에 합격하여 A 등급 이상을 {threshold}회 획득하자!"
+      "name": "카츠라기 릴리야로 최종 시험에 합격하여 A 등급 이상을 {threshold}회 획득하자"
     },
     {
       "id": "main_task_group-02-01#83",
-      "name": "시운 스미카와 함께 최종 시험에 합격하여 A 등급 이상을 {threshold}회 획득하자!"
+      "name": "시운 스미카와 함께 최종 시험에 합격하여 A 등급 이상을 {threshold}회 획득하자"
     },
     {
       "id": "main_task_group-02-01#84",
-      "name": "프로듀스 아이돌 {threshold}명의 특훈 단계를 5로 만들자!"
+      "name": "프로듀스 아이돌 {threshold}명의 특훈 단계를 5로 만들자"
     },
     {
       "id": "main_task_group-02-01#85",
@@ -5047,39 +5047,39 @@
     },
     {
       "id": "main_task_group-02-01#86",
-      "name": "프로듀스 등급을 총 {threshold}개 획득하자!"
+      "name": "프로듀스 등급을 총 {threshold}개 획득하자"
     },
     {
       "id": "main_task_group-02-01#87",
-      "name": "콘테스트에서 {threshold} 이상의 점수를 획득하세요!"
+      "name": "콘테스트에서 {threshold} 이상의 점수를 획득하자"
     },
     {
       "id": "main_task_group-02-01#88",
-      "name": "아리무라 마오로 최종 시험에 합격하여 A등급 이상을 {threshold}회 획득하자!"
+      "name": "아리무라 마오로 최종 시험에 합격하여 평가 A 이상을 {threshold}회 획득하자"
     },
     {
       "id": "main_task_group-02-01#89",
-      "name": "히메사키 리나미로 최종 시험에 합격하여 A 등급 이상을 {threshold}회 획득하자!"
+      "name": "히메사키 리나미로 최종 시험에 합격하여 A 등급 이상을 {threshold}회 획득하자"
     },
     {
       "id": "main_task_group-02-01#90",
-      "name": "업적을 {threshold}개 획득하세요!"
+      "name": "업적을 {threshold}개 획득하자"
     },
     {
       "id": "main_task_group-02-01#91",
-      "name": "아이돌 길에서 ★를 총 {threshold}개 이상 획득하자!"
+      "name": "아이돌 길에서 ★를 총 {threshold}개 이상 획득하자"
     },
     {
       "id": "main_task_group-02-01#92",
-      "name": "츠키무라 테마리에서 최종 시험에 합격하여 A 등급 이상을 {threshold}회 획득하자!"
+      "name": "츠키무라 테마리에서 최종 시험에 합격하여 A 등급 이상을 {threshold}회 획득하자"
     },
     {
       "id": "main_task_group-02-01#93",
-      "name": "후지타 코토네에서 최종 시험에 합격하여 A등급 이상을 {threshold}회 획득하자!"
+      "name": "후지타 코토네에서 최종 시험에 합격하여 평가 A 이상을 {threshold}회 획득하자"
     },
     {
       "id": "main_task_group-02-01#94",
-      "name": "스킬 카드 {threshold}종류를 획득하자!"
+      "name": "스킬 카드 {threshold}종류를 획득하자"
     },
     {
       "id": "main_task_group-02-01#95",
@@ -5087,15 +5087,15 @@
     },
     {
       "id": "main_task_group-02-01#96",
-      "name": "프로듀스 아이돌 {threshold}명의 특훈 단계를 6로 만들자!"
+      "name": "프로듀스 아이돌 {threshold}명의 특훈 단계를 6로 만들자"
     },
     {
       "id": "main_task_group-02-01#97",
-      "name": "하나미 사키에서 최종 시험에 합격하여 A 등급 이상을 {threshold}회 획득하자!"
+      "name": "하나미 사키에서 최종 시험에 합격하여 A 등급 이상을 {threshold}회 획득하자"
     },
     {
       "id": "main_task_group-02-01#98",
-      "name": "하나미 우메로 최종 시험에 합격하여 A 등급 이상을 {threshold}회 획득하자!"
+      "name": "하나미 우메로 최종 시험에 합격하여 A 등급 이상을 {threshold}회 획득하자"
     },
     {
       "id": "main_task_group-02-01#99",
@@ -5103,15 +5103,15 @@
     },
     {
       "id": "main_task_group-02-01#100",
-      "name": "아이돌 길에서 ★를 총 {threshold}개 이상 획득하자!"
+      "name": "아이돌 길에서 ★를 총 {threshold}개 이상 획득하자"
     },
     {
       "id": "main_task_group-03-01#1",
-      "name": "훈련의【기초 7】전력을 클리어"
+      "name": "훈련의 【기초 7】전력을 클리어"
     },
     {
       "id": "main_task_group-03-01#2",
-      "name": "훈련의【기초 8】강세를 클리어"
+      "name": "훈련의 【기초 8】강세를 클리어"
     },
     {
       "id": "main_task_group-03-01#3",
@@ -5123,35 +5123,35 @@
     },
     {
       "id": "main_task_group-03-01#5",
-      "name": "훈련의【응용 5】플랜：어노말리를 클리어하자"
+      "name": "훈련의 【응용 5】플랜：어노말리를 클리어하자"
     },
     {
       "id": "main_task_group-03-01#6",
-      "name": "프로듀스 아이돌 {threshold}명의 특훈 단계를 4로 만들자!"
+      "name": "프로듀스 아이돌 {threshold}명의 특훈 단계를 4로 만들자"
     },
     {
       "id": "main_task_group-03-01#7",
-      "name": "주오 세나의 친애도 Lv을 {threshold}하자"
+      "name": "주오 세나의 친애도 Lv을 {threshold}으로 올리자"
     },
     {
       "id": "main_task_group-03-01#8",
-      "name": "아이돌 길에서 ★를 총 {threshold}개 이상 획득하자!"
+      "name": "아이돌 길에서 ★를 총 {threshold}개 이상 획득하자"
     },
     {
       "id": "main_task_group-03-01#9",
-      "name": "스킬 카드 {threshold}종류를 획득하자!"
+      "name": "스킬 카드 {threshold}종류를 획득하자"
     },
     {
       "id": "main_task_group-03-01#10",
-      "name": "주오 세나의 친애도 Lv을 {threshold}하자"
+      "name": "주오 세나의 친애도 Lv을 {threshold}으로 올리자"
     },
     {
       "id": "main_task_group-03-01#11",
-      "name": "업적을 {threshold}개 획득하세요!"
+      "name": "업적을 {threshold}개 획득하자"
     },
     {
       "id": "main_task_group-03-01#12",
-      "name": "주오 세나의 친애도 Lv을 {threshold}하자"
+      "name": "주오 세나의 친애도 Lv을 {threshold}으로 올리자"
     },
     {
       "id": "main_task_group-03-01#13",
@@ -5163,15 +5163,15 @@
     },
     {
       "id": "main_task_group-03-01#15",
-      "name": "콘테스트에서 {threshold} 이상의 점수를 획득하세요!"
+      "name": "콘테스트에서 {threshold} 이상의 점수를 획득하자"
     },
     {
       "id": "main_task_group-03-01#16",
-      "name": "아이돌 길에서 ★를 총 {threshold}개 이상 획득하자!"
+      "name": "아이돌 길에서 ★를 총 {threshold}개 이상 획득하자"
     },
     {
       "id": "main_task_group-03-01#17",
-      "name": "서포트 카드 {threshold}장을 Lv40로 만들자!"
+      "name": "서포트 카드 {threshold}장을 Lv40로 만들자"
     },
     {
       "id": "main_task_group-03-01#18",
@@ -5179,11 +5179,11 @@
     },
     {
       "id": "main_task_group-03-01#19",
-      "name": "프로듀스 아이돌 {threshold}명의 특훈 단계를 6로 만들자!"
+      "name": "프로듀스 아이돌 {threshold}명의 특훈 단계를 6로 만들자"
     },
     {
       "id": "main_task_group-03-01#20",
-      "name": "콘테스트에서 유닛 종합력을 {threshold} 이상으로 만들자!"
+      "name": "콘테스트에서 유닛 종합력을 {threshold} 이상으로 만들자"
     },
     {
       "id": "main_task_group-03-01#21",
@@ -5191,19 +5191,19 @@
     },
     {
       "id": "main_task_group-03-01#22",
-      "name": "아이돌 길에서 ★를 총 {threshold}개 이상 획득하자!"
+      "name": "아이돌 길에서 ★를 총 {threshold}개 이상 획득하자"
     },
     {
       "id": "main_task_group-03-01#23",
-      "name": "업적을 {threshold}개 획득하세요!"
+      "name": "업적을 {threshold}개 획득하자"
     },
     {
       "id": "main_task_group-03-01#24",
-      "name": "프로듀스에서 매개변수 중 하나를 1500 이상으로 육성하자!"
+      "name": "프로듀스에서 파라미터 중 하나를 1500 이상으로 육성하자!"
     },
     {
       "id": "main_task_group-03-01#25",
-      "name": "콘테스트에서 {threshold} 이상의 점수를 획득하세요!"
+      "name": "콘테스트에서 {threshold} 이상의 점수를 획득하자"
     },
     {
       "id": "main_task_group-03-01#26",
@@ -5211,7 +5211,7 @@
     },
     {
       "id": "main_task_group-03-01#27",
-      "name": "스킬 카드 {threshold}종류를 획득하자!"
+      "name": "스킬 카드 {threshold}종류를 획득하자"
     },
     {
       "id": "main_task_group-03-01#28",
@@ -5223,35 +5223,35 @@
     },
     {
       "id": "main_task_group-03-01#30",
-      "name": "아이돌 길에서 ★를 총 {threshold}개 이상 획득하자!"
+      "name": "아이돌 길에서 ★를 총 {threshold}개 이상 획득하자"
     },
     {
       "id": "main_task_group-03-01#31",
-      "name": "콘테스트에서 유닛 종합력을 {threshold} 이상으로 만들자!"
+      "name": "콘테스트에서 유닛 종합력을 {threshold} 이상으로 만들자"
     },
     {
       "id": "main_task_group-03-01#32",
-      "name": "총 {threshold} 시간 동안 일하자"
+      "name": "업무를 총 {threshold} 시간 하자"
     },
     {
       "id": "main_task_group-03-01#33",
-      "name": "프로듀스 아이돌 {threshold}명의 특훈 단계를 6로 만들자!"
+      "name": "프로듀스 아이돌 {threshold}명의 특훈 단계를 6로 만들자"
     },
     {
       "id": "main_task_group-03-01#34",
-      "name": "프로듀스에 도전하여 A+ 이상의 등급을 획득하자!"
+      "name": "프로듀스에 도전하여 A+ 이상의 등급을 획득하자"
     },
     {
       "id": "main_task_group-03-01#35",
-      "name": "주오 세나의 팬 {threshold}명 확보하기"
+      "name": "주오 세나의 팬 {threshold}명 확보하자"
     },
     {
       "id": "main_task_group-03-01#36",
-      "name": "콘테스트에서 {threshold} 이상의 점수를 획득하세요!"
+      "name": "콘테스트에서 {threshold} 이상의 점수를 획득하자"
     },
     {
       "id": "main_task_group-03-01#37",
-      "name": "아이돌 길에서 ★를 총 {threshold}개 이상 획득하자!"
+      "name": "아이돌 길에서 ★를 총 {threshold}개 이상 획득하자"
     },
     {
       "id": "main_task_group-03-01#38",
@@ -5259,47 +5259,47 @@
     },
     {
       "id": "main_task_group-03-01#39",
-      "name": "하나미 사키의 친애도 Lv을 {threshold}하자"
+      "name": "하나미 사키의 친애도 Lv을 {threshold}으로 올리자"
     },
     {
       "id": "main_task_group-03-01#40",
-      "name": "츠키무라 테마리의 친애도 Lv을 {threshold}하자"
+      "name": "츠키무라 테마리의 친애도 Lv을 {threshold}으로 올리자"
     },
     {
       "id": "main_task_group-03-01#41",
-      "name": "후지타 코토네의 친애도 Lv을 {threshold}하자"
+      "name": "후지타 코토네의 친애도 Lv을 {threshold}으로 올리자"
     },
     {
       "id": "main_task_group-03-01#42",
-      "name": "아리무라 마오의 친애도 Lv를{threshold}하자"
+      "name": "아리무라 마오의 친애도 Lv을 {threshold}으로 올리자"
     },
     {
       "id": "main_task_group-03-01#43",
-      "name": "카츠라기 릴리야의 친애도 Lv을 {threshold}하자"
+      "name": "카츠라기 릴리야의 친애도 Lv을 {threshold}으로 올리자"
     },
     {
       "id": "main_task_group-03-01#44",
-      "name": "쿠라모토 치나의 친애도 Lv을 {threshold}하자"
+      "name": "쿠라모토 치나의 친애도 Lv을 {threshold}으로 올리자"
     },
     {
       "id": "main_task_group-03-01#45",
-      "name": "시운 스미카의 친애도 Lv을 {threshold}하자"
+      "name": "시운 스미카의 친애도 Lv을 {threshold}으로 올리자"
     },
     {
       "id": "main_task_group-03-01#46",
-      "name": "시노사와 히로의 친애도 Lv을 {threshold}하자"
+      "name": "시노사와 히로의 친애도 Lv을 {threshold}으로 올리자"
     },
     {
       "id": "main_task_group-03-01#47",
-      "name": "하나미 우메의 친애도 Lv을 {threshold}하자"
+      "name": "하나미 우메의 친애도 Lv을 {threshold}으로 올리자"
     },
     {
       "id": "main_task_group-03-01#48",
-      "name": "히메사키 리나미의 친애도 Lv을 {threshold}하자"
+      "name": "히메사키 리나미의 친애도 Lv을 {threshold}으로 올리자"
     },
     {
       "id": "main_task_group-03-01#49",
-      "name": "주오 세나의 친애도 Lv을 {threshold}하자"
+      "name": "주오 세나의 친애도 Lv을 {threshold}으로 올리자"
     },
     {
       "id": "main_task_group-03-01#50",

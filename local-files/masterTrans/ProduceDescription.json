@@ -23,7 +23,7 @@
     {
       "id": "Convert_ConditionThreshold_NotClear",
       "name": "수업 미 CLEAR",
-      "swapName": "스코어가  999以下"
+      "swapName": "스코어가 999 이하"
     },
     {
       "id": "Convert_ConditionThreshold_Value_100",
@@ -732,7 +732,7 @@
     },
     {
       "id": "Label_ProduceSkillPlanType2",
-      "name": "논리 전용】입니다.",
+      "name": "【로직 전용】",
       "swapName": ""
     },
     {

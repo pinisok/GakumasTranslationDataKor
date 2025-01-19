@@ -15,11 +15,11 @@
     },
     {
       "id": "Convert_ConditionThreshold",
-      "name": ""
+      "name": "레슨 CLEAR"
     },
     {
       "id": "Convert_ConditionThreshold_NotClear",
-      "name": ""
+      "name": "레슨 미 CLEAR"
     },
     {
       "id": "Convert_ConditionThreshold_Value_100",
@@ -39,7 +39,7 @@
     },
     {
       "id": "Convert_StepLessonType_DanceLesson",
-      "name": "【댄스 레슨・댄스 턴인 경우 】"
+      "name": "【댄스 레슨・댄스 턴일 경우 】"
     },
     {
       "id": "Convert_StepLessonType_SpLesson",
@@ -47,11 +47,11 @@
     },
     {
       "id": "Convert_StepLessonType_VisualLesson",
-      "name": "【비주얼 레슨-비주얼 턴일 경우 】"
+      "name": "【비주얼 레슨・비주얼 턴일 경우 】"
     },
     {
       "id": "Convert_StepLessonType_VocalLesson",
-      "name": "【보컬 레슨, 보컬 턴일 경우 】"
+      "name": "【보컬 레슨・보컬 턴일 경우 】"
     },
     {
       "id": "Description_LessonCountAdd_CountSection",
@@ -67,11 +67,11 @@
     },
     {
       "id": "Label_AggressiveAdd",
-      "name": ""
+      "name": "의욕 증가"
     },
     {
       "id": "Label_AggressiveReduce",
-      "name": ""
+      "name": "의욕 감소"
     },
     {
       "id": "Label_AuditionNpcEnhance",
@@ -79,107 +79,107 @@
     },
     {
       "id": "Label_BlockAdd",
-      "name": ""
+      "name": "원기 증가"
     },
     {
       "id": "Label_BlockReduce",
-      "name": ""
+      "name": "원기 감소"
     },
     {
       "id": "Label_CardDrawAdd",
-      "name": ""
+      "name": "드로우 매수 증가"
     },
     {
       "id": "Label_CardDrawReduce",
-      "name": ""
+      "name": "드로우 매수 감소"
     },
     {
       "id": "Label_CardStatusEnchantChange",
-      "name": ""
+      "name": "성장 효과 대체"
     },
     {
       "id": "Label_CostAdd",
-      "name": ""
+      "name": "비용 증가"
     },
     {
       "id": "Label_CostAggressiveAdd",
-      "name": ""
+      "name": "의욕 비용 증가"
     },
     {
       "id": "Label_CostAggressiveReduce",
-      "name": ""
+      "name": "의욕 비용 감소"
     },
     {
       "id": "Label_CostBuffAdd",
-      "name": ""
+      "name": "강화 상태 비용 증가"
     },
     {
       "id": "Label_CostBuffReduce",
-      "name": ""
+      "name": "강화 상태 비용 감소"
     },
     {
       "id": "Label_CostFullPowerPointAdd",
-      "name": ""
+      "name": "전력치 비용 증가"
     },
     {
       "id": "Label_CostFullPowerPointReduce",
-      "name": ""
+      "name": "전력치 비용 감소"
     },
     {
       "id": "Label_CostLessonBuffAdd",
-      "name": ""
+      "name": "집중 비용 증가"
     },
     {
       "id": "Label_CostLessonBuffReduce",
-      "name": ""
+      "name": "집중 비용 감소"
     },
     {
       "id": "Label_CostParameterBuffAdd",
-      "name": ""
+      "name": "호조 비용 증가"
     },
     {
       "id": "Label_CostParameterBuffReduce",
-      "name": ""
+      "name": "호조 비용 감소"
     },
     {
       "id": "Label_CostPenetrateAdd",
-      "name": ""
+      "name": "체력 소비 비용 증가"
     },
     {
       "id": "Label_CostPenetrateReduce",
-      "name": ""
+      "name": "체력 소비 비용 감소"
     },
     {
       "id": "Label_CostReduce",
-      "name": ""
+      "name": "비용 감소"
     },
     {
       "id": "Label_CostReviewAdd",
-      "name": ""
+      "name": "호인상 비용 증가"
     },
     {
       "id": "Label_CostReviewReduce",
-      "name": ""
+      "name": "호인상 비용 감소"
     },
     {
       "id": "Label_EffectAdd",
-      "name": ""
+      "name": "효과 추가"
     },
     {
       "id": "Label_EffectChange",
-      "name": ""
+      "name": "효과 대체"
     },
     {
       "id": "Label_EffectDelete",
-      "name": ""
+      "name": "효과 삭제"
     },
     {
       "id": "Label_ExamAddGrowEffect",
-      "name": ""
+      "name": "성장"
     },
     {
       "id": "Label_ExamAggressiveReduce",
-      "name": ""
+      "name": "의욕 감소"
     },
     {
       "id": "Label_ExamAntiDebuff",
@@ -195,7 +195,7 @@
     },
     {
       "id": "Label_ExamBlockAddDownRestriction",
-      "name": ""
+      "name": "불안 무효"
     },
     {
       "id": "Label_ExamBlockFix",
@@ -211,11 +211,11 @@
     },
     {
       "id": "Label_ExamCardDraw",
-      "name": "스킬 카드를 드로우"
+      "name": "스킬 카드 뽑기"
     },
     {
       "id": "Label_ExamCardDuplicate",
-      "name": ""
+      "name": "복제"
     },
     {
       "id": "Label_ExamCardPlayAggressive_Exam",
@@ -235,11 +235,11 @@
     },
     {
       "id": "Label_ExamCardStaminaConsumptionChange",
-      "name": ""
+      "name": "소비 체력 변화"
     },
     {
       "id": "Label_ExamCardStaminaConsumptionDownSpecify",
-      "name": ""
+      "name": "소비 체력 저하"
     },
     {
       "id": "Label_ExamCardUpgrade",
@@ -247,15 +247,15 @@
     },
     {
       "id": "Label_ExamConcentration_Exam",
-      "name": ""
+      "name": "강세"
     },
     {
       "id": "Label_ExamConcentration_Produce",
-      "name": ""
+      "name": "강세"
     },
     {
       "id": "Label_ExamDebuffRecover",
-      "name": ""
+      "name": "저하 상태 회복"
     },
     {
       "id": "Label_ExamEffectTimer",
@@ -271,31 +271,31 @@
     },
     {
       "id": "Label_ExamFullPowerPoint",
-      "name": ""
+      "name": "전력치"
     },
     {
       "id": "Label_ExamFullPowerPointReduce",
-      "name": ""
+      "name": "전력치 감소"
     },
     {
       "id": "Label_ExamGetCardUpgrade",
-      "name": ""
+      "name": "생성 강화"
     },
     {
       "id": "Label_ExamGimmickEnthusiastic_Exam",
-      "name": ""
+      "name": "열의"
     },
     {
       "id": "Label_ExamGimmickEnthusiastic_Produce",
-      "name": ""
+      "name": "열의"
     },
     {
       "id": "Label_ExamGimmickLessonDebuff_Exam",
-      "name": ""
+      "name": "긴장"
     },
     {
       "id": "Label_ExamGimmickLessonDebuff_Produce",
-      "name": ""
+      "name": "긴장"
     },
     {
       "id": "Label_ExamGimmickParameterDebuff",
@@ -303,7 +303,7 @@
     },
     {
       "id": "Label_ExamGimmickPlayCardLimit",
-      "name": ""
+      "name": "사용 불가"
     },
     {
       "id": "Label_ExamGimmickSleepy_Exam",
@@ -327,31 +327,31 @@
     },
     {
       "id": "Label_ExamGimmickTiredFix_Exam",
-      "name": ""
+      "name": "피로"
     },
     {
       "id": "Label_ExamGimmickTiredFix_Produce",
-      "name": ""
+      "name": "피로"
     },
     {
       "id": "Label_ExamHandGraveCountCardDraw",
-      "name": "손패를 새로 생성"
+      "name": "손패 바꾸기"
     },
     {
       "id": "Label_ExamHandHold",
-      "name": ""
+      "name": "패 넘기기"
     },
     {
       "id": "Label_ExamLesson",
-      "name": ""
+      "name": "파라미터"
     },
     {
       "id": "Label_ExamLessonBuffMultiple",
-      "name": ""
+      "name": "집중 효과 일시 증가"
     },
     {
       "id": "Label_ExamLessonBuffReduce",
-      "name": ""
+      "name": "집중 감소"
     },
     {
       "id": "Label_ExamLessonBuff_Exam",
@@ -363,15 +363,15 @@
     },
     {
       "id": "Label_ExamLessonChangeSpecifyLessThan",
-      "name": ""
+      "name": "파라미터 상승값 변경"
     },
     {
       "id": "Label_ExamLessonChangeSpecifyMoreThan",
-      "name": ""
+      "name": "멍 때리기"
     },
     {
       "id": "Label_ExamLessonFix",
-      "name": ""
+      "name": "고정 파라미터"
     },
     {
       "id": "Label_ExamLessonValueMultiple",
@@ -395,7 +395,7 @@
     },
     {
       "id": "Label_ExamParameterBuffReduce",
-      "name": ""
+      "name": "호조 감소"
     },
     {
       "id": "Label_ExamPlayableValueAdd_Exam",
@@ -407,19 +407,19 @@
     },
     {
       "id": "Label_ExamPlayableValueHold",
-      "name": ""
+      "name": "사용 횟수 이월"
     },
     {
       "id": "Label_ExamPreservation_Exam",
-      "name": ""
+      "name": "온존"
     },
     {
       "id": "Label_ExamPreservation_Produce",
-      "name": ""
+      "name": "온존"
     },
     {
       "id": "Label_ExamReviewReduce",
-      "name": ""
+      "name": "호인상 감소"
     },
     {
       "id": "Label_ExamReview_Exam",
@@ -431,11 +431,11 @@
     },
     {
       "id": "Label_ExamSearchPlayCardStaminaConsumptionChange",
-      "name": ""
+      "name": "소비 체력 변화"
     },
     {
       "id": "Label_ExamSearchPlayCardValueBuff",
-      "name": ""
+      "name": "카드 효과 증가"
     },
     {
       "id": "Label_ExamStaminaConsumptionAdd",
@@ -443,7 +443,7 @@
     },
     {
       "id": "Label_ExamStaminaConsumptionAddDown",
-      "name": ""
+      "name": "소비 체력 증가 효과 감소"
     },
     {
       "id": "Label_ExamStaminaConsumptionAddFix",
@@ -455,7 +455,7 @@
     },
     {
       "id": "Label_ExamStaminaConsumptionDownAdd",
-      "name": ""
+      "name": "소비 체력 감소 효과 증가"
     },
     {
       "id": "Label_ExamStaminaConsumptionDownFix",
@@ -467,7 +467,7 @@
     },
     {
       "id": "Label_ExamStaminaRecoverAdd",
-      "name": ""
+      "name": "체력 회복 효과 증가"
     },
     {
       "id": "Label_ExamStaminaRecoverFix",
@@ -475,23 +475,23 @@
     },
     {
       "id": "Label_ExamStaminaRecoverRestriction",
-      "name": ""
+      "name": "체력 회복 무효"
     },
     {
       "id": "Label_ExamStaminaReduceChange",
-      "name": ""
+      "name": "체력 소비 경감"
     },
     {
       "id": "Label_ExamStaminaReduceFix",
-      "name": "체력소비"
+      "name": "체력 소비"
     },
     {
       "id": "Label_ExamStaminaThresholdAddRestriction",
-      "name": ""
+      "name": "소비 체력 증가 무효"
     },
     {
       "id": "Label_ExamStanceReset",
-      "name": ""
+      "name": "지침 해제"
     },
     {
       "id": "Label_ExamStatusEnchant",
@@ -499,67 +499,67 @@
     },
     {
       "id": "Label_ExamUplifting_Exam",
-      "name": ""
+      "name": "고양"
     },
     {
       "id": "Label_ExamUplifting_Produce",
-      "name": ""
+      "name": "고양"
     },
     {
       "id": "Label_FullPowerPointAdd",
-      "name": ""
+      "name": "전력치 증가"
     },
     {
       "id": "Label_FullPowerPointReduce",
-      "name": ""
+      "name": "전력치 감소"
     },
     {
       "id": "Label_InitialAdd",
-      "name": ""
+      "name": "개시시 패 효과 부여"
     },
     {
       "id": "Label_LessonAdd",
-      "name": ""
+      "name": "파라미터 증가"
     },
     {
       "id": "Label_LessonBonus",
-      "name": ""
+      "name": "파라미터 보너스"
     },
     {
       "id": "Label_LessonBuffAdd",
-      "name": ""
+      "name": "집중 증가"
     },
     {
       "id": "Label_LessonBuffReduce",
-      "name": ""
+      "name": "집중 감소"
     },
     {
       "id": "Label_LessonCountAdd",
-      "name": ""
+      "name": "파라미터 상승 횟수 증가"
     },
     {
       "id": "Label_LessonCountReduce",
-      "name": ""
+      "name": "파라미터 상승 횟수 감소"
     },
     {
       "id": "Label_LessonDependBlockAdd",
-      "name": ""
+      "name": "원기 당 파라미터 배율 증가"
     },
     {
       "id": "Label_LessonDependExamCardPlayAggressiveAdd",
-      "name": ""
+      "name": "의욕 당 파라미터 배율 증가"
     },
     {
       "id": "Label_LessonDependExamReviewAdd",
-      "name": ""
+      "name": "호인상 당 파라미터 배율 증가"
     },
     {
       "id": "Label_LessonReduce",
-      "name": ""
+      "name": "파라미터 감소"
     },
     {
       "id": "Label_LessonSupport",
-      "name": ""
+      "name": "임시 강화"
     },
     {
       "id": "Label_MentalSkillCard",
@@ -567,7 +567,7 @@
     },
     {
       "id": "Label_MoveEffectTrigger",
-      "name": ""
+      "name": "[이동 효과]"
     },
     {
       "id": "Label_NoDeckDuplication",
@@ -575,31 +575,31 @@
     },
     {
       "id": "Label_ParameterBuffMultiplePerTurnAdd",
-      "name": ""
+      "name": "절호조 증가"
     },
     {
       "id": "Label_ParameterBuffMultiplePerTurnReduce",
-      "name": ""
+      "name": "절호조 감소"
     },
     {
       "id": "Label_ParameterBuffTurnAdd",
-      "name": ""
+      "name": "호조 증가"
     },
     {
       "id": "Label_ParameterBuffTurnReduce",
-      "name": ""
+      "name": "호조 감소"
     },
     {
       "id": "Label_PlayEffectTriggerChange",
-      "name": ""
+      "name": "효과 발동 조건 대체"
     },
     {
       "id": "Label_PlayMovePositionTypeChange",
-      "name": ""
+      "name": "사용 후 이동처 변경"
     },
     {
       "id": "Label_PlayTriggerChange",
-      "name": ""
+      "name": "사용 가능 조건을 대체"
     },
     {
       "id": "Label_ProduceCardChange",
@@ -611,15 +611,15 @@
     },
     {
       "id": "Label_ProduceCardDuplicate",
-      "name": ""
+      "name": "복사"
     },
     {
       "id": "Label_ProduceCardExclude",
-      "name": ""
+      "name": "스킬 카드 제거"
     },
     {
       "id": "Label_ProduceCardGrowEffect",
-      "name": ""
+      "name": "[성장 보조]"
     },
     {
       "id": "Label_ProduceCardMovePositionType_Lost",
@@ -627,19 +627,19 @@
     },
     {
       "id": "Label_ProduceCardPositionType_DeckFirst",
-      "name": ""
+      "name": "덱 위"
     },
     {
       "id": "Label_ProduceCardPositionType_DeckLast",
-      "name": ""
+      "name": "덱 아래"
     },
     {
       "id": "Label_ProduceCardPositionType_DeckRandom",
-      "name": ""
+      "name": "덱의 무작위 위치"
     },
     {
       "id": "Label_ProduceCardPositionType_Grave",
-      "name": ""
+      "name": "폐쇄"
     },
     {
       "id": "Label_ProduceCardPositionType_Hand",
@@ -647,11 +647,11 @@
     },
     {
       "id": "Label_ProduceCardPositionType_Hold",
-      "name": ""
+      "name": "보류"
     },
     {
       "id": "Label_ProduceCardPositionType_Lost",
-      "name": ""
+      "name": "제외"
     },
     {
       "id": "Label_ProduceCardUpgrade",
@@ -671,7 +671,7 @@
     },
     {
       "id": "Label_ProducePlanType3",
-      "name": ""
+      "name": "어노말리"
     },
     {
       "id": "Label_ProduceSkillPlanType1",
@@ -679,15 +679,15 @@
     },
     {
       "id": "Label_ProduceSkillPlanType2",
-      "name": "논리 전용】입니다."
+      "name": "【로직 전용】"
     },
     {
       "id": "Label_ProduceSkillPlanType3",
-      "name": ""
+      "name": "【어노말리 전용】"
     },
     {
       "id": "Label_ProduceStepType_EventSchool",
-      "name": ""
+      "name": "학원 활동"
     },
     {
       "id": "Label_ProduceStepType_Present",
@@ -695,39 +695,39 @@
     },
     {
       "id": "Label_ReviewAdd",
-      "name": ""
+      "name": "호인상 증가"
     },
     {
       "id": "Label_ReviewReduce",
-      "name": ""
+      "name": "호인상 감소"
     },
     {
       "id": "Label_ShopProduceCardPriceDiscountMultiple",
-      "name": ""
+      "name": "상담 스킬 카드 할인"
     },
     {
       "id": "Label_StaminaConsumptionAddTurnAdd",
-      "name": ""
+      "name": "소비 체력 증가 감소"
     },
     {
       "id": "Label_StaminaConsumptionAddTurnReduce",
-      "name": ""
+      "name": "소비 체력 증가 증가"
     },
     {
       "id": "Label_StaminaConsumptionDownTurnAdd",
-      "name": ""
+      "name": "소비 체력 감소 증가"
     },
     {
       "id": "Label_StaminaConsumptionDownTurnReduce",
-      "name": ""
+      "name": "소비 체력 감소 감소"
     },
     {
       "id": "Label_Stance",
-      "name": ""
+      "name": "지침"
     },
     {
       "id": "Label_StanceLock",
-      "name": ""
+      "name": "지침 고정"
     },
     {
       "id": "Label_TroubleSkillCard",
