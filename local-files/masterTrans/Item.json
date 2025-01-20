@@ -7,7 +7,7 @@
   "data": [
     {
       "id": "item-coin-box-gasha-event-001",
-      "name": "아자시",
+      "name": "고마워",
       "description": "이벤트 가챠에서 사용하는 아이템",
       "acquisitionRouteDescription": "프로듀스 등"
     },
@@ -31,19 +31,19 @@
     },
     {
       "id": "item-common-idol_card-piece-r",
-      "name": "R 아이돌 조각",
+      "name": "R 아이돌 피스",
       "description": "R 프로듀스 아이돌의 재능 개화에 사용할 수 있는 아이템",
       "acquisitionRouteDescription": "교환소 등"
     },
     {
       "id": "item-common-idol_card-piece-sr",
-      "name": "SR 아이돌 조각",
+      "name": "SR 아이돌 피스",
       "description": "SR 프로듀스 아이돌의 재능 개화에 사용할 수 있는 아이템",
       "acquisitionRouteDescription": "교환소 등"
     },
     {
       "id": "item-common-idol_card-piece-ssr",
-      "name": "SSR 아이돌 조각",
+      "name": "SSR 아이돌 피스",
       "description": "SSR 프로듀스 아이돌의 재능 개화에 사용할 수 있는 아이템",
       "acquisitionRouteDescription": "교환소 등"
     },
@@ -630,6 +630,12 @@
       "acquisitionRouteDescription": "가챠 등"
     },
     {
+      "id": "item-piece-idol_kllj-3-006",
+      "name": "[Campus mode!!]카츠라기 릴리야의 피스",
+      "description": "프로듀스 아이돌의 재능개화 및 해방에 사용하는 아이템",
+      "acquisitionRouteDescription": "가챠 등"
+    },
+    {
       "id": "item-piece-idol_shro-1-000",
       "name": "[학원생활] 시노사와 히로의 피스",
       "description": "프로듀스 아이돌의 재능개화 및 해방에 사용하는 아이템",
@@ -704,6 +710,12 @@
     {
       "id": "item-piece-idol_ssmk-3-002",
       "name": "[숨겨진 나]시운 스미카의 피스",
+      "description": "프로듀스 아이돌의 재능개화 및 해방에 사용하는 아이템",
+      "acquisitionRouteDescription": "가챠 등"
+    },
+    {
+      "id": "item-piece-idol_ssmk-3-007",
+      "name": "[Campus mode!!]시운 스미카의 피스",
       "description": "프로듀스 아이돌의 재능개화 및 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },

@@ -34,10 +34,6 @@
       "description": "교환소"
     },
     {
-      "id": "card.detail.enhance.invalid.point.exp.short",
-      "description": "トレーニングPtが足りません"
-    },
-    {
       "id": "card.idol_card.high_score",
       "description": "강화 월간 대상"
     },
@@ -84,6 +80,10 @@
     {
       "id": "common.live_battle_stage.mid.name",
       "description": "MID 스테이지 적정"
+    },
+    {
+      "id": "common.network.error.purchase_limit.description",
+      "description": ""
     },
     {
       "id": "common.user_exp.description",

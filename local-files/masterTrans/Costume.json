@@ -731,6 +731,16 @@
       "description": "【백선】'24년 여름 카츠라기 릴리야 입수"
     },
     {
+      "id": "kllj-cstm-0053",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】카츠라기 릴리야를 입수"
+    },
+    {
+      "id": "kllj-cstm-0054",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】카츠라기 릴리야의 재능 개화 4단계 달성"
+    },
+    {
       "id": "kllj-cstm-0065",
       "name": "가장광소곡",
       "description": "【백선】'24할로윈 카츠라기 릴리야를 입수"
@@ -911,6 +921,16 @@
       "description": "【너와 세미블루】 시운 스미카의 재능 개화 4단계 달성"
     },
     {
+      "id": "ssmk-cstm-0053",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】시운 스미카를 입수"
+    },
+    {
+      "id": "ssmk-cstm-0054",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】시운 스미카의 재능 개화 4단계 달성"
+    },
+    {
       "id": "ssmk-cstm-0063",
       "name": "관국",
       "description": "【Tame-Lie-One-Step】 '24제 시운 스미카 획득"
@@ -987,12 +1007,12 @@
     },
     {
       "id": "ttmr-cstm-0025",
-      "name": "Ivy",
+      "name": "아이비",
       "description": "【아이비】 츠키무라 테마리 입수"
     },
     {
       "id": "ttmr-cstm-0026",
-      "name": "Ivy",
+      "name": "아이비",
       "description": "【아이비】게츠무라 테마리의 재능 개화 4단계 달성 가능"
     },
     {

@@ -2982,6 +2982,18 @@
       "name": "【White Night! White Wish!】카츠라기 릴리야의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
+      "id": "achieve-i_card-kllj-3-006-01",
+      "name": "【Campus mode!!】카츠라기 릴리야의 프로듀스로 최종 시험에 합격"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-006-02",
+      "name": "【Campus mode!!】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-006-03",
+      "name": "【Campus mode!!】카츠라기 릴리야의 프로듀스로 평가 A+이상을 {threshold}회 획득"
+    },
+    {
       "id": "achieve-i_card-shro-3-001-01",
       "name": "【콘트라스트】시노사와 히로의 프로듀스로 최종 시험에 합격"
     },
@@ -3040,6 +3052,18 @@
     {
       "id": "achieve-i_card-ssmk-3-002-03",
       "name": "【숨겨진 나】시운 스미카의 프로듀스에서 평가 A+이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-007-01",
+      "name": "【Campus mode!!】시운 스미카의 프로듀스로 최종 시험에 합격"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-007-02",
+      "name": "【Campus mode!!】시운 스미카의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-007-03",
+      "name": "【Campus mode!!】시운 스미카의 프로듀스에서 평가 A+이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-ttmr-3-001-01",
