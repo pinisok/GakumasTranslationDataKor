@@ -3067,6 +3067,66 @@
       "title": "프로듀스④"
     },
     {
+      "id": "voice_group-cidol-kllj-3-006_home",
+      "voiceAssetId": "sud_vo_system_cidol-kllj-3-006_home_cmmn-01",
+      "title": "메인 로비①"
+    },
+    {
+      "id": "voice_group-cidol-kllj-3-006_home",
+      "voiceAssetId": "sud_vo_system_cidol-kllj-3-006_home_cmmn-02",
+      "title": "메인 로비②"
+    },
+    {
+      "id": "voice_group-cidol-kllj-3-006_home",
+      "voiceAssetId": "sud_vo_system_cidol-kllj-3-006_home_cmmn-03",
+      "title": "메인 로비③"
+    },
+    {
+      "id": "voice_group-cidol-kllj-3-006-detail",
+      "voiceAssetId": "sud_vo_system_cidol-kllj-3-006_home_cmmn-01",
+      "title": "메인 로비①"
+    },
+    {
+      "id": "voice_group-cidol-kllj-3-006-detail",
+      "voiceAssetId": "sud_vo_system_cidol-kllj-3-006_home_cmmn-02",
+      "title": "메인 로비②"
+    },
+    {
+      "id": "voice_group-cidol-kllj-3-006-detail",
+      "voiceAssetId": "sud_vo_system_cidol-kllj-3-006_home_cmmn-03",
+      "title": "메인 로비③"
+    },
+    {
+      "id": "voice_group-cidol-kllj-3-006-detail",
+      "voiceAssetId": "sud_vo_system_kllj-cstm-0053_01",
+      "title": "옷 갈아입기①"
+    },
+    {
+      "id": "voice_group-cidol-kllj-3-006-detail",
+      "voiceAssetId": "sud_vo_system_kllj-cstm-0053_02",
+      "title": "옷 갈아입기②"
+    },
+    {
+      "id": "voice_group-cidol-kllj-3-006-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-kllj-3-006_produce_schedule-01",
+      "title": "프로듀스①"
+    },
+    {
+      "id": "voice_group-cidol-kllj-3-006-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-kllj-3-006_produce_schedule-02",
+      "title": "프로듀스②"
+    },
+    {
+      "id": "voice_group-cidol-kllj-3-006-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-kllj-3-006_produce_schedule-03",
+      "title": "프로듀스③"
+    },
+    {
+      "id": "voice_group-cidol-kllj-3-006-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-kllj-3-006_produce_schedule-04",
+      "title": "프로듀스④"
+    },
+    {
       "id": "voice_group-cidol-shro-1-000-detail",
       "voiceAssetId": "sud_vo_system_shro-casl-0000_01",
       "title": "옷 갈아입기①"
@@ -3785,6 +3845,66 @@
       "id": "voice_group-cidol-ssmk-3-006-home",
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-006_home_cmmn-03",
       "title": "메인 로비③"
+    },
+    {
+      "id": "voice_group-cidol-ssmk-3-007_home",
+      "voiceAssetId": "sud_vo_system_cidol-ssmk-3-007_home_cmmn-01",
+      "title": "메인 로비①"
+    },
+    {
+      "id": "voice_group-cidol-ssmk-3-007_home",
+      "voiceAssetId": "sud_vo_system_cidol-ssmk-3-007_home_cmmn-02",
+      "title": "메인 로비②"
+    },
+    {
+      "id": "voice_group-cidol-ssmk-3-007_home",
+      "voiceAssetId": "sud_vo_system_cidol-ssmk-3-007_home_cmmn-03",
+      "title": "메인 로비③"
+    },
+    {
+      "id": "voice_group-cidol-ssmk-3-007-detail",
+      "voiceAssetId": "sud_vo_system_cidol-ssmk-3-007_home_cmmn-01",
+      "title": "메인 로비①"
+    },
+    {
+      "id": "voice_group-cidol-ssmk-3-007-detail",
+      "voiceAssetId": "sud_vo_system_cidol-ssmk-3-007_home_cmmn-02",
+      "title": "메인 로비②"
+    },
+    {
+      "id": "voice_group-cidol-ssmk-3-007-detail",
+      "voiceAssetId": "sud_vo_system_cidol-ssmk-3-007_home_cmmn-03",
+      "title": "메인 로비③"
+    },
+    {
+      "id": "voice_group-cidol-ssmk-3-007-detail",
+      "voiceAssetId": "sud_vo_system_ssmk-cstm-0053_01",
+      "title": "옷 갈아입기①"
+    },
+    {
+      "id": "voice_group-cidol-ssmk-3-007-detail",
+      "voiceAssetId": "sud_vo_system_ssmk-cstm-0053_02",
+      "title": "옷 갈아입기②"
+    },
+    {
+      "id": "voice_group-cidol-ssmk-3-007-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-ssmk-3-007_produce_schedule-01",
+      "title": "프로듀스①"
+    },
+    {
+      "id": "voice_group-cidol-ssmk-3-007-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-ssmk-3-007_produce_schedule-02",
+      "title": "프로듀스②"
+    },
+    {
+      "id": "voice_group-cidol-ssmk-3-007-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-ssmk-3-007_produce_schedule-03",
+      "title": "프로듀스③"
+    },
+    {
+      "id": "voice_group-cidol-ssmk-3-007-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-ssmk-3-007_produce_schedule-04",
+      "title": "프로듀스④"
     },
     {
       "id": "voice_group-cidol-ttmr-1-000-detail",
@@ -5077,6 +5197,16 @@
       "title": "옷 갈아입기②"
     },
     {
+      "id": "voice_group-kllj-cstm-0053-cmmn",
+      "voiceAssetId": "sud_vo_system_kllj-cstm-0053_01",
+      "title": "Campus mode!!"
+    },
+    {
+      "id": "voice_group-kllj-cstm-0053-cmmn",
+      "voiceAssetId": "sud_vo_system_kllj-cstm-0053_02",
+      "title": "Campus mode!!"
+    },
+    {
       "id": "voice_group-kllj-cstm-0065-cmmn",
       "voiceAssetId": "sud_vo_system_kllj-cstm-0065_01",
       "title": "옷 갈아입기①"
@@ -5347,6 +5477,16 @@
       "title": "옷 갈아입기②"
     },
     {
+      "id": "voice_group-ssmk-cstm-0053-cmmn",
+      "voiceAssetId": "sud_vo_system_ssmk-cstm-0053_01",
+      "title": "Campus mode!!"
+    },
+    {
+      "id": "voice_group-ssmk-cstm-0053-cmmn",
+      "voiceAssetId": "sud_vo_system_ssmk-cstm-0053_02",
+      "title": "Campus mode!!"
+    },
+    {
       "id": "voice_group-ssmk-cstm-0063-cmmn",
       "voiceAssetId": "sud_vo_system_ssmk-cstm-0063_01",
       "title": "옷 갈아입기①"
@@ -5479,12 +5619,12 @@
     {
       "id": "voice_group-ttmr-cstm-0025-cmmn",
       "voiceAssetId": "sud_vo_system_ttmr-cstm-0025_01",
-      "title": "Ivy"
+      "title": "아이비"
     },
     {
       "id": "voice_group-ttmr-cstm-0025-cmmn",
       "voiceAssetId": "sud_vo_system_ttmr-cstm-0025_02",
-      "title": "Ivy"
+      "title": "아이비"
     },
     {
       "id": "voice_group-ttmr-cstm-0047-cmmn",
