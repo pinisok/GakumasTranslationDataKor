@@ -51,7 +51,7 @@
     },
     {
       "characterId": "amao",
-      "type": 5,
+      "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
       "title": "아리무라 마오",
       "message": ""
@@ -142,7 +142,7 @@
     },
     {
       "characterId": "fktn",
-      "type": 5,
+      "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
       "title": "후지타 코토네",
       "message": ""
@@ -233,7 +233,7 @@
     },
     {
       "characterId": "hrnm",
-      "type": 5,
+      "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
       "title": "히메사키 리나미",
       "message": ""
@@ -324,7 +324,7 @@
     },
     {
       "characterId": "hski",
-      "type": 5,
+      "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
       "title": "하나미 사키",
       "message": ""
@@ -415,7 +415,7 @@
     },
     {
       "characterId": "hume",
-      "type": 5,
+      "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
       "title": "하나미 우메",
       "message": ""
@@ -506,7 +506,7 @@
     },
     {
       "characterId": "jsna",
-      "type": 5,
+      "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
       "title": "주오 세나",
       "message": ""
@@ -597,7 +597,7 @@
     },
     {
       "characterId": "kcna",
-      "type": 5,
+      "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
       "title": "쿠라모토 치나",
       "message": ""
@@ -688,7 +688,7 @@
     },
     {
       "characterId": "kllj",
-      "type": 5,
+      "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
       "title": "카츠라기 릴리야",
       "message": ""
@@ -779,7 +779,7 @@
     },
     {
       "characterId": "shro",
-      "type": 5,
+      "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
       "title": "시노사와 히로",
       "message": ""
@@ -870,7 +870,7 @@
     },
     {
       "characterId": "ssmk",
-      "type": 5,
+      "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
       "title": "시운 스미카",
       "message": ""
@@ -961,7 +961,7 @@
     },
     {
       "characterId": "ttmr",
-      "type": 5,
+      "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
       "title": "츠키무라 테마리",
       "message": ""

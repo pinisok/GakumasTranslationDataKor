@@ -98,26 +98,6 @@
       "description": "FAQ 페이지를 여시겠습니까? \\n※웹 브라우저가 실행됩니다."
     },
     {
-      "id": "home.gasha.detail.idol.extra_text.costume_body",
-      "description": "의상・"
-    },
-    {
-      "id": "home.gasha.detail.idol.extra_text.costume_head",
-      "description": "헤어 스타일 ·"
-    },
-    {
-      "id": "home.gasha.detail.idol.extra_text.music",
-      "description": ""
-    },
-    {
-      "id": "home.gasha.detail.idol.extra_text.separator",
-      "description": ""
-    },
-    {
-      "id": "home.gasha.detail.idol.extra_text.suffix",
-      "description": "음악 포함!"
-    },
-    {
       "id": "home.gasha.draw_jewel_confirm_sheet.description.multiple_button",
       "description": "{0}을 <color=#u:Negative>{1:N0}</color>개 소모하여\\n{2}을 뺍니까?"
     },

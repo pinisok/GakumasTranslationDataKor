@@ -166,6 +166,11 @@
       "description": "프리미엄 미션 패스 2024년 11월에 획득 가능"
     },
     {
+      "id": "costume_head_fktn-hair-0006",
+      "name": "はつみ☆アクセサリー",
+      "description": "プレミアムミッションパス 2025年2月で獲得"
+    },
+    {
       "id": "costume_head_hmsz-casl-0000",
       "name": "평소 헤어스타일",
       "description": "처음부터 소지"
@@ -339,6 +344,11 @@
       "id": "costume_head_hski-hair-0004",
       "name": "고양이 귀",
       "description": "프리미엄 미션 패스 2024년 11월에 획득 가능"
+    },
+    {
+      "id": "costume_head_hski-hair-0006",
+      "name": "はつみ☆アクセサリー",
+      "description": "プレミアムミッションパス 2025年2月で獲得"
     },
     {
       "id": "costume_head_hski-schl-0000",
@@ -784,6 +794,11 @@
       "id": "costume_head_ttmr-hair-0004",
       "name": "고양이 귀",
       "description": "프리미엄 미션 패스 2024년 11월에 획득 가능"
+    },
+    {
+      "id": "costume_head_ttmr-hair-0006",
+      "name": "はつみ☆アクセサリー",
+      "description": "プレミアムミッションパス 2025年2月で獲得"
     }
   ]
 }

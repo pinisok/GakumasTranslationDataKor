@@ -76,6 +76,21 @@
       "firstName": "스미카"
     },
     {
+      "id": "trda",
+      "lastName": "ダンス",
+      "firstName": "トレーナー"
+    },
+    {
+      "id": "trvi",
+      "lastName": "ビジュアル",
+      "firstName": "トレーナー"
+    },
+    {
+      "id": "trvo",
+      "lastName": "ボーカル",
+      "firstName": "トレーナー"
+    },
+    {
       "id": "ttmr",
       "lastName": "츠키무라",
       "firstName": "테마리"
