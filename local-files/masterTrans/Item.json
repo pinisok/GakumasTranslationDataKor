@@ -259,7 +259,7 @@
     },
     {
       "id": "item-medal-story-event-002",
-      "name": "木枯ニ散蓋",
+      "name": "찬바람에 흩날리는",
       "description": "이벤트 교환소에서 다양한 보상과 교환하는 아이템",
       "acquisitionRouteDescription": "프로듀스 등"
     },
@@ -813,7 +813,7 @@
       "id": "item-support_card-exchange-1",
       "name": "서포트의 증표",
       "description": "교환소에서 사용하는 아이템",
-      "acquisitionRouteDescription": "지원 변환 등"
+      "acquisitionRouteDescription": "서포트 변환 등"
     }
   ]
 }

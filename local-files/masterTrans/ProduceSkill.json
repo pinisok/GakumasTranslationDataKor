@@ -1231,7 +1231,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "1枚を"
+          "text": " 1장을 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1241,7 +1241,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-1_031",
-          "text": "えいえいおー"
+          "text": "에이에이오ㅡ"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1251,7 +1251,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "に"
+          "text": "이(가) "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -1307,7 +1307,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "1枚を"
+          "text": " 1장을 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1317,7 +1317,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-act-1_040",
-          "text": "スターライト"
+          "text": "스타라이트"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1327,7 +1327,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "に"
+          "text": "이(가) "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -1383,7 +1383,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "1枚を"
+          "text": " 1장을 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1393,7 +1393,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-1_032",
-          "text": "思い出し笑い"
+          "text": "떠올려 짓는 웃음"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1403,7 +1403,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "に"
+          "text": "이(가) "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -1459,7 +1459,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "1枚を"
+          "text": " 1장을 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1469,7 +1469,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-men-1_049",
-          "text": "嬉しい誤算"
+          "text": "기쁜 오산"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1479,7 +1479,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "に"
+          "text": "이(가) "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -1535,7 +1535,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "1枚を"
+          "text": " 1장을 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1545,7 +1545,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_002",
-          "text": "軽い足取り"
+          "text": "가벼운 발걸음"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1555,7 +1555,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "に"
+          "text": "이(가) "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -1611,7 +1611,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "1枚を"
+          "text": " 1장을 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1621,7 +1621,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-act-1_038",
-          "text": "ジャストアピール"
+          "text": "저스트 어필"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1631,7 +1631,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "に"
+          "text": "이(가) "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -1687,7 +1687,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "1枚を"
+          "text": " 1장을 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1697,7 +1697,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_001",
-          "text": "ファンサ"
+          "text": "팬서비스"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1707,7 +1707,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "に"
+          "text": "이(가) "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -1763,7 +1763,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "1枚を"
+          "text": " 1장을 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1773,7 +1773,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-act-1_028",
-          "text": "ゆるふわおしゃべり"
+          "text": "느긋한 수다"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1783,7 +1783,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "に"
+          "text": "이(가) "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -1839,7 +1839,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "1枚を"
+          "text": " 1장을 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1849,7 +1849,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_022",
-          "text": "準備運動"
+          "text": "준비운동"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1859,7 +1859,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "に"
+          "text": "이(가) "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -1915,7 +1915,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "1枚を"
+          "text": " 1장을 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1925,7 +1925,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-1_030",
-          "text": "リスタート"
+          "text": "리스타트"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1935,7 +1935,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "に"
+          "text": "이(가) "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -1991,7 +1991,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "1枚を"
+          "text": " 1장을 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -2001,7 +2001,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_023",
-          "text": "勢い任せ"
+          "text": "기세에 맡겨서"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2011,7 +2011,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "に"
+          "text": "이(가) "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -26699,7 +26699,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "スキルカード獲得時、ボーカル上昇+"
+          "text": "스킬 카드 획득시, 보컬 상승 +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -26725,7 +26725,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "スキルカード獲得時、ボーカル上昇+"
+          "text": "스킬 카드 획득시, 보컬 상승 +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",

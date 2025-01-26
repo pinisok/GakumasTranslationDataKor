@@ -65936,7 +65936,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "pitem_00-2-080-0",
-          "text": "トレーナーの優しさ"
+          "text": "트레이너의 친절"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -65986,7 +65986,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "pitem_00-2-081-0",
-          "text": "体ほぐしローラー"
+          "text": "신체 마사지 롤러"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -66036,7 +66036,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "pitem_00-2-082-0",
-          "text": "うるおいのどケア"
+          "text": "촉촉한 목 케어"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",

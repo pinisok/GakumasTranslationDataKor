@@ -106,7 +106,7 @@
     {
       "id": "Convert_StepLessonType_VocalLesson",
       "produceDescriptions": [],
-      "name": "【보컬 레슨・보컬 턴일 경우 】"
+      "name": "【보컬 레슨・보컬 턴인 경우 】"
     },
     {
       "id": "Description_ProduceCardIsInitial",
@@ -382,7 +382,7 @@
           "text": "코스트에 영향을 미치지 않음"
         }
       ],
-      "name": "코스트 증가"
+      "name": "비용 증가"
     },
     {
       "id": "Label_CostAggressiveAdd",
@@ -810,7 +810,7 @@
           "text": "코스트에 영향을 미치지 않음"
         }
       ],
-      "name": "코스트 감소"
+      "name": "비용 감소"
     },
     {
       "id": "Label_CostReviewAdd",
@@ -1997,7 +1997,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "로 변경"
+          "text": "로 변경 "
         }
       ],
       "name": "전력치"
@@ -4566,7 +4566,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "파라미터 증가"
+          "text": "파라미터 값 증가"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4599,7 +4599,7 @@
           "text": "상승 효과가 없는 스킬 카드에는 영향을 미치지 않음"
         }
       ],
-      "name": "파라미터 증가"
+      "name": "파라미터 값 증가"
     },
     {
       "id": "Label_LessonBonus",
@@ -5035,7 +5035,7 @@
           "text": "스킬 카드를 다른 스킬 카드로 바꾸고, 프로듀스 종료까지 덱에 추가 (강화 단계를 계승)"
         }
       ],
-      "name": "변경"
+      "name": "체인지"
     },
     {
       "id": "Label_ProduceCardDelete",

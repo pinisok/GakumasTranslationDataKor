@@ -951,7 +951,7 @@
     },
     {
       "id": "mission-highscore-event-004-mission_12",
-      "name": "有村 麻央のボーカルを1000以上に育成してプロデュースを完了"
+      "name": "아리무라 마오의 보컬을 1000 이상으로 육성하여 프로듀스 완료"
     },
     {
       "id": "mission-highscore-event-004-mission_13",
@@ -975,7 +975,7 @@
     },
     {
       "id": "mission-highscore-event-004-mission_22",
-      "name": "十王 星南のビジュアルを1000以上に育成してプロデュースを完了"
+      "name": "주오 세나의 비주얼를 1000 이상으로 육성하여 프로듀스 완료"
     },
     {
       "id": "mission-highscore-event-004-mission_23",
@@ -1023,7 +1023,7 @@
     },
     {
       "id": "mission-highscore-event-004-mission_42",
-      "name": "有村 麻央または十王 星南のプロデュースで最終試験に{threshold}回合格しよう"
+      "name": "아리무라 마오 또는 주오 세나의 프로듀스로 최종 시험에 {threshold}번 합격하자"
     },
     {
       "id": "mission-highscore-event-004-mission_43",
@@ -1047,7 +1047,7 @@
     },
     {
       "id": "mission-highscore-event-004-mission_52",
-      "name": "有村 麻央または十王 星南のプロデュースで最終試験に{threshold}回合格しよう"
+      "name": "아리무라 마오 또는 주오 세나의 프로듀스로 최종 시험에 {threshold}번 합격하자"
     },
     {
       "id": "mission-highscore-event-004-mission_53",
@@ -1239,7 +1239,7 @@
     },
     {
       "id": "mission-main-story-event-002-mission_32",
-      "name": "花海 佑芽의 팬 {threshold}명 확보하자"
+      "name": "하나미 우메의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-002-mission_33",
@@ -1335,7 +1335,7 @@
     },
     {
       "id": "mission-main-story-event-003-mission_22",
-      "name": "花海 佑芽의 팬 {threshold}명 확보하자"
+      "name": "하나미 우메의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-003-mission_23",
@@ -1575,7 +1575,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_22",
-      "name": "花海 佑芽의 팬 {threshold}명 확보하자"
+      "name": "하나미 우메의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-005-mission_23",
@@ -3099,7 +3099,7 @@
     },
     {
       "id": "achieve-i_card-kllj-3-005-03",
-      "name": "【White Night! White Wish!】葛城 リーリヤのプロデュースで評価A+以上を{threshold}回獲得"
+      "name": "【White Night! White Wish!】카츠라기 릴리야의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-kllj-3-006-01",
