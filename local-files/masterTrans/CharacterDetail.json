@@ -77,7 +77,7 @@
       "characterId": "amao",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "격투기, 손 끝이 야무짐"
+      "content": "격투기, 손재주가 좋음"
     },
     {
       "characterId": "amao",
@@ -167,7 +167,7 @@
       "characterId": "fktn",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "돈 되는 일"
+      "content": "돈을 버는 것"
     },
     {
       "characterId": "fktn",
@@ -569,7 +569,7 @@
       "characterId": "kcna",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "기운찬 인사, 동물들과 친해요"
+      "content": "기운찬 인사, 동물들이 따르는 점"
     },
     {
       "characterId": "kcna",

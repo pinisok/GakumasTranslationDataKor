@@ -91,8 +91,8 @@
     },
     {
       "id": "item-gashaticket-1",
-      "name": "플라티나 가챠 티켓",
-      "description": "플라티나 가챠에 사용하는 티켓",
+      "name": "플래티넘 가챠 티켓",
+      "description": "플래티넘 가챠에 사용하는 티켓",
       "acquisitionRouteDescription": ""
     },
     {
@@ -104,7 +104,7 @@
     {
       "id": "item-gashaticket-ssr-fix_1",
       "name": "SSR 확정 가챠 티켓",
-      "description": "SSR 확정 티켓 가챠에서 사용하는 티켓입니다.",
+      "description": "SSR 확정 티켓 가챠에서 사용하는 티켓",
       "acquisitionRouteDescription": ""
     },
     {
@@ -290,7 +290,7 @@
     {
       "id": "item-memory_exchange-class3",
       "name": "어노말리 코인",
-      "description": "아노말리 가챠에서 사용하는 동전",
+      "description": "어노말리 가챠에서 사용하는 동전",
       "acquisitionRouteDescription": "프로듀스(플랜:아노말리의 프로듀스 아이돌) 등"
     },
     {

@@ -78,12 +78,12 @@
     {
       "id": "amao-cstm-0072",
       "name": "금빛의 빛",
-      "description": "아리무라 마오의 아이돌의 길 스테이지10를 클리어"
+      "description": "아리무라 마오의 아이돌의 길 스테이지 10 클리어"
     },
     {
       "id": "amao-cstm-0073",
       "name": "백금의 빛",
-      "description": "아리무라 마오의 아이돌의 길 스테이지15를 클리어"
+      "description": "아리무라 마오의 아이돌의 길 스테이지 15 클리어"
     },
     {
       "id": "amao-othr-0002",
@@ -798,22 +798,22 @@
     {
       "id": "shro-cstm-0006",
       "name": "광경",
-      "description": "【광경】시노자와 히로 입수"
+      "description": "【광경】시노사와 히로 입수"
     },
     {
       "id": "shro-cstm-0018",
       "name": "광경",
-      "description": "【광경】시노자와 히로의 재능 개화 4단계 달성"
+      "description": "【광경】시노사와 히로의 재능 개화 4단계 달성"
     },
     {
       "id": "shro-cstm-0031",
       "name": "콘트라스트",
-      "description": "콘트라스트】시노자와 히로 입수"
+      "description": "【콘트라스트】시노사와 히로 입수"
     },
     {
       "id": "shro-cstm-0032",
       "name": "콘트라스트",
-      "description": "컨트라스트】시노자와 히로의 재능 개화 4단계 달성"
+      "description": "【콘트라스트】시노사와 히로의 재능 개화 4단계 달성"
     },
     {
       "id": "shro-cstm-0047",
@@ -843,7 +843,7 @@
     {
       "id": "shro-cstm-0063",
       "name": "관국",
-      "description": "【광경】'24축제 시노자와 히로 입수"
+      "description": "【광경】'24축제 시노사와 히로 입수"
     },
     {
       "id": "shro-cstm-0067",
@@ -858,17 +858,17 @@
     {
       "id": "shro-cstm-0072",
       "name": "금빛의 빛",
-      "description": "시노자와 히로의 아이돌 길 스테이지 10을 클리어했다."
+      "description": "시노사와 히로의 아이돌 길 스테이지 10 클리어"
     },
     {
       "id": "shro-cstm-0073",
       "name": "백금의 빛",
-      "description": "시노자와 히로의 아이돌 길 스테이지 15를 클리어했다."
+      "description": "시노사와 히로의 아이돌 길 스테이지 15 클리어"
     },
     {
       "id": "shro-othr-0002",
       "name": "온천용 수영복",
-      "description": "온천용 수영복(시노자와 히로) 구매하기"
+      "description": "온천용 수영복(시노사와 히로) 구매하기"
     },
     {
       "id": "shro-trng-0000",
@@ -878,7 +878,7 @@
     {
       "id": "shro-trng-0001",
       "name": "레슨웨어",
-      "description": "시노자와 히로의 마스터 업적을 Rank3로 만들기"
+      "description": "시노사와 히로의 마스터 업적을 Rank3로 만들기"
     },
     {
       "id": "shro-trng-0002",
