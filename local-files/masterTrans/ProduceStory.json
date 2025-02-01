@@ -9225,6 +9225,21 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-i_card-hrnm-3-008-01",
+      "title": "해피 밀푀유 1화",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hrnm-3-008-02",
+      "title": "해피 밀푀유 2화",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hrnm-3-008-03",
+      "title": "해피 밀푀유 3화",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-i_card-hski-3-000-01",
       "title": "Fighting My Way 1화",
       "produceEventHintProduceConditionDescriptions": []
@@ -9567,6 +9582,21 @@
     {
       "id": "p_story-i_card-shro-3-007-03",
       "title": "Campus mode!! 3화",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-shro-3-008-01",
+      "title": "해피 밀푀유 1화",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-shro-3-008-02",
+      "title": "해피 밀푀유 2화",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-shro-3-008-03",
+      "title": "해피 밀푀유 3화",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -10161,32 +10191,42 @@
     },
     {
       "id": "p_story-s_card-2-0038-01",
-      "title": "生徒に優しいトレーナー",
+      "title": "학생들에게 다정한 트레이너",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-s_card-2-0038-02",
-      "title": "さっすがトレーナーさん！",
+      "title": "역시 트레이너 씨!",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-s_card-2-0039-01",
-      "title": "目指すのは、あくまで",
+      "title": "목표로하는 것은, 어디까지나",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-s_card-2-0039-02",
-      "title": "ビジュアルレッスンの極意",
+      "title": "비주얼 레슨의 극의",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-s_card-2-0040-01",
-      "title": "基礎を大事に！",
+      "title": "기초를 소중히!",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-s_card-2-0040-02",
-      "title": "育てがいのある子",
+      "title": "키울 보람있는 아이",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-2-0041-01",
+      "title": "자랑스러운 언니!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-2-0041-02",
+      "title": "전해지는 자매 사랑",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -10877,6 +10917,21 @@
     {
       "id": "p_story-s_card-3-0046-03",
       "title": "배턴을 이어받아",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0047-01",
+      "title": "비밀 상담",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0047-02",
+      "title": "메시지의 상대는?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0047-03",
+      "title": "초콜릿을 건넬 상대는?",
       "produceEventHintProduceConditionDescriptions": []
     },
     {

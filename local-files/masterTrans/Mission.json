@@ -483,7 +483,7 @@
     },
     {
       "id": "mission-box-gasha-event-004-mission_3",
-      "name": "이벤트 박스 가챠를 {threshold}회 돌리자"
+      "name": "이벤트 박스 가챠를 {threshold}번 뽑자"
     },
     {
       "id": "mission-box-gasha-event-004-mission_4",
@@ -491,6 +491,26 @@
     },
     {
       "id": "mission-box-gasha-event-004-mission_5",
+      "name": "SP 레슨을 {threshold}회 클리어하자"
+    },
+    {
+      "id": "mission-box-gasha-event-005-mission_1",
+      "name": "{threshold}일 로그인하자"
+    },
+    {
+      "id": "mission-box-gasha-event-005-mission_2",
+      "name": "최종 시험에 {threshold}번 합격하자"
+    },
+    {
+      "id": "mission-box-gasha-event-005-mission_3",
+      "name": "이벤트 박스 가챠를 {threshold}번 뽑자"
+    },
+    {
+      "id": "mission-box-gasha-event-005-mission_4",
+      "name": "프로듀스 등급을 총 {threshold}개 획득하자"
+    },
+    {
+      "id": "mission-box-gasha-event-005-mission_5",
       "name": "SP 레슨을 {threshold}회 클리어하자"
     },
     {
@@ -2898,6 +2918,18 @@
       "name": "【Campus mode!!】히메사키 리나미의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
+      "id": "achieve-i_card-hrnm-3-008-01",
+      "name": "【해피 밀푀유】히메사키 리나미의 프로듀스로 최종 시험에 합격"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-008-02",
+      "name": "【해피 밀푀유】히메사키 리나미의 특훈 단계를{threshold}로 설정"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-008-03",
+      "name": "【해피 밀푀유】히메사키 리나미의 프로듀스로 평가 A+이상을 {threshold}회 획득"
+    },
+    {
       "id": "achieve-i_card-hski-3-001-01",
       "name": "【Boom Boom Pow】하나미 사키의 프로듀스로 최종 시험에 합격"
     },
@@ -3148,6 +3180,18 @@
     {
       "id": "achieve-i_card-shro-3-007-03",
       "name": "【Campus mode!!】시노사와 히로의 프로듀스에서 평가 A+이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-shro-3-008-01",
+      "name": "【해피 밀푀유】시노사와 히로의 프로듀스로 최종 시험에 합격"
+    },
+    {
+      "id": "achieve-i_card-shro-3-008-02",
+      "name": "【해피 밀푀유】시노사와 히로의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-shro-3-008-03",
+      "name": "【해피 밀푀유】시노사와 히로의 프로듀스에서 평가 A+이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-ssmk-3-001-01",

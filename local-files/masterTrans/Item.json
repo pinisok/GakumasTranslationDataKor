@@ -8,25 +8,31 @@
     {
       "id": "item-coin-box-gasha-event-001",
       "name": "고마워",
-      "description": "이벤트 가챠에서 사용하는 아이템",
+      "description": "이벤트 가챠에 사용하는 아이템",
       "acquisitionRouteDescription": "프로듀스 등"
     },
     {
       "id": "item-coin-box-gasha-event-002",
       "name": "야밤의 반짝반짝 숨결",
-      "description": "이벤트 가챠에서 사용하는 아이템",
+      "description": "이벤트 가챠에 사용하는 아이템",
       "acquisitionRouteDescription": "프로듀스 등"
     },
     {
       "id": "item-coin-box-gasha-event-003",
       "name": "장난이 가득",
-      "description": "이벤트 가챠에서 사용하는 아이템",
+      "description": "이벤트 가챠에 사용하는 아이템",
       "acquisitionRouteDescription": "프로듀스 등"
     },
     {
       "id": "item-coin-box-gasha-event-004",
       "name": "힘내라, 산타!",
-      "description": "이벤트 가챠에서 사용하는 아이템",
+      "description": "이벤트 가챠에 사용하는 아이템",
+      "acquisitionRouteDescription": "프로듀스 등"
+    },
+    {
+      "id": "item-coin-box-gasha-event-005",
+      "name": "엉망진창 초코",
+      "description": "이벤트 가챠에 사용하는 아이템",
       "acquisitionRouteDescription": "프로듀스 등"
     },
     {
@@ -444,6 +450,12 @@
       "acquisitionRouteDescription": "가챠 등"
     },
     {
+      "id": "item-piece-idol_hrnm-3-008",
+      "name": "[해피 밀푀유]히메사키 리나미의 피스",
+      "description": "프로듀스 아이돌의 재능개화 및 해방에 사용하는 아이템",
+      "acquisitionRouteDescription": "가챠 등"
+    },
+    {
       "id": "item-piece-idol_hski-1-000",
       "name": "[학원생활]하나미 사키의 피스",
       "description": "프로듀스 아이돌의 재능개화 및 해방에 사용하는 아이템",
@@ -676,6 +688,12 @@
       "name": "[Campus mode!!]시노사와 히로의 피스",
       "description": "프로듀스 아이돌의 재능개화 및 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
+    },
+    {
+      "id": "item-piece-idol_shro-3-008",
+      "name": "[해피 밀푀유]시노사와 히로의 피스",
+      "description": "프로듀스 아이돌의 재능개화 및 해방에 사용하는 아이템",
+      "acquisitionRouteDescription": "이벤트 가챠 등"
     },
     {
       "id": "item-piece-idol_ssmk-1-000",

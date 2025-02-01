@@ -86,6 +86,11 @@
       "description": "아리무라 마오의 아이돌의 길 스테이지 15 클리어"
     },
     {
+      "id": "amao-cstm-0075",
+      "name": "해피 밀푀유",
+      "description": "【Fluorite】'25발렌타인 아리무라 마오 입수"
+    },
+    {
       "id": "amao-othr-0002",
       "name": "온천용 수영복",
       "description": "온천용 수영복(아리무라 마오) 구매하기"
@@ -123,7 +128,7 @@
     {
       "id": "fktn-cstm-0001",
       "name": "세상에서 가장 귀여운 나",
-      "description": "【세상에서 가장 귀여운 나】후지타 코토네 입수"
+      "description": "【세상에서 가장 귀여운 나】후지타 코토네를 입수!"
     },
     {
       "id": "fktn-cstm-0013",
@@ -191,6 +196,11 @@
       "description": "후지타 코토네의 아이돌 길 스테이지 15 클리어"
     },
     {
+      "id": "fktn-cstm-0075",
+      "name": "해피 밀푀유",
+      "description": "【세계 제일 귀여운 나】'25발렌타인 후지타 코토네 입수"
+    },
+    {
       "id": "fktn-othr-0002",
       "name": "온천용 수영복",
       "description": "온천용 수영복(후지타 코토네) 구매하기"
@@ -233,7 +243,7 @@
     {
       "id": "hrnm-cstm-0037",
       "name": "L.U.V",
-      "description": "【L.U.V】히메사키 리나미 입수"
+      "description": "【L.U.V】히메사키 리나미를 입수했다."
     },
     {
       "id": "hrnm-cstm-0038",
@@ -253,12 +263,22 @@
     {
       "id": "hrnm-cstm-0053",
       "name": "Campus mode!!",
-      "description": "【Campus mode!!】히메사키 리나미 입수"
+      "description": "【Campus mode!!】히메사키 리나미를 입수했다."
     },
     {
       "id": "hrnm-cstm-0054",
       "name": "Campus mode!!",
       "description": "【Campus mode!!】히메사키 리나미의 재능 개화 4단계 달성"
+    },
+    {
+      "id": "hrnm-cstm-0055",
+      "name": "해피 밀푀유",
+      "description": "【해피 밀푀유】히메사키 리나미를 입수"
+    },
+    {
+      "id": "hrnm-cstm-0056",
+      "name": "해피 밀푀유",
+      "description": "【해피 밀푀유】히메사키 리나미의 재능 개화 4단계 달성"
     },
     {
       "id": "hrnm-cstm-0063",
@@ -363,7 +383,7 @@
     {
       "id": "hski-cstm-0054",
       "name": "Campus mode!!",
-      "description": "【Campus mode!!】하나미 사키의 재능 개화 4단계 달성"
+      "description": "【Campus mode!!】하나미사키의 재능 개화 4단계 달성"
     },
     {
       "id": "hski-cstm-0063",
@@ -378,7 +398,7 @@
     {
       "id": "hski-cstm-0067",
       "name": "White Night! White Wish!",
-      "description": "【Fighting my way 】'24크리스마스 하나미 사키 입수"
+      "description": "【Fighting My Way】'24크리스마스 하나미 사키 입수"
     },
     {
       "id": "hski-cstm-0069",
@@ -404,6 +424,11 @@
       "id": "hski-cstm-0074",
       "name": "고금동서 식은 죽 먹기",
       "description": "【고금동서 식은 죽 먹기】하나미 사키의 재능 개화 4단계 달성"
+    },
+    {
+      "id": "hski-cstm-0075",
+      "name": "해피 밀푀유",
+      "description": "【Fighting My Way】'25발렌타인 하나미 사키 입수"
     },
     {
       "id": "hski-othr-0002",
@@ -438,7 +463,7 @@
     {
       "id": "hume-cstm-0010",
       "name": "The Rolling Riceball",
-      "description": "【The Rolling Riceball】 하나미 우메 입수"
+      "description": "【The Rolling Riceball】 하나미 우메를 입수했다."
     },
     {
       "id": "hume-cstm-0022",
@@ -473,12 +498,12 @@
     {
       "id": "hume-cstm-0063",
       "name": "관국",
-      "description": "【The Rolling Riceball】'24축제 하나미 우메 입수"
+      "description": "【The Rolling Riceball】'24축제 하나미 우메를 입수했다."
     },
     {
       "id": "hume-cstm-0065",
       "name": "가장광소곡",
-      "description": "【The Rolling Riceball】'24할로윈 하나미 ​​우메을 입수"
+      "description": "【The Rolling Riceball】'24할로윈 하나미 ​​우메를 입수"
     },
     {
       "id": "hume-cstm-0069",
@@ -608,12 +633,12 @@
     {
       "id": "kcna-cstm-0020",
       "name": "Wonder Scale",
-      "description": "【Wonder Scale】 쿠라모토 치나의 재능 개화 4단계 달성 가능"
+      "description": "【Wonder Scale】 쿠라모토 치나의 재능 개화 4단계 달성"
     },
     {
       "id": "kcna-cstm-0033",
       "name": "매일매일, 발견적 단계!",
-      "description": "【매일매일, 발견적 단계!】쿠라모토 치나 입수"
+      "description": "【매일매일, 발견적 단계!】쿠라모토 치나를 입수했다."
     },
     {
       "id": "kcna-cstm-0034",
@@ -628,7 +653,7 @@
     {
       "id": "kcna-cstm-0053",
       "name": "Campus mode!!",
-      "description": "【Campus mode!!】쿠라모토 치나 입수"
+      "description": "【Campus mode!!】쿠라모토 치나를 입수했다."
     },
     {
       "id": "kcna-cstm-0054",
@@ -638,12 +663,12 @@
     {
       "id": "kcna-cstm-0063",
       "name": "관국",
-      "description": "【Wonder Scale】'24축제 쿠라모토 치나 입수"
+      "description": "【Wonder Scale】'24축제 쿠라모토 치나를 입수했다."
     },
     {
       "id": "kcna-cstm-0065",
       "name": "가장광소곡",
-      "description": "【가장광소곡】쿠라모토 치나 입수"
+      "description": "【가장광소곡】쿠라모토 치나를 입수했다."
     },
     {
       "id": "kcna-cstm-0067",
@@ -713,7 +738,7 @@
     {
       "id": "kllj-cstm-0046",
       "name": "관국",
-      "description": "【관국】카츠라기 릴리야의 재능이 꽃피었다.4단계별로 입수"
+      "description": "【관국】카츠라기 릴리야의 재능 개화 4단계 달성"
     },
     {
       "id": "kllj-cstm-0049",
@@ -723,7 +748,7 @@
     {
       "id": "kllj-cstm-0050",
       "name": "White Night! White Wish!",
-      "description": "【White Night! White Wish!】카츠라기 릴리야의 재능이 꽃피었다.4단계별로 입수"
+      "description": "【White Night! White Wish!】카츠라기 릴리야의 재능 개화 4단계 달성"
     },
     {
       "id": "kllj-cstm-0051",
@@ -759,6 +784,11 @@
       "id": "kllj-cstm-0073",
       "name": "백금의 빛",
       "description": "카츠라기 릴리야의 아이돌 길 15 스테이지 클리어"
+    },
+    {
+      "id": "kllj-cstm-0075",
+      "name": "해피 밀푀유",
+      "description": "【백선】'25발렌타인 카츠라기 릴리야를 입수"
     },
     {
       "id": "kllj-othr-0002",
@@ -843,7 +873,7 @@
     {
       "id": "shro-cstm-0063",
       "name": "관국",
-      "description": "【광경】'24축제 시노사와 히로 입수"
+      "description": "【광경】'24축제 시노사와 히로를 입수했다."
     },
     {
       "id": "shro-cstm-0067",
@@ -864,6 +894,11 @@
       "id": "shro-cstm-0073",
       "name": "백금의 빛",
       "description": "시노사와 히로의 아이돌 길 스테이지 15 클리어"
+    },
+    {
+      "id": "shro-cstm-0075",
+      "name": "해피 밀푀유",
+      "description": "【해피 밀푀유】시노사와 히로를 입수"
     },
     {
       "id": "shro-othr-0002",

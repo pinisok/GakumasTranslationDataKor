@@ -53,7 +53,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "손패의"
+          "text": "패의 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -78,7 +78,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "제외"
+          "text": "제외에 있는 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -548,7 +548,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "덱이나 버림 패에 있는"
+          "text": "덱이나 버림 패에 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -643,7 +643,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "손패"
+          "text": "손 패"
         }
       ]
     },
@@ -758,7 +758,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "제외"
+          "text": "제외에 있는 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -798,7 +798,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "손패의"
+          "text": "패의 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -913,7 +913,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_022",
-          "text": "준비 운동"
+          "text": "준비운동"
         }
       ]
     },
@@ -973,7 +973,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-1_031",
-          "text": "에이에이오ー"
+          "text": "에이에이오!"
         }
       ]
     },
@@ -988,7 +988,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-1_032",
-          "text": "추억의 웃음"
+          "text": "추엇의 웃음"
         }
       ]
     },
@@ -1113,6 +1113,31 @@
       ]
     },
     {
+      "id": "p_card_search-playing-effect_group-visible-exam_full_power-000",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamFullPower",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamFullPower",
+          "text": "전력"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": " 효과의 스킬 카드"
+        }
+      ]
+    },
+    {
       "id": "p_card_search-playing-effect_group-visible-exam_parameter_buff_multiple_per_turn-000",
       "produceDescriptions": [
         {
@@ -1198,7 +1223,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "소비 체력 감소"
+          "text": "소비 체력 경감 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1293,7 +1318,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-act-1_028",
-          "text": "느긋한 수다"
+          "text": "느긋하게 수다"
         }
       ]
     },

@@ -7,7 +7,7 @@
   "data": [
     {
       "id": "achieve-i_card-amao-3-001-01",
-      "name": "시원하게 한숨 돌리기",
+      "name": "시원한 휴식",
       "description": "【너와 세미블루】아리무라 마오의 프로듀스로 최종 시험에 합격"
     },
     {
@@ -67,7 +67,7 @@
     },
     {
       "id": "achieve-i_card-fktn-3-002-01",
-      "name": "여름밤의 향불",
+      "name": "여름 밤의 향불",
       "description": "【관국】후지타 코토네의 프로듀스로 최종 시험에 합격"
     },
     {
@@ -169,6 +169,21 @@
       "id": "achieve-i_card-hrnm-3-007-03",
       "name": "고마워",
       "description": "【Campus mode!!】히메사키 리나미의 프로듀스로 평가 A+이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-008-01",
+      "name": "받아 줄래?",
+      "description": "【해피 밀푀유】히메사키 리나미의 프로듀스로 최종 시험에 합격"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-008-02",
+      "name": "해피 밀푀유",
+      "description": "【해피 밀푀유】히메사키 리나미의 특훈 단계를{threshold}로 설정"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-008-03",
+      "name": "네게 줄게!",
+      "description": "【해피 밀푀유】히메사키 리나미의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-hski-3-001-01",
@@ -367,7 +382,7 @@
     },
     {
       "id": "achieve-i_card-kcna-3-005-01",
-      "name": "고쿠리토 히토쿠치",
+      "name": "꾸벅이며 한 입",
       "description": "【어서 오세요 하츠보시온천!】쿠라모토 치나의 프로듀스로 최종 시험에 합격"
     },
     {
@@ -484,6 +499,21 @@
       "id": "achieve-i_card-shro-3-007-03",
       "name": "선택하길, 잘했어",
       "description": "【Campus mode!!】시노사와 히로의 프로듀스에서 평가 A+이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-shro-3-008-01",
+      "name": "힘냈, 어",
+      "description": "【해피 밀푀유】시노사와 히로의 프로듀스로 최종 시험에 합격"
+    },
+    {
+      "id": "achieve-i_card-shro-3-008-02",
+      "name": "해피 밀푀유",
+      "description": "【해피 밀푀유】시노사와 히로의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-shro-3-008-03",
+      "name": "정말 만들고 싶은 것",
+      "description": "【해피 밀푀유】시노사와 히로의 프로듀스에서 평가 A+이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-ssmk-3-001-01",
@@ -1007,7 +1037,7 @@
     },
     {
       "id": "achieve-p_idol-card-amao-003-1",
-      "name": "성장의 화형",
+      "name": "성장의 꽃 모양",
       "description": "【Fluorite】아리무라 마오의 프로듀스로 최종 시험에 합격"
     },
     {
@@ -1232,7 +1262,7 @@
     },
     {
       "id": "achieve-p_idol-card-ttmr-002-1",
-      "name": "론리 울프",
+      "name": "론리・울프",
       "description": "【고독한 늑대】츠키무라 테마리의 프로듀스로 최종 시험에 합격"
     },
     {
@@ -2272,7 +2302,7 @@
     },
     {
       "id": "achieve-p_idol-ttmr-012",
-      "name": "전신전령",
+      "name": "전심전력",
       "description": "츠키무라 테마리의 프로듀스로 스킬 카드 {threshold}회 강화"
     },
     {

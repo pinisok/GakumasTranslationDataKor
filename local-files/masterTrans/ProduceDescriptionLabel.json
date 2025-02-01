@@ -101,12 +101,12 @@
     {
       "id": "Convert_StepLessonType_VisualLesson",
       "produceDescriptions": [],
-      "name": "【비주얼 레슨・비주얼 턴인 경우 】"
+      "name": "【비주얼 레슨-비주얼 턴일 경우 】"
     },
     {
       "id": "Convert_StepLessonType_VocalLesson",
       "produceDescriptions": [],
-      "name": "【보컬 레슨・보컬 턴인 경우 】"
+      "name": "【보컬 레슨, 보컬 턴일 경우 】"
     },
     {
       "id": "Description_ProduceCardIsInitial",
@@ -382,7 +382,7 @@
           "text": "코스트에 영향을 미치지 않음"
         }
       ],
-      "name": "비용 증가"
+      "name": "비용값 증가"
     },
     {
       "id": "Label_CostAggressiveAdd",
@@ -992,7 +992,7 @@
           "text": "감소"
         }
       ],
-      "name": "의욕 감소"
+      "name": "동기감소"
     },
     {
       "id": "Label_ExamAntiDebuff",
@@ -1018,7 +1018,7 @@
           "text": ""
         }
       ],
-      "name": "저하 상태 비활성화"
+      "name": "저하 상태 비활성화 "
     },
     {
       "id": "Label_ExamBlock",
@@ -1801,7 +1801,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " +1・"
+          "text": "+1・"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -2362,7 +2362,7 @@
           "text": ""
         }
       ],
-      "name": "부정"
+      "name": "부조화 "
     },
     {
       "id": "Label_ExamGimmickPlayCardLimit",
@@ -3961,7 +3961,7 @@
           "text": ""
         }
       ],
-      "name": "소비 체력 증가"
+      "name": "소비 체력 증가 "
     },
     {
       "id": "Label_ExamStaminaConsumptionAddDown",
@@ -4800,7 +4800,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "파라미터 감소"
+          "text": "파라미터 값 감소"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4833,7 +4833,7 @@
           "text": "상승 효과가 없는 스킬 카드에는 영향을 미치지 않음\n상승치는 0이 되지 않는다"
         }
       ],
-      "name": "파라미터 감소"
+      "name": "파라미터 값 감소"
     },
     {
       "id": "Label_LessonSupport",
@@ -5180,7 +5180,7 @@
     {
       "id": "Label_ProduceCardPositionType_Hand",
       "produceDescriptions": [],
-      "name": "패"
+      "name": "손 패"
     },
     {
       "id": "Label_ProduceCardPositionType_Hold",

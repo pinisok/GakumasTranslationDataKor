@@ -562,6 +562,21 @@
       "text": "이것도 레슨이니까.\n기초는 중요하다구?"
     },
     {
+      "supportCardId": "s_card-2-0041",
+      "number": 1,
+      "text": ""
+    },
+    {
+      "supportCardId": "s_card-2-0041",
+      "number": 2,
+      "text": ""
+    },
+    {
+      "supportCardId": "s_card-2-0041",
+      "number": 3,
+      "text": ""
+    },
+    {
       "supportCardId": "s_card-3-0000",
       "number": 1,
       "text": "자, 한 입 줄게!"
@@ -1255,6 +1270,21 @@
       "supportCardId": "s_card-3-0046",
       "number": 3,
       "text": "(이 노래를 가장\n잘 소화해내는 건 나야!)"
+    },
+    {
+      "supportCardId": "s_card-3-0047",
+      "number": 1,
+      "text": ""
+    },
+    {
+      "supportCardId": "s_card-3-0047",
+      "number": 2,
+      "text": ""
+    },
+    {
+      "supportCardId": "s_card-3-0047",
+      "number": 3,
+      "text": ""
     }
   ]
 }

@@ -1231,7 +1231,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " 1장을 "
+          "text": "1장을 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1251,7 +1251,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "이(가) "
+          "text": "(으)로 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -1307,7 +1307,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " 1장을 "
+          "text": "1장을 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1327,7 +1327,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "이(가) "
+          "text": "(으)로 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -1383,7 +1383,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " 1장을 "
+          "text": "1장을 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1393,7 +1393,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-1_032",
-          "text": "떠올려 짓는 웃음"
+          "text": "추억의 웃음"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1403,7 +1403,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "이(가) "
+          "text": "(으)로 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -1459,7 +1459,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " 1장을 "
+          "text": "1장을 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1479,7 +1479,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "이(가) "
+          "text": "(으)로 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -1535,7 +1535,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " 1장을 "
+          "text": "1장을 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1555,7 +1555,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "이(가) "
+          "text": "(으)로 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -1611,7 +1611,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " 1장을 "
+          "text": "1장을 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1631,7 +1631,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "이(가) "
+          "text": "(으)로 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -1687,7 +1687,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " 1장을 "
+          "text": "1장을 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1697,7 +1697,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_001",
-          "text": "팬서비스"
+          "text": "팬 사인"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1707,7 +1707,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "이(가) "
+          "text": "(으)로 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -1763,7 +1763,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " 1장을 "
+          "text": "1장을 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1783,7 +1783,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "이(가) "
+          "text": "(으)로 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -1839,7 +1839,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " 1장을 "
+          "text": "1장을 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1859,7 +1859,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "이(가) "
+          "text": "(으)로 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -1915,7 +1915,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " 1장을 "
+          "text": "1장을 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1935,7 +1935,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "이(가) "
+          "text": "(으)로 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -1991,7 +1991,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " 1장을 "
+          "text": "1장을 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -2001,7 +2001,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_023",
-          "text": "기세에 맡겨서"
+          "text": "기세에 맡겨"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2011,7 +2011,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "이(가) "
+          "text": "(으)로 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
