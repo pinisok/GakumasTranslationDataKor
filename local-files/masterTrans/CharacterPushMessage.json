@@ -40,7 +40,7 @@
       "type": "PushType_DailyMission",
       "number": 1,
       "title": "아리무라 마오",
-      "message": "데일리 미션을 잊고\n계시지 않나요? 저도 열심히 할테니까,\n함께 할까요"
+      "message": "데일리 미션을 잊고\n계시지 않나요? 저도 열심히 할 테니까,\n함께 할까요"
     },
     {
       "characterId": "amao",
@@ -54,7 +54,7 @@
       "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
       "title": "아리무라 마오",
-      "message": "아직 콘테스트에 도전할 수 있어요.\n여러가지 제 모습을,\n팬 여러분이 봐줬으면 좋겠어요"
+      "message": "아직 콘테스트에 도전할 수 있어요.\n여러 가지 제 모습을,\n팬 여러분이 봐줬으면 좋겠어요"
     },
     {
       "characterId": "amao",
@@ -89,7 +89,7 @@
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 2,
       "title": "아리무라 마오",
-      "message": "보수를 받을 수 있나봐요.\n제 매력을, 방송을 통해 전할 수 있었다고\n생각해요!"
+      "message": "보수를 받을 수 있나 봐요.\n제 매력을, 방송을 통해 전할 수 있었다고\n생각해요!"
     },
     {
       "characterId": "amao",
@@ -229,14 +229,14 @@
       "type": "PushType_Login",
       "number": 1,
       "title": "히메사키 리나미",
-      "message": "슬슬 만나고 싶어,\n프로듀서 군.\n나, 기다릴테니까"
+      "message": "슬슬 만나고 싶어,\n프로듀서 군.\n나, 기다릴 테니까"
     },
     {
       "characterId": "hrnm",
       "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
       "title": "히메사키 리나미",
-      "message": "콘테스트, 도전할 수 있나봐.\n열심히 하는 내 모습, 너도 봐줬으면 좋겠어"
+      "message": "콘테스트, 도전할 수 있나 봐.\n열심히 하는 내 모습, 너도 봐줬으면 좋겠어"
     },
     {
       "characterId": "hrnm",
@@ -775,7 +775,7 @@
       "type": "PushType_Login",
       "number": 1,
       "title": "시노사와 히로",
-      "message": "프로듀서……드디어,\n나를 버린거야? ……외로워."
+      "message": "프로듀서…… 드디어,\n나를 버린 거야? ……외로워."
     },
     {
       "characterId": "shro",
@@ -1006,7 +1006,7 @@
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 3,
       "title": "츠키무라 테마리",
-      "message": "프로듀서, 보고있었나요?\n이번 방송도, 잘 해냈어요.\n보수도 기대해도 좋겠네요"
+      "message": "프로듀서, 보고 있었나요?\n이번 방송도, 잘 해냈어요.\n보수도 기대해도 좋겠네요"
     }
   ]
 }
