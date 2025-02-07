@@ -223,7 +223,11 @@
     },
     {
       "id": "shop_pack_item-first-live_003",
-      "name": "첫사랑 공연 기념팩"
+      "name": "첫사랑 공연 기념 팩"
+    },
+    {
+      "id": "shop_pack_item-first-live_004",
+      "name": "첫 공연 기념 팩"
     },
     {
       "id": "shop_pack_item-half-aniversary-selection-ticket",
@@ -319,7 +323,7 @@
     },
     {
       "id": "shop_pass_item-0010",
-      "name": "プレミアムミッションパス 2025年2月"
+      "name": "프리미엄 미션 패스 2025년 2월"
     }
   ]
 }

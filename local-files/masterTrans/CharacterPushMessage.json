@@ -19,7 +19,7 @@
       "type": "PushType_ApFull",
       "number": 2,
       "title": "아리무라 마오",
-      "message": "푹 쉬셨나요? 저도\n쉬었으니, 활력 가득이에요"
+      "message": "푹 쉬셨나요? 저도\n쉬어서, 힘이 넘쳐요"
     },
     {
       "characterId": "amao",
@@ -103,7 +103,7 @@
       "type": "PushType_ApFull",
       "number": 1,
       "title": "후지타 코토네",
-      "message": "프로듀서!\n이제 활력 가득이니까,\n레슨하고 싶어ー요!"
+      "message": "프로듀서!\n이제 힘이 넘치니까,\n레슨하고 싶어ー요!"
     },
     {
       "characterId": "fktn",
@@ -376,7 +376,7 @@
       "type": "PushType_ApFull",
       "number": 1,
       "title": "하나미 우메",
-      "message": "하나미 우메, 활력 가득이에요!\n프로듀서 님,\n프로듀스를 부탁드려요!"
+      "message": "하나미 우메, 힘이 넘쳐요!\n프로듀서 님,\n프로듀스를 부탁드려요!"
     },
     {
       "characterId": "hume",
@@ -558,7 +558,7 @@
       "type": "PushType_ApFull",
       "number": 1,
       "title": "쿠라모토 치나",
-      "message": "선생님, 힘이 나셨나요?\n저는 활력 가득이와요!"
+      "message": "선생님, 힘이 나셨나요?\n저는 힘이 넘치와요!"
     },
     {
       "characterId": "kcna",
@@ -838,7 +838,7 @@
       "type": "PushType_ApFull",
       "number": 2,
       "title": "시운 스미카",
-      "message": "핏치, 활력 가득이야?\n좋ー네, 좋ー아!"
+      "message": "핏치, 힘이 넘쳐?\n좋ー네, 좋ー아!"
     },
     {
       "characterId": "ssmk",

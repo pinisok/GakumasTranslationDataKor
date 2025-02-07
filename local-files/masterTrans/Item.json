@@ -120,6 +120,12 @@
       "acquisitionRouteDescription": ""
     },
     {
+      "id": "item-gashaticket-ssr-fix_2",
+      "name": "첫 공연 기념 SSR 확정 가샤 티켓",
+      "description": "첫 공연 기념 SSR 확정 티켓 가샤에서 사용하는 티켓",
+      "acquisitionRouteDescription": ""
+    },
+    {
       "id": "item-gashaticket-ssr-idol-fix_1",
       "name": "SSR P 아이돌 확정 가챠 티켓",
       "description": "SSR P 아이돌 확정 티켓 가챠에서 사용하는 티켓",
@@ -223,37 +229,43 @@
     },
     {
       "id": "item-medal-main-story-event-001",
-      "name": "하츠보시 책갈피",
+      "name": "하츠보시의 책갈피",
       "description": "이벤트 교환소에서 다양한 보상과 교환하는 아이템",
       "acquisitionRouteDescription": "프로듀스로 입수"
     },
     {
       "id": "item-medal-main-story-event-002",
-      "name": "하츠보시 책갈피",
+      "name": "하츠보시의 책갈피",
       "description": "이벤트 교환소에서 다양한 보상과 교환하는 아이템",
       "acquisitionRouteDescription": "프로듀스 등"
     },
     {
       "id": "item-medal-main-story-event-003",
-      "name": "하츠보시 책갈피",
+      "name": "하츠보시의 책갈피",
       "description": "하츠보시 커뮤 이벤트에서 모으면 아이템 교환 가능",
       "acquisitionRouteDescription": "프로듀스로 입수"
     },
     {
       "id": "item-medal-main-story-event-004",
-      "name": "하츠보시 책갈피",
+      "name": "하츠보시의 책갈피",
       "description": "이벤트 교환소에서 다양한 보상과 교환하는 아이템",
       "acquisitionRouteDescription": "프로듀스 등"
     },
     {
       "id": "item-medal-main-story-event-005",
-      "name": "하츠보시 책갈피",
+      "name": "하츠보시의 책갈피",
       "description": "이벤트 교환소에서 다양한 보상과 교환하는 아이템",
       "acquisitionRouteDescription": "프로듀스 등"
     },
     {
       "id": "item-medal-main-story-event-006",
-      "name": "하츠보시 책갈피",
+      "name": "하츠보시의 책갈피",
+      "description": "이벤트 교환소에서 다양한 보상과 교환하는 아이템",
+      "acquisitionRouteDescription": "프로듀스 등"
+    },
+    {
+      "id": "item-medal-main-story-event-007",
+      "name": "하츠보시의 책갈피",
       "description": "이벤트 교환소에서 다양한 보상과 교환하는 아이템",
       "acquisitionRouteDescription": "프로듀스 등"
     },

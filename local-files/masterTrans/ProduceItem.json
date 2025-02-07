@@ -166,7 +166,7 @@
           "text": "내 1회）"
         }
       ],
-      "name": "하츠보시 배지(빨강)"
+      "name": "하츠보시 뱃지(빨강)"
     },
     {
       "id": "pitem_00-0-004-0-001",
@@ -322,7 +322,7 @@
           "text": "내 1회）"
         }
       ],
-      "name": "하츠보시 배지(빨강)"
+      "name": "하츠보시 뱃지(빨강)"
     },
     {
       "id": "pitem_00-0-004-0-002",
@@ -408,7 +408,7 @@
           "text": ""
         }
       ],
-      "name": "하츠보시 배지(빨강)"
+      "name": "하츠보시 뱃지(빨강)"
     },
     {
       "id": "pitem_00-0-004-0-003",
@@ -554,7 +554,7 @@
           "text": "내 4회）"
         }
       ],
-      "name": "하츠보시 배지(빨강)"
+      "name": "하츠보시 뱃지(빨강)"
     },
     {
       "id": "pitem_00-0-004-0-004",
@@ -670,7 +670,7 @@
           "text": "내 3회）"
         }
       ],
-      "name": "하츠보시 배지(빨강)"
+      "name": "하츠보시 뱃지(빨강)"
     },
     {
       "id": "pitem_00-0-004-0-005",
@@ -796,7 +796,7 @@
           "text": "내 3회）"
         }
       ],
-      "name": "하츠보시 배지(빨강)"
+      "name": "하츠보시 뱃지(빨강)"
     },
     {
       "id": "pitem_00-0-004-0-006",
@@ -912,7 +912,7 @@
           "text": "내 3회）"
         }
       ],
-      "name": "하츠보시 배지(빨강)"
+      "name": "하츠보시 뱃지(빨강)"
     },
     {
       "id": "pitem_00-0-004-0-007",
@@ -1078,7 +1078,7 @@
           "text": "내 1회）"
         }
       ],
-      "name": "하츠보시 배지(빨강)"
+      "name": "하츠보시 뱃지(빨강)"
     },
     {
       "id": "pitem_00-0-004-0-008",
@@ -1164,7 +1164,7 @@
           "text": ""
         }
       ],
-      "name": "하츠보시 배지(빨강)"
+      "name": "하츠보시 뱃지(빨강)"
     },
     {
       "id": "pitem_00-0-004-0-009",
@@ -1250,7 +1250,7 @@
           "text": ""
         }
       ],
-      "name": "하츠보시 배지(빨강)"
+      "name": "하츠보시 뱃지(빨강)"
     },
     {
       "id": "pitem_00-0-004-0-010",
@@ -1366,7 +1366,7 @@
           "text": "내 5회）"
         }
       ],
-      "name": "하츠보시 배지(빨강)"
+      "name": "하츠보시 뱃지(빨강)"
     },
     {
       "id": "pitem_00-0-004-0-011",
@@ -1442,7 +1442,7 @@
           "text": ""
         }
       ],
-      "name": "하츠보시 배지(빨강)"
+      "name": "하츠보시 뱃지(빨강)"
     },
     {
       "id": "pitem_00-0-004-0-012",
@@ -1558,7 +1558,7 @@
           "text": "내 1회）"
         }
       ],
-      "name": "하츠보시 배지(빨강)"
+      "name": "하츠보시 뱃지(빨강)"
     },
     {
       "id": "pitem_00-0-004-0-013",
@@ -1724,7 +1724,173 @@
           "text": "내 1회）"
         }
       ],
-      "name": "하츠보시 배지(빨강)"
+      "name": "하츠보시 뱃지(빨강)"
+    },
+    {
+      "id": "pitem_00-0-004-0-014",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "턴 개시시, "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamLessonValueMultiple",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamLessonValueMultiple",
+          "text": "파라미터 상승량 증가"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "<nobr>"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_Exam",
+          "examDescriptionType": "ExamDescriptionType_CustomizeEffectValuePercent1",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "120"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "%</nobr>（<nobr>"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_Exam",
+          "examDescriptionType": "ExamDescriptionType_CustomizeTurn",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "5"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "턴 </nobr>）"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamStaminaConsumptionAdd",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamStaminaConsumptionAdd",
+          "text": "소비 체력 증가 "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "<nobr>"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_Exam",
+          "examDescriptionType": "ExamDescriptionType_CustomizeTurn",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "5"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "턴 </nobr>"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "（"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Convert_002",
+          "text": "레슨"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "내 1회）"
+        }
+      ],
+      "name": "하츠보시 뱃지(빨강)"
     },
     {
       "id": "pitem_00-0-008-0-000",
@@ -7269,7 +7435,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "ダンスSPレッスン終了時、ランダムなPドリンク（SR以上）を獲得\n（プロデュース中2回）"
+          "text": "댄스 SP 레슨 종료시, 무작위 P 음료(SR 이상) 획득\n(프로듀스 중 2회)"
         }
       ],
       "name": "트레이너의 친절"
@@ -7285,7 +7451,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "ビジュアルSPレッスン終了時、ランダムなPドリンク（SR以上）を獲得\n（プロデュース中2回）"
+          "text": "비주얼 SP 레슨 종료시, 무작위 P 음료(SR 이상) 획득\n(프로듀스 중 2회)"
         }
       ],
       "name": "신체 마사지 롤러"
@@ -7301,7 +7467,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "ボーカルSPレッスン終了時、ランダムなPドリンク（SR以上）を獲得\n（プロデュース中2回）"
+          "text": "보컬 SP 레슨 종료시, 무작위 P 음료(SR 이상) 획득\n(프로듀스 중 2회)"
         }
       ],
       "name": "촉촉한 목 케어"
@@ -12168,6 +12334,202 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
           "text": "내 2회）"
+        }
+      ],
+      "name": "첫 번째 별 오브젝트(은색)"
+    },
+    {
+      "id": "pitem_01-0-001-0-004",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "턴 개시시, "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamLessonBuff",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamLessonBuff_Produce",
+          "text": "집중"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "<nobr>+"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_Exam",
+          "examDescriptionType": "ExamDescriptionType_CustomizeEffectValue1",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "12"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "</nobr>"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamParameterBuff",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamParameterBuff",
+          "text": "호조"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "<nobr>"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_Exam",
+          "examDescriptionType": "ExamDescriptionType_CustomizeTurn",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "3"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "턴 </nobr>"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamStaminaConsumptionAdd",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamStaminaConsumptionAdd",
+          "text": "소비 체력 증가 "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "<nobr>"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_Exam",
+          "examDescriptionType": "ExamDescriptionType_CustomizeTurn",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "4"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "턴 </nobr>"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "（"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Convert_002",
+          "text": "레슨"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "내 1회）"
         }
       ],
       "name": "첫 번째 별 오브젝트(은색)"
@@ -24940,7 +25302,7 @@
           "text": ""
         }
       ],
-      "name": "하츠성 라이트(주황색)"
+      "name": "하츠보시 라이트(주황색)"
     },
     {
       "id": "pitem_02-0-002-0-001",
@@ -25076,7 +25438,7 @@
           "text": "내 3회）"
         }
       ],
-      "name": "하츠성 라이트(주황색)"
+      "name": "하츠보시 라이트(주황색)"
     },
     {
       "id": "pitem_02-0-002-0-002",
@@ -25222,7 +25584,7 @@
           "text": "내 6회）"
         }
       ],
-      "name": "하츠성 라이트(주황색)"
+      "name": "하츠보시 라이트(주황색)"
     },
     {
       "id": "pitem_02-0-002-0-003",
@@ -25368,7 +25730,7 @@
           "text": "내 1회）"
         }
       ],
-      "name": "하츠성 라이트(주황색)"
+      "name": "하츠보시 라이트(주황색)"
     },
     {
       "id": "pitem_02-0-002-0-004",
@@ -25464,7 +25826,7 @@
           "text": "내 1회）"
         }
       ],
-      "name": "하츠성 라이트(주황색)"
+      "name": "하츠보시 라이트(주황색)"
     },
     {
       "id": "pitem_02-0-002-0-005",
@@ -25477,7 +25839,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "最終ターンのターン終了時、"
+          "text": "최종 턴 종료시, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -25590,7 +25952,7 @@
           "text": "내 1회）"
         }
       ],
-      "name": "하츠성 라이트(주황색)"
+      "name": "하츠보시 라이트(주황색)"
     },
     {
       "id": "pitem_02-0-006-0-000",
@@ -27306,6 +27668,152 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
           "text": "내 5회）"
+        }
+      ],
+      "name": "초성 라이트(보라색)"
+    },
+    {
+      "id": "pitem_02-0-006-0-013",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "턴 개시시, "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamCardPlayAggressive",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamCardPlayAggressive_Produce",
+          "text": "의욕"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "<nobr>+"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_Exam",
+          "examDescriptionType": "ExamDescriptionType_CustomizeEffectValue1",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "15"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "</nobr>"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_ActiveSkill",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ActiveSkillCard",
+          "text": "액티브 스킬 카드"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "사용 불가<nobr>"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_Exam",
+          "examDescriptionType": "ExamDescriptionType_CustomizeTurn",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "4"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "턴 </nobr>"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "（"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Convert_002",
+          "text": "레슨"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "내 1회）"
         }
       ],
       "name": "초성 라이트(보라색)"
@@ -54472,7 +54980,7 @@
           "text": "내 2회）"
         }
       ],
-      "name": "하츠성 라이트(주황색)"
+      "name": "하츠보시 라이트(주황색)"
     },
     {
       "id": "pitem_tower_001-exam_review-1-stage_010",
@@ -54578,7 +55086,7 @@
           "text": "(시작 7턴 동안 유효)"
         }
       ],
-      "name": "하츠성 라이트(주황색)"
+      "name": "하츠보시 라이트(주황색)"
     },
     {
       "id": "pitem_tower_001-exam_review-1-stage_015",
@@ -54654,7 +55162,7 @@
           "text": ""
         }
       ],
-      "name": "하츠성 라이트(주황색)"
+      "name": "하츠보시 라이트(주황색)"
     },
     {
       "id": "pitem_tower_001-exam_review-1-stage_016",
@@ -54810,7 +55318,7 @@
           "text": ""
         }
       ],
-      "name": "하츠성 라이트(주황색)"
+      "name": "하츠보시 라이트(주황색)"
     },
     {
       "id": "pitem_tower_001-exam_review-1-stage_017",
@@ -54906,7 +55414,7 @@
           "text": "내 5회）"
         }
       ],
-      "name": "하츠성 라이트(주황색)"
+      "name": "하츠보시 라이트(주황색)"
     },
     {
       "id": "pitem_tower_001-exam_review-1-stage_018",
@@ -54982,7 +55490,7 @@
           "text": ""
         }
       ],
-      "name": "하츠성 라이트(주황색)"
+      "name": "하츠보시 라이트(주황색)"
     },
     {
       "id": "pitem_tower_001-exam_review-1-stage_019",
@@ -55058,7 +55566,7 @@
           "text": ""
         }
       ],
-      "name": "하츠성 라이트(주황색)"
+      "name": "하츠보시 라이트(주황색)"
     },
     {
       "id": "pitem_tower_001-exam_review-1-stage_020",
@@ -55154,7 +55662,7 @@
           "text": ""
         }
       ],
-      "name": "하츠성 라이트(주황색)"
+      "name": "하츠보시 라이트(주황색)"
     },
     {
       "id": "pitem_tower_001-exam_review-2-stage_005",
@@ -55280,7 +55788,7 @@
           "text": "내 2회）"
         }
       ],
-      "name": "하츠성 라이트(주황색)"
+      "name": "하츠보시 라이트(주황색)"
     },
     {
       "id": "pitem_tower_001-exam_review-2-stage_010",
@@ -55346,7 +55854,7 @@
           "text": ""
         }
       ],
-      "name": "하츠성 라이트(주황색)"
+      "name": "하츠보시 라이트(주황색)"
     },
     {
       "id": "pitem_tower_001-exam_review-2-stage_015",
@@ -55522,7 +56030,7 @@
           "text": "내 5회）"
         }
       ],
-      "name": "하츠성 라이트(주황색)"
+      "name": "하츠보시 라이트(주황색)"
     },
     {
       "id": "pitem_tower_001-exam_review-2-stage_016",
@@ -55598,7 +56106,7 @@
           "text": ""
         }
       ],
-      "name": "하츠성 라이트(주황색)"
+      "name": "하츠보시 라이트(주황색)"
     },
     {
       "id": "pitem_tower_001-exam_review-2-stage_017",
@@ -55684,7 +56192,7 @@
           "text": ""
         }
       ],
-      "name": "하츠성 라이트(주황색)"
+      "name": "하츠보시 라이트(주황색)"
     },
     {
       "id": "pitem_tower_001-exam_review-2-stage_018",
@@ -55750,7 +56258,7 @@
           "text": ""
         }
       ],
-      "name": "하츠성 라이트(주황색)"
+      "name": "하츠보시 라이트(주황색)"
     },
     {
       "id": "pitem_tower_001-exam_review-2-stage_019",
@@ -55906,7 +56414,7 @@
           "text": ""
         }
       ],
-      "name": "하츠성 라이트(주황색)"
+      "name": "하츠보시 라이트(주황색)"
     },
     {
       "id": "pitem_tower_001-exam_review-2-stage_020",
@@ -56012,7 +56520,7 @@
           "text": "내 9회）"
         }
       ],
-      "name": "하츠성 라이트(주황색)"
+      "name": "하츠보시 라이트(주황색)"
     }
   ]
 }

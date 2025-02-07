@@ -11,7 +11,7 @@
     },
     {
       "id": "hidden_mission-normal-amao-piece-pack-remind",
-      "name": "마오피스팩 리마인드용"
+      "name": "마오 피스팩 리마인드용"
     },
     {
       "id": "hidden_mission-normal-fktn-piece-pack-remind",
@@ -19,19 +19,19 @@
     },
     {
       "id": "hidden_mission-normal-hrnm-piece-pack-remind",
-      "name": "리바피스팩 리마인드용"
+      "name": "리나미 피스팩 리마인드용"
     },
     {
       "id": "hidden_mission-normal-hski-piece-pack-remind",
-      "name": "사키 시즌 피스팩 리마인드용"
+      "name": "사키 피스팩 리마인드용"
     },
     {
       "id": "hidden_mission-normal-kcna-piece-pack-remind",
-      "name": "센나 피스팩 리마인드용"
+      "name": "치나 피스팩 리마인드용"
     },
     {
       "id": "hidden_mission-normal-kllj-piece-pack-remind",
-      "name": "릴리야피스팩 리마인드용"
+      "name": "릴리야 피스팩 리마인드용"
     },
     {
       "id": "hidden_mission-normal-main-task-clear-01-001",
@@ -767,27 +767,27 @@
     },
     {
       "id": "mission-highscore-event-001-mission_15",
-      "name": "츠키무라 테마리로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscore-event-001-mission_15_1",
-      "name": "츠키무라 테마리로 프로듀스 평가 총합 {threshold}획득하자（8/1 4:59:59까지）"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold}획득하자（8/1 4:59:59까지）"
     },
     {
       "id": "mission-highscore-event-001-mission_16",
-      "name": "카츠라기 릴리야로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "카츠라기 릴리야의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscore-event-001-mission_16_1",
-      "name": "카츠라기 릴리야로 프로듀스 평가 총합 {threshold}획득하자（8/1 4:59:59까지）"
+      "name": "카츠라기 릴리야의 프로듀스 평가를 총 {threshold}획득하자（8/1 4:59:59까지）"
     },
     {
       "id": "mission-highscore-event-001-mission_17",
-      "name": "시노사와 히로로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "시노사와 히로의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscore-event-001-mission_17_1",
-      "name": "시노사와 히로로 프로듀스 평가 총합 {threshold}획득하자（8/1 4:59:59까지）"
+      "name": "시노사와 히로의 프로듀스 평가를 총 {threshold}획득하자（8/1 4:59:59까지）"
     },
     {
       "id": "mission-highscore-event-002-mission_11",
@@ -823,19 +823,19 @@
     },
     {
       "id": "mission-highscore-event-002-mission_15",
-      "name": "쿠라모토 치나로 프로듀싱 평가를 총 {threshold} 획득하자"
+      "name": "쿠라모토 치나의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscore-event-002-mission_15_1",
-      "name": "쿠라모토 치나로 프로듀스 등급을 총 {threshold} 획득하자 (9/1 4:59:59까지)"
+      "name": "쿠라모토 치나의 프로듀스 평가를 총 {threshold} 획득하자 (9/1 4:59:59까지)"
     },
     {
       "id": "mission-highscore-event-002-mission_16",
-      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscore-event-002-mission_16_1",
-      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자 (9/1 4:59:59까지)"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자 (9/1 4:59:59까지)"
     },
     {
       "id": "mission-highscore-event-002-mission_17",
@@ -843,7 +843,7 @@
     },
     {
       "id": "mission-highscore-event-002-mission_17_1",
-      "name": "하나미 우메의 프로듀스 등급을 총 {threshold} 획득하자 (9/1 4:59:59까지)"
+      "name": "하나미 우메의 프로듀스 평가를 총 {threshold} 획득하자 (9/1 4:59:59까지)"
     },
     {
       "id": "mission-highscore-event-003-mission_11",
@@ -855,19 +855,19 @@
     },
     {
       "id": "mission-highscore-event-003-mission_13",
-      "name": "히메사키 리나미로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "히메사키 리나미의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscore-event-003-mission_14",
-      "name": "후지타 코토네로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscore-event-003-mission_15",
-      "name": "시운 스미카로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "시운 스미카의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscore-event-003-mission_16",
-      "name": "1일차 미션을 모두 클리어"
+      "name": "1일차의 미션을 모두 클리어"
     },
     {
       "id": "mission-highscore-event-003-mission_21",
@@ -879,19 +879,19 @@
     },
     {
       "id": "mission-highscore-event-003-mission_23",
-      "name": "히메사키 리나미로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "히메사키 리나미의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscore-event-003-mission_24",
-      "name": "후지타 코토네로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscore-event-003-mission_25",
-      "name": "시운 스미카로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "시운 스미카의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscore-event-003-mission_26",
-      "name": "2일차 미션을 모두 클리어"
+      "name": "2일차의 미션을 모두 클리어"
     },
     {
       "id": "mission-highscore-event-003-mission_31",
@@ -903,19 +903,19 @@
     },
     {
       "id": "mission-highscore-event-003-mission_33",
-      "name": "히메사키 리나미로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "히메사키 리나미의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscore-event-003-mission_34",
-      "name": "후지타 코토네로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscore-event-003-mission_35",
-      "name": "시운 스미카로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "시운 스미카의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscore-event-003-mission_36",
-      "name": "3일차 미션을 모두 클리어"
+      "name": "3일차의 미션을 모두 클리어"
     },
     {
       "id": "mission-highscore-event-003-mission_41",
@@ -927,19 +927,19 @@
     },
     {
       "id": "mission-highscore-event-003-mission_43",
-      "name": "히메사키 리나미로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "히메사키 리나미의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscore-event-003-mission_44",
-      "name": "후지타 코토네로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscore-event-003-mission_45",
-      "name": "시운 스미카로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "시운 스미카의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscore-event-003-mission_46",
-      "name": "4일차 미션을 모두 클리어"
+      "name": "4일차의 미션을 모두 클리어"
     },
     {
       "id": "mission-highscore-event-003-mission_51",
@@ -951,19 +951,19 @@
     },
     {
       "id": "mission-highscore-event-003-mission_53",
-      "name": "히메사키 리나미로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "히메사키 리나미의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscore-event-003-mission_54",
-      "name": "후지타 코토네로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscore-event-003-mission_55",
-      "name": "시운 스미카로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "시운 스미카의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscore-event-003-mission_56",
-      "name": "5일차 미션을 모두 클리어"
+      "name": "5일차의 미션을 모두 클리어"
     },
     {
       "id": "mission-highscore-event-004-mission_11",
@@ -975,11 +975,11 @@
     },
     {
       "id": "mission-highscore-event-004-mission_13",
-      "name": "아리무라 마오로 프로듀싱 평가를 총 {threshold} 획득하자"
+      "name": "아리무라 마오의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscore-event-004-mission_14",
-      "name": "주오 세나로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "주오 세나의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscore-event-004-mission_15",
@@ -987,7 +987,7 @@
     },
     {
       "id": "mission-highscore-event-004-mission_16",
-      "name": "1일차 미션을 모두 클리어"
+      "name": "1일차의 미션을 모두 클리어"
     },
     {
       "id": "mission-highscore-event-004-mission_21",
@@ -999,11 +999,11 @@
     },
     {
       "id": "mission-highscore-event-004-mission_23",
-      "name": "아리무라 마오로 프로듀싱 평가를 총 {threshold} 획득하자"
+      "name": "아리무라 마오의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscore-event-004-mission_24",
-      "name": "주오 세나로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "주오 세나의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscore-event-004-mission_25",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": "mission-highscore-event-004-mission_26",
-      "name": "2일차 미션을 모두 클리어"
+      "name": "2일차의 미션을 모두 클리어"
     },
     {
       "id": "mission-highscore-event-004-mission_31",
@@ -1023,11 +1023,11 @@
     },
     {
       "id": "mission-highscore-event-004-mission_33",
-      "name": "아리무라 마오로 프로듀싱 평가를 총 {threshold} 획득하자"
+      "name": "아리무라 마오의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscore-event-004-mission_34",
-      "name": "주오 세나로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "주오 세나의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscore-event-004-mission_35",
@@ -1035,7 +1035,7 @@
     },
     {
       "id": "mission-highscore-event-004-mission_36",
-      "name": "3일차 미션을 모두 클리어"
+      "name": "3일차의 미션을 모두 클리어"
     },
     {
       "id": "mission-highscore-event-004-mission_41",
@@ -1047,11 +1047,11 @@
     },
     {
       "id": "mission-highscore-event-004-mission_43",
-      "name": "아리무라 마오로 프로듀싱 평가를 총 {threshold} 획득하자"
+      "name": "아리무라 마오의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscore-event-004-mission_44",
-      "name": "주오 세나로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "주오 세나의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscore-event-004-mission_45",
@@ -1059,7 +1059,7 @@
     },
     {
       "id": "mission-highscore-event-004-mission_46",
-      "name": "4일차 미션을 모두 클리어"
+      "name": "4일차의 미션을 모두 클리어"
     },
     {
       "id": "mission-highscore-event-004-mission_51",
@@ -1071,11 +1071,11 @@
     },
     {
       "id": "mission-highscore-event-004-mission_53",
-      "name": "아리무라 마오로 프로듀싱 평가를 총 {threshold} 획득하자"
+      "name": "아리무라 마오의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscore-event-004-mission_54",
-      "name": "주오 세나로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "주오 세나의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscore-event-004-mission_55",
@@ -1083,7 +1083,7 @@
     },
     {
       "id": "mission-highscore-event-004-mission_56",
-      "name": "5일차 미션을 모두 클리어"
+      "name": "5일차의 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-001-mission_11",
@@ -1095,19 +1095,19 @@
     },
     {
       "id": "mission-main-story-event-001-mission_13",
-      "name": "후지타 코토네로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-001-mission_14",
-      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-001-mission_15",
-      "name": "츠키무라 테마리로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-001-mission_16",
-      "name": "1일차 미션을 모두 클리어"
+      "name": "1일차의 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-001-mission_21",
@@ -1119,19 +1119,19 @@
     },
     {
       "id": "mission-main-story-event-001-mission_23",
-      "name": "후지타 코토네로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-001-mission_24",
-      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-001-mission_25",
-      "name": "츠키무라 테마리로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-001-mission_26",
-      "name": "2일차 미션을 모두 클리어"
+      "name": "2일차의 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-001-mission_31",
@@ -1143,19 +1143,19 @@
     },
     {
       "id": "mission-main-story-event-001-mission_33",
-      "name": "후지타 코토네로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-001-mission_34",
-      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-001-mission_35",
-      "name": "츠키무라 테마리로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-001-mission_36",
-      "name": "3일차 미션을 모두 클리어"
+      "name": "3일차의 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-001-mission_41",
@@ -1167,19 +1167,19 @@
     },
     {
       "id": "mission-main-story-event-001-mission_43",
-      "name": "후지타 코토네로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-001-mission_44",
-      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-001-mission_45",
-      "name": "츠키무라 테마리로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-001-mission_46",
-      "name": "4일차 미션을 모두 클리어"
+      "name": "4일차의 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-001-mission_51",
@@ -1191,19 +1191,19 @@
     },
     {
       "id": "mission-main-story-event-001-mission_53",
-      "name": "후지타 코토네로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-001-mission_54",
-      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-001-mission_55",
-      "name": "츠키무라 테마리로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-001-mission_56",
-      "name": "5일차 미션을 모두 클리어"
+      "name": "5일차의 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-002-mission_11",
@@ -1215,11 +1215,11 @@
     },
     {
       "id": "mission-main-story-event-002-mission_13",
-      "name": "시운 스미카로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "시운 스미카의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-002-mission_14",
-      "name": "카츠라기 릴리야로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "카츠라기 릴리야의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-002-mission_15",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": "mission-main-story-event-002-mission_16",
-      "name": "1일차 미션을 모두 클리어"
+      "name": "1일차의 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-002-mission_21",
@@ -1239,11 +1239,11 @@
     },
     {
       "id": "mission-main-story-event-002-mission_23",
-      "name": "시운 스미카로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "시운 스미카의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-002-mission_24",
-      "name": "카츠라기 릴리야로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "카츠라기 릴리야의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-002-mission_25",
@@ -1251,7 +1251,7 @@
     },
     {
       "id": "mission-main-story-event-002-mission_26",
-      "name": "2일차 미션을 모두 클리어"
+      "name": "2일차의 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-002-mission_31",
@@ -1263,11 +1263,11 @@
     },
     {
       "id": "mission-main-story-event-002-mission_33",
-      "name": "시운 스미카로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "시운 스미카의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-002-mission_34",
-      "name": "카츠라기 릴리야로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "카츠라기 릴리야의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-002-mission_35",
@@ -1275,7 +1275,7 @@
     },
     {
       "id": "mission-main-story-event-002-mission_36",
-      "name": "3일차 미션을 모두 클리어"
+      "name": "3일차의 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-002-mission_41",
@@ -1287,11 +1287,11 @@
     },
     {
       "id": "mission-main-story-event-002-mission_43",
-      "name": "시운 스미카로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "시운 스미카의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-002-mission_44",
-      "name": "카츠라기 릴리야로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "카츠라기 릴리야의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-002-mission_45",
@@ -1299,7 +1299,7 @@
     },
     {
       "id": "mission-main-story-event-002-mission_46",
-      "name": "4일차 미션을 모두 클리어"
+      "name": "4일차의 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-002-mission_51",
@@ -1311,11 +1311,11 @@
     },
     {
       "id": "mission-main-story-event-002-mission_53",
-      "name": "시운 스미카로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "시운 스미카의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-002-mission_54",
-      "name": "카츠라기 릴리야로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "카츠라기 릴리야의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-002-mission_55",
@@ -1323,7 +1323,7 @@
     },
     {
       "id": "mission-main-story-event-002-mission_56",
-      "name": "5일차 미션을 모두 클리어"
+      "name": "5일차의 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-003-mission_11",
@@ -1335,7 +1335,7 @@
     },
     {
       "id": "mission-main-story-event-003-mission_13",
-      "name": "쿠라모토 치나로 프로듀싱 평가를 총 {threshold} 획득하자"
+      "name": "쿠라모토 치나의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-003-mission_14",
@@ -1343,11 +1343,11 @@
     },
     {
       "id": "mission-main-story-event-003-mission_15",
-      "name": "아리무라 마오로 프로듀싱 평가를 총 {threshold} 획득하자"
+      "name": "아리무라 마오의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-003-mission_16",
-      "name": "1일차 미션을 모두 클리어"
+      "name": "1일차의 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-003-mission_21",
@@ -1359,7 +1359,7 @@
     },
     {
       "id": "mission-main-story-event-003-mission_23",
-      "name": "쿠라모토 치나로 프로듀싱 평가를 총 {threshold} 획득하자"
+      "name": "쿠라모토 치나의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-003-mission_24",
@@ -1367,11 +1367,11 @@
     },
     {
       "id": "mission-main-story-event-003-mission_25",
-      "name": "아리무라 마오로 프로듀싱 평가를 총 {threshold} 획득하자"
+      "name": "아리무라 마오의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-003-mission_26",
-      "name": "2일차 미션을 모두 클리어"
+      "name": "2일차의 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-003-mission_31",
@@ -1383,7 +1383,7 @@
     },
     {
       "id": "mission-main-story-event-003-mission_33",
-      "name": "쿠라모토 치나로 프로듀싱 평가를 총 {threshold} 획득하자"
+      "name": "쿠라모토 치나의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-003-mission_34",
@@ -1391,11 +1391,11 @@
     },
     {
       "id": "mission-main-story-event-003-mission_35",
-      "name": "아리무라 마오로 프로듀싱 평가를 총 {threshold} 획득하자"
+      "name": "아리무라 마오의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-003-mission_36",
-      "name": "3일차 미션을 모두 클리어"
+      "name": "3일차의 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-003-mission_41",
@@ -1407,7 +1407,7 @@
     },
     {
       "id": "mission-main-story-event-003-mission_43",
-      "name": "쿠라모토 치나로 프로듀싱 평가를 총 {threshold} 획득하자"
+      "name": "쿠라모토 치나의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-003-mission_44",
@@ -1415,11 +1415,11 @@
     },
     {
       "id": "mission-main-story-event-003-mission_45",
-      "name": "아리무라 마오로 프로듀싱 평가를 총 {threshold} 획득하자"
+      "name": "아리무라 마오의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-003-mission_46",
-      "name": "4일차 미션을 모두 클리어"
+      "name": "4일차의 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-003-mission_51",
@@ -1431,7 +1431,7 @@
     },
     {
       "id": "mission-main-story-event-003-mission_53",
-      "name": "쿠라모토 치나로 프로듀싱 평가를 총 {threshold} 획득하자"
+      "name": "쿠라모토 치나의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-003-mission_54",
@@ -1439,11 +1439,11 @@
     },
     {
       "id": "mission-main-story-event-003-mission_55",
-      "name": "아리무라 마오로 프로듀싱 평가를 총 {threshold} 획득하자"
+      "name": "아리무라 마오의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-003-mission_56",
-      "name": "5일차 미션을 모두 클리어"
+      "name": "5일차의 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-004-mission_11",
@@ -1455,19 +1455,19 @@
     },
     {
       "id": "mission-main-story-event-004-mission_13",
-      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-004-mission_14",
-      "name": "후지타 코토네로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-004-mission_15",
-      "name": "히메사키 리나미로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "히메사키 리나미의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-004-mission_16",
-      "name": "1일차 미션을 모두 클리어"
+      "name": "1일차의 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-004-mission_21",
@@ -1479,19 +1479,19 @@
     },
     {
       "id": "mission-main-story-event-004-mission_23",
-      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-004-mission_24",
-      "name": "후지타 코토네로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-004-mission_25",
-      "name": "히메사키 리나미로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "히메사키 리나미의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-004-mission_26",
-      "name": "2일차 미션을 모두 클리어"
+      "name": "2일차의 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-004-mission_31",
@@ -1503,19 +1503,19 @@
     },
     {
       "id": "mission-main-story-event-004-mission_33",
-      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-004-mission_34",
-      "name": "후지타 코토네로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-004-mission_35",
-      "name": "히메사키 리나미로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "히메사키 리나미의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-004-mission_36",
-      "name": "3일차 미션을 모두 클리어"
+      "name": "3일차의 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-004-mission_41",
@@ -1527,19 +1527,19 @@
     },
     {
       "id": "mission-main-story-event-004-mission_43",
-      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-004-mission_44",
-      "name": "후지타 코토네로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-004-mission_45",
-      "name": "히메사키 리나미로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "히메사키 리나미의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-004-mission_46",
-      "name": "4일차 미션을 모두 클리어"
+      "name": "4일차의 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-004-mission_51",
@@ -1551,19 +1551,19 @@
     },
     {
       "id": "mission-main-story-event-004-mission_53",
-      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-004-mission_54",
-      "name": "후지타 코토네로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-004-mission_55",
-      "name": "히메사키 리나미로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "히메사키 리나미의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-004-mission_56",
-      "name": "5일차 미션을 모두 클리어"
+      "name": "5일차의 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-005-mission_11",
@@ -1575,7 +1575,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_13",
-      "name": "츠키무라 테마리로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-005-mission_14",
@@ -1583,11 +1583,11 @@
     },
     {
       "id": "mission-main-story-event-005-mission_15",
-      "name": "주오 세나로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "주오 세나의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-005-mission_16",
-      "name": "1일차 미션을 모두 클리어"
+      "name": "1일차의 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-005-mission_21",
@@ -1599,7 +1599,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_23",
-      "name": "츠키무라 테마리로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-005-mission_24",
@@ -1607,11 +1607,11 @@
     },
     {
       "id": "mission-main-story-event-005-mission_25",
-      "name": "주오 세나로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "주오 세나의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-005-mission_26",
-      "name": "2일차 미션을 모두 클리어"
+      "name": "2일차의 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-005-mission_31",
@@ -1623,7 +1623,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_33",
-      "name": "츠키무라 테마리로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-005-mission_34",
@@ -1631,11 +1631,11 @@
     },
     {
       "id": "mission-main-story-event-005-mission_35",
-      "name": "주오 세나로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "주오 세나의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-005-mission_36",
-      "name": "3일차 미션을 모두 클리어"
+      "name": "3일차의 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-005-mission_41",
@@ -1647,7 +1647,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_43",
-      "name": "츠키무라 테마리로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-005-mission_44",
@@ -1655,11 +1655,11 @@
     },
     {
       "id": "mission-main-story-event-005-mission_45",
-      "name": "주오 세나로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "주오 세나의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-005-mission_46",
-      "name": "4일차 미션을 모두 클리어"
+      "name": "4일차의 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-005-mission_51",
@@ -1671,7 +1671,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_53",
-      "name": "츠키무라 테마리로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-005-mission_54",
@@ -1679,11 +1679,11 @@
     },
     {
       "id": "mission-main-story-event-005-mission_55",
-      "name": "주오 세나로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "주오 세나의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-005-mission_56",
-      "name": "5일차 미션을 모두 클리어"
+      "name": "5일차의 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-006-mission_11",
@@ -1695,19 +1695,19 @@
     },
     {
       "id": "mission-main-story-event-006-mission_13",
-      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-006-mission_14",
-      "name": "츠키무라 테마리로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-006-mission_15",
-      "name": "후지타 코토네로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-006-mission_16",
-      "name": "1일차 미션을 모두 클리어"
+      "name": "1일차의 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-006-mission_21",
@@ -1719,19 +1719,19 @@
     },
     {
       "id": "mission-main-story-event-006-mission_23",
-      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-006-mission_24",
-      "name": "츠키무라 테마리로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-006-mission_25",
-      "name": "후지타 코토네로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-006-mission_26",
-      "name": "2일차 미션을 모두 클리어"
+      "name": "2일차의 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-006-mission_31",
@@ -1743,19 +1743,19 @@
     },
     {
       "id": "mission-main-story-event-006-mission_33",
-      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-006-mission_34",
-      "name": "츠키무라 테마리로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-006-mission_35",
-      "name": "후지타 코토네로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-006-mission_36",
-      "name": "3일차 미션을 모두 클리어"
+      "name": "3일차의 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-006-mission_41",
@@ -1767,19 +1767,19 @@
     },
     {
       "id": "mission-main-story-event-006-mission_43",
-      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-006-mission_44",
-      "name": "츠키무라 테마리로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-006-mission_45",
-      "name": "후지타 코토네로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-006-mission_46",
-      "name": "4일차 미션을 모두 클리어"
+      "name": "4일차의 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-006-mission_51",
@@ -1791,19 +1791,139 @@
     },
     {
       "id": "mission-main-story-event-006-mission_53",
-      "name": "하나미 사키에서 프로듀스 등급을 총 {threshold} 획득하자"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-006-mission_54",
-      "name": "츠키무라 테마리로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-006-mission_55",
-      "name": "후지타 코토네로 프로듀스 평가 총합 {threshold} 획득하자"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-006-mission_56",
-      "name": "5일차 미션을 모두 클리어"
+      "name": "5일차의 미션을 모두 클리어"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_11",
+      "name": "AP를 {threshold} 소모하자"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_12",
+      "name": "하나미 사키의 팬을 {threshold}명 확보하자"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_13",
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_14",
+      "name": "하나미 우메의 프로듀스 평가를 총 {threshold} 획득하자"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_15",
+      "name": "주오 세나의 프로듀스 평가를 총 {threshold} 획득하자"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_16",
+      "name": "1일차의 미션을 모두 클리어"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_21",
+      "name": "AP를 {threshold} 소모하자"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_22",
+      "name": "하나미 우메의 팬을 {threshold}명 확보하자"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_23",
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_24",
+      "name": "하나미 우메의 프로듀스 평가를 총 {threshold} 획득하자"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_25",
+      "name": "주오 세나의 프로듀스 평가를 총 {threshold} 획득하자"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_26",
+      "name": "2일차의 미션을 모두 클리어"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_31",
+      "name": "AP를 {threshold} 소모하자"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_32",
+      "name": "주오 세나의 팬 {threshold}명 확보하자"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_33",
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_34",
+      "name": "하나미 우메의 프로듀스 평가를 총 {threshold} 획득하자"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_35",
+      "name": "주오 세나의 프로듀스 평가를 총 {threshold} 획득하자"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_36",
+      "name": "3일차의 미션을 모두 클리어"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_41",
+      "name": "AP를 {threshold} 소모하자"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_42",
+      "name": "하나미 사키 또는 하나미 우메 또는 주오 세나의 팬을 {threshold}명 확보하자"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_43",
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_44",
+      "name": "하나미 우메의 프로듀스 평가를 총 {threshold} 획득하자"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_45",
+      "name": "주오 세나의 프로듀스 평가를 총 {threshold} 획득하자"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_46",
+      "name": "4일차의 미션을 모두 클리어"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_51",
+      "name": "AP를 {threshold} 소모하자"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_52",
+      "name": "하나미 사키 또는 하나미 우메 또는 주오 세나의 팬을 {threshold}명 확보하자"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_53",
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_54",
+      "name": "하나미 우메의 프로듀스 평가를 총 {threshold} 획득하자"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_55",
+      "name": "주오 세나의 프로듀스 평가를 총 {threshold} 획득하자"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_56",
+      "name": "5일차의 미션을 모두 클리어"
     },
     {
       "id": "mission-normal-absolutedearnesslevel-1",
