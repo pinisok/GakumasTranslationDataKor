@@ -67,7 +67,7 @@
     },
     {
       "id": "achieve-i_card-fktn-3-002-01",
-      "name": "여름 밤의 향불",
+      "name": "여름 밤의 선향불꽃",
       "description": "【관국】후지타 코토네의 프로듀스로 최종 시험에 합격"
     },
     {
@@ -107,12 +107,12 @@
     },
     {
       "id": "achieve-i_card-fktn-3-007-03",
-      "name": "진짜 진짜 진짜 진심",
+      "name": "진짜 진짜 지인짜 진심",
       "description": "【Campus mode!!】후지타 코토네의 프로듀스에서 평가 A+이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-hrnm-3-001-01",
-      "name": "입도 구름과, 너",
+      "name": "소나기 구름과, 너",
       "description": "【너와 세미블루】히메사키 리나미의 프로듀스로 최종 시험에 합격"
     },
     {
@@ -257,7 +257,7 @@
     },
     {
       "id": "achieve-i_card-hume-2-000-03",
-      "name": "불패의 톱 아이돌",
+      "name": "상승불패의 톱 아이돌",
       "description": "【아이돌, 시작!】 하나미 우메의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
@@ -372,8 +372,8 @@
     },
     {
       "id": "achieve-i_card-kcna-3-001-02",
-      "name": "매일매일, 발견적 단계!",
-      "description": "【매일매일, 발견적 단계!】쿠라모토 치나의 특훈 단계를{threshold}로 설정"
+      "name": "매일매일, 발견적 스텝!",
+      "description": "【매일매일, 발견적 스텝!】쿠라모토 치나의 특훈 단계를{threshold}로 설정"
     },
     {
       "id": "achieve-i_card-kcna-3-001-03",
@@ -482,7 +482,7 @@
     },
     {
       "id": "achieve-i_card-shro-3-001-03",
-      "name": "신비한 매력",
+      "name": "설명할 수 없는 신비한 매력",
       "description": "【콘트라스트】시노사와 히로의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
@@ -708,7 +708,7 @@
     {
       "id": "achieve-o_009",
       "name": "도깨비 방망이",
-      "description": "활동비로 총 {threshold} 머니를 받습니다."
+      "description": "활동비로 총 {threshold} 머니 받기"
     },
     {
       "id": "achieve-o_010",
@@ -2327,7 +2327,7 @@
     },
     {
       "id": "achieve-p_idol-ttmr-014",
-      "name": "가희희",
+      "name": "가희",
       "description": "츠키무라 테마리의 보컬을 1000 이상으로 육성하고 프로듀스를 완료하자"
     },
     {
