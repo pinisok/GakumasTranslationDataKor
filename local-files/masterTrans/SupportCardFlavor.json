@@ -579,17 +579,32 @@
     {
       "supportCardId": "s_card-2-0042",
       "number": 1,
-      "text": "このあたりを盛ると\nほほが柔らかく見えると思います。"
+      "text": "이 부분을 손보면,\n볼이 부드러워보일거라 생각해요."
     },
     {
       "supportCardId": "s_card-2-0042",
       "number": 2,
-      "text": "なるほど……こうかしら？"
+      "text": "과연…… 이렇게 하면 될까?"
     },
     {
       "supportCardId": "s_card-2-0042",
       "number": 3,
-      "text": "はい。\nとても可愛らしくなりましたね。"
+      "text": "네.\n정말 귀여워졌네요."
+    },
+    {
+      "supportCardId": "s_card-2-0044",
+      "number": 1,
+      "text": "わぁ！　すごく綺麗な音色っ♪"
+    },
+    {
+      "supportCardId": "s_card-2-0044",
+      "number": 2,
+      "text": "葉をピンと張って。\n咥えすぎないのがコツ。"
+    },
+    {
+      "supportCardId": "s_card-2-0044",
+      "number": 3,
+      "text": "上手く吹くの……\nむ、難しいですわ～～～！"
     },
     {
       "supportCardId": "s_card-3-0000",
@@ -1304,17 +1319,32 @@
     {
       "supportCardId": "s_card-3-0048",
       "number": 1,
-      "text": "ぎょ、行列ですわ～！"
+      "text": "주, 줄을 서고있사와요~!"
     },
     {
       "supportCardId": "s_card-3-0048",
       "number": 2,
-      "text": "ふふ、こんなに集まってくれる\nなんて、嬉しいわ。"
+      "text": "후후, 이렇게 많이 모여주다니,\n기뻐."
     },
     {
       "supportCardId": "s_card-3-0048",
       "number": 3,
-      "text": "わたくしの順番、もうすぐ……\nん～！　ドキドキしますわぁ～！"
+      "text": "제 차례, 이제 곧……\n음~! 두근두근거려요~!"
+    },
+    {
+      "supportCardId": "s_card-3-0050",
+      "number": 1,
+      "text": "今日は思いっきり遊ぼう！"
+    },
+    {
+      "supportCardId": "s_card-3-0050",
+      "number": 2,
+      "text": "はげしすぎますわ～～～～！？"
+    },
+    {
+      "supportCardId": "s_card-3-0050",
+      "number": 3,
+      "text": "おお……佑芽、わたしにもやって。"
     }
   ]
 }

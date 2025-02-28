@@ -7,7 +7,7 @@
   "data": [
     {
       "id": "costume_head_amao-casl-0000",
-      "name": "평소 헤어스타일",
+      "name": "평소의 헤어스타일",
       "description": "처음부터 소지"
     },
     {
@@ -43,12 +43,12 @@
     {
       "id": "costume_head_amao-cstm-0063",
       "name": "관국",
-      "description": "【Fluorite】'24제 아리무라 마오 획득"
+      "description": "【Fluorite】'24 축제 아리무라 마오 획득"
     },
     {
       "id": "costume_head_amao-cstm-0065",
       "name": "가장광소곡",
-      "description": "【Fluorite】'24할로윈 아리무라 마오를 입수"
+      "description": "【Fluorite】'24 할로윈 아리무라 마오를 입수"
     },
     {
       "id": "costume_head_amao-hair-0000",
@@ -77,12 +77,12 @@
     },
     {
       "id": "costume_head_atbm-schl-0000",
-      "name": "평소 헤어스타일",
+      "name": "평소의 헤어스타일",
       "description": "처음부터 소지"
     },
     {
       "id": "costume_head_fktn-casl-0000",
-      "name": "평소 헤어스타일",
+      "name": "평소의 헤어스타일",
       "description": "처음부터 소지"
     },
     {
@@ -102,12 +102,12 @@
     },
     {
       "id": "costume_head_fktn-cstm-0027",
-      "name": "Yellow Big Bang！",
+      "name": "Yellow Big Bang!",
       "description": "【Yellow Big Bang！】후지타 코토네 입수!"
     },
     {
       "id": "costume_head_fktn-cstm-0028",
-      "name": "Yellow Big Bang！",
+      "name": "Yellow Big Bang!",
       "description": "【Yellow Big Bang！】후지타 코토네의 재능 개화 4단계 달성"
     },
     {
@@ -133,7 +133,7 @@
     {
       "id": "costume_head_fktn-cstm-0065",
       "name": "가장광소곡",
-      "description": "【세계 제일 귀여운 나】'24할로윈 후지타 코토네 입수"
+      "description": "【세계 제일 귀여운 나】'24 할로윈 후지타 코토네 입수"
     },
     {
       "id": "costume_head_fktn-cstm-0072",
@@ -172,7 +172,7 @@
     },
     {
       "id": "costume_head_hmsz-casl-0000",
-      "name": "평소 헤어스타일",
+      "name": "평소의 헤어스타일",
       "description": "처음부터 소지"
     },
     {
@@ -193,7 +193,7 @@
     {
       "id": "costume_head_hrnm-cstm-0037",
       "name": "L.U.V",
-      "description": "【L.U.V】히메사키 리나미를 입수했다."
+      "description": "【L.U.V】히메사키 리나미를 입수"
     },
     {
       "id": "costume_head_hrnm-cstm-0038",
@@ -213,7 +213,7 @@
     {
       "id": "costume_head_hrnm-cstm-0053",
       "name": "Campus mode!!",
-      "description": "【Campus mode!!】히메사키 리나미를 입수했다."
+      "description": "【Campus mode!!】히메사키 리나미를 입수"
     },
     {
       "id": "costume_head_hrnm-cstm-0054",
@@ -228,12 +228,12 @@
     {
       "id": "costume_head_hrnm-cstm-0063",
       "name": "관국",
-      "description": "【clumsy trick】'24제 히메사키 리나미 입수"
+      "description": "【clumsy trick】'24 축제 히메사키 리나미 입수"
     },
     {
       "id": "costume_head_hrnm-cstm-0065",
       "name": "가장광소곡",
-      "description": "【clumsy trick】'24할로윈 히메자키 리나미를 입수"
+      "description": "【clumsy trick】'24 할로윈 히메자키 리나미를 입수"
     },
     {
       "id": "costume_head_hrnm-cstm-0072",
@@ -267,7 +267,7 @@
     },
     {
       "id": "costume_head_hrnm-schl-0000",
-      "name": "평소 헤어스타일",
+      "name": "평소의 헤어스타일",
       "description": "처음부터 소지"
     },
     {
@@ -313,7 +313,7 @@
     {
       "id": "costume_head_hski-cstm-0065",
       "name": "가장광소곡",
-      "description": "【Fighting My Way】'24헐로윈 하나미 사키를 입수"
+      "description": "【Fighting My Way】'24 헐로윈 하나미 사키를 입수"
     },
     {
       "id": "costume_head_hski-cstm-0070",
@@ -357,7 +357,7 @@
     },
     {
       "id": "costume_head_hski-schl-0000",
-      "name": "평소 헤어스타일",
+      "name": "평소의 헤어스타일",
       "description": "처음부터 소지"
     },
     {
@@ -368,7 +368,7 @@
     {
       "id": "costume_head_hume-cstm-0010",
       "name": "The Rolling Riceball",
-      "description": "【The Rolling Riceball】 하나미 우메를 입수했다."
+      "description": "【The Rolling Riceball】 하나미 우메를 입수"
     },
     {
       "id": "costume_head_hume-cstm-0022",
@@ -398,12 +398,12 @@
     {
       "id": "costume_head_hume-cstm-0063",
       "name": "관국",
-      "description": "【The Rolling Riceball】'24축제 하나미 우메를 입수했다."
+      "description": "【The Rolling Riceball】'24 축제 하나미 우메를 입수"
     },
     {
       "id": "costume_head_hume-cstm-0065",
       "name": "가장광소곡",
-      "description": "【The Rolling Riceball】'24할로윈 하나미 ​​우메를 입수"
+      "description": "【The Rolling Riceball】'24 할로윈 하나미 ​​우메를 입수"
     },
     {
       "id": "costume_head_hume-cstm-0072",
@@ -436,8 +436,13 @@
       "description": "프리미엄 미션 패스 2024년 12월에 획득 가능"
     },
     {
+      "id": "costume_head_hume-hair-0006",
+      "name": "하츠미☆액세서리",
+      "description": "プレミアムミッションパス 2025年3月で獲得"
+    },
+    {
       "id": "costume_head_hume-schl-0000",
-      "name": "평소 헤어스타일",
+      "name": "평소의 헤어스타일",
       "description": "처음부터 소지"
     },
     {
@@ -486,13 +491,18 @@
       "description": "프리미엄 미션 패스 2024년 12월에 획득 가능"
     },
     {
+      "id": "costume_head_jsna-hair-0006",
+      "name": "하츠미☆액세서리",
+      "description": "プレミアムミッションパス 2025年3月で獲得"
+    },
+    {
       "id": "costume_head_jsna-schl-0000",
-      "name": "평소 헤어스타일",
+      "name": "평소의 헤어스타일",
       "description": "처음부터 소지"
     },
     {
       "id": "costume_head_kcna-casl-0000",
-      "name": "평소 헤어스타일",
+      "name": "평소의 헤어스타일",
       "description": "처음부터 소지"
     },
     {
@@ -508,7 +518,7 @@
     {
       "id": "costume_head_kcna-cstm-0033",
       "name": "매일매일, 발견적 단계!",
-      "description": "【매일매일, 발견적 단계!】쿠라모토 치나를 입수했다."
+      "description": "【매일매일, 발견적 단계!】쿠라모토 치나를 입수"
     },
     {
       "id": "costume_head_kcna-cstm-0034",
@@ -518,17 +528,27 @@
     {
       "id": "costume_head_kcna-cstm-0053",
       "name": "Campus mode!!",
-      "description": "【Campus mode!!】쿠라모토 치나를 입수했다."
+      "description": "【Campus mode!!】쿠라모토 치나를 입수"
+    },
+    {
+      "id": "costume_head_kcna-cstm-0061",
+      "name": "눈이 녹을 때에",
+      "description": "【눈이 녹을 때에】쿠라모토 치나를 입수"
+    },
+    {
+      "id": "costume_head_kcna-cstm-0062",
+      "name": "눈이 녹을 때에",
+      "description": "【눈이 녹을 때에】쿠라모토 치나의 재능 개화 4단계 달성"
     },
     {
       "id": "costume_head_kcna-cstm-0063",
       "name": "관국",
-      "description": "【Wonder Scale】'24축제 쿠라모토 치나를 입수했다."
+      "description": "【Wonder Scale】'24 축제 쿠라모토 치나를 입수"
     },
     {
       "id": "costume_head_kcna-cstm-0065",
       "name": "가장광소곡",
-      "description": "【가장광소곡】쿠라모토 치나를 입수했다."
+      "description": "【가장광소곡】쿠라모토 치나를 입수"
     },
     {
       "id": "costume_head_kcna-hair-0001",
@@ -549,6 +569,11 @@
       "id": "costume_head_kcna-hair-0004",
       "name": "고양이 귀",
       "description": "프리미엄 미션 패스 2024년 12월에 획득 가능"
+    },
+    {
+      "id": "costume_head_kcna-hair-0006",
+      "name": "하츠미☆액세서리",
+      "description": "プレミアムミッションパス 2025年3月で獲得"
     },
     {
       "id": "costume_head_kllj-cstm-0007",
@@ -588,7 +613,7 @@
     {
       "id": "costume_head_kllj-cstm-0065",
       "name": "가장광소곡",
-      "description": "【백선】'24할로윈 카츠라기 릴리야를 입수"
+      "description": "【백선】'24 할로윈 카츠라기 릴리야를 입수"
     },
     {
       "id": "costume_head_kllj-hair-0001",
@@ -612,12 +637,12 @@
     },
     {
       "id": "costume_head_kllj-schl-0000",
-      "name": "평소 헤어스타일",
+      "name": "평소의 헤어스타일",
       "description": "처음부터 소지"
     },
     {
       "id": "costume_head_shro-casl-0000",
-      "name": "평소 헤어스타일",
+      "name": "평소의 헤어스타일",
       "description": "처음부터 소지"
     },
     {
@@ -653,7 +678,7 @@
     {
       "id": "costume_head_shro-cstm-0063",
       "name": "관국",
-      "description": "【광경】'24축제 시노사와 히로를 입수했다."
+      "description": "【광경】'24 축제 시노사와 히로를 입수"
     },
     {
       "id": "costume_head_shro-hair-0001",
@@ -676,13 +701,18 @@
       "description": "프리미엄 미션 패스 2024년 12월에 획득 가능"
     },
     {
+      "id": "costume_head_shro-hair-0006",
+      "name": "하츠미☆액세서리",
+      "description": "プレミアムミッションパス 2025年3月で獲得"
+    },
+    {
       "id": "costume_head_ssmk-cstm-0009",
       "name": "Tame-Lie-One-Step",
       "description": "【Tame-Lie-One-Step】 시운 스미카 입수"
     },
     {
       "id": "costume_head_ssmk-cstm-0039",
-      "name": "숨긴 나",
+      "name": "숨겨진 나",
       "description": "【숨겨진 나】시운 스미카를 입수"
     },
     {
@@ -713,7 +743,7 @@
     {
       "id": "costume_head_ssmk-cstm-0065",
       "name": "가장광소곡",
-      "description": "【Tame-Lie-One-Step】'24할로윈 시운 스미카를 입수"
+      "description": "【Tame-Lie-One-Step】'24 할로윈 시운 스미카를 입수"
     },
     {
       "id": "costume_head_ssmk-hair-0001",
@@ -737,12 +767,12 @@
     },
     {
       "id": "costume_head_ssmk-schl-0000",
-      "name": "평소 헤어스타일",
+      "name": "평소의 헤어스타일",
       "description": "처음부터 소지"
     },
     {
       "id": "costume_head_ttmr-casl-0000",
-      "name": "평소 헤어스타일",
+      "name": "평소의 헤어스타일",
       "description": "처음부터 소지"
     },
     {
@@ -778,7 +808,7 @@
     {
       "id": "costume_head_ttmr-cstm-0063",
       "name": "관국",
-      "description": "【Luna say maybe】'24제 츠키무라 테마리 획득"
+      "description": "【Luna say maybe】'24 축제 츠키무라 테마리 획득"
     },
     {
       "id": "costume_head_ttmr-cstm-0072",

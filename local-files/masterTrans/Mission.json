@@ -514,6 +514,26 @@
       "name": "SP 레슨을 {threshold}회 클리어하자"
     },
     {
+      "id": "mission-box-gasha-event-006-mission_1",
+      "name": "{threshold}일 로그인하자"
+    },
+    {
+      "id": "mission-box-gasha-event-006-mission_2",
+      "name": "최종 시험에 {threshold}번 합격하자"
+    },
+    {
+      "id": "mission-box-gasha-event-006-mission_3",
+      "name": "이벤트 박스 가챠를 {threshold}번 뽑자"
+    },
+    {
+      "id": "mission-box-gasha-event-006-mission_4",
+      "name": "프로듀스 등급을 총 {threshold}개 획득하자"
+    },
+    {
+      "id": "mission-box-gasha-event-006-mission_5",
+      "name": "SP 레슨을 {threshold}회 클리어하자"
+    },
+    {
       "id": "mission-circle-battle-event-001-mission_1",
       "name": "{threshold}일 로그인하자"
     },
@@ -799,11 +819,11 @@
     },
     {
       "id": "mission-highscore-event-002-mission_12",
-      "name": "쿠라모토 치나의 댄스를 1000 이상으로 육성하여 프로듀스를 완료하자"
+      "name": "쿠라모토 치나의 춤을 1000 이상으로 육성하여 프로듀스를 완료하자"
     },
     {
       "id": "mission-highscore-event-002-mission_12_1",
-      "name": "쿠라모토 치나의 댄스를 1000 이상으로 육성하여 프로듀스를 완료하자 (9/1 4:59:59까지)"
+      "name": "쿠라모토 치나의 춤을 1000 이상으로 육성하여 프로듀스를 완료하자 (9/1 4:59:59까지)"
     },
     {
       "id": "mission-highscore-event-002-mission_13",
@@ -875,7 +895,7 @@
     },
     {
       "id": "mission-highscore-event-003-mission_22",
-      "name": "후지타 코토네의 댄스를 1000 이상으로 육성하여 프로듀스를 완료하자"
+      "name": "후지타 코토네의 춤을 1000 이상으로 육성하여 프로듀스를 완료하자"
     },
     {
       "id": "mission-highscore-event-003-mission_23",
@@ -899,7 +919,7 @@
     },
     {
       "id": "mission-highscore-event-003-mission_32",
-      "name": "시운 스미카의 댄스를 1000 이상으로 육성하여 프로듀스를 완료하자"
+      "name": "시운 스미카의 댄스를 1000 이상으로 육성하여 프로듀스 완료"
     },
     {
       "id": "mission-highscore-event-003-mission_33",
@@ -971,7 +991,7 @@
     },
     {
       "id": "mission-highscore-event-004-mission_12",
-      "name": "아리무라 마오의 보컬을 1000 이상으로 육성하여 프로듀스를 완료하자"
+      "name": "아리무라 마오의 보컬을 1000 이상으로 육성하여 프로듀스 완료"
     },
     {
       "id": "mission-highscore-event-004-mission_13",
@@ -995,7 +1015,7 @@
     },
     {
       "id": "mission-highscore-event-004-mission_22",
-      "name": "주오 세나의 비주얼를 1000 이상으로 육성하여 프로듀스를 완료하자"
+      "name": "주오 세나의 비주얼를 1000 이상으로 육성하여 프로듀스 완료"
     },
     {
       "id": "mission-highscore-event-004-mission_23",
@@ -1091,7 +1111,7 @@
     },
     {
       "id": "mission-highscorerush-event-001-mission_12",
-      "name": "하나미 사키의 비주얼을 1,000 이상으로 육성하여 프로듀스를 완료하자"
+      "name": "하나미 사키의 비주얼를 1000 이상으로 육성하여 프로듀스 완료"
     },
     {
       "id": "mission-highscorerush-event-001-mission_13",
@@ -1115,7 +1135,7 @@
     },
     {
       "id": "mission-highscorerush-event-001-mission_22",
-      "name": "츠키무라 테마리의 보컬을 1,000 이상으로 육성하여 프로듀스를 완료하자"
+      "name": "츠키무라 테마리의 보컬를 1000 이상으로 육성하여 프로듀스 완료"
     },
     {
       "id": "mission-highscorerush-event-001-mission_23",
@@ -1139,7 +1159,7 @@
     },
     {
       "id": "mission-highscorerush-event-001-mission_32",
-      "name": "후지타 코토네의 댄스를 1,000 이상으로 육성하여 프로듀스를 완료하자"
+      "name": "후지타 코토네의 댄스를 1000 이상으로 육성하여 프로듀스 완료"
     },
     {
       "id": "mission-highscorerush-event-001-mission_33",
@@ -1163,7 +1183,7 @@
     },
     {
       "id": "mission-highscorerush-event-001-mission_42",
-      "name": "하나미 사키 또는 츠키무라 테마리 또는 후지타 코토네의 프로듀스로 최종 시험에 {threshold}회 합격하자"
+      "name": "하나미 사키 또는 츠키무라 테마리 또는 후지타 코토네의 프로듀스로 최종 시험에 {threshold}번 합격하자"
     },
     {
       "id": "mission-highscorerush-event-001-mission_43",
@@ -1187,7 +1207,7 @@
     },
     {
       "id": "mission-highscorerush-event-001-mission_52",
-      "name": "하나미 사키 또는 츠키무라 테마리 또는 후지타 코토네의 프로듀스로 최종 시험에 {threshold}회 합격하자"
+      "name": "하나미 사키 또는 츠키무라 테마리 또는 후지타 코토네의 프로듀스로 최종 시험에 {threshold}번 합격하자"
     },
     {
       "id": "mission-highscorerush-event-001-mission_53",
@@ -3319,7 +3339,7 @@
     },
     {
       "id": "achieve-i_card-kcna-3-001-02",
-      "name": "【매일매일, 발견적 단계!】쿠라모토 치나의 특훈 단계를{threshold}로 설정"
+      "name": "【매일매일, 발견적 스텝!】쿠라모토 치나의 특훈 단계를{threshold}로 설정"
     },
     {
       "id": "achieve-i_card-kcna-3-001-03",
@@ -3360,6 +3380,18 @@
     {
       "id": "achieve-i_card-kcna-3-007-03",
       "name": "【Campus mode!!】쿠라모토 치나의 프로듀스로 평가 A+이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-009-01",
+      "name": "【눈이 녹을 때에】쿠라모토 치나의 프로듀스로 최종 시험에 합격"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-009-02",
+      "name": "【눈이 녹을 때에】쿠라모토 치나의 특훈 단계를{threshold}로 설정"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-009-03",
+      "name": "【눈이 녹을 때에】쿠라모토 치나의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-kllj-3-001-01",
@@ -3518,6 +3550,18 @@
       "name": "【Campus mode!!】츠키무라 테마리의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
+      "id": "achieve-i_card-ttmr-3-009-01",
+      "name": "【눈이 녹을 때에】츠키무라 테마리의 프로듀스로 최종 시험에 합격"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-009-02",
+      "name": "【눈이 녹을 때에】츠키무라 테마리의 특훈 단계{threshold}로 설정"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-009-03",
+      "name": "【눈이 녹을 때에】츠키무라 테마리의 프로듀스로 평가 A+이상을 {threshold}회 획득"
+    },
+    {
       "id": "achieve-m_amao-001",
       "name": "아리무라 마오의 업적의 ★을 {threshold}개 획득"
     },
@@ -3587,7 +3631,7 @@
     },
     {
       "id": "achieve-o_009",
-      "name": "활동비로 총 {threshold} 머니를 받습니다."
+      "name": "활동비로 총 {threshold} 머니 받기"
     },
     {
       "id": "achieve-o_010",
@@ -4127,7 +4171,7 @@
     },
     {
       "id": "achieve-p_idol-fktn-014",
-      "name": "후지타 코토네의 댄스를 1000 이상으로 육성하여 프로듀스를 완료하자"
+      "name": "후지타 코토네의 춤을 1000 이상으로 육성하여 프로듀스를 완료하자"
     },
     {
       "id": "achieve-p_idol-fktn-015",
@@ -4547,7 +4591,7 @@
     },
     {
       "id": "achieve-p_idol-kcna-014",
-      "name": "쿠라모토 치나의 댄스를 1000 이상으로 육성하여 프로듀스를 완료하자"
+      "name": "쿠라모토 치나의 춤을 1000 이상으로 육성하여 프로듀스를 완료하자"
     },
     {
       "id": "achieve-p_idol-kcna-015",
@@ -4799,7 +4843,7 @@
     },
     {
       "id": "achieve-p_idol-ssmk-014",
-      "name": "시운 스미카의 댄스를 1000 이상으로 육성하여 프로듀스를 완료하자"
+      "name": "시운 스미카의 댄스를 1000 이상으로 육성하여 프로듀스 완료"
     },
     {
       "id": "achieve-p_idol-ssmk-015",
@@ -4967,7 +5011,7 @@
     },
     {
       "id": "main_task_group-01-01#16",
-      "name": "프로듀스에 도전해 보자\n【조건】플랜：센스의 프로듀스 아이돌"
+      "name": "프로듀스에 도전해 보자\n 【조건】플랜：센스의 프로듀스 아이돌"
     },
     {
       "id": "main_task_group-01-01#17",
@@ -4987,7 +5031,7 @@
     },
     {
       "id": "main_task_group-01-01#21",
-      "name": "프로듀스에 도전해 보자\n【조건】플랜：로직의 프로듀스 아이돌"
+      "name": "프로듀스에 도전해 보자\n 【조건】플랜：로직의 프로듀스 아이돌"
     },
     {
       "id": "main_task_group-01-01#22",
@@ -5039,7 +5083,7 @@
     },
     {
       "id": "main_task_group-01-01#34",
-      "name": "프로듀싱에 도전하여 평가 C+ 이상을 획득하자\n【조건】플랜: 센스 있는 프로듀스 아이돌"
+      "name": "프로듀싱에 도전하여 평가 C+ 이상을 획득하자\n 【조건】플랜: 센스 있는 프로듀스 아이돌"
     },
     {
       "id": "main_task_group-01-01#35",
@@ -5051,7 +5095,7 @@
     },
     {
       "id": "main_task_group-01-01#37",
-      "name": "프로듀싱에 도전하여 평가 C+ 이상을 획득하자\n【조건】플랜: 로직의 프로듀스 아이돌"
+      "name": "프로듀싱에 도전하여 평가 C+ 이상을 획득하자\n 【조건】플랜: 로직의 프로듀스 아이돌"
     },
     {
       "id": "main_task_group-01-01#38",
@@ -5099,11 +5143,11 @@
     },
     {
       "id": "main_task_group-01-01#49",
-      "name": "프로듀싱에 도전하여 평가 B 이상을 획득하자\n【조건】플랜：센스의 프로듀스 아이돌"
+      "name": "프로듀싱에 도전하여 평가 B 이상을 획득하자\n 【조건】플랜：센스의 프로듀스 아이돌"
     },
     {
       "id": "main_task_group-01-01#50",
-      "name": "프로듀싱에 도전하여 평가 B 이상을 획득하자\n【조건】플랜：로직의 프로듀스 아이돌"
+      "name": "프로듀싱에 도전하여 평가 B 이상을 획득하자\n 【조건】플랜：로직의 프로듀스 아이돌"
     },
     {
       "id": "main_task_group-01-01#51",
@@ -5195,11 +5239,11 @@
     },
     {
       "id": "main_task_group-02-01#13",
-      "name": "프로듀스에 도전하여 평가 B+ 이상을 획득하자\n【조건】플랜: 센스의 프로듀스 아이돌"
+      "name": "프로듀스에 도전하여 평가 B+ 이상을 획득하자\n 【조건】플랜: 센스의 프로듀스 아이돌"
     },
     {
       "id": "main_task_group-02-01#14",
-      "name": "프로듀스에 도전하여 평가 B+ 이상을 획득하자\n【조건】플랜: 로직의 프로듀스 아이돌"
+      "name": "프로듀스에 도전하여 평가 B+ 이상을 획득하자\n 【조건】플랜: 로직의 프로듀스 아이돌"
     },
     {
       "id": "main_task_group-02-01#15",
@@ -5263,7 +5307,7 @@
     },
     {
       "id": "main_task_group-02-01#30",
-      "name": "프로듀스로 최종 시험에 합격하자!\n【조건】：하나미 사키"
+      "name": "프로듀스로 최종 시험에 합격하자!\n 【조건】：하나미 사키"
     },
     {
       "id": "main_task_group-02-01#31",
@@ -5271,7 +5315,7 @@
     },
     {
       "id": "main_task_group-02-01#32",
-      "name": "프로듀스로 최종 시험에 합격하자!\n【조건】：츠키무라 테마리"
+      "name": "프로듀스로 최종 시험에 합격하자!\n 【조건】：츠키무라 테마리"
     },
     {
       "id": "main_task_group-02-01#33",
@@ -5279,7 +5323,7 @@
     },
     {
       "id": "main_task_group-02-01#34",
-      "name": "프로듀스로 최종 시험에 합격하자!\n【조건】：후지타 코토네"
+      "name": "프로듀스로 최종 시험에 합격하자!\n 【조건】：후지타 코토네"
     },
     {
       "id": "main_task_group-02-01#35",
@@ -5291,7 +5335,7 @@
     },
     {
       "id": "main_task_group-02-01#37",
-      "name": "프로듀스로 최종 시험에 합격하자!\n【조건】：아리무라 마오"
+      "name": "프로듀스로 최종 시험에 합격하자!\n 【조건】：아리무라 마오"
     },
     {
       "id": "main_task_group-02-01#38",
@@ -5299,7 +5343,7 @@
     },
     {
       "id": "main_task_group-02-01#39",
-      "name": "프로듀스로 최종 시험에 합격하자!\n【조건】：히메사키 리나미"
+      "name": "프로듀스로 최종 시험에 합격하자!\n 【조건】：히메사키 리나미"
     },
     {
       "id": "main_task_group-02-01#40",
@@ -5307,7 +5351,7 @@
     },
     {
       "id": "main_task_group-02-01#41",
-      "name": "프로듀스로 최종 시험에 합격하자!\n【조건】：카츠라기 릴리야"
+      "name": "프로듀스로 최종 시험에 합격하자!\n 【조건】：카츠라기 릴리야"
     },
     {
       "id": "main_task_group-02-01#42",
@@ -5319,7 +5363,7 @@
     },
     {
       "id": "main_task_group-02-01#44",
-      "name": "프로듀스로 최종 시험에 합격하자!\n【조건】：시운 스미카"
+      "name": "프로듀스로 최종 시험에 합격하자!\n 【조건】：시운 스미카"
     },
     {
       "id": "main_task_group-02-01#45",
@@ -5327,7 +5371,7 @@
     },
     {
       "id": "main_task_group-02-01#46",
-      "name": "프로듀스로 최종 시험에 합격하자!\n【조건】：시노사와 히로"
+      "name": "프로듀스로 최종 시험에 합격하자!\n 【조건】：시노사와 히로"
     },
     {
       "id": "main_task_group-02-01#47",
@@ -5335,7 +5379,7 @@
     },
     {
       "id": "main_task_group-02-01#48",
-      "name": "프로듀스로 최종 시험에 합격하자!\n【조건】：쿠라모토 치나"
+      "name": "프로듀스로 최종 시험에 합격하자!\n 【조건】：쿠라모토 치나"
     },
     {
       "id": "main_task_group-02-01#49",
@@ -5359,11 +5403,11 @@
     },
     {
       "id": "main_task_group-02-01#54",
-      "name": "프로듀스에 도전하여 평가 A 이상을 획득하자\n【조건】플랜：센스의 프로듀스 아이돌"
+      "name": "프로듀스에 도전하여 평가 A 이상을 획득하자\n 【조건】플랜：센스의 프로듀스 아이돌"
     },
     {
       "id": "main_task_group-02-01#55",
-      "name": "프로듀스에 도전하여 평가 A 이상을 획득하자\n【조건】플랜：로직의 프로듀스 아이돌"
+      "name": "프로듀스에 도전하여 평가 A 이상을 획득하자\n 【조건】플랜：로직의 프로듀스 아이돌"
     },
     {
       "id": "main_task_group-02-01#56",
@@ -5407,11 +5451,11 @@
     },
     {
       "id": "main_task_group-02-01#66",
-      "name": "프로듀스에 도전하여 평가 A 이상을 획득하자\n【조건】플랜：센스의 프로듀스 아이돌"
+      "name": "프로듀스에 도전하여 평가 A 이상을 획득하자\n 【조건】플랜：센스의 프로듀스 아이돌"
     },
     {
       "id": "main_task_group-02-01#67",
-      "name": "프로듀스에 도전하여 평가 A 이상을 획득하자\n【조건】플랜：로직의 프로듀스 아이돌"
+      "name": "프로듀스에 도전하여 평가 A 이상을 획득하자\n 【조건】플랜：로직의 프로듀스 아이돌"
     },
     {
       "id": "main_task_group-02-01#68",
@@ -5659,7 +5703,7 @@
     },
     {
       "id": "main_task_group-03-01#29",
-      "name": "난이도 마스터로 최종 시험에 {threshold}회 합격하자\n【조건】플랜：아노말리 프로듀스 아이돌 "
+      "name": "난이도 마스터로 최종 시험에 {threshold}회 합격하자\n 【조건】플랜：아노말리 프로듀스 아이돌"
     },
     {
       "id": "main_task_group-03-01#30",
