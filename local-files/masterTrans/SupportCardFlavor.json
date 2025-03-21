@@ -594,17 +594,32 @@
     {
       "supportCardId": "s_card-2-0044",
       "number": 1,
-      "text": "わぁ！　すごく綺麗な音色っ♪"
+      "text": "와! 엄청 아름다운 음색♪"
     },
     {
       "supportCardId": "s_card-2-0044",
       "number": 2,
-      "text": "葉をピンと張って。\n咥えすぎないのがコツ。"
+      "text": "잎을 쭉 펴봐.\n너무 물지 않는게 요령이야."
     },
     {
       "supportCardId": "s_card-2-0044",
       "number": 3,
-      "text": "上手く吹くの……\nむ、難しいですわ～～～！"
+      "text": "능숙하게 부는거……\n어, 어려운 것이에요~~~!"
+    },
+    {
+      "supportCardId": "s_card-2-0045",
+      "number": 1,
+      "text": "아리무라 선배, 그거,\n빨리 밖으로 버려주세요!"
+    },
+    {
+      "supportCardId": "s_card-2-0045",
+      "number": 2,
+      "text": "그렇게 무서워 하지 않아도……\n봐, 이렇게 귀엽잖아."
+    },
+    {
+      "supportCardId": "s_card-2-0045",
+      "number": 3,
+      "text": "우와아!?\n보여 주지 않아도 괜찮으니까!"
     },
     {
       "supportCardId": "s_card-3-0000",
@@ -1332,19 +1347,49 @@
       "text": "제 차례, 이제 곧……\n음~! 두근두근거려요~!"
     },
     {
+      "supportCardId": "s_card-3-0049",
+      "number": 1,
+      "text": "う、うぅ……怖い……"
+    },
+    {
+      "supportCardId": "s_card-3-0049",
+      "number": 2,
+      "text": "ええと……ひとりで立てますか？"
+    },
+    {
+      "supportCardId": "s_card-3-0049",
+      "number": 3,
+      "text": "ま、待って！\n私の傍から離れないで！"
+    },
+    {
       "supportCardId": "s_card-3-0050",
       "number": 1,
-      "text": "今日は思いっきり遊ぼう！"
+      "text": "오늘은 마음껏 놀자!"
     },
     {
       "supportCardId": "s_card-3-0050",
       "number": 2,
-      "text": "はげしすぎますわ～～～～！？"
+      "text": "너무 센 것이에요~~~~!?"
     },
     {
       "supportCardId": "s_card-3-0050",
       "number": 3,
-      "text": "おお……佑芽、わたしにもやって。"
+      "text": "오오……우메, 나도 해줘."
+    },
+    {
+      "supportCardId": "s_card-3-0051",
+      "number": 1,
+      "text": "도와줘서 고마워, 마오 씨.\n앞으로도 같이 열심히 하자!"
+    },
+    {
+      "supportCardId": "s_card-3-0051",
+      "number": 2,
+      "text": "아아. 저 벚꽃의 꽃이 다시 필 때 즈음에는,"
+    },
+    {
+      "supportCardId": "s_card-3-0051",
+      "number": 3,
+      "text": "우리들도, 분명――"
     }
   ]
 }
