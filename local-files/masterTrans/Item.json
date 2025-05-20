@@ -156,6 +156,12 @@
       "acquisitionRouteDescription": ""
     },
     {
+      "id": "item-gashaticket-ssr-idol-fix_2",
+      "name": "The 1st Period 공연 기념 SSR P아이돌 확정 티켓",
+      "description": "The 1st Period 공연 기념 SSR P아이돌 확정 티켓 가챠에 사용하는 티켓",
+      "acquisitionRouteDescription": ""
+    },
+    {
       "id": "item-gashaticket-ssr-support-fix_1",
       "name": "SSR S 카드 확정 가챠 티켓",
       "description": "SSR S카드 확정 티켓 가챠에서 사용하는 티켓",
