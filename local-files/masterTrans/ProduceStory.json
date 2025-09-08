@@ -10719,6 +10719,21 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-i_card-shro-3-014-01",
+            "title": "미라쿠루나나우(˚∀˚)! 1화",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-shro-3-014-02",
+            "title": "미라쿠루나나우(˚∀˚)! 2화",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-shro-3-014-03",
+            "title": "미라쿠루나나우(˚∀˚)! 3화",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-i_card-ssmk-3-000-01",
             "title": "Tame-Lie-One-Step 1화",
             "produceEventHintProduceConditionDescriptions": []
@@ -11571,6 +11586,16 @@
         {
             "id": "p_story-s_card-2-0059-02",
             "title": "파고들기 요소에 주의",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-2-0060-01",
+            "title": "뜻대로 되지 않는 밤 줍기",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-2-0060-02",
+            "title": "리나미 몽블랑 하나요♪",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
@@ -12651,6 +12676,21 @@
         {
             "id": "p_story-s_card-3-0072-03",
             "title": "환상의 멜론빵을 찾아라!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0073-01",
+            "title": "전력으로 즐기자♪",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0073-02",
+            "title": "노려라, 고교 데뷔",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0073-03",
+            "title": "갸루 인증!",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
