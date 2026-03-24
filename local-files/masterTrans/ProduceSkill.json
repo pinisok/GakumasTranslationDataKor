@@ -1429,7 +1429,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "か"
+                    "text": "이 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1439,7 +1439,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-02-men-0_039",
-                    "text": "距離感の基本"
+                    "text": "거리감의 기본"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1449,7 +1449,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を"
+                    "text": "을 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1459,7 +1459,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-02-men-1_031",
-                    "text": "えいえいおー"
+                    "text": "에이에이오!"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1469,7 +1469,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "に"
+                    "text": "에 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -1479,7 +1479,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceCardChange",
-                    "text": "チェンジ"
+                    "text": "변경"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1489,7 +1489,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "して"
+                    "text": "하고 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -1499,7 +1499,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceCardUpgrade",
-                    "text": "強化"
+                    "text": "강화"
                 }
             ]
         },
@@ -1525,7 +1525,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "か"
+                    "text": "이 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1535,7 +1535,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-03-act-0_043",
-                    "text": "魅せ方の基本"
+                    "text": "매력 어필의 기본"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1545,7 +1545,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を"
+                    "text": "을 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1555,7 +1555,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-03-act-1_040",
-                    "text": "スターライト"
+                    "text": "스타라이트"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1565,7 +1565,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "に"
+                    "text": "에 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -1575,7 +1575,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceCardChange",
-                    "text": "チェンジ"
+                    "text": "변경"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1585,7 +1585,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "して"
+                    "text": "하고 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -1595,7 +1595,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceCardUpgrade",
-                    "text": "強化"
+                    "text": "강화"
                 }
             ]
         },
@@ -1611,7 +1611,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-00-men-0_003",
-                    "text": "表現の基本"
+                    "text": "표현의 기본"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1621,7 +1621,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "か"
+                    "text": "이 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1631,7 +1631,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-01-act-0_023",
-                    "text": "ステップの基本"
+                    "text": "스텝의 기본"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1641,7 +1641,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を"
+                    "text": "을 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1651,7 +1651,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-01-men-2_034",
-                    "text": "演出計画"
+                    "text": "연출 계획"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1661,7 +1661,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "に"
+                    "text": "에 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -1671,7 +1671,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceCardChange",
-                    "text": "チェンジ"
+                    "text": "변경"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1681,7 +1681,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "して"
+                    "text": "하고 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -1691,7 +1691,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceCardUpgrade",
-                    "text": "強化"
+                    "text": "강화"
                 }
             ]
         },
@@ -1717,7 +1717,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "か"
+                    "text": "이 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1727,7 +1727,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-02-act-0_032",
-                    "text": "ファンサの基本"
+                    "text": "팬서비스의 기본"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1737,7 +1737,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を"
+                    "text": "을 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1747,7 +1747,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-02-men-1_032",
-                    "text": "思い出し笑い"
+                    "text": "추억의 웃음"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1757,7 +1757,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "に"
+                    "text": "에 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -1767,7 +1767,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceCardChange",
-                    "text": "チェンジ"
+                    "text": "변경"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1777,7 +1777,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "して"
+                    "text": "하고 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -1787,7 +1787,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceCardUpgrade",
-                    "text": "強化"
+                    "text": "강화"
                 }
             ]
         },
@@ -1813,7 +1813,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "か"
+                    "text": "이 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1823,7 +1823,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-02-men-0_039",
-                    "text": "距離感の基本"
+                    "text": "거리감의 기본"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1833,7 +1833,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を"
+                    "text": "을 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1843,7 +1843,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-02-men-2_052",
-                    "text": "ひなたぼっこ"
+                    "text": "볕 쬐기"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1853,7 +1853,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "に"
+                    "text": "에 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -1863,7 +1863,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceCardChange",
-                    "text": "チェンジ"
+                    "text": "변경"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1873,7 +1873,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "して"
+                    "text": "하고 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -1883,7 +1883,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceCardUpgrade",
-                    "text": "強化"
+                    "text": "강화"
                 }
             ]
         },
@@ -1909,7 +1909,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "か"
+                    "text": "이 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1919,7 +1919,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-03-act-0_048",
-                    "text": "スピーチの基本"
+                    "text": "스피치의 기본"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1929,7 +1929,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を"
+                    "text": "을 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1939,7 +1939,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-03-men-1_049",
-                    "text": "嬉しい誤算"
+                    "text": "기쁜 오산"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1949,7 +1949,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "に"
+                    "text": "에 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -1959,7 +1959,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceCardChange",
-                    "text": "チェンジ"
+                    "text": "변경"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1969,7 +1969,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "して"
+                    "text": "하고 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -1979,7 +1979,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceCardUpgrade",
-                    "text": "強化"
+                    "text": "강화"
                 }
             ]
         },
@@ -2005,7 +2005,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "か"
+                    "text": "이 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -2015,7 +2015,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-01-act-0_023",
-                    "text": "ステップの基本"
+                    "text": "스텝의 기본"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2025,7 +2025,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を"
+                    "text": "을 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -2035,7 +2035,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-01-act-1_002",
-                    "text": "軽い足取り"
+                    "text": "가벼운 발걸음"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2045,7 +2045,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "に"
+                    "text": "에 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -2055,7 +2055,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceCardChange",
-                    "text": "チェンジ"
+                    "text": "변경"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2065,7 +2065,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "して"
+                    "text": "하고 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -2075,7 +2075,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceCardUpgrade",
-                    "text": "強化"
+                    "text": "강화"
                 }
             ]
         },
@@ -2101,7 +2101,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "か"
+                    "text": "이 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -2111,7 +2111,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-03-act-0_048",
-                    "text": "スピーチの基本"
+                    "text": "스피치의 기본"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2121,7 +2121,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を"
+                    "text": "을 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -2131,7 +2131,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-03-act-1_038",
-                    "text": "ジャストアピール"
+                    "text": "저스트 어필"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2141,7 +2141,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "に"
+                    "text": "에 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -2151,7 +2151,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceCardChange",
-                    "text": "チェンジ"
+                    "text": "변경"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2161,7 +2161,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "して"
+                    "text": "하고 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -2171,7 +2171,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceCardUpgrade",
-                    "text": "強化"
+                    "text": "강화"
                 }
             ]
         },
@@ -2197,7 +2197,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "か"
+                    "text": "이 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -2207,7 +2207,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-01-act-0_023",
-                    "text": "ステップの基本"
+                    "text": "스텝의 기본"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2217,7 +2217,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を"
+                    "text": "을 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -2227,7 +2227,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-01-act-1_001",
-                    "text": "ファンサ"
+                    "text": "팬 서비스"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2237,7 +2237,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "に"
+                    "text": "에 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -2247,7 +2247,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceCardChange",
-                    "text": "チェンジ"
+                    "text": "변경"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2257,7 +2257,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "して"
+                    "text": "하고 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -2267,7 +2267,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceCardUpgrade",
-                    "text": "強化"
+                    "text": "강화"
                 }
             ]
         },
@@ -2293,7 +2293,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "か"
+                    "text": "이 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -2303,7 +2303,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-02-men-0_039",
-                    "text": "距離感の基本"
+                    "text": "거리감의 기본"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2313,7 +2313,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を"
+                    "text": "을 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -2323,7 +2323,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-02-act-1_028",
-                    "text": "ゆるふわおしゃべり"
+                    "text": "느긋하게 수다"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2333,7 +2333,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "に"
+                    "text": "에 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -2343,7 +2343,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceCardChange",
-                    "text": "チェンジ"
+                    "text": "변경"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2353,7 +2353,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "して"
+                    "text": "하고 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -2363,7 +2363,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceCardUpgrade",
-                    "text": "強化"
+                    "text": "강화"
                 }
             ]
         },
@@ -2389,7 +2389,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "か"
+                    "text": "이 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -2399,7 +2399,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-01-act-0_027",
-                    "text": "パフォーマンスの基本"
+                    "text": "퍼포먼스의 기본"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2409,7 +2409,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を"
+                    "text": "을 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -2419,7 +2419,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-01-act-1_022",
-                    "text": "準備運動"
+                    "text": "준비운동"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2429,7 +2429,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "に"
+                    "text": "에 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -2439,7 +2439,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceCardChange",
-                    "text": "チェンジ"
+                    "text": "변경"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2449,7 +2449,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "して"
+                    "text": "하고 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -2459,7 +2459,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceCardUpgrade",
-                    "text": "強化"
+                    "text": "강화"
                 }
             ]
         },
@@ -2485,7 +2485,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "か"
+                    "text": "이 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -2495,7 +2495,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-02-act-0_032",
-                    "text": "ファンサの基本"
+                    "text": "팬서비스의 기본"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2505,7 +2505,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を"
+                    "text": "을 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -2515,7 +2515,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-02-men-1_030",
-                    "text": "リスタート"
+                    "text": "리스타트"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2525,7 +2525,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "に"
+                    "text": "에 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -2535,7 +2535,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceCardChange",
-                    "text": "チェンジ"
+                    "text": "변경"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2545,7 +2545,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "して"
+                    "text": "하고 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -2555,7 +2555,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceCardUpgrade",
-                    "text": "強化"
+                    "text": "강화"
                 }
             ]
         },
@@ -2581,7 +2581,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "か"
+                    "text": "이 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -2591,7 +2591,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-01-act-0_027",
-                    "text": "パフォーマンスの基本"
+                    "text": "퍼포먼스의 기본"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2601,7 +2601,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を"
+                    "text": "을 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -2611,7 +2611,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-01-act-1_023",
-                    "text": "勢い任せ"
+                    "text": "기세에 맡겨"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2621,7 +2621,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "に"
+                    "text": "에 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -2631,7 +2631,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceCardChange",
-                    "text": "チェンジ"
+                    "text": "변경"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2641,7 +2641,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "して"
+                    "text": "하고 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -2651,7 +2651,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceCardUpgrade",
-                    "text": "強化"
+                    "text": "강화"
                 }
             ]
         },
@@ -17969,7 +17969,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "로 변경 "
+                    "text": "으로 변경 "
                 }
             ]
         },
@@ -18035,7 +18035,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "로 변경 "
+                    "text": "으로 변경 "
                 }
             ]
         },
@@ -18081,7 +18081,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "로 변경 "
+                    "text": "으로 변경 "
                 }
             ]
         },
@@ -18375,7 +18375,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "로 변경 "
+                    "text": "으로 변경 "
                 }
             ]
         },
@@ -18441,7 +18441,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "로 변경 "
+                    "text": "으로 변경 "
                 }
             ]
         },
@@ -18507,7 +18507,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "로 변경 "
+                    "text": "으로 변경 "
                 }
             ]
         },
@@ -18801,7 +18801,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "로 변경 "
+                    "text": "으로 변경 "
                 }
             ]
         },
@@ -18867,7 +18867,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "로 변경 "
+                    "text": "으로 변경 "
                 }
             ]
         },
@@ -18913,7 +18913,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "로 변경 "
+                    "text": "으로 변경 "
                 }
             ]
         },
@@ -19207,7 +19207,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "로 변경 "
+                    "text": "으로 변경 "
                 }
             ]
         },
@@ -19273,7 +19273,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "로 변경 "
+                    "text": "으로 변경 "
                 }
             ]
         },
@@ -19339,7 +19339,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "로 변경 "
+                    "text": "으로 변경 "
                 }
             ]
         },
@@ -19633,7 +19633,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "로 변경 "
+                    "text": "으로 변경 "
                 }
             ]
         },
@@ -19699,7 +19699,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "로 변경 "
+                    "text": "으로 변경 "
                 }
             ]
         },
@@ -19745,7 +19745,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "로 변경 "
+                    "text": "으로 변경 "
                 }
             ]
         },
@@ -20039,7 +20039,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "로 변경 "
+                    "text": "으로 변경 "
                 }
             ]
         },
@@ -20105,7 +20105,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "로 변경 "
+                    "text": "으로 변경 "
                 }
             ]
         },
@@ -20171,7 +20171,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "로 변경 "
+                    "text": "으로 변경 "
                 }
             ]
         },
@@ -20566,6 +20566,118 @@
             ]
         },
         {
+            "id": "p_support_skill-common-p_trigger-change_produce_card-dance_addition-02-001",
+            "level": 1,
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "스킬 카드 변경 시 댄스 상승 +"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_DiffText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "8"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "(프로듀스 중 "
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "3회"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": ") "
+                }
+            ]
+        },
+        {
+            "id": "p_support_skill-common-p_trigger-change_produce_card-dance_addition-02-001",
+            "level": 2,
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "스킬 카드 변경 시 댄스 상승 +"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_DiffText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "16"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "(프로듀스 중 "
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "3회"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": ") "
+                }
+            ]
+        },
+        {
             "id": "p_support_skill-common-p_trigger-change_produce_card-dance_addition-03-001",
             "level": 1,
             "produceDescriptions": [
@@ -20745,7 +20857,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "スキルカードチェンジ時、ビジュアル上昇+"
+                    "text": "스킬 카드 변경시, 비주얼 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -20765,7 +20877,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -20775,7 +20887,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "3回"
+                    "text": "3회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -20785,7 +20897,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },
@@ -20801,7 +20913,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "スキルカードチェンジ時、ビジュアル上昇+"
+                    "text": "스킬 카드 변경시, 비주얼 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -20821,7 +20933,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -20831,7 +20943,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "3回"
+                    "text": "3회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -20841,7 +20953,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },
@@ -21025,7 +21137,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "スキルカードチェンジ時、ボーカル上昇+"
+                    "text": "스킬 카드 변경시, 보컬 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -21045,7 +21157,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -21055,7 +21167,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "3回"
+                    "text": "3회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -21065,7 +21177,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },
@@ -21081,7 +21193,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "スキルカードチェンジ時、ボーカル上昇+"
+                    "text": "스킬 카드 변경시, 보컬 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -21101,7 +21213,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -21111,7 +21223,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "3回"
+                    "text": "3회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -21121,7 +21233,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },
@@ -23723,7 +23835,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "2回"
+                    "text": "2번"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -23789,7 +23901,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "2回"
+                    "text": "2번"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -23855,7 +23967,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "2回"
+                    "text": "2번"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -23921,7 +24033,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "2回"
+                    "text": "2번"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -23987,7 +24099,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "2回"
+                    "text": "2번"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -24053,7 +24165,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "2回"
+                    "text": "2번"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -24119,7 +24231,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "2回"
+                    "text": "2번"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -24383,7 +24495,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "2回"
+                    "text": "2번"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -24449,7 +24561,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "2回"
+                    "text": "2번"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -24515,7 +24627,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "2回"
+                    "text": "2번"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -24581,7 +24693,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "2回"
+                    "text": "2번"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -24647,7 +24759,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "2回"
+                    "text": "2번"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -24713,7 +24825,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "2回"
+                    "text": "2번"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -24779,7 +24891,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "2回"
+                    "text": "2번"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -24845,7 +24957,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "2回"
+                    "text": "2번"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -24911,7 +25023,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "2回"
+                    "text": "2번"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -24977,7 +25089,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "2回"
+                    "text": "2번"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -25043,7 +25155,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "2回"
+                    "text": "2번"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -25109,7 +25221,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "2回"
+                    "text": "2번"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -25175,7 +25287,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "2回"
+                    "text": "2번"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -25241,7 +25353,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "2回"
+                    "text": "2번"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -26593,7 +26705,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "SPレッスン終了時、所持スキルカードが20枚以上の場合、ダンス上昇+"
+                    "text": "SP레슨 종료시, 소지 스킬 카드가 20장 이상일 때, 댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -26613,7 +26725,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -26623,7 +26735,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "4回"
+                    "text": "4회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -26633,7 +26745,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },
@@ -26649,7 +26761,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "SPレッスン終了時、所持スキルカードが20枚以上の場合、ダンス上昇+"
+                    "text": "SP레슨 종료시, 소지 스킬 카드가 20장 이상일 때, 댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -26669,7 +26781,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -26679,7 +26791,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "4回"
+                    "text": "4회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -26689,7 +26801,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },
@@ -26705,7 +26817,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "SPレッスン終了時、所持スキルカードが20枚以上の場合、ダンス上昇+"
+                    "text": "SP레슨 종료시, 소지 스킬 카드가 20장 이상일 때, 댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -26725,7 +26837,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -26735,7 +26847,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "4回"
+                    "text": "4회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -26745,7 +26857,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },
@@ -26761,7 +26873,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "SPレッスン終了時、所持スキルカードが20枚以上の場合、ビジュアル上昇+"
+                    "text": "SP레슨 종료시, 소지 스킬 카드가 20장 이상인 경우, 비주얼 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -26781,7 +26893,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -26791,7 +26903,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "4回"
+                    "text": "4회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -26801,7 +26913,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },
@@ -26817,7 +26929,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "SPレッスン終了時、所持スキルカードが20枚以上の場合、ビジュアル上昇+"
+                    "text": "SP레슨 종료시, 소지 스킬 카드가 20장 이상인 경우, 비주얼 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -26837,7 +26949,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -26847,7 +26959,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "4回"
+                    "text": "4회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -26857,7 +26969,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },
@@ -30338,6 +30450,166 @@
             ]
         },
         {
+            "id": "p_support_skill-common-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-dance_addition-02-001",
+            "level": 1,
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "스킬 카드 획득 시, 댄스 상승 +"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_DiffText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "1"
+                }
+            ]
+        },
+        {
+            "id": "p_support_skill-common-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-dance_addition-02-001",
+            "level": 2,
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "스킬 카드 획득 시, 댄스 상승 +"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_DiffText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "2"
+                }
+            ]
+        },
+        {
+            "id": "p_support_skill-common-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_block-000-visual_addition-03-001",
+            "level": 1,
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_ExamBlock",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_ExamBlock",
+                    "text": "원기"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "효과 스킬 카드 획득 시, 비주얼 상승 +"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_DiffText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "2"
+                }
+            ]
+        },
+        {
+            "id": "p_support_skill-common-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_block-000-visual_addition-03-001",
+            "level": 2,
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_ExamBlock",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_ExamBlock",
+                    "text": "원기"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "효과 스킬 카드 획득 시, 비주얼 상승 +"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_DiffText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "3"
+                }
+            ]
+        },
+        {
+            "id": "p_support_skill-common-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_block-000-visual_addition-03-001",
+            "level": 3,
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_ExamBlock",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_ExamBlock",
+                    "text": "원기"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "효과 스킬 카드 획득 시, 비주얼 상승 +"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_DiffText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "4"
+                }
+            ]
+        },
+        {
             "id": "p_support_skill-common-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_block-000-vocal_addition-03-001",
             "level": 1,
             "produceDescriptions": [
@@ -30590,6 +30862,114 @@
             ]
         },
         {
+            "id": "p_support_skill-common-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_lesson_buff-000-dance_addition-03-001",
+            "level": 1,
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_ExamLessonBuff",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_ExamLessonBuff_Produce",
+                    "text": "집중"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "효과 스킬 카드 획득 시, 댄스 상승 +"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_DiffText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "2"
+                }
+            ]
+        },
+        {
+            "id": "p_support_skill-common-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_lesson_buff-000-dance_addition-03-001",
+            "level": 2,
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_ExamLessonBuff",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_ExamLessonBuff_Produce",
+                    "text": "집중"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "효과 스킬 카드 획득 시, 댄스 상승 +"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_DiffText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "3"
+                }
+            ]
+        },
+        {
+            "id": "p_support_skill-common-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_lesson_buff-000-dance_addition-03-001",
+            "level": 3,
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_ExamLessonBuff",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_ExamLessonBuff_Produce",
+                    "text": "집중"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "효과 스킬 카드 획득 시, 댄스 상승 +"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_DiffText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "4"
+                }
+            ]
+        },
+        {
             "id": "p_support_skill-common-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_parameter_buff-000-dance_addition-03-001",
             "level": 1,
             "produceDescriptions": [
@@ -30601,7 +30981,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamParameterBuff",
-                    "text": "好調"
+                    "text": "호조"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -30611,7 +30991,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "効果のスキルカード獲得時、ダンス上昇+"
+                    "text": "효과 스킬 카드 획득 시, 댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -30637,7 +31017,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamParameterBuff",
-                    "text": "好調"
+                    "text": "호조"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -30647,7 +31027,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "効果のスキルカード獲得時、ダンス上昇+"
+                    "text": "효과 스킬 카드 획득 시, 댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -30673,7 +31053,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamParameterBuff",
-                    "text": "好調"
+                    "text": "호조"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -30683,7 +31063,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "効果のスキルカード獲得時、ダンス上昇+"
+                    "text": "효과 스킬 카드 획득 시, 댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -30925,7 +31305,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamPreservation_Produce",
-                    "text": "温存"
+                    "text": "온존"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -30935,7 +31315,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "効果のスキルカード獲得時、ダンス上昇+"
+                    "text": "효과 스킬 카드 획득 시, 댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -30961,7 +31341,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamPreservation_Produce",
-                    "text": "温存"
+                    "text": "온존"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -30971,7 +31351,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "効果のスキルカード獲得時、ダンス上昇+"
+                    "text": "효과 스킬 카드 획득 시, 댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -30997,7 +31377,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamPreservation_Produce",
-                    "text": "温存"
+                    "text": "온존"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -31007,7 +31387,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "効果のスキルカード獲得時、ダンス上昇+"
+                    "text": "효과 스킬 카드 획득 시, 댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -31033,7 +31413,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamPreservation_Produce",
-                    "text": "温存"
+                    "text": "온존"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -31043,7 +31423,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "効果のスキルカード獲得時、ダンス上昇+"
+                    "text": "효과 스킬 카드 획득 시, 댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -31069,7 +31449,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamPreservation_Produce",
-                    "text": "温存"
+                    "text": "온존"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -31079,7 +31459,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "効果のスキルカード獲得時、ダンス上昇+"
+                    "text": "효과 스킬 카드 획득 시, 댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -31105,7 +31485,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamPreservation_Produce",
-                    "text": "温存"
+                    "text": "온존"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -31115,7 +31495,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "効果のスキルカード獲得時、ビジュアル上昇+"
+                    "text": "효과 스킬 카드 획득 시, 비주얼 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -31141,7 +31521,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamPreservation_Produce",
-                    "text": "温存"
+                    "text": "온존"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -31151,7 +31531,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "効果のスキルカード獲得時、ビジュアル上昇+"
+                    "text": "효과 스킬 카드 획득 시, 비주얼 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -32223,7 +32603,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "スキルカード（SSR）獲得時、ビジュアル上昇+"
+                    "text": "스킬 카드(SSR) 획득 시, 비주얼 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -32249,7 +32629,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "スキルカード（SSR）獲得時、ビジュアル上昇+"
+                    "text": "스킬 카드(SSR) 획득 시, 비주얼 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -32639,7 +33019,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "Pアイテム獲得時、ダンス上昇+"
+                    "text": "P아이템 획득 시, 댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -32659,7 +33039,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -32669,7 +33049,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "6回"
+                    "text": "6회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -32679,7 +33059,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },
@@ -32695,7 +33075,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "Pアイテム獲得時、ダンス上昇+"
+                    "text": "P아이템 획득 시, 댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -32715,7 +33095,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -32725,7 +33105,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "6回"
+                    "text": "6회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -32735,7 +33115,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },
@@ -32751,7 +33131,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "Pアイテム獲得時、ダンス上昇+"
+                    "text": "P아이템 획득 시, 댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -32771,7 +33151,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -32781,7 +33161,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "6回"
+                    "text": "6회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -32791,7 +33171,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },
@@ -32807,7 +33187,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "Pアイテム獲得時、ダンス上昇+"
+                    "text": "P아이템 획득 시, 댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -32827,7 +33207,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -32837,7 +33217,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "6回"
+                    "text": "6회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -32847,7 +33227,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },
@@ -32863,7 +33243,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "Pアイテム獲得時、ダンス上昇+"
+                    "text": "P아이템 획득 시, 댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -32883,7 +33263,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -32893,7 +33273,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "6回"
+                    "text": "6회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -32903,7 +33283,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },
@@ -33199,7 +33579,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "Pアイテム獲得時、ボーカル上昇+"
+                    "text": "P아이템 획득시, 보컬 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -33219,7 +33599,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -33229,7 +33609,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "6回"
+                    "text": "6회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -33239,7 +33619,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },
@@ -33255,7 +33635,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "Pアイテム獲得時、ボーカル上昇+"
+                    "text": "P아이템 획득시, 보컬 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -33275,7 +33655,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -33285,7 +33665,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "6回"
+                    "text": "6회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -33295,7 +33675,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },
@@ -39247,7 +39627,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 서포트 카드의 이벤트로 획득한 P 포인트를 "
+                    "text": "이 서포트 카드의 이벤트로 획득한 P포인트를 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -39283,7 +39663,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 서포트 카드의 이벤트로 획득한 P 포인트를 "
+                    "text": "이 서포트 카드의 이벤트로 획득한 P포인트를 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -39319,7 +39699,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 서포트 카드의 이벤트로 획득한 P 포인트를 "
+                    "text": "이 서포트 카드의 이벤트로 획득한 P포인트를 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -39355,7 +39735,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 서포트 카드의 이벤트로 획득한 P 포인트를 "
+                    "text": "이 서포트 카드의 이벤트로 획득한 P포인트를 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -39391,7 +39771,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 서포트 카드의 이벤트로 획득한 P 포인트를 "
+                    "text": "이 서포트 카드의 이벤트로 획득한 P포인트를 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -39427,7 +39807,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 서포트 카드의 이벤트로 획득한 P 포인트를 "
+                    "text": "이 서포트 카드의 이벤트로 획득한 P포인트를 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -39463,7 +39843,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 서포트 카드의 이벤트로 획득한 P 포인트를 "
+                    "text": "이 서포트 카드의 이벤트로 획득한 P포인트를 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -39499,7 +39879,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 서포트 카드의 이벤트로 획득한 P 포인트를 "
+                    "text": "이 서포트 카드의 이벤트로 획득한 P포인트를 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -39535,7 +39915,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 서포트 카드의 이벤트로 획득한 P 포인트를 "
+                    "text": "이 서포트 카드의 이벤트로 획득한 P포인트를 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -48223,7 +48603,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "特別指導開始時、ダンス上昇+"
+                    "text": "특별 지도 개시 시, 댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -48243,7 +48623,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -48253,7 +48633,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "3回"
+                    "text": "3회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -48263,7 +48643,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },
@@ -48279,7 +48659,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "特別指導開始時、ダンス上昇+"
+                    "text": "특별 지도 개시 시, 댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -48299,7 +48679,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -48309,7 +48689,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "3回"
+                    "text": "3회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -48319,7 +48699,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },
@@ -48335,7 +48715,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "特別指導開始時、ダンス上昇+"
+                    "text": "특별 지도 개시 시, 댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -48355,7 +48735,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -48365,7 +48745,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "3回"
+                    "text": "3회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -48375,7 +48755,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },
@@ -48391,7 +48771,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "特別指導開始時、ダンス上昇+"
+                    "text": "특별 지도 개시 시, 댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -48411,7 +48791,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -48421,7 +48801,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "3回"
+                    "text": "3회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -48431,7 +48811,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },
@@ -48615,7 +48995,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "特別指導開始時、ビジュアル上昇+"
+                    "text": "특별 지도 시작시, 비주얼 상승 + "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -48635,7 +49015,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -48645,7 +49025,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "3回"
+                    "text": "3회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -48655,7 +49035,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },
@@ -48671,7 +49051,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "特別指導開始時、ビジュアル上昇+"
+                    "text": "특별 지도 시작시, 비주얼 상승 + "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -48691,7 +49071,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "（プロデュース中"
+                    "text": "(프로듀스 중 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -48701,7 +49081,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "3回"
+                    "text": "3회"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -48711,7 +49091,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "）"
+                    "text": ") "
                 }
             ]
         },
@@ -50547,7 +50927,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "을(를) "
+                    "text": "를 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -50603,7 +50983,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "을(를) "
+                    "text": "를 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -50659,7 +51039,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "을(를) "
+                    "text": "를 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -50715,7 +51095,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "을(를) "
+                    "text": "를 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -50771,7 +51151,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "을(를) "
+                    "text": "를 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -51007,7 +51387,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "을(를) "
+                    "text": "를 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -51063,7 +51443,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "을(를) "
+                    "text": "를 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -51119,7 +51499,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "을(를) "
+                    "text": "를 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -51175,7 +51555,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "을(를) "
+                    "text": "를 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -51231,7 +51611,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "을(를) "
+                    "text": "를 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",

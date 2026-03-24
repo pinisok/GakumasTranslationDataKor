@@ -739,7 +739,7 @@
         },
         {
             "id": "shop_pack_item-daily-AP-0001",
-            "name": "매일 갱신！AP팩"
+            "name": "매일 갱신!AP팩"
         },
         {
             "id": "shop_pack_item-first-live_001",
@@ -752,6 +752,10 @@
         {
             "id": "shop_pack_item-first-live_003",
             "name": "첫사랑 공연 기념 팩"
+        },
+        {
+            "id": "shop_pack_item-freshman-support-01",
+            "name": "신입생 응원! SSR P아이돌 확정 가샤 & 특훈팩"
         },
         {
             "id": "shop_pack_item-half-aniversary-selection-ticket",
