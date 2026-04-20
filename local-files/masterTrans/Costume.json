@@ -106,6 +106,11 @@
             "description": "【Fluorite】'25 발렌타인 아리무라 마오 입수"
         },
         {
+            "id": "amao-cstm-0076",
+            "name": "히나마츠리 기모노",
+            "description": "히나마츠리 기모노 (아리무라 마오) 구매"
+        },
+        {
             "id": "amao-cstm-0081",
             "name": "벚꽃 포토그래프",
             "description": "【Fluorite】'25 벚꽃 아리무라 마오 입수"
@@ -214,6 +219,16 @@
             "id": "atbm-cstm-0073",
             "name": "백금의 빛",
             "description": "아마야 츠바메의 아이돌 길 스테이지 15 클리어"
+        },
+        {
+            "id": "atbm-cstm-0076",
+            "name": "눈이 녹을 때에",
+            "description": "【이론무장하고】'26 하나마츠리 아마야 츠바메 입수"
+        },
+        {
+            "id": "atbm-cstm-0081",
+            "name": "벚꽃 포토그래프",
+            "description": "【이론무장하고】'26 벚꽃 아마야 츠바메 입수"
         },
         {
             "id": "atbm-cstm-0106",
@@ -529,6 +544,16 @@
             "id": "hmsz-cstm-0075",
             "name": "해피 밀푀유",
             "description": "【달 거북이】'26 발렌타인 하타야 미스즈 입수"
+        },
+        {
+            "id": "hmsz-cstm-0076",
+            "name": "눈이 녹을 때에",
+            "description": "【츠키노카메】'26 하나마츠리 하타야 미스즈 입수"
+        },
+        {
+            "id": "hmsz-cstm-0081",
+            "name": "벚꽃 포토그래프",
+            "description": "【츠키노카메】'26 벚꽃 하타야 미스즈 입수"
         },
         {
             "id": "hmsz-cstm-0110",
@@ -891,6 +916,11 @@
             "description": "【벚꽃 포토그래프】하나미사키의 재능 개화 4단계 달성"
         },
         {
+            "id": "hski-cstm-0081",
+            "name": "벚꽃 세일러",
+            "description": "벚꽃 세일러 (하나미 사키) 구매"
+        },
+        {
             "id": "hski-cstm-0082",
             "name": "Wildest Flower",
             "description": "【Wildest Flower】하나미 사키 입수"
@@ -1054,6 +1084,16 @@
             "id": "hume-cstm-0075",
             "name": "해피 밀푀유",
             "description": "【The Rolling Riceball】'26 발렌타인 하나미 우메 입수"
+        },
+        {
+            "id": "hume-cstm-0076",
+            "name": "눈이 녹을 때에",
+            "description": "【The Rolling Riceball】'26 하나마츠리 하나미 우메 입수"
+        },
+        {
+            "id": "hume-cstm-0081",
+            "name": "벚꽃 포토그래프",
+            "description": "【The Rolling Riceball】'26 벚꽃 하나미 우메 입수"
         },
         {
             "id": "hume-cstm-0100",
@@ -1424,6 +1464,11 @@
             "id": "kcna-cstm-0075",
             "name": "해피 밀푀유",
             "description": "【Wonder Scale】'25 발렌타인 쿠라모토 치나 입수"
+        },
+        {
+            "id": "kcna-cstm-0076",
+            "name": "히나마츠리 기모노",
+            "description": "히나마츠리 기모노 (쿠라모토 치나) 구매"
         },
         {
             "id": "kcna-cstm-0081",
@@ -2029,6 +2074,11 @@
             "id": "ssmk-cstm-0080",
             "name": "벚꽃 포토그래프",
             "description": "【벚꽃 포토그래프】시운 스미카의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "ssmk-cstm-0081",
+            "name": "벚꽃 세일러",
+            "description": "벚꽃 세일러 (시운 스미카) 구매"
         },
         {
             "id": "ssmk-cstm-0096",
