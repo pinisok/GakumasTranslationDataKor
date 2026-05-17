@@ -12,6 +12,12 @@
             "acquisitionRouteDescription": "TVCM 방영 기념 로그인 보너스, TVCM 방영 기념 미션"
         },
         {
+            "id": "item_gacha-coin-continuous-002",
+            "name": "H.I.F 개막 기념 무제한 가챠 코인",
+            "description": "H.I.F 개막 기념 무제한 가챠에서 사용하는 코인",
+            "acquisitionRouteDescription": ""
+        },
+        {
             "id": "item-coin-box-gasha-event-001",
             "name": "고마워",
             "description": "이벤트 가챠에서 사용하는 아이템",
@@ -198,6 +204,12 @@
             "acquisitionRouteDescription": "교환소 등"
         },
         {
+            "id": "item-dearness-unlock-hmsz",
+            "name": "미스즈와의 기록의 열쇠",
+            "description": "하타야 미스즈의 STEP3 친애도 커뮤를 해방하는 아이템",
+            "acquisitionRouteDescription": "교환소 등"
+        },
+        {
             "id": "item-dearness-unlock-hrnm",
             "name": "리나미와의 기록의 열쇠",
             "description": "히메사키 리나미의 STEP 3 친애도 커뮤니티를 해방하는 아이템",
@@ -288,6 +300,18 @@
             "acquisitionRouteDescription": "프로듀스 등"
         },
         {
+            "id": "item-gachaticket-2nd-anniv-10-001",
+            "name": "2nd 애니버서리 10연 가챠 티켓",
+            "description": "2nd 애니버서리 10연 티켓 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gachaticket-ssr-8",
+            "name": "2nd 애니버서리 라이브 투어 한정 SSR P아이돌 확정 10연 가챠 티켓",
+            "description": "2nd 애니버서리 라이브 투어 한정 SSR P아이돌 확정 10연 티켓 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
             "id": "item-gasha_200limit-exchange",
             "name": "Story of Re; IRIS 방영 기념 교환권",
             "description": "20장 모으면 아이템 교환소에서 프로듀스 아이돌이나 서포트 카드를 교환할 수 있는 티켓",
@@ -316,6 +340,12 @@
             "name": "플래티넘 10연 가챠 티켓",
             "description": "플래티넘 가챠에서 사용하는 10연 티켓",
             "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-200limit-10-2026-01",
+            "name": "2nd 애니버서리 교환권",
+            "description": "20장 모으면 아이템 교환소에서 서포트 카드를 교환할 수 있는 티켓",
+            "acquisitionRouteDescription": "200연 한정 서포트 카드 셀렉트 픽업 가챠"
         },
         {
             "id": "item-gashaticket-aniv-001",
@@ -378,6 +408,18 @@
             "acquisitionRouteDescription": ""
         },
         {
+            "id": "item-gashaticket-ssr-idol-fix_4",
+            "name": "2nd 애니버서리 SSR P아이돌 확정 가챠 티켓",
+            "description": "2nd 애니버서리 SSR P아이돌 확정 티켓 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-ssr-idol-fix_5",
+            "name": "The 2nd Period 시즌 한정 SSR P아이돌 확정 10연 가챠 티켓",
+            "description": "The 2nd Period 시즌 한정 SSR P아이돌 확정 10연 티켓 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
             "id": "item-gashaticket-ssr-idol-season-fix_4",
             "name": "시즌 한정 SSR P 아이돌 확정 가챠 티켓",
             "description": "시즌 한정 SSR P 아이돌 확정 티켓 가챠에서 사용하는 티켓",
@@ -405,6 +447,12 @@
             "id": "item-gashaticket-valentine-001",
             "name": "발렌타인 가챠 10회 티켓",
             "description": "발렌타인 로그인 보너스 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-wednesday-260520",
+            "name": "학마스 수요일 가챠 티켓",
+            "description": "학마스 수요일 가챠에서 사용하는 티켓",
             "acquisitionRouteDescription": ""
         },
         {
@@ -1068,6 +1116,12 @@
             "acquisitionRouteDescription": "가챠 등"
         },
         {
+            "id": "item-piece-idol_hrnm-3-017",
+            "name": "[가라쿠타로드]히메사키 리나미의 피스",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
             "id": "item-piece-idol_hski-1-000",
             "name": "[학원생활] 하나미 사키의 조각",
             "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
@@ -1602,6 +1656,12 @@
             "acquisitionRouteDescription": "가챠 등"
         },
         {
+            "id": "item-piece-idol_ttmr-3-018",
+            "name": "[가라쿠타로드]츠키무라 테마리의 피스",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
             "id": "item-play-ticket_april-001",
             "name": "라이브 도전권",
             "description": "스페셜 이벤트에서 스테이지에 도전할 수 있는 아이템",
@@ -1620,10 +1680,46 @@
             "acquisitionRouteDescription": "시즌 이벤트"
         },
         {
+            "id": "item-primastellamaterial-common-001",
+            "name": "프리마스텔라 노트",
+            "description": "프로듀스 아이돌의 『샛별』 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "아이템 교환소 등"
+        },
+        {
+            "id": "item-primastellamaterial-idol_amao-001",
+            "name": "마오의 샛별의 빛",
+            "description": "아리무라 마오의 『샛별』 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "도전 과제 등"
+        },
+        {
+            "id": "item-primastellamaterial-idol_hmsz-001",
+            "name": "미스즈의 샛별의 빛",
+            "description": "하타야 미스즈의 『샛별』 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "도전 과제 등"
+        },
+        {
+            "id": "item-primastellamaterial-idol_hrnm-001",
+            "name": "리나미의 샛별의 빛",
+            "description": "히메사키 리나미의 『샛별』 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "도전 과제 등"
+        },
+        {
+            "id": "item-primastellamaterial-idol_ttmr-001",
+            "name": "테마리의 샛별의 빛",
+            "description": "츠키무라 테마리의 『샛별』 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "도전 과제 등"
+        },
+        {
             "id": "item-produce_continue-1",
             "name": "재도전 티켓",
             "description": "프로듀스 재도전 시 사용하는 아이템",
             "acquisitionRouteDescription": "AP 교환소 등"
+        },
+        {
+            "id": "item-produce-produce_growth_panel_sheet_point-hif",
+            "name": "H.I.F 보너스 Pt",
+            "description": "H.I.F 보너스 해방·강화에 사용하는 Pt",
+            "acquisitionRouteDescription": "프로듀스 등"
         },
         {
             "id": "item-produce-reroll-memory-001",
@@ -1634,13 +1730,13 @@
         {
             "id": "item-produceboostreward_limitovermaterial-1",
             "name": "입수 노트 수 업",
-            "description": "프로듀스 개시시에 사용하면 특훈 아이템의 입수량이 200% 상승하는 획득량 상승 아이템",
+            "description": "프로듀스 시작 시에 사용하면 특훈 아이템의 입수량이 200% 상승하는 획득량 상승 아이템",
             "acquisitionRouteDescription": "AP 교환소 등"
         },
         {
             "id": "item-produceboostreward_support_card_enhance_point-1",
             "name": "입수 서포트 강화 pt 업",
-            "description": "프로듀스 개시시에 사용하면 서포트 강화 Pt의 입수량이 200% 상승하는 획득량 상승 아이템",
+            "description": "프로듀스 시작 시에 사용하면 서포트 강화 Pt의 입수량이 200% 상승하는 획득량 상승 아이템",
             "acquisitionRouteDescription": "AP 교환소 등"
         },
         {

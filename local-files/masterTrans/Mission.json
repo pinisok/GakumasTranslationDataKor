@@ -326,6 +326,22 @@
             "name": "후지타 코토네로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
         },
         {
+            "id": "dearness_event_relaunch_hmsz-001",
+            "name": "하타야 미스즈의 보컬을 1800 이상으로 육성하여 프로듀스 완료"
+        },
+        {
+            "id": "dearness_event_relaunch_hmsz-002",
+            "name": "하타야 미스즈의 프로듀스에서 스킬 카드를 {threshold}회 커스터마이징하자"
+        },
+        {
+            "id": "dearness_event_relaunch_hmsz-003",
+            "name": "하타야 미스즈로 보컬 레슨을 {threshold}회 클리어하자"
+        },
+        {
+            "id": "dearness_event_relaunch_hmsz-004",
+            "name": "하타야 미스즈로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
+        },
+        {
             "id": "dearness_event_relaunch_hrnm-001",
             "name": "히메사키 리나미의 비주얼를 1800 이상으로 육성하여 프로듀스 완료"
         },
@@ -974,12 +990,24 @@
             "name": "테마리 피스팩 리마인드용"
         },
         {
+            "id": "hidden_mission-produce-audition-failure_hmsz_initial-card",
+            "name": "미스즈 초기 SSR 프로듀스 불합격"
+        },
+        {
+            "id": "hidden_mission-produce-audition-failure_jsna_initial-card",
+            "name": "세나 초기 SSR 프로듀스 불합격"
+        },
+        {
             "id": "hidden_mission-produce-audition-failure_kcna_initial-card",
             "name": "치나 초기 SSR/SR/R 프로듀스 불합격"
         },
         {
             "id": "hidden_mission-produce-audition-failure_shro_initial-card",
             "name": "히로 초기 SSR/SR/R 프로듀스 불합격"
+        },
+        {
+            "id": "hidden_mission-reward-sr-idol-present-support-memory-001",
+            "name": "첫 레귤러 프로듀스를 1회 클리어"
         },
         {
             "id": "hidden_mission-tower_amao-clear_star_40",
@@ -1096,6 +1124,22 @@
         {
             "id": "hidden_mission-view-ending-c-hmsz",
             "name": "미스즈로 C End 달성"
+        },
+        {
+            "id": "hidden_mission-view-ending-final-a-produce_group-003-amao",
+            "name": "마오로 A-End 달성"
+        },
+        {
+            "id": "hidden_mission-view-ending-final-a-produce_group-003-hmsz",
+            "name": "미스즈로 A-End 달성"
+        },
+        {
+            "id": "hidden_mission-view-ending-final-a-produce_group-003-hrnm",
+            "name": "리나미로 A-End 달성"
+        },
+        {
+            "id": "hidden_mission-view-ending-final-a-produce_group-003-ttmr",
+            "name": "테마리로 A-End 달성"
         },
         {
             "id": "hidden_mission-view-ending-normal-a-amao",
@@ -1338,6 +1382,10 @@
             "name": "테마리로 TrueEnd 달성"
         },
         {
+            "id": "hidden_mission-view-ending-true-produce_group-003",
+            "name": "H.I.F에서 True End"
+        },
+        {
             "id": "hidden_mission-view-ending-true-shro",
             "name": "히로로 True End를 보기"
         },
@@ -1376,6 +1424,26 @@
         {
             "id": "hidden_mission-view-gasha-200limit-select-pickup-001",
             "name": "Story of Re;IRIS 방영 기념 SSR1.5배 셀렉트 픽업 가챠를 {threshold}번 뽑자"
+        },
+        {
+            "id": "hidden_mission-view-gasha-200limit-select-pickup-002",
+            "name": "SSR 1.5배! 200연 한정 서포트 카드 셀렉트 픽업 가챠를 {threshold}회 뽑자"
+        },
+        {
+            "id": "limited-time-mission-001-mission_1",
+            "name": "H.I.F에서 플랜:센스 프로듀스를 {threshold}회 완료하자"
+        },
+        {
+            "id": "limited-time-mission-001-mission_2",
+            "name": "H.I.F에서 플랜:로직 프로듀스를 {threshold}회 완료하자"
+        },
+        {
+            "id": "limited-time-mission-001-mission_3",
+            "name": "H.I.F에서 플랜:아노말리 프로듀스를 {threshold}회 완료하자"
+        },
+        {
+            "id": "limited-time-mission-001-mission_4",
+            "name": "최종 시험을 스코어 S4+ 이상으로 1회 합격하자"
         },
         {
             "id": "mission-april-event-001-mission_1",
@@ -1942,6 +2010,42 @@
             "name": "최종 시험에 {threshold}번 합격하자"
         },
         {
+            "id": "mission-daily_mission_HIF_clear-mission_11",
+            "name": "프로듀스로 「H.I.F」:선발시험을 {threshold}회 완료하자"
+        },
+        {
+            "id": "mission-daily_mission_HIF_clear-mission_12",
+            "name": "아리무라 마오의 프로듀스로 「H.I.F」:본선을 {threshold}회 완료하자"
+        },
+        {
+            "id": "mission-daily_mission_HIF_clear-mission_15",
+            "name": "하타야 미스즈의 프로듀스로 「H.I.F」:본선을 {threshold}회 완료하자"
+        },
+        {
+            "id": "mission-daily_mission_HIF_clear-mission_16",
+            "name": "히메사키 리나미의 프로듀스로 「H.I.F」:본선을 {threshold}회 완료하자"
+        },
+        {
+            "id": "mission-daily_mission_HIF_clear-mission_24",
+            "name": "츠키무라 테마리의 프로듀스로 「H.I.F」:본선을 {threshold}회 완료하자"
+        },
+        {
+            "id": "mission-daily_mission_HIF_clear-mission_25",
+            "name": "아리무라 마오의 친애도 Lv를 {threshold} 달성하자"
+        },
+        {
+            "id": "mission-daily_mission_HIF_clear-mission_28",
+            "name": "하타야 미스즈의 친애도 Lv를 {threshold} 달성하자"
+        },
+        {
+            "id": "mission-daily_mission_HIF_clear-mission_29",
+            "name": "히메사키 리나미의 친애도 Lv를 {threshold} 달성하자"
+        },
+        {
+            "id": "mission-daily_mission_HIF_clear-mission_37",
+            "name": "츠키무라 테마리의 친애도 Lv를 {threshold} 달성하자"
+        },
+        {
             "id": "mission-daily_mission_NIA_clear-mission_11",
             "name": "{threshold}일 로그인하자"
         },
@@ -2075,7 +2179,7 @@
         },
         {
             "id": "mission-daily_mission_NIA_clear-mission_64",
-            "name": "True End : N.I.A를 {threshold} 명 보자"
+            "name": "True End: N.I.A를 {threshold} 명 보자"
         },
         {
             "id": "mission-daily_mission_NIA_clear-mission_65",
@@ -2099,7 +2203,7 @@
         },
         {
             "id": "mission-daily_mission_NIA_clear-mission_74",
-            "name": "True End : N.I.A를 {threshold} 명 보자"
+            "name": "True End: N.I.A를 {threshold} 명 보자"
         },
         {
             "id": "mission-daily_mission_NIA_clear-mission_75",
@@ -5655,7 +5759,7 @@
         },
         {
             "id": "mission-research-event-002-mission_2",
-            "name": "플랜 : 로직 프로듀스 아이돌로 최종 시험에 {threshold}회 합격하자"
+            "name": "플랜: 로직 프로듀스 아이돌로 최종 시험에 {threshold}회 합격하자"
         },
         {
             "id": "mission-research-event-002-mission_3",
@@ -5719,7 +5823,7 @@
         },
         {
             "id": "mission-research-event-004-mission_2",
-            "name": "플랜 : 로직 프로듀스 아이돌로 최종 시험에 {threshold}회 합격하자"
+            "name": "플랜: 로직 프로듀스 아이돌로 최종 시험에 {threshold}회 합격하자"
         },
         {
             "id": "mission-research-event-004-mission_3",
@@ -6491,7 +6595,7 @@
         },
         {
             "id": "panel_mission-event-007-mission_19",
-            "name": "True End : N.I.A를 {threshold} 명 보자"
+            "name": "True End: N.I.A를 {threshold} 명 보자"
         },
         {
             "id": "panel_mission-event-007-mission_2",
@@ -6615,27 +6719,27 @@
         },
         {
             "id": "panel_mission-event-009-mission_14",
-            "name": "카츠라기 릴리야의 친애도 Lv을 {threshold} 달성하자"
+            "name": "카츠라기 릴리야의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "panel_mission-event-009-mission_15",
-            "name": "시운 스미카의 친애도 Lv을 {threshold} 달성하자"
+            "name": "시운 스미카의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "panel_mission-event-009-mission_16",
-            "name": "하나미 사키의 친애도 Lv을 {threshold} 달성하자"
+            "name": "하나미 사키의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "panel_mission-event-009-mission_17",
-            "name": "하나미 우메의 친애도 Lv을 {threshold} 달성하자"
+            "name": "하나미 우메의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "panel_mission-event-009-mission_18",
-            "name": "후지타 코토네의 친애도 Lv을 {threshold} 달성하자"
+            "name": "후지타 코토네의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "panel_mission-event-009-mission_19",
-            "name": "주오 세나의 친애도 Lv을 {threshold} 달성하자"
+            "name": "주오 세나의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "panel_mission-event-009-mission_2",
@@ -6647,27 +6751,27 @@
         },
         {
             "id": "panel_mission-event-009-mission_4",
-            "name": "아리무라 마오의 친애도 Lv을 {threshold} 달성하자"
+            "name": "아리무라 마오의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "panel_mission-event-009-mission_5",
-            "name": "히메사키 리나미의 친애도 Lv을 {threshold} 달성하자"
+            "name": "히메사키 리나미의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "panel_mission-event-009-mission_6",
-            "name": "하타야 미스즈의 친애도 Lv을 {threshold} 달성하자"
+            "name": "하타야 미스즈의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "panel_mission-event-009-mission_7",
-            "name": "츠키무라 테마리의 친애도 Lv을 {threshold} 달성하자"
+            "name": "츠키무라 테마리의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "panel_mission-event-009-mission_8",
-            "name": "쿠라모토 치나의 친애도 Lv을 {threshold} 달성하자"
+            "name": "쿠라모토 치나의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "panel_mission-event-009-mission_9",
-            "name": "시노사와 히로의 친애도 Lv을 {threshold} 달성하자"
+            "name": "시노사와 히로의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "panel_mission-event-niv-mission_1",
@@ -7496,6 +7600,30 @@
         {
             "id": "achieve-i_card-hrnm-3-013-06",
             "name": "【36℃ U･B･U】히메사키 리나미의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-017-01",
+            "name": "【가라쿠타로드】히메사키 리나미의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-017-02",
+            "name": "【가라쿠타로드】히메사키 리나미의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-017-03",
+            "name": "【가라쿠타로드】히메사키 리나미의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-017-04",
+            "name": "【가라쿠타로드】히메사키 리나미의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-017-05",
+            "name": "【가라쿠타로드】히메사키 리나미의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-017-06",
+            "name": "【가라쿠타로드】히메사키 리나미의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-hski-2-000-04",
@@ -9106,6 +9234,30 @@
             "name": "【대체 언제부터】츠키무라 테마리의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-ttmr-3-018-01",
+            "name": "【가라쿠타로드】츠키무라 테마리의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-018-02",
+            "name": "【가라쿠타로드】츠키무라 테마리의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-018-03",
+            "name": "【가라쿠타로드】츠키무라 테마리의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-018-04",
+            "name": "【가라쿠타로드】츠키무라 테마리의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-018-05",
+            "name": "【가라쿠타로드】츠키무라 테마리의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-018-06",
+            "name": "【가라쿠타로드】츠키무라 테마리의 특훈 단계 {threshold} 달성"
+        },
+        {
             "id": "achieve-m_amao-001",
             "name": "아리무라 마오의 업적의 ★을 {threshold}개 획득"
         },
@@ -9239,15 +9391,15 @@
         },
         {
             "id": "achieve-o_023",
-            "name": "콘테스트 에서 스코어 10,000 점 이상 획득"
+            "name": "콘테스트에서 스코어 10,000점 이상 획득"
         },
         {
             "id": "achieve-o_024",
-            "name": "콘테스트 에서 스코어 30,000 점 이상 획득"
+            "name": "콘테스트에서 스코어 30,000점 이상 획득"
         },
         {
             "id": "achieve-o_025",
-            "name": "콘테스트 에서 스코어 60,000 점 이상 획득"
+            "name": "콘테스트에서 스코어 60,000점 이상 획득"
         },
         {
             "id": "achieve-o_026",
@@ -9256,6 +9408,10 @@
         {
             "id": "achieve-o_027",
             "name": "콘테스트 7등급에서 100위 안에 들자"
+        },
+        {
+            "id": "achieve-o_028",
+            "name": "H.I.F 보너스로 보너스 패널 진척도 {threshold} 달성"
         },
         {
             "id": "achieve-p_common-001",
@@ -9374,12 +9530,28 @@
             "name": "최종 시험을 스코어 SSS+ 이상으로 {threshold}회 합격"
         },
         {
+            "id": "achieve-p_common-030",
+            "name": "최종 시험을 스코어 S4 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-p_common-031",
+            "name": "최종 시험을 스코어 S4+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-p_common-032",
+            "name": "『샛별』 해방을 {threshold}명 달성"
+        },
+        {
             "id": "achieve-p_idol-amao-000",
             "name": "아리무라 마오로 True End를 보기"
         },
         {
             "id": "achieve-p_idol-amao-000-1",
-            "name": "아리무라 마오로 True End : N.I.A 보기"
+            "name": "아리무라 마오로 True End: N.I.A 보기"
+        },
+        {
+            "id": "achieve-p_idol-amao-000-2",
+            "name": "아리무라 마오로 True End: H.I.F 보기"
         },
         {
             "id": "achieve-p_idol-amao-001",
@@ -9423,7 +9595,7 @@
         },
         {
             "id": "achieve-p_idol-amao-011",
-            "name": "아리무라 마오의 친애도 Lv을 {threshold} 달성하자"
+            "name": "아리무라 마오의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "achieve-p_idol-amao-012",
@@ -9478,6 +9650,18 @@
             "name": "아리무라 마오로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
         },
         {
+            "id": "achieve-p_idol-amao-025",
+            "name": "아리무라 마오로 H.I.F 최종 시험에 합격하여 평가 S4+ 이상 획득"
+        },
+        {
+            "id": "achieve-p_idol-amao-026",
+            "name": "아리무라 마오로 H.I.F 최종 시험에 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-p_idol-amao-027",
+            "name": "아리무라 마오로 최종 시험에 합격하여 평가 S4 이상을 {threshold}회 획득"
+        },
+        {
             "id": "achieve-p_idol-atbm-000",
             "name": "아마야 츠바메로 True End를 보기"
         },
@@ -9527,7 +9711,7 @@
         },
         {
             "id": "achieve-p_idol-atbm-011",
-            "name": "아마야 츠바메의 친애도 Lv을 {threshold} 달성하자"
+            "name": "아마야 츠바메의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "achieve-p_idol-atbm-012",
@@ -9576,6 +9760,10 @@
         {
             "id": "achieve-p_idol-atbm-024",
             "name": "아마야 츠바메로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-p_idol-atbm-027",
+            "name": "아마야 츠바메로 최종 시험에 합격하여 평가 S4 이상을 {threshold}회 획득"
         },
         {
             "id": "achieve-p_idol-card-amao-002-1",
@@ -9799,7 +9987,7 @@
         },
         {
             "id": "achieve-p_idol-fktn-000-1",
-            "name": "후지타 코토네로 True End  : N.I.A 보기"
+            "name": "후지타 코토네로 True End: N.I.A 보기"
         },
         {
             "id": "achieve-p_idol-fktn-001",
@@ -9843,7 +10031,7 @@
         },
         {
             "id": "achieve-p_idol-fktn-011",
-            "name": "후지타 코토네의 친애도 Lv을 {threshold} 달성하자"
+            "name": "후지타 코토네의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "achieve-p_idol-fktn-012",
@@ -9898,12 +10086,20 @@
             "name": "후지타 코토네로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
         },
         {
+            "id": "achieve-p_idol-fktn-027",
+            "name": "후지타 코토네로 최종 시험에 합격하여 평가 S4 이상을 {threshold}회 획득"
+        },
+        {
             "id": "achieve-p_idol-hmsz-000",
             "name": "하타야 미스즈로 True End를 보기"
         },
         {
             "id": "achieve-p_idol-hmsz-000-1",
-            "name": "하타야 미스즈로 True End  : N.I.A 보기"
+            "name": "하타야 미스즈로 True End: N.I.A 보기"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-000-2",
+            "name": "하타야 미스즈로 True End: H.I.F 보기"
         },
         {
             "id": "achieve-p_idol-hmsz-001",
@@ -9947,7 +10143,7 @@
         },
         {
             "id": "achieve-p_idol-hmsz-011",
-            "name": "하타야 미스즈의 친애도 Lv을 {threshold} 달성하자"
+            "name": "하타야 미스즈의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "achieve-p_idol-hmsz-012",
@@ -9998,12 +10194,28 @@
             "name": "하타야 미스즈로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
         },
         {
+            "id": "achieve-p_idol-hmsz-025",
+            "name": "하타야 미스즈로 H.I.F 최종 시험에 합격하여 평가 S4+ 이상 획득"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-026",
+            "name": "하타야 미스즈로 H.I.F 최종 시험에 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-027",
+            "name": "하타야 미스즈로 최종 시험에 합격하여 평가 S4 이상을 {threshold}회 획득"
+        },
+        {
             "id": "achieve-p_idol-hrnm-000",
             "name": "히메사키 리나미로 True End를 보기"
         },
         {
             "id": "achieve-p_idol-hrnm-000-1",
-            "name": "히메사키 리나미로 True End  : N.I.A 보기"
+            "name": "히메사키 리나미로 True End: N.I.A 보기"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-000-2",
+            "name": "히메사키 리나미로 True End: H.I.F 보기"
         },
         {
             "id": "achieve-p_idol-hrnm-001",
@@ -10047,7 +10259,7 @@
         },
         {
             "id": "achieve-p_idol-hrnm-011",
-            "name": "히메사키 리나미의 친애도 Lv을 {threshold} 달성하자"
+            "name": "히메사키 리나미의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "achieve-p_idol-hrnm-012",
@@ -10102,12 +10314,24 @@
             "name": "히메사키 리나미로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
         },
         {
+            "id": "achieve-p_idol-hrnm-025",
+            "name": "히메사키 리나미로 H.I.F 최종 시험에 합격하여 평가 S4+ 이상 획득"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-026",
+            "name": "히메사키 리나미로 H.I.F 최종 시험에 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-027",
+            "name": "히메사키 리나미로 최종 시험에 합격하여 평가 S4 이상을 {threshold}회 획득"
+        },
+        {
             "id": "achieve-p_idol-hski-000",
             "name": "하나미 사키로 True End를 보기"
         },
         {
             "id": "achieve-p_idol-hski-000-1",
-            "name": "하나미 사키로 True End  : N.I.A 보기"
+            "name": "하나미 사키로 True End: N.I.A 보기"
         },
         {
             "id": "achieve-p_idol-hski-001",
@@ -10151,7 +10375,7 @@
         },
         {
             "id": "achieve-p_idol-hski-011",
-            "name": "하나미 사키의 친애도 Lv을 {threshold} 달성하자"
+            "name": "하나미 사키의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "achieve-p_idol-hski-012",
@@ -10206,12 +10430,16 @@
             "name": "하나미 사키로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
         },
         {
+            "id": "achieve-p_idol-hski-027",
+            "name": "하나미 사키로 최종 시험에 합격하여 평가 S4 이상을 {threshold}회 획득"
+        },
+        {
             "id": "achieve-p_idol-hume-000",
             "name": "하나미 우메로 True End를 보기"
         },
         {
             "id": "achieve-p_idol-hume-000-1",
-            "name": "하나미 우메로 True End  : N.I.A 보기"
+            "name": "하나미 우메로 True End: N.I.A 보기"
         },
         {
             "id": "achieve-p_idol-hume-001",
@@ -10255,7 +10483,7 @@
         },
         {
             "id": "achieve-p_idol-hume-011",
-            "name": "하나미 우메의 친애도 Lv을 {threshold} 달성하자"
+            "name": "하나미 우메의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "achieve-p_idol-hume-012",
@@ -10306,12 +10534,16 @@
             "name": "하나미 우메로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
         },
         {
+            "id": "achieve-p_idol-hume-027",
+            "name": "하나미 우메로 최종 시험에 합격하여 평가 S4 이상을 {threshold}회 획득"
+        },
+        {
             "id": "achieve-p_idol-jsna-000",
             "name": "주오 세나 True End 보기"
         },
         {
             "id": "achieve-p_idol-jsna-000-1",
-            "name": "주오 세나로 True End  : N.I.A 보기"
+            "name": "주오 세나로 True End: N.I.A 보기"
         },
         {
             "id": "achieve-p_idol-jsna-001",
@@ -10327,15 +10559,15 @@
         },
         {
             "id": "achieve-p_idol-jsna-004",
-            "name": "주오 세나로 최종시험에 합격하여 평가 B 이상을 {threshold}회 획득 "
+            "name": "주오 세나로 최종시험에 합격하여 평가 B 이상을 {threshold}회 획득"
         },
         {
             "id": "achieve-p_idol-jsna-005",
-            "name": "주오 세나로 최종시험에 합격하고 평가 A 이상을 {threshold}회 획득 "
+            "name": "주오 세나로 최종시험에 합격하고 평가 A 이상을 {threshold}회 획득"
         },
         {
             "id": "achieve-p_idol-jsna-006",
-            "name": "주오 세나로 최종 시험에 합격하고 평가 S 이상을 {threshold}회 획득 "
+            "name": "주오 세나로 최종 시험에 합격하고 평가 S 이상을 {threshold}회 획득"
         },
         {
             "id": "achieve-p_idol-jsna-007",
@@ -10355,7 +10587,7 @@
         },
         {
             "id": "achieve-p_idol-jsna-011",
-            "name": "주오 세나의 친애도 Lv을 {threshold}로 설정"
+            "name": "주오 세나의 친애도 Lv를 {threshold}로 설정"
         },
         {
             "id": "achieve-p_idol-jsna-012",
@@ -10375,7 +10607,7 @@
         },
         {
             "id": "achieve-p_idol-jsna-016",
-            "name": "주오 세나로 최종 시험에 합격해 평가 S+이상을 {threshold}회 획득 "
+            "name": "주오 세나로 최종 시험에 합격해 평가 S+이상을 {threshold}회 획득"
         },
         {
             "id": "achieve-p_idol-jsna-017",
@@ -10410,12 +10642,16 @@
             "name": "주오 세나로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
         },
         {
+            "id": "achieve-p_idol-jsna-027",
+            "name": "주오 세나로 최종 시험에 합격하여 평가 S4 이상을 {threshold}회 획득"
+        },
+        {
             "id": "achieve-p_idol-kcna-000",
             "name": "쿠라모토 치나로 True End를 보기"
         },
         {
             "id": "achieve-p_idol-kcna-000-1",
-            "name": "쿠라모토 치나로 True End  : N.I.A 보기"
+            "name": "쿠라모토 치나로 True End: N.I.A 보기"
         },
         {
             "id": "achieve-p_idol-kcna-001",
@@ -10459,7 +10695,7 @@
         },
         {
             "id": "achieve-p_idol-kcna-011",
-            "name": "쿠라모토 치나의 친애도 Lv을 {threshold} 달성하자"
+            "name": "쿠라모토 치나의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "achieve-p_idol-kcna-012",
@@ -10510,12 +10746,16 @@
             "name": "쿠라모토 치나로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
         },
         {
+            "id": "achieve-p_idol-kcna-027",
+            "name": "쿠라모토 치나로 최종 시험에 합격하여 평가 S4 이상을 {threshold}회 획득"
+        },
+        {
             "id": "achieve-p_idol-kllj-000",
             "name": "카츠라기 릴리야로 True End를 보기"
         },
         {
             "id": "achieve-p_idol-kllj-000-1",
-            "name": "카츠라기 릴리야로 True End  : N.I.A 보기"
+            "name": "카츠라기 릴리야로 True End: N.I.A 보기"
         },
         {
             "id": "achieve-p_idol-kllj-001",
@@ -10559,7 +10799,7 @@
         },
         {
             "id": "achieve-p_idol-kllj-011",
-            "name": "카츠라기 릴리야의 친애도 Lv을 {threshold} 달성하자"
+            "name": "카츠라기 릴리야의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "achieve-p_idol-kllj-012",
@@ -10610,12 +10850,16 @@
             "name": "카츠라기 릴리야로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
         },
         {
+            "id": "achieve-p_idol-kllj-027",
+            "name": "카츠라기 릴리야로 최종 시험에 합격하여 평가 S4 이상을 {threshold}회 획득"
+        },
+        {
             "id": "achieve-p_idol-shro-000",
             "name": "시노사와 히로로 True End를 보기"
         },
         {
             "id": "achieve-p_idol-shro-000-1",
-            "name": "시노사와 히로로 True End  : N.I.A 보기"
+            "name": "시노사와 히로로 True End: N.I.A 보기"
         },
         {
             "id": "achieve-p_idol-shro-001",
@@ -10659,7 +10903,7 @@
         },
         {
             "id": "achieve-p_idol-shro-011",
-            "name": "시노사와 히로의 친애도 Lv을 {threshold} 달성하자"
+            "name": "시노사와 히로의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "achieve-p_idol-shro-012",
@@ -10714,12 +10958,16 @@
             "name": "시노사와 히로로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
         },
         {
+            "id": "achieve-p_idol-shro-027",
+            "name": "시노사와 히로로 최종 시험에 합격하여 평가 S4 이상을 {threshold}회 획득"
+        },
+        {
             "id": "achieve-p_idol-ssmk-000",
             "name": "시운 스미카로 True End를 보기"
         },
         {
             "id": "achieve-p_idol-ssmk-000-1",
-            "name": "시운 스미카로 True End  : N.I.A 보기"
+            "name": "시운 스미카로 True End: N.I.A 보기"
         },
         {
             "id": "achieve-p_idol-ssmk-001",
@@ -10763,7 +11011,7 @@
         },
         {
             "id": "achieve-p_idol-ssmk-011",
-            "name": "시운 스미카의 친애도 Lv을 {threshold} 달성하자"
+            "name": "시운 스미카의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "achieve-p_idol-ssmk-012",
@@ -10814,12 +11062,20 @@
             "name": "시운 스미카로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
         },
         {
+            "id": "achieve-p_idol-ssmk-027",
+            "name": "시운 스미카로 최종 시험에 합격하여 평가 S4 이상을 {threshold}회 획득"
+        },
+        {
             "id": "achieve-p_idol-ttmr-000",
             "name": "츠키무라 테마리로 True End를 보기"
         },
         {
             "id": "achieve-p_idol-ttmr-000-1",
-            "name": "츠키무라 테마리로 True End  : N.I.A 보기"
+            "name": "츠키무라 테마리로 True End: N.I.A 보기"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-000-2",
+            "name": "츠키무라 테마리로 True End: H.I.F 보기"
         },
         {
             "id": "achieve-p_idol-ttmr-001",
@@ -10863,7 +11119,7 @@
         },
         {
             "id": "achieve-p_idol-ttmr-011",
-            "name": "츠키무라 테마리의 친애도 Lv을 {threshold} 달성하자"
+            "name": "츠키무라 테마리의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "achieve-p_idol-ttmr-012",
@@ -10916,6 +11172,18 @@
         {
             "id": "achieve-p_idol-ttmr-024",
             "name": "츠키무라 테마리로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-025",
+            "name": "츠키무라 테마리로 H.I.F 최종 시험에 합격하여 평가 S4+ 이상 획득"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-026",
+            "name": "츠키무라 테마리로 H.I.F 최종 시험에 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-027",
+            "name": "츠키무라 테마리로 최종 시험에 합격하여 평가 S4 이상을 {threshold}회 획득"
         },
         {
             "id": "achievement_char_hume-024",
@@ -11599,7 +11867,7 @@
         },
         {
             "id": "main_task_group-03-01#7",
-            "name": "주오 세나의 친애도 Lv을 {threshold} 달성하자"
+            "name": "주오 세나의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#8",
@@ -11611,7 +11879,7 @@
         },
         {
             "id": "main_task_group-03-01#10",
-            "name": "주오 세나의 친애도 Lv을 {threshold} 달성하자"
+            "name": "주오 세나의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#11",
@@ -11619,7 +11887,7 @@
         },
         {
             "id": "main_task_group-03-01#12",
-            "name": "주오 세나의 친애도 Lv을 {threshold} 달성하자"
+            "name": "주오 세나의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#13",
@@ -11727,47 +11995,47 @@
         },
         {
             "id": "main_task_group-03-01#39",
-            "name": "하나미 사키의 친애도 Lv을 {threshold} 달성하자"
+            "name": "하나미 사키의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#40",
-            "name": "츠키무라 테마리의 친애도 Lv을 {threshold} 달성하자"
+            "name": "츠키무라 테마리의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#41",
-            "name": "후지타 코토네의 친애도 Lv을 {threshold} 달성하자"
+            "name": "후지타 코토네의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#42",
-            "name": "아리무라 마오의 친애도 Lv을 {threshold} 달성하자"
+            "name": "아리무라 마오의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#43",
-            "name": "카츠라기 릴리야의 친애도 Lv을 {threshold} 달성하자"
+            "name": "카츠라기 릴리야의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#44",
-            "name": "쿠라모토 치나의 친애도 Lv을 {threshold} 달성하자"
+            "name": "쿠라모토 치나의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#45",
-            "name": "시운 스미카의 친애도 Lv을 {threshold} 달성하자"
+            "name": "시운 스미카의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#46",
-            "name": "시노사와 히로의 친애도 Lv을 {threshold} 달성하자"
+            "name": "시노사와 히로의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#47",
-            "name": "하나미 우메의 친애도 Lv을 {threshold} 달성하자"
+            "name": "하나미 우메의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#48",
-            "name": "히메사키 리나미의 친애도 Lv을 {threshold} 달성하자"
+            "name": "히메사키 리나미의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#49",
-            "name": "주오 세나의 친애도 Lv을 {threshold} 달성하자"
+            "name": "주오 세나의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#50",
@@ -11883,7 +12151,7 @@
         },
         {
             "id": "main_task_group-03-01#78",
-            "name": "N.I.A의 프로듀스로 평가 S 이상 달성하자\n【조건】플랜 : 로직 프로듀스 아이돌 "
+            "name": "N.I.A의 프로듀스로 평가 S 이상 달성하자\n【조건】플랜: 로직 프로듀스 아이돌"
         },
         {
             "id": "main_task_group-03-01#79",
@@ -11899,47 +12167,47 @@
         },
         {
             "id": "main_task_group-03-01#82",
-            "name": "하나미 사키의 친애도 Lv을 {threshold} 달성하자"
+            "name": "하나미 사키의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#83",
-            "name": "츠키무라 테마리의 친애도 Lv을 {threshold} 달성하자"
+            "name": "츠키무라 테마리의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#84",
-            "name": "후지타 코토네의 친애도 Lv을 {threshold} 달성하자"
+            "name": "후지타 코토네의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#85",
-            "name": "아리무라 마오의 친애도 Lv을 {threshold} 달성하자"
+            "name": "아리무라 마오의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#86",
-            "name": "카츠라기 릴리야의 친애도 Lv을 {threshold} 달성하자"
+            "name": "카츠라기 릴리야의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#87",
-            "name": "쿠라모토 치나의 친애도 Lv을 {threshold} 달성하자"
+            "name": "쿠라모토 치나의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#88",
-            "name": "시운 스미카의 친애도 Lv을 {threshold} 달성하자"
+            "name": "시운 스미카의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#89",
-            "name": "시노사와 히로의 친애도 Lv을 {threshold} 달성하자"
+            "name": "시노사와 히로의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#90",
-            "name": "주오 세나의 친애도 Lv을 {threshold} 달성하자"
+            "name": "주오 세나의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#91",
-            "name": "하나미 우메의 친애도 Lv을 {threshold} 달성하자"
+            "name": "하나미 우메의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#92",
-            "name": "히메사키 리나미의 친애도 Lv을 {threshold} 달성하자"
+            "name": "히메사키 리나미의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#93",
@@ -11951,7 +12219,7 @@
         },
         {
             "id": "main_task_group-03-01#95",
-            "name": "True End : N.I.A를 {threshold} 명 보자"
+            "name": "True End: N.I.A를 {threshold} 명 보자"
         },
         {
             "id": "main_task_group-03-01#96",
@@ -11971,7 +12239,7 @@
         },
         {
             "id": "main_task_group-03-01#100",
-            "name": "True End : N.I.A를 {threshold} 명 보자"
+            "name": "True End: N.I.A를 {threshold} 명 보자"
         },
         {
             "id": "main_task_group-04-01#1",
@@ -11983,7 +12251,7 @@
         },
         {
             "id": "main_task_group-04-01#3",
-            "name": "하타야 미스즈의 친애도 Lv을 {threshold} 달성하자"
+            "name": "하타야 미스즈의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-04-01#4",
@@ -11991,7 +12259,7 @@
         },
         {
             "id": "main_task_group-04-01#5",
-            "name": "True End : N.I.A를 {threshold} 명 보자"
+            "name": "True End: N.I.A를 {threshold} 명 보자"
         },
         {
             "id": "main_task_group-04-01#6",
@@ -12003,7 +12271,7 @@
         },
         {
             "id": "main_task_group-04-01#8",
-            "name": "하타야 미스즈의 친애도 Lv을 {threshold} 달성하자"
+            "name": "하타야 미스즈의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-04-01#9",
@@ -12011,63 +12279,63 @@
         },
         {
             "id": "main_task_group-04-01#10",
-            "name": "하나미 사키의 친애도 Lv을 {threshold} 달성하자"
+            "name": "하나미 사키의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-04-01#11",
-            "name": "츠키무라 테마리의 친애도 Lv을 {threshold} 달성하자"
+            "name": "츠키무라 테마리의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-04-01#12",
-            "name": "후지타 코토네의 친애도 Lv을 {threshold} 달성하자"
+            "name": "후지타 코토네의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-04-01#13",
-            "name": "아리무라 마오의 친애도 Lv을 {threshold} 달성하자"
+            "name": "아리무라 마오의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-04-01#14",
-            "name": "카츠라기 릴리야의 친애도 Lv을 {threshold} 달성하자"
+            "name": "카츠라기 릴리야의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-04-01#15",
-            "name": "쿠라모토 치나의 친애도 Lv을 {threshold} 달성하자"
+            "name": "쿠라모토 치나의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-04-01#16",
-            "name": "시운 스미카의 친애도 Lv을 {threshold} 달성하자"
+            "name": "시운 스미카의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-04-01#17",
-            "name": "시노사와 히로의 친애도 Lv을 {threshold} 달성하자"
+            "name": "시노사와 히로의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-04-01#18",
-            "name": "하나미 우메의 친애도 Lv을 {threshold} 달성하자"
+            "name": "하나미 우메의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-04-01#19",
-            "name": "히메사키 리나미의 친애도 Lv을 {threshold} 달성하자"
+            "name": "히메사키 리나미의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-04-01#20",
-            "name": "주오 세나의 친애도 Lv을 {threshold} 달성하자"
+            "name": "주오 세나의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-04-01#21",
-            "name": "하타야 미스즈의 친애도 Lv을 {threshold} 달성하자"
+            "name": "하타야 미스즈의 친애도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-04-01#22",
-            "name": "「N.I.A」:마스터에서 최종 오디션에 합격하자\n【조건】 플랜 : 센스의 프로듀스 아이돌"
+            "name": "「N.I.A」:마스터에서 최종 오디션에 합격하자\n【조건】 플랜: 센스의 프로듀스 아이돌"
         },
         {
             "id": "main_task_group-04-01#23",
-            "name": "「N.I.A」:마스터에서 최종 오디션에 합격하자\n【조건】 플랜 : 로직의 프로듀스 아이돌"
+            "name": "「N.I.A」:마스터에서 최종 오디션에 합격하자\n【조건】 플랜: 로직의 프로듀스 아이돌"
         },
         {
             "id": "main_task_group-04-01#24",
-            "name": "「N.I.A」:마스터에서 최종 오디션에 합격하자\n【조건】 플랜 : 어노말리의 프로듀스 아이돌"
+            "name": "「N.I.A」:마스터에서 최종 오디션에 합격하자\n【조건】 플랜: 어노말리의 프로듀스 아이돌"
         },
         {
             "id": "main_task_group-04-01#25",

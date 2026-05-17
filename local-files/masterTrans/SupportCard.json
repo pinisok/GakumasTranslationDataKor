@@ -858,7 +858,7 @@
                     "text": " / 확률 중"
                 }
             ],
-            "name": "조금 더 높이ー"
+            "name": "조금 더 높이-"
         },
         {
             "id": "s_card-2-0040",
@@ -1082,7 +1082,7 @@
                     "text": " / 확률 중"
                 }
             ],
-            "name": "철푸덕ー"
+            "name": "철푸덕-"
         },
         {
             "id": "s_card-2-0054",
@@ -1434,7 +1434,7 @@
                     "text": " / 확률 대"
                 }
             ],
-            "name": "이 녀석들 귀찮아ー"
+            "name": "이 녀석들 귀찮아-"
         },
         {
             "id": "s_card-3-0003",
@@ -2939,6 +2939,22 @@
                 }
             ],
             "name": "당신과 둘이서, 전철에서"
+        },
+        {
+            "id": "s_card-3-0097",
+            "upgradeProduceCardProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "text": " / 확률 대"
+                }
+            ],
+            "name": "……시끄러운 축제네"
         },
         {
             "id": "s_card-3-0098",
