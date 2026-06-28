@@ -126,6 +126,14 @@
             "arranger": "스즈키 슌스케, 오사와 메이 (Bandai Namco Studios Inc.)"
         },
         {
+            "id": "music-all-017-inst",
+            "title": "GO MY WAY!! -cover- [Instrumental]",
+            "displayTitle": "GO MY WAY!! -cover- [Instrumental]",
+            "lyrics": "yura",
+            "composer": "NBGI（코사키 사토루）",
+            "arranger": "호시 긴노조"
+        },
+        {
             "id": "music-all-022-teama",
             "title": "SEARCH RIGHT",
             "displayTitle": "SEARCH RIGHT",
@@ -270,6 +278,14 @@
             "arranger": "스즈키 슌스케, 오사와 메이 (Bandai Namco Studios Inc.)"
         },
         {
+            "id": "music-all-amao-017",
+            "title": "GO MY WAY!! -아리무라 마오 cover-",
+            "displayTitle": "GO MY WAY!! -아리무라 마오 cover-",
+            "lyrics": "yura",
+            "composer": "NBGI（코사키 사토루）",
+            "arranger": "호시 긴노조"
+        },
+        {
             "id": "music-all-atbm-001",
             "title": "하지메",
             "displayTitle": "하지메",
@@ -308,6 +324,14 @@
             "lyrics": "슈토 요시카츠",
             "composer": "슈토 요시카츠",
             "arranger": "후지나가 류타로(Elements Garden)"
+        },
+        {
+            "id": "music-all-atbm-017",
+            "title": "GO MY WAY!! -아마야 츠바메 cover-",
+            "displayTitle": "GO MY WAY!! -아마야 츠바메 cover-",
+            "lyrics": "yura",
+            "composer": "NBGI（코사키 사토루）",
+            "arranger": "호시 긴노조"
         },
         {
             "id": "music-all-fktn-001",
@@ -422,6 +446,14 @@
             "arranger": "후지나가 류타로(Elements Garden)"
         },
         {
+            "id": "music-all-fktn-017",
+            "title": "GO MY WAY!! -후지타 코토네 cover-",
+            "displayTitle": "GO MY WAY!! -후지타 코토네 cover-",
+            "lyrics": "yura",
+            "composer": "NBGI（코사키 사토루）",
+            "arranger": "호시 긴노조"
+        },
+        {
             "id": "music-all-hmsz-001",
             "title": "하지메",
             "displayTitle": "하지메",
@@ -532,6 +564,14 @@
             "lyrics": "Rou-hou",
             "composer": "사토 타카후미",
             "arranger": "스즈키 슌스케, 오사와 메이 (Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-all-hmsz-017",
+            "title": "GO MY WAY!! -하타야 미스즈 cover-",
+            "displayTitle": "GO MY WAY!! -하타야 미스즈 cover-",
+            "lyrics": "yura",
+            "composer": "NBGI（코사키 사토루）",
+            "arranger": "호시 긴노조"
         },
         {
             "id": "music-all-hrnm-001",
@@ -654,6 +694,14 @@
             "arranger": "스즈키 슌스케, 오사와 메이 (Bandai Namco Studios Inc.)"
         },
         {
+            "id": "music-all-hrnm-017",
+            "title": "GO MY WAY!! -히메사키 리나미 cover-",
+            "displayTitle": "GO MY WAY!! -히메사키 리나미 cover-",
+            "lyrics": "yura",
+            "composer": "NBGI（코사키 사토루）",
+            "arranger": "호시 긴노조"
+        },
+        {
             "id": "music-all-hski-001",
             "title": "하지메",
             "displayTitle": "하지메",
@@ -764,6 +812,14 @@
             "lyrics": "슈토 요시카츠",
             "composer": "슈토 요시카츠",
             "arranger": "후지나가 류타로(Elements Garden)"
+        },
+        {
+            "id": "music-all-hski-017",
+            "title": "GO MY WAY!! -하나미 사키 cover-",
+            "displayTitle": "GO MY WAY!! -하나미 사키 cover-",
+            "lyrics": "yura",
+            "composer": "NBGI（코사키 사토루）",
+            "arranger": "호시 긴노조"
         },
         {
             "id": "music-all-hume-001",
@@ -990,6 +1046,14 @@
             "arranger": "후지나가 류타로(Elements Garden)"
         },
         {
+            "id": "music-all-jsna-017",
+            "title": "GO MY WAY!! -주오 세나 cover-",
+            "displayTitle": "GO MY WAY!! -주오 세나 cover-",
+            "lyrics": "yura",
+            "composer": "NBGI（코사키 사토루）",
+            "arranger": "호시 긴노조"
+        },
+        {
             "id": "music-all-kcna-001",
             "title": "하지메",
             "displayTitle": "하지메",
@@ -1110,6 +1174,14 @@
             "arranger": "스즈키 슌스케, 오사와 메이 (Bandai Namco Studios Inc.)"
         },
         {
+            "id": "music-all-kcna-017",
+            "title": "GO MY WAY!! -쿠라모토 치나 cover-",
+            "displayTitle": "GO MY WAY!! -쿠라모토 치나 cover-",
+            "lyrics": "yura",
+            "composer": "NBGI（코사키 사토루）",
+            "arranger": "호시 긴노조"
+        },
+        {
             "id": "music-all-kllj-001",
             "title": "하지메",
             "displayTitle": "하지메",
@@ -1228,6 +1300,14 @@
             "lyrics": "Rou-hou",
             "composer": "사토 타카후미",
             "arranger": "스즈키 슌스케, 오사와 메이 (Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-all-kllj-017",
+            "title": "GO MY WAY!! -카츠라기 릴리야 cover-",
+            "displayTitle": "GO MY WAY!! -카츠라기 릴리야 cover-",
+            "lyrics": "yura",
+            "composer": "NBGI（코사키 사토루）",
+            "arranger": "호시 긴노조"
         },
         {
             "id": "music-all-nasr-008",
@@ -1366,6 +1446,14 @@
             "arranger": "스즈키 슌스케, 오사와 메이 (Bandai Namco Studios Inc.)"
         },
         {
+            "id": "music-all-shro-017",
+            "title": "GO MY WAY!! -시노사와 히로 cover-",
+            "displayTitle": "GO MY WAY!! -시노사와 히로 cover-",
+            "lyrics": "yura",
+            "composer": "NBGI（코사키 사토루）",
+            "arranger": "호시 긴노조"
+        },
+        {
             "id": "music-all-ssmk-001",
             "title": "하지메",
             "displayTitle": "하지메",
@@ -1484,6 +1572,14 @@
             "lyrics": "Rou-hou",
             "composer": "사토 타카후미",
             "arranger": "스즈키 슌스케, 오사와 메이 (Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-all-ssmk-017",
+            "title": "GO MY WAY!! -시운 스미카 cover-",
+            "displayTitle": "GO MY WAY!! -시운 스미카 cover-",
+            "lyrics": "yura",
+            "composer": "NBGI（코사키 사토루）",
+            "arranger": "호시 긴노조"
         },
         {
             "id": "music-all-studentcouncil-022",
@@ -1620,6 +1716,14 @@
             "lyrics": "Rou-hou",
             "composer": "사토 타카후미",
             "arranger": "스즈키 슌스케, 오사와 메이 (Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-all-ttmr-017",
+            "title": "GO MY WAY!! -츠키무라 테마리 cover-",
+            "displayTitle": "GO MY WAY!! -츠키무라 테마리 cover-",
+            "lyrics": "yura",
+            "composer": "NBGI（코사키 사토루）",
+            "arranger": "호시 긴노조"
         },
         {
             "id": "music-bgm-01_001",
