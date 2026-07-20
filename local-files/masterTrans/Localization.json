@@ -246,6 +246,26 @@
             "description": "이벤트 모드 대상인 P아이돌만 이벤트 모드의 프로듀스에 도전할 수 있습니다"
         },
         {
+            "id": "setting.preference.live.camera.angle_horizontal",
+            "description": "준비 중"
+        },
+        {
+            "id": "setting.preference.live.camera.angle_vertical",
+            "description": "준비 중"
+        },
+        {
+            "id": "setting.preference.live.camera.description",
+            "description": "이 항목을 ON으로 설정하면, 라이브 촬영에서 제스처 조작을 사용할 경우 카메라 움직임이 반전됩니다"
+        },
+        {
+            "id": "setting.preference.live.camera.description_panorama",
+            "description": ""
+        },
+        {
+            "id": "setting.preference.live.camera.position_depth",
+            "description": "준비 중"
+        },
+        {
             "id": "setting.preference.other.produce_growth_panel.level_up_confirm.description",
             "description": "H.I.F 보너스를 해방·강화할 때 확인 메시지를 표시합니다."
         },
@@ -308,6 +328,14 @@
         {
             "id": "setting.produce.select_change_card_confirm.description",
             "description": "스킬 카드를 선택해서 체인지할 때 확인 메시지를 표시합니다."
+        },
+        {
+            "id": "shop.need_init.description",
+            "description": "정보를 가져옵니다.\\n업데이트해 주세요."
+        },
+        {
+            "id": "shop.need_init.title",
+            "description": "정보 가져오기"
         },
         {
             "id": "shop.web_store.confirm.description",
