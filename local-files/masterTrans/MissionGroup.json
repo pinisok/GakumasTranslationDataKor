@@ -150,6 +150,10 @@
             "name": "친애도 부스트 캠페인"
         },
         {
+            "id": "grade_mission-001-group_1",
+            "name": "P 평가 랭크 업적 미션"
+        },
+        {
             "id": "limited-time-mission-001-group_1",
             "name": "H.I.F 개막 기념! 기간 한정 미션 (~2026/6/15 10:59)"
         },
