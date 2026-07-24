@@ -1,0 +1,54 @@
+name: Sync test translation data
+
+on:
+  workflow_dispatch:
+
+permissions:
+  actions: write
+  contents: write
+
+concurrency:
+  group: sync-test-translation-data
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    name: Sync
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Checkout test data
+        uses: actions/checkout@v4
+        with:
+          repository: pinisok/GakumasTranslationDataKorTest
+          path: test-source
+
+      - name: Sync translation data
+        run: |
+          rsync -a --delete test-source/local-files/ local-files/
+          cp test-source/version.txt version.txt
+
+      - name: Commit changes
+        id: commit
+        run: |
+          if [[ -z "$(git status --porcelain -- local-files version.txt)" ]]; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          source_sha=$(git -C test-source rev-parse --short=12 HEAD)
+          git config user.name "pinisok"
+          git config user.email "prain3ps@gmail.com"
+          git add --all -- local-files version.txt
+          git commit -m "Sync translation data from test ($source_sha)"
+          git push origin HEAD:main
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Release synchronized data
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run release.yml --repo "$GITHUB_REPOSITORY" --ref main
