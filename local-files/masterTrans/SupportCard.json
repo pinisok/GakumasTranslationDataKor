@@ -1437,6 +1437,22 @@
             "name": "묵직한 수박 딜리셔스"
         },
         {
+            "id": "s_card-2-0079",
+            "upgradeProduceCardProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "text": " / 확률 중"
+                }
+            ],
+            "name": "우연 같은 필연"
+        },
+        {
             "id": "s_card-3-0000",
             "upgradeProduceCardProduceDescriptions": [
                 {
@@ -2602,7 +2618,7 @@
                     "text": " / 확률 대"
                 }
             ],
-            "name": "앗, 위험해!"
+            "name": "앗, 위험해"
         },
         {
             "id": "s_card-3-0073",
@@ -2954,7 +2970,7 @@
                     "text": " / 확률 대"
                 }
             ],
-            "name": "위다!!"
+            "name": "위냐!!"
         },
         {
             "id": "s_card-3-0095",
@@ -3115,6 +3131,22 @@
                 }
             ],
             "name": "나를 즐겁게 해봐"
+        },
+        {
+            "id": "s_card-3-0108",
+            "upgradeProduceCardProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "text": " / 확률 대"
+                }
+            ],
+            "name": "풍기가 문란해진다!"
         }
     ]
 }

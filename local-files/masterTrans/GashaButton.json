@@ -223,6 +223,12 @@
             "description": "티켓으로 뽑기"
         },
         {
+            "id": "gasha_button-00920-wednesday-002",
+            "order": 1,
+            "name": "학원마스 수요일 가챠 티켓으로 뽑기",
+            "description": "티켓으로 뽑기"
+        },
+        {
             "id": "gasha_button-00930-wednesday-001",
             "order": 1,
             "name": "학원마스 수요일 가챠 티켓으로 뽑기",
@@ -245,6 +251,12 @@
             "order": 1,
             "name": "학원마스 수요일 가챠 티켓으로 뽑기",
             "description": "티켓으로 뽑기"
+        },
+        {
+            "id": "gasha_button-00960-ticket-001",
+            "order": 1,
+            "name": "STEP3 전 아이돌 등장 기념 SSR P아이돌 확정 티켓으로 뽑기",
+            "description": "STEP3 전 아이돌 등장 기념 SSR P아이돌 확정 티켓으로 뽑기"
         },
         {
             "id": "gasha_button-010-item_01",

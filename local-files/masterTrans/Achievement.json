@@ -336,6 +336,36 @@
             "description": "【Campus mode!!】아마야 츠바메의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-atbm-3-018-01",
+            "name": "별을 흩어라",
+            "description": "【크라이아이】아마야 츠바메의 프로듀스로 최종시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-018-02",
+            "name": "크라이아이",
+            "description": "【크라이아이】아마야 츠바메의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-018-03",
+            "name": "기대에는 부응해 주지",
+            "description": "【크라이아이】아마야 츠바메의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-018-04",
+            "name": "크라이아이+",
+            "description": "【크라이아이】아마야 츠바메의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-018-05",
+            "name": "크라이아이++",
+            "description": "【크라이아이】아마야 츠바메의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-018-06",
+            "name": "크라이아이+++",
+            "description": "【크라이아이】아마야 츠바메의 특훈 단계 {threshold} 달성"
+        },
+        {
             "id": "achieve-i_card-fktn-2-000-04",
             "name": "귀엽게♡ 시작했답니다+",
             "description": "【귀엽게♡ 시작했답니다】후지타 코토네의 특훈 단계 {threshold} 달성"

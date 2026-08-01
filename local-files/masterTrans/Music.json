@@ -2166,6 +2166,22 @@
             "arranger": "YUKI FUNAKOSHI (Digz, Inc. Group)"
         },
         {
+            "id": "music-char-atbm-004",
+            "title": "크라이아이",
+            "displayTitle": "크라이아이",
+            "lyrics": "마츠오 레미",
+            "composer": "GLIM SPANKY",
+            "arranger": "카메모토 히로키"
+        },
+        {
+            "id": "music-char-atbm-004-inst",
+            "title": "크라이아이 [Instrumental]",
+            "displayTitle": "크라이아이 [Instrumental]",
+            "lyrics": "마츠오 레미",
+            "composer": "GLIM SPANKY",
+            "arranger": "카메모토 히로키"
+        },
+        {
             "id": "music-char-fktn-001",
             "title": "세상에서 가장 귀여운 나",
             "displayTitle": "",
