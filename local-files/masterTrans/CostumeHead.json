@@ -166,6 +166,16 @@
             "description": "【Campus mode!!】아마야 츠바메의 재능 개화 4단계 달성"
         },
         {
+            "id": "costume_head_atbm-cstm-0063",
+            "name": "관국",
+            "description": "【이론무장하고】'26 축제 아마야 츠바메 입수"
+        },
+        {
+            "id": "costume_head_atbm-cstm-0065",
+            "name": "가장광소곡",
+            "description": "【이론무장하고】'26 할로윈 아마야 츠바메 입수"
+        },
+        {
             "id": "costume_head_atbm-cstm-0072",
             "name": "금빛의 빛",
             "description": "아마야 츠바메의 아이돌 길 스테이지 10 클리어"
@@ -1869,6 +1879,16 @@
             "id": "costume_head_ttmr-cstm-0137",
             "name": "가라쿠타로드",
             "description": "【가라쿠타로드】츠키무라 테마리의 재능 개화 4단계째에서 입수"
+        },
+        {
+            "id": "costume_head_ttmr-cstm-0173",
+            "name": "「있잖아, 고백할게.」",
+            "description": "【「있잖아, 고백할게.」】츠키무라 테마리 입수"
+        },
+        {
+            "id": "costume_head_ttmr-cstm-0174",
+            "name": "「있잖아, 고백할게.」",
+            "description": "【「있잖아, 고백할게.」】츠키무라 테마리의 재능 개화 4단계 달성"
         },
         {
             "id": "costume_head_ttmr-hair-0001",

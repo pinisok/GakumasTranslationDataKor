@@ -134,6 +134,14 @@
             "arranger": "호시 긴노조"
         },
         {
+            "id": "music-all-018-inst",
+            "title": "「있잖아, 고백할게.」 [Instrumental]",
+            "displayTitle": "「있잖아, 고백할게.」 [Instrumental]",
+            "lyrics": "아오와이파이",
+            "composer": "아오와이파이",
+            "arranger": "아오와이파이"
+        },
+        {
             "id": "music-all-022-teama",
             "title": "SEARCH RIGHT",
             "displayTitle": "SEARCH RIGHT",
@@ -286,6 +294,14 @@
             "arranger": "호시 긴노조"
         },
         {
+            "id": "music-all-amao-018",
+            "title": "「있잖아, 고백할게.」",
+            "displayTitle": "「있잖아, 고백할게.」",
+            "lyrics": "아오와이파이",
+            "composer": "아오와이파이",
+            "arranger": "아오와이파이"
+        },
+        {
             "id": "music-all-atbm-001",
             "title": "하지메",
             "displayTitle": "하지메",
@@ -300,6 +316,54 @@
             "lyrics": "타부치 토모야",
             "composer": "타부치 토모야",
             "arranger": "타키자와 슌스케 (TRYTONELABO)"
+        },
+        {
+            "id": "music-all-atbm-003",
+            "title": "너와 세미블루",
+            "displayTitle": "",
+            "lyrics": "이츠키 오토",
+            "composer": "미츠마스 하지메 (FirstCall)",
+            "arranger": "미츠마스 하지메 (FirstCall)"
+        },
+        {
+            "id": "music-all-atbm-004",
+            "title": "관국",
+            "displayTitle": "관국",
+            "lyrics": "오야마 쿄코 (Rebrast)",
+            "composer": "하야카와 히로타카 (Rebrast), 카와하라 레오 (Rebrast)",
+            "arranger": "카와하라 레오 (Rebrast)"
+        },
+        {
+            "id": "music-all-atbm-005",
+            "title": "가장광소곡",
+            "displayTitle": "가장광소곡",
+            "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
+            "composer": "FAKE TYPE.",
+            "arranger": "DYES IWASAKI (FAKE TYPE.)"
+        },
+        {
+            "id": "music-all-atbm-006",
+            "title": "White Night! White Wish!",
+            "displayTitle": "White Night! White Wish!",
+            "lyrics": "하야시 히데키",
+            "composer": "사토 준이치 (fhána)",
+            "arranger": "사토 준이치 (fhána)"
+        },
+        {
+            "id": "music-all-atbm-007",
+            "title": "해피 밀푀유",
+            "displayTitle": "해피 밀푀유",
+            "lyrics": "나나호시 관현악단",
+            "composer": "이와미 리쿠",
+            "arranger": "나나호시 관현악단"
+        },
+        {
+            "id": "music-all-atbm-008",
+            "title": "고금동서 식은 죽 먹기",
+            "displayTitle": "고금동서 식은 죽 먹기",
+            "lyrics": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "composer": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "arranger": "오오사와 메이 (Bandai Namco Studios Inc.)"
         },
         {
             "id": "music-all-atbm-009",
@@ -340,6 +404,14 @@
             "lyrics": "yura",
             "composer": "NBGI（코우사키 사토루）",
             "arranger": "호시 긴노조"
+        },
+        {
+            "id": "music-all-atbm-018",
+            "title": "「있잖아, 고백할게.」",
+            "displayTitle": "「있잖아, 고백할게.」",
+            "lyrics": "아오와이파이",
+            "composer": "아오와이파이",
+            "arranger": "아오와이파이"
         },
         {
             "id": "music-all-fktn-001",
@@ -460,6 +532,14 @@
             "lyrics": "yura",
             "composer": "NBGI（코우사키 사토루）",
             "arranger": "호시 긴노조"
+        },
+        {
+            "id": "music-all-fktn-018",
+            "title": "「있잖아, 고백할게.」",
+            "displayTitle": "「있잖아, 고백할게.」",
+            "lyrics": "아오와이파이",
+            "composer": "아오와이파이",
+            "arranger": "아오와이파이"
         },
         {
             "id": "music-all-hmsz-001",
@@ -718,6 +798,14 @@
             "arranger": "호시 긴노조"
         },
         {
+            "id": "music-all-hrnm-018",
+            "title": "「있잖아, 고백할게.」",
+            "displayTitle": "「있잖아, 고백할게.」",
+            "lyrics": "아오와이파이",
+            "composer": "아오와이파이",
+            "arranger": "아오와이파이"
+        },
+        {
             "id": "music-all-hski-001",
             "title": "하지메",
             "displayTitle": "하지메",
@@ -844,6 +932,14 @@
             "lyrics": "yura",
             "composer": "NBGI（코우사키 사토루）",
             "arranger": "호시 긴노조"
+        },
+        {
+            "id": "music-all-hski-018",
+            "title": "「있잖아, 고백할게.」",
+            "displayTitle": "「있잖아, 고백할게.」",
+            "lyrics": "아오와이파이",
+            "composer": "아오와이파이",
+            "arranger": "아오와이파이"
         },
         {
             "id": "music-all-hume-001",
@@ -974,6 +1070,14 @@
             "arranger": "호시 긴노조"
         },
         {
+            "id": "music-all-hume-018",
+            "title": "「있잖아, 고백할게.」",
+            "displayTitle": "「있잖아, 고백할게.」",
+            "lyrics": "아오와이파이",
+            "composer": "아오와이파이",
+            "arranger": "아오와이파이"
+        },
+        {
             "id": "music-all-jsna-001",
             "title": "하지메",
             "displayTitle": "하지메",
@@ -1092,6 +1196,14 @@
             "lyrics": "yura",
             "composer": "NBGI（코우사키 사토루）",
             "arranger": "호시 긴노조"
+        },
+        {
+            "id": "music-all-jsna-018",
+            "title": "「있잖아, 고백할게.」",
+            "displayTitle": "「있잖아, 고백할게.」",
+            "lyrics": "아오와이파이",
+            "composer": "아오와이파이",
+            "arranger": "아오와이파이"
         },
         {
             "id": "music-all-kcna-001",
@@ -1222,6 +1334,14 @@
             "arranger": "호시 긴노조"
         },
         {
+            "id": "music-all-kcna-018",
+            "title": "「있잖아, 고백할게.」",
+            "displayTitle": "「있잖아, 고백할게.」",
+            "lyrics": "아오와이파이",
+            "composer": "아오와이파이",
+            "arranger": "아오와이파이"
+        },
+        {
             "id": "music-all-kllj-001",
             "title": "하지메",
             "displayTitle": "하지메",
@@ -1348,6 +1468,14 @@
             "lyrics": "yura",
             "composer": "NBGI（코우사키 사토루）",
             "arranger": "호시 긴노조"
+        },
+        {
+            "id": "music-all-kllj-018",
+            "title": "「있잖아, 고백할게.」",
+            "displayTitle": "「있잖아, 고백할게.」",
+            "lyrics": "아오와이파이",
+            "composer": "아오와이파이",
+            "arranger": "아오와이파이"
         },
         {
             "id": "music-all-nasr-008",
@@ -1494,6 +1622,14 @@
             "arranger": "호시 긴노조"
         },
         {
+            "id": "music-all-shro-018",
+            "title": "「있잖아, 고백할게.」",
+            "displayTitle": "「있잖아, 고백할게.」",
+            "lyrics": "아오와이파이",
+            "composer": "아오와이파이",
+            "arranger": "아오와이파이"
+        },
+        {
             "id": "music-all-ssmk-001",
             "title": "하지메",
             "displayTitle": "하지메",
@@ -1620,6 +1756,14 @@
             "lyrics": "yura",
             "composer": "NBGI（코우사키 사토루）",
             "arranger": "호시 긴노조"
+        },
+        {
+            "id": "music-all-ssmk-018",
+            "title": "「있잖아, 고백할게.」",
+            "displayTitle": "「있잖아, 고백할게.」",
+            "lyrics": "아오와이파이",
+            "composer": "아오와이파이",
+            "arranger": "아오와이파이"
         },
         {
             "id": "music-all-studentcouncil-022",
@@ -1764,6 +1908,14 @@
             "lyrics": "yura",
             "composer": "NBGI（코우사키 사토루）",
             "arranger": "호시 긴노조"
+        },
+        {
+            "id": "music-all-ttmr-018",
+            "title": "「있잖아, 고백할게.」",
+            "displayTitle": "「있잖아, 고백할게.」",
+            "lyrics": "아오와이파이",
+            "composer": "아오와이파이",
+            "arranger": "아오와이파이"
         },
         {
             "id": "music-bgm-01_001",

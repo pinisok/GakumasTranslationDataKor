@@ -1132,6 +1132,21 @@
             "text": "수, 수박이 꽤 단단하네."
         },
         {
+            "supportCardId": "s_card-2-0078",
+            "number": 1,
+            "text": "아, 아리무라 선배……"
+        },
+        {
+            "supportCardId": "s_card-2-0078",
+            "number": 2,
+            "text": "괜찮아.\n내가 지켜 줄 테니까…… 꺄악!?"
+        },
+        {
+            "supportCardId": "s_card-2-0078",
+            "number": 3,
+            "text": "뭐, 뭐예요? 무슨 일이에요?\n꺄악!?"
+        },
+        {
             "supportCardId": "s_card-2-0079",
             "number": 1,
             "text": "자, 세나의 라이브 공연장은 여기인가……"
@@ -2725,6 +2740,21 @@
             "supportCardId": "s_card-3-0105",
             "number": 3,
             "text": "호오…… 재미있는 병아리들이 많군."
+        },
+        {
+            "supportCardId": "s_card-3-0106",
+            "number": 1,
+            "text": "음식 리포트도 힘내자, 테마리 쨩."
+        },
+        {
+            "supportCardId": "s_card-3-0106",
+            "number": 2,
+            "text": "네, 오늘은 일이니까요.\n제대로 먹겠습니다."
+        },
+        {
+            "supportCardId": "s_card-3-0106",
+            "number": 3,
+            "text": "으음~ 맛있어~♪"
         },
         {
             "supportCardId": "s_card-3-0108",

@@ -13584,6 +13584,21 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-i_card-jsna-3-020-01",
+            "title": "「있잖아, 고백할게.」 1화",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-jsna-3-020-02",
+            "title": "「있잖아, 고백할게.」 2화",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-jsna-3-020-03",
+            "title": "「있잖아, 고백할게.」 3화",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-i_card-kcna-3-000-01",
             "title": "Wonder Scale 1화",
             "produceEventHintProduceConditionDescriptions": []
@@ -14256,6 +14271,21 @@
         {
             "id": "p_story-i_card-ttmr-3-018-03",
             "title": "가라쿠타로드 3화",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-ttmr-3-021-01",
+            "title": "「있잖아, 고백할게.」 1화",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-ttmr-3-021-02",
+            "title": "「있잖아, 고백할게.」 2화",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-ttmr-3-021-03",
+            "title": "「있잖아, 고백할게.」 3화",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
@@ -15146,6 +15176,16 @@
         {
             "id": "p_story-s_card-2-0077-02",
             "title": "수박과, 추억과",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-2-0078-01",
+            "title": "하츠보시 기숙사의 전통 행사",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-2-0078-02",
+            "title": "떨리는 손과 손",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
@@ -16731,6 +16771,21 @@
         {
             "id": "p_story-s_card-3-0105-03",
             "title": "복잡한 자매 관계",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0106-01",
+            "title": "솔직한 감동을 모두에게!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0106-02",
+            "title": "미소 뒤에 숨은 노력",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0106-03",
+            "title": "아이돌을 좋아하니까",
             "produceEventHintProduceConditionDescriptions": []
         },
         {

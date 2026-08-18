@@ -1986,6 +1986,36 @@
             "description": "【ENDLESS DANCE】주오 세나의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-jsna-3-020-01",
+            "name": "넋을 잃고 바라본 옆모습",
+            "description": "【「있잖아, 고백할게.」】주오 세나의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-020-02",
+            "name": "「있잖아, 고백할게.」",
+            "description": "【「있잖아, 고백할게.」】주오 세나의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-020-03",
+            "name": "우리 둘 다 참 못된 성격이네",
+            "description": "【「있잖아, 고백할게.」】주오 세나의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-020-04",
+            "name": "「있잖아, 고백할게.」 +",
+            "description": "【「있잖아, 고백할게.」】주오 세나의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-020-05",
+            "name": "「있잖아, 고백할게.」 ++",
+            "description": "【「있잖아, 고백할게.」】주오 세나의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-020-06",
+            "name": "「있잖아, 고백할게.」 +++",
+            "description": "【「있잖아, 고백할게.」】주오 세나의 특훈 단계 {threshold} 달성"
+        },
+        {
             "id": "achieve-i_card-kcna-2-000-04",
             "name": "가슴을 펴고 한 발자국씩+",
             "description": "【가슴을 펴고 한 걸음씩】쿠라모토 치나의 특훈 단계 {threshold} 달성"
@@ -3334,6 +3364,36 @@
             "id": "achieve-i_card-ttmr-3-018-06",
             "name": "가라쿠타로드 +++",
             "description": "【가라쿠타로드】츠키무라 테마리의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-021-01",
+            "name": "여름바람이 지나는 길",
+            "description": "【「있잖아, 고백할게.」】츠키무라 테마리의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-021-02",
+            "name": "「있잖아, 고백할게.」",
+            "description": "【「있잖아, 고백할게.」】츠키무라 테마리의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-021-03",
+            "name": "마음껏 칭찬해 줘도 돼",
+            "description": "【「있잖아, 고백할게.」】츠키무라 테마리의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-021-04",
+            "name": "「있잖아, 고백할게.」 +",
+            "description": "【「있잖아, 고백할게.」】츠키무라 테마리의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-021-05",
+            "name": "「있잖아, 고백할게.」 ++",
+            "description": "【「있잖아, 고백할게.」】츠키무라 테마리의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-021-06",
+            "name": "「있잖아, 고백할게.」 +++",
+            "description": "【「있잖아, 고백할게.」】츠키무라 테마리의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-m_amao-001",

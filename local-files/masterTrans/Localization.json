@@ -122,6 +122,14 @@
             "description": " "
         },
         {
+            "id": "produce_card_skin.preview_overlay.label.select_skin",
+            "description": "스킬 카드를 사용했을 때의 연출을 확인할 수 있습니다"
+        },
+        {
+            "id": "produce_card_skin.top.label.description",
+            "description": "스킬 카드의 외형과 프로듀스 중 연출의 일부를 변경할 수 있습니다."
+        },
+        {
             "id": "produce_prepare.easy_mode_apply",
             "description": "어시스트 모드 적용 중"
         },
@@ -254,24 +262,12 @@
             "description": "이벤트 모드 대상인 P아이돌만 이벤트 모드의 프로듀스에 도전할 수 있습니다"
         },
         {
-            "id": "setting.preference.live.camera.angle_horizontal",
-            "description": "준비 중"
-        },
-        {
-            "id": "setting.preference.live.camera.angle_vertical",
-            "description": "준비 중"
-        },
-        {
             "id": "setting.preference.live.camera.description",
             "description": "이 항목을 ON으로 설정하면, 라이브 촬영에서 제스처 조작을 사용할 경우 카메라 움직임이 반전됩니다"
         },
         {
-            "id": "setting.preference.live.camera.description_panorama",
-            "description": ""
-        },
-        {
             "id": "setting.preference.live.camera.position_depth",
-            "description": "준비 중"
+            "description": "전후 카메라 반전"
         },
         {
             "id": "setting.preference.other.produce_growth_panel.level_up_confirm.description",
@@ -336,6 +332,10 @@
         {
             "id": "setting.produce.select_change_card_confirm.description",
             "description": "스킬 카드를 선택해서 체인지할 때 확인 메시지를 표시합니다."
+        },
+        {
+            "id": "setting.produce.support_event_produce_card_upgrade",
+            "description": "강화된 스킬 카드를 획득"
         },
         {
             "id": "shop.need_init.description",

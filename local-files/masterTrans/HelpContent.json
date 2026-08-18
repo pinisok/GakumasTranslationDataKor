@@ -35,7 +35,7 @@
             "helpCategoryId": "help-box-gasha-event",
             "id": "box-gasha-event",
             "order": 1,
-            "name": "시즌 이벤트"
+            "name": "스토리 이벤트"
         },
         {
             "helpCategoryId": "help-box-gasha-event",
@@ -1257,6 +1257,12 @@
         },
         {
             "helpCategoryId": "help-produce",
+            "id": "produce-replay",
+            "order": 65,
+            "name": "리플레이"
+        },
+        {
+            "helpCategoryId": "help-produce",
             "id": "produce-result",
             "order": 31,
             "name": "프로듀스 결과"
@@ -1350,6 +1356,12 @@
             "id": "producer-ranking-badge",
             "order": 53,
             "name": "뱃지"
+        },
+        {
+            "helpCategoryId": "help-produce_card_skin",
+            "id": "help-produce_card_skin",
+            "order": 1,
+            "name": "스킬 카드 스킨"
         },
         {
             "helpCategoryId": "help-producer-ranking",
