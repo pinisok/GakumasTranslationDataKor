@@ -817,6 +817,21 @@
             "text": "조금만, 입어보라니까.\n이거랑……또, 이거랑 이거랑."
         },
         {
+            "supportCardId": "s_card-2-0055",
+            "number": 1,
+            "text": "……어라, 미스즈잖아."
+        },
+        {
+            "supportCardId": "s_card-2-0055",
+            "number": 2,
+            "text": "네……또 만났네요."
+        },
+        {
+            "supportCardId": "s_card-2-0055",
+            "number": 3,
+            "text": "날씨 좋네……낮잠 자기 딱 좋은 날이야."
+        },
+        {
             "supportCardId": "s_card-2-0056",
             "number": 1,
             "text": "한 바퀴 늦었지 않나!\n달리는 자세를 의식해라!"
@@ -2755,6 +2770,21 @@
             "supportCardId": "s_card-3-0106",
             "number": 3,
             "text": "으음~ 맛있어~♪"
+        },
+        {
+            "supportCardId": "s_card-3-0107",
+            "number": 1,
+            "text": "하얀 원피스를 입은 소녀가 둘."
+        },
+        {
+            "supportCardId": "s_card-3-0107",
+            "number": 2,
+            "text": "현실과 동떨어진 분위기라, 재밌어."
+        },
+        {
+            "supportCardId": "s_card-3-0107",
+            "number": 3,
+            "text": "소중한 여름의 추억이 될 것 같아요."
         },
         {
             "supportCardId": "s_card-3-0108",
