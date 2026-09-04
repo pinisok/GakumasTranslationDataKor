@@ -6734,6 +6734,34 @@
             "name": "SP 레슨을 {threshold}회 클리어하자"
         },
         {
+            "id": "mission-tour-event-006-mission_1",
+            "name": "{threshold}일 로그인하자"
+        },
+        {
+            "id": "mission-tour-event-006-mission_2",
+            "name": "최종 시험에 {threshold}번 합격하자"
+        },
+        {
+            "id": "mission-tour-event-006-mission_3",
+            "name": "イベントで{threshold}回挑戦してクリアしよう"
+        },
+        {
+            "id": "mission-tour-event-006-mission_4",
+            "name": "イベントでハコユレLv1以上のステージに{threshold}回挑戦してクリアしよう"
+        },
+        {
+            "id": "mission-tour-event-006-mission_5",
+            "name": "イベントでハコユレLv2以上のステージに{threshold}回挑戦してクリアしよう"
+        },
+        {
+            "id": "mission-tour-event-006-mission_6",
+            "name": "イベントでハコユレLv3以上のステージに{threshold}回挑戦してクリアしよう"
+        },
+        {
+            "id": "mission-tour-event-006-mission_7",
+            "name": "SP 레슨을 {threshold}회 클리어하자"
+        },
+        {
             "id": "mission-weekly-competitionplaycount-1",
             "name": "링크 콘테스트에 {threshold}번 도전하자"
         },
@@ -7572,6 +7600,30 @@
         {
             "id": "achieve-i_card-amao-3-017-06",
             "name": "【SUGAR FLAVOR】아리무라 마오의 특훈 단계를 {threshold}로 만들기"
+        },
+        {
+            "id": "achieve-i_card-amao-3-018-01",
+            "name": "【시루베】아리무라 마오의 프로듀스로 최종시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-amao-3-018-02",
+            "name": "【시루베】아리무라 마오의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-amao-3-018-03",
+            "name": "【시루베】아리무라 마오의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-i_card-amao-3-018-04",
+            "name": "【시루베】아리무라 마오의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-amao-3-018-05",
+            "name": "【시루베】아리무라 마오의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-amao-3-018-06",
+            "name": "【시루베】아리무라 마오의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-atbm-2-000-01",
@@ -9230,6 +9282,30 @@
             "name": "【미지의 펼쳐지는】쿠라모토 치나의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-kcna-3-018-01",
+            "name": "【시루베】쿠라모토 치나의 프로듀스로 최종시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-018-02",
+            "name": "【시루베】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-018-03",
+            "name": "【시루베】쿠라모토 치나의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-018-04",
+            "name": "【시루베】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-018-05",
+            "name": "【시루베】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-018-06",
+            "name": "【시루베】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+        },
+        {
             "id": "achieve-i_card-kllj-2-000-04",
             "name": "【한 걸음 더 나아가】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
         },
@@ -9876,6 +9952,30 @@
         {
             "id": "achieve-i_card-ssmk-3-017-06",
             "name": "【두근두근 이모션】시운 스미카의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-018-01",
+            "name": "【시루베】시운 스미카의 프로듀스로 최종시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-018-02",
+            "name": "【시루베】시운 스미카의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-018-03",
+            "name": "【시루베】시운 스미카의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-018-04",
+            "name": "【시루베】시운 스미카의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-018-05",
+            "name": "【시루베】시운 스미카의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-018-06",
+            "name": "【시루베】시운 스미카의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-ttmr-2-000-04",

@@ -118,6 +118,14 @@
             "arranger": "후지나가 류타로(Elements Garden)"
         },
         {
+            "id": "music-all-015-inst",
+            "title": "시루베 [Instrumental]",
+            "displayTitle": "시루베 [Instrumental]",
+            "lyrics": "十王邦夫",
+            "composer": "사토 타카후미",
+            "arranger": "카네마츠 슈"
+        },
+        {
             "id": "music-all-016-inst",
             "title": "가라쿠타로드 [Instrumental]",
             "displayTitle": "가라쿠타로드 [Instrumental]",
@@ -276,6 +284,14 @@
             "lyrics": "슈토 요시카츠",
             "composer": "슈토 요시카츠",
             "arranger": "후지나가 류타로(Elements Garden)"
+        },
+        {
+            "id": "music-all-amao-015",
+            "title": "시루베",
+            "displayTitle": "시루베",
+            "lyrics": "十王邦夫",
+            "composer": "사토 타카후미",
+            "arranger": "카네마츠 슈"
         },
         {
             "id": "music-all-amao-016",
@@ -1326,6 +1342,14 @@
             "arranger": "후지나가 류타로(Elements Garden)"
         },
         {
+            "id": "music-all-kcna-015",
+            "title": "시루베",
+            "displayTitle": "시루베",
+            "lyrics": "十王邦夫",
+            "composer": "사토 타카후미",
+            "arranger": "카네마츠 슈"
+        },
+        {
             "id": "music-all-kcna-016",
             "title": "가라쿠타로드",
             "displayTitle": "가라쿠타로드",
@@ -1748,6 +1772,14 @@
             "lyrics": "슈토 요시카츠",
             "composer": "슈토 요시카츠",
             "arranger": "후지나가 류타로(Elements Garden)"
+        },
+        {
+            "id": "music-all-ssmk-015",
+            "title": "시루베",
+            "displayTitle": "시루베",
+            "lyrics": "十王邦夫",
+            "composer": "사토 타카후미",
+            "arranger": "카네마츠 슈"
         },
         {
             "id": "music-all-ssmk-016",
@@ -2207,8 +2239,8 @@
         },
         {
             "id": "music-bgm-01_036",
-            "title": "표 [BGM Arrange]",
-            "displayTitle": "표 [BGM Arrange]",
+            "title": "시루베 [BGM Arrange]",
+            "displayTitle": "시루베 [BGM Arrange]",
             "lyrics": "",
             "composer": "",
             "arranger": ""
