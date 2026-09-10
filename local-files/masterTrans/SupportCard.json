@@ -3069,6 +3069,22 @@
             "name": "대운동회, 개최!"
         },
         {
+            "id": "s_card-3-0099",
+            "upgradeProduceCardProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "text": " / 확률 대"
+                }
+            ],
+            "name": "곧 실전이네요"
+        },
+        {
             "id": "s_card-3-0100",
             "upgradeProduceCardProduceDescriptions": [
                 {
@@ -3226,7 +3242,7 @@
                     "text": " / 확률 대"
                 }
             ],
-            "name": "イクラ～♪　ウニ～♪"
+            "name": "연어알~♪　성게~♪"
         }
     ]
 }

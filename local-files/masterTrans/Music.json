@@ -121,7 +121,7 @@
             "id": "music-all-015-inst",
             "title": "시루베 [Instrumental]",
             "displayTitle": "시루베 [Instrumental]",
-            "lyrics": "十王邦夫",
+            "lyrics": "주오 쿠니오",
             "composer": "사토 타카후미",
             "arranger": "카네마츠 슈"
         },
@@ -289,7 +289,7 @@
             "id": "music-all-amao-015",
             "title": "시루베",
             "displayTitle": "시루베",
-            "lyrics": "十王邦夫",
+            "lyrics": "주오 쿠니오",
             "composer": "사토 타카후미",
             "arranger": "카네마츠 슈"
         },
@@ -540,6 +540,14 @@
             "lyrics": "슈토 요시카츠",
             "composer": "슈토 요시카츠",
             "arranger": "후지나가 류타로(Elements Garden)"
+        },
+        {
+            "id": "music-all-fktn-016",
+            "title": "가라쿠타로드",
+            "displayTitle": "가라쿠타로드",
+            "lyrics": "Rou-hou",
+            "composer": "사토 타카후미",
+            "arranger": "스즈키 슌스케, 오사와 메이 (Bandai Namco Studios Inc.)"
         },
         {
             "id": "music-all-fktn-017",
@@ -1214,6 +1222,14 @@
             "arranger": "후지나가 류타로(Elements Garden)"
         },
         {
+            "id": "music-all-jsna-016",
+            "title": "가라쿠타로드",
+            "displayTitle": "가라쿠타로드",
+            "lyrics": "Rou-hou",
+            "composer": "사토 타카후미",
+            "arranger": "스즈키 슌스케, 오사와 메이 (Bandai Namco Studios Inc.)"
+        },
+        {
             "id": "music-all-jsna-017",
             "title": "GO MY WAY!! -주오 세나 cover-",
             "displayTitle": "GO MY WAY!! -주오 세나 cover-",
@@ -1345,7 +1361,7 @@
             "id": "music-all-kcna-015",
             "title": "시루베",
             "displayTitle": "시루베",
-            "lyrics": "十王邦夫",
+            "lyrics": "주오 쿠니오",
             "composer": "사토 타카후미",
             "arranger": "카네마츠 슈"
         },
@@ -1777,7 +1793,7 @@
             "id": "music-all-ssmk-015",
             "title": "시루베",
             "displayTitle": "시루베",
-            "lyrics": "十王邦夫",
+            "lyrics": "주오 쿠니오",
             "composer": "사토 타카후미",
             "arranger": "카네마츠 슈"
         },

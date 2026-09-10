@@ -67,7 +67,7 @@
         },
         {
             "id": "livetour_event_group-006",
-            "title": "さいごの文化祭"
+            "title": "마지막 문화제"
         },
         {
             "id": "main_story_group-01-01",
@@ -194,6 +194,10 @@
             "title": "STEP3"
         },
         {
+            "id": "story_dearness_fktn_step-04",
+            "title": "STEP4"
+        },
+        {
             "id": "story_dearness_hmsz_step-01",
             "title": "STEP1"
         },
@@ -260,6 +264,10 @@
         {
             "id": "story_dearness_jsna_step-03",
             "title": "STEP3"
+        },
+        {
+            "id": "story_dearness_jsna_step-04",
+            "title": "STEP4"
         },
         {
             "id": "story_dearness_kcna_step-01",
