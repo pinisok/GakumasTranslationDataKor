@@ -3110,6 +3110,22 @@
             "arranger": "마시마 유로"
         },
         {
+            "id": "music-char-shro-006",
+            "title": "메",
+            "displayTitle": "메",
+            "lyrics": "아부세켄",
+            "composer": "아부세켄",
+            "arranger": "아부세켄"
+        },
+        {
+            "id": "music-char-shro-006-inst",
+            "title": "메 [Instrumental]",
+            "displayTitle": "메 [Instrumental]",
+            "lyrics": "아부세켄",
+            "composer": "아부세켄",
+            "arranger": "아부세켄"
+        },
+        {
             "id": "music-char-ssmk-001",
             "title": "Tame-Lie-One-Step",
             "displayTitle": "",
