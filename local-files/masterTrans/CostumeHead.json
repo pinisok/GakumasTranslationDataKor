@@ -91,6 +91,11 @@
             "description": "【SUGAR FLAVOR】아리무라 마오의 재능 개화 4단계로 획득"
         },
         {
+            "id": "costume_head_amao-cstm-0181",
+            "name": "Agitato",
+            "description": "【Fluorite】'26 소악마 아리무라 마오 입수"
+        },
+        {
             "id": "costume_head_amao-hair-0000",
             "name": "진짜의 플로우라이트",
             "description": "아리무라 마오의 친밀도 Lv 10 만들기"
@@ -149,6 +154,11 @@
             "id": "costume_head_amao-hair-0035",
             "name": "봐줘 (포인트 컬러 어레인지)",
             "description": "【봐줘】아리무라 마오 입수"
+        },
+        {
+            "id": "costume_head_amao-hair-0038",
+            "name": "잠행용 안경",
+            "description": "프리미엄 미션 패스 2026년 10월에서 획득 가능"
         },
         {
             "id": "costume_head_atbm-cstm-0000",
@@ -211,6 +221,11 @@
             "description": "【크라이아이】아마야 츠바메의 재능 개화 4단계 달성"
         },
         {
+            "id": "costume_head_atbm-cstm-0181",
+            "name": "Agitato",
+            "description": "【이론무장하고】'26 소악마 아마야 츠바메 입수"
+        },
+        {
             "id": "costume_head_atbm-hair-0001",
             "name": "수국 머리 장식",
             "description": "수국 머리 장식(아마야 츠바메)을 입수"
@@ -264,6 +279,11 @@
             "id": "costume_head_atbm-hair-0036",
             "name": "크라이아이(포인트 컬러 어레인지)",
             "description": "【크라이아이】아마야 츠바메 입수"
+        },
+        {
+            "id": "costume_head_atbm-hair-0038",
+            "name": "잠행용 안경",
+            "description": "프리미엄 미션 패스 2026년 10월에서 획득 가능"
         },
         {
             "id": "costume_head_atbm-schl-0000",
@@ -384,6 +404,11 @@
             "id": "costume_head_fktn-cstm-0139",
             "name": "GO MY WAY!!",
             "description": "【GO MY WAY!!】후지타 코토네의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_fktn-cstm-0181",
+            "name": "Agitato",
+            "description": "【세계 제일 귀여운 나】'26 소악마 후지타 코토네 입수"
         },
         {
             "id": "costume_head_fktn-hair-0001",
@@ -514,6 +539,11 @@
             "id": "costume_head_hmsz-cstm-0174",
             "name": "「있잖아, 고백할게.」",
             "description": "【「있잖아, 고백할게.」】하타야 미스즈의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_hmsz-cstm-0181",
+            "name": "Agitato",
+            "description": "【달 거북이】'26 소악마 하타야 미스즈 입수"
         },
         {
             "id": "costume_head_hmsz-hair-0001",
@@ -681,6 +711,11 @@
             "description": "【가라쿠타로드】히메사키 리나미 입수"
         },
         {
+            "id": "costume_head_hrnm-cstm-0181",
+            "name": "Agitato",
+            "description": "【clumsy trick】'26 소악마 히메사키 리나미 입수"
+        },
+        {
             "id": "costume_head_hrnm-hair-0001",
             "name": "수국 머리 장식",
             "description": "프리미엄 미션 패스 2024년 7월에서 획득 가능"
@@ -729,6 +764,11 @@
             "id": "costume_head_hrnm-hair-0033",
             "name": "36℃ U･B･U (포인트 컬러 어레인지)",
             "description": "【36℃ U･B･U】히메사키 리나미 입수"
+        },
+        {
+            "id": "costume_head_hrnm-hair-0038",
+            "name": "잠행용 안경",
+            "description": "프리미엄 미션 패스 2026년 10월에서 획득 가능"
         },
         {
             "id": "costume_head_hrnm-schl-0000",
@@ -1006,6 +1046,11 @@
             "description": "【GO MY WAY!!】하나미 우메의 재능 개화 4단계에서 획득"
         },
         {
+            "id": "costume_head_hume-cstm-0181",
+            "name": "Agitato",
+            "description": "【Agitato】하나미 우메 입수"
+        },
+        {
             "id": "costume_head_hume-hair-0001",
             "name": "수국 머리 장식",
             "description": "수국 머리 장식(하나미 우메)을 구매"
@@ -1156,6 +1201,11 @@
             "description": "【가라쿠타로드】주오 세나의 재능 개화 4단계 달성"
         },
         {
+            "id": "costume_head_jsna-cstm-0181",
+            "name": "Agitato",
+            "description": "【작은 야망】'26 소악마  주오 세나 입수"
+        },
+        {
             "id": "costume_head_jsna-hair-0001",
             "name": "수국 머리 장식",
             "description": "수국 머리 장식(주오 세나)을 구매"
@@ -1214,6 +1264,11 @@
             "id": "costume_head_jsna-hair-0026",
             "name": "적나라 (포인트 컬러 어레인지)",
             "description": "【적나라】주오 세나 입수"
+        },
+        {
+            "id": "costume_head_jsna-hair-0038",
+            "name": "잠행용 안경",
+            "description": "프리미엄 미션 패스 2026년 10월에서 획득 가능"
         },
         {
             "id": "costume_head_jsna-schl-0000",
@@ -1299,6 +1354,11 @@
             "id": "costume_head_kcna-cstm-0132",
             "name": "미지의 펼쳐지는",
             "description": "【미지의 펼쳐지는】쿠라모토 치나의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_kcna-cstm-0181",
+            "name": "Agitato",
+            "description": "【Wonder Scale】'26 소악마 쿠라모토 치나 입수"
         },
         {
             "id": "costume_head_kcna-hair-0001",
@@ -1454,6 +1514,16 @@
             "id": "costume_head_kllj-cstm-0137",
             "name": "가라쿠타로드",
             "description": "【가라쿠타 로드】카츠라기 릴리야의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_kllj-cstm-0179",
+            "name": "Agitato",
+            "description": "【Agitato】카츠라기 릴리야 입수"
+        },
+        {
+            "id": "costume_head_kllj-cstm-0180",
+            "name": "Agitato",
+            "description": "【Agitato】카츠라기 릴리야의 재능 개화 4단계 달성"
         },
         {
             "id": "costume_head_kllj-hair-0001",
@@ -1641,6 +1711,11 @@
             "description": "【메】시노사와 히로의 재능 개화 4단계 달성"
         },
         {
+            "id": "costume_head_shro-cstm-0181",
+            "name": "Agitato",
+            "description": "【광경】'26 소악마 시노사와 히로 입수"
+        },
+        {
             "id": "costume_head_shro-hair-0001",
             "name": "수국 머리 장식",
             "description": "프리미엄 미션 패스 2024년 6월에서 획득 가능"
@@ -1764,6 +1839,11 @@
             "id": "costume_head_ssmk-cstm-0134",
             "name": "두근두근 이모션",
             "description": "【두근두근 이모션】시운 스미카의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_ssmk-cstm-0181",
+            "name": "Agitato",
+            "description": "【Tame-Lie-One-Step】'26 소악마 시운 스미카 입수"
         },
         {
             "id": "costume_head_ssmk-hair-0001",
@@ -1934,6 +2014,11 @@
             "id": "costume_head_ttmr-cstm-0174",
             "name": "「있잖아, 고백할게.」",
             "description": "【「있잖아, 고백할게.」】츠키무라 테마리의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_ttmr-cstm-0181",
+            "name": "Agitato",
+            "description": "【Luna say maybe】'26 소악마 츠키무라 테마리 입수"
         },
         {
             "id": "costume_head_ttmr-hair-0001",

@@ -618,6 +618,26 @@
             "title": "여름바람 원피스 5화"
         },
         {
+            "id": "story-box-gasha-event-022-01",
+            "title": "나는 소악마♡ 1화"
+        },
+        {
+            "id": "story-box-gasha-event-022-02",
+            "title": "나는 소악마♡ 2화"
+        },
+        {
+            "id": "story-box-gasha-event-022-03",
+            "title": "나는 소악마♡ 3화"
+        },
+        {
+            "id": "story-box-gasha-event-022-04",
+            "title": "나는 소악마♡ 4화"
+        },
+        {
+            "id": "story-box-gasha-event-022-05",
+            "title": "나는 소악마♡ 5화"
+        },
+        {
             "id": "story-circle-battle-event-001-01",
             "title": "#애니메이트 응원단 1화"
         },
@@ -1220,6 +1240,14 @@
         {
             "id": "story-main-01-04-25",
             "title": "4장 25화"
+        },
+        {
+            "id": "story-other-01_hski-01",
+            "title": "새벽 4시야!"
+        },
+        {
+            "id": "story-other-01_hski-02",
+            "title": "같이 달리러 가자!"
         }
     ]
 }
