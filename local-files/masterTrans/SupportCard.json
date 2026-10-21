@@ -1133,6 +1133,22 @@
             "name": "스파르타&스파이스"
         },
         {
+            "id": "s_card-2-0057",
+            "upgradeProduceCardProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "text": " / 확률 중"
+                }
+            ],
+            "name": "위풍당당·낮잠 타임"
+        },
+        {
             "id": "s_card-2-0058",
             "upgradeProduceCardProduceDescriptions": [
                 {
@@ -1530,7 +1546,7 @@
                     "text": " / 확률 중"
                 }
             ],
-            "name": "ふたりで衣装作り"
+            "name": "둘이서 의상 만들기"
         },
         {
             "id": "s_card-3-0000",
@@ -3338,7 +3354,23 @@
                     "text": " / 확률 대"
                 }
             ],
-            "name": "これがあのかぼちゃ……"
+            "name": "이게 그 호박……"
+        },
+        {
+            "id": "s_card-3-0113",
+            "upgradeProduceCardProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "text": " / 확률 대"
+                }
+            ],
+            "name": "데, 데이트 신청!?"
         }
     ]
 }

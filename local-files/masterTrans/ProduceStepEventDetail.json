@@ -113690,6 +113690,18 @@
             "produceDescriptions": []
         },
         {
+            "id": "event-detail-p_story-i_card-jsna-3-021-01",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-p_story-i_card-jsna-3-021-02",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-p_story-i_card-jsna-3-021-03",
+            "produceDescriptions": []
+        },
+        {
             "id": "event-detail-p_story-i_card-kcna-3-001-01",
             "produceDescriptions": []
         },
@@ -117730,6 +117742,56 @@
             ]
         },
         {
+            "id": "event-detail-s_card-2-0057-01",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceItem",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "pitem_01-2-095-0",
+                    "text": "수고했어요 커피"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "을 획득"
+                }
+            ]
+        },
+        {
+            "id": "event-detail-s_card-2-0057-02",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "비주얼 상승 +"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_DiffText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "15"
+                }
+            ]
+        },
+        {
             "id": "event-detail-s_card-2-0058-01",
             "produceDescriptions": [
                 {
@@ -118940,7 +119002,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "pitem_02-2-136-0",
-                    "text": "お手製ぴったり衣装"
+                    "text": "손수 만든 맞춤 의상"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -127430,7 +127492,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "pitem_02-3-354-0",
-                    "text": "花海ファームランタン"
+                    "text": "하나미 팜 랜턴"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -127471,6 +127533,81 @@
         },
         {
             "id": "event-detail-s_card-3-0112-03",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "무작위 스킬 카드를 "
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_ProduceCardUpgrade",
+                    "text": "강화"
+                }
+            ]
+        },
+        {
+            "id": "event-detail-s_card-3-0113-01",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceItem",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "pitem_01-3-355-0",
+                    "text": "초대 티켓"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "을 획득"
+                }
+            ]
+        },
+        {
+            "id": "event-detail-s_card-3-0113-02",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "보컬 상승 +"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_DiffText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "20"
+                }
+            ]
+        },
+        {
+            "id": "event-detail-s_card-3-0113-03",
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
