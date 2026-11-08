@@ -58,6 +58,14 @@
             "description": "아이돌 {1}명으로 평가 {0} 이상 획득"
         },
         {
+            "id": "high_score_event.event_info.caution_exam_effect",
+            "description": "※일부 플랜의 아이돌로 플레이하면 등장하는 스킬 카드, P아이템, P드링크는 일반 프로듀스와 동일합니다\n※프로듀스 「Hatsuboshi IDOL FESTIVAL」의 「선발시험」에서는 이벤트 P아이템 및 P아이템이 등장하지 않습니다"
+        },
+        {
+            "id": "high_score_event.event_info.caution_plan",
+            "description": "※일부 플랜의 아이돌로 플레이하면 등장하는 스킬 카드, P아이템, P드링크는 일반 프로듀스와 동일합니다\n※프로듀스 「Hatsuboshi IDOL FESTIVAL」의 「선발시험」에서는 이벤트 P아이템 및 P아이템이 등장하지 않습니다"
+        },
+        {
             "id": "high_score_event.top.adv.title_label",
             "description": "아이돌 강화의 달\\n~별들의 반짝임~"
         },
@@ -104,6 +112,10 @@
         {
             "id": "idol_dearness.top.mission_unlock_description",
             "description": "{0}으로 해제"
+        },
+        {
+            "id": "login_bonus.selectable.cancel_sheet.description",
+            "description": "'나중에 선택'을 선택하면 【홈＞선물＞선택형 로그인 보너스】에서 받을 수 있습니다.\\n\\n지금은 선택하지 않고 홈으로 이동하시겠습니까?\n\\n<color=#u:Strong>※수령 기한: {0}까지\\n※수령 기한이 지난 후 로그인 보너스 진행 기간 중 다시 로그인하면 『SSR P아이돌 1명 확정! 가챠 티켓』이 자동으로 「선물」에 지급됩니다</color>"
         },
         {
             "id": "memory.inherit.select_produce_card.before_select.message",
