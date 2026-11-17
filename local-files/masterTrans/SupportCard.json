@@ -221,6 +221,22 @@
             "name": "근엄성실"
         },
         {
+            "id": "s_card-1-0013",
+            "upgradeProduceCardProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "text": " / 확률 소"
+                }
+            ],
+            "name": "お仕え前の準備運動"
+        },
+        {
             "id": "s_card-2-0000",
             "upgradeProduceCardProduceDescriptions": [
                 {
@@ -1114,7 +1130,7 @@
                     "text": " / 확률 중"
                 }
             ],
-            "name": "잠든 두 사람"
+            "name": "휴일의 두 사람"
         },
         {
             "id": "s_card-2-0056",
@@ -1547,6 +1563,22 @@
                 }
             ],
             "name": "둘이서 의상 만들기"
+        },
+        {
+            "id": "s_card-2-0084",
+            "upgradeProduceCardProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "text": " / 확률 중"
+                }
+            ],
+            "name": "どたばた、おそうじ"
         },
         {
             "id": "s_card-3-0000",
@@ -3258,7 +3290,7 @@
                     "text": " / 확률 대"
                 }
             ],
-            "name": "음식 리포트, 잘할지도!"
+            "name": "음식 리뷰, 잘할지도!"
         },
         {
             "id": "s_card-3-0107",
@@ -3386,7 +3418,23 @@
                     "text": " / 확률 대"
                 }
             ],
-            "name": "다들 읽어 봐!"
+            "name": "너희들도 읽어 봐!"
+        },
+        {
+            "id": "s_card-3-0115",
+            "upgradeProduceCardProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "text": " / 확률 대"
+                }
+            ],
+            "name": "お嬢様、失礼いたします"
         },
         {
             "id": "s_card-3-0122",
